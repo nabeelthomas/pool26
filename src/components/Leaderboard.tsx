@@ -50,8 +50,9 @@ export function Leaderboard({
     <div
       className="pool-crt"
       style={{
+        // Final design spec: 500 screen + 22 bezel × 2 = 544 wide.
         width: '100%',
-        maxWidth: 620,
+        maxWidth: 544,
         filter: 'drop-shadow(0 24px 32px rgba(0,0,0,0.7))',
       }}
     >
@@ -68,6 +69,7 @@ export function Leaderboard({
           padding: 22,
           paddingBottom: 46,
           boxSizing: 'border-box',
+          minHeight: 380 + 22 + 46, // SCREEN_H + BEZEL + BEZEL_BOT
         }}
       >
         {/* Speaker grille dots */}

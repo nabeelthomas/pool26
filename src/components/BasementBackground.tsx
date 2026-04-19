@@ -1,12 +1,44 @@
-// Full-viewport basement backdrop — wood wall, dado rail, dark floor, and
-// a Persian-style rug. All procedural SVG (zero binary assets). The
-// WallClutter overlay sits on top and is fixed-ratio so it parallaxes
-// gently on wide screens.
+// Full-viewport basement backdrop.
+//
+// Two modes:
+//   1. PHOTO: if /assets/basement-bg.{png,jpg,webp} exists in public/assets/,
+//      it's used as the dominant background (this is what the final design
+//      handoff calls for).
+//   2. PROCEDURAL FALLBACK: drawn-in-CSS wood wall + dado rail + rug +
+//      WallClutter overlay. Identical to the prototype's earlier
+//      basement.jsx so the site looks finished even without the photo.
+//
+// The vignette + edge shadow layers sit on top of either mode so chrome
+// (TV, roster panel) reads cleanly against the background.
 
+import { useEffect, useState } from 'react';
 import { WOOD_GRAIN_URL, RUG_URL } from '../lib/textures';
 import { WallClutter } from './WallClutter';
 
+const PHOTO_PATH = `${import.meta.env.BASE_URL}assets/basement-bg.png`.replace(
+  /\/+/g,
+  '/',
+);
+
+/** Probe whether the optional photo exists. Returns null until resolved. */
+function usePhotoAvailable(): boolean | null {
+  const [ok, setOk] = useState<boolean | null>(null);
+  useEffect(() => {
+    let cancelled = false;
+    const img = new Image();
+    img.onload = () => !cancelled && setOk(true);
+    img.onerror = () => !cancelled && setOk(false);
+    img.src = PHOTO_PATH;
+    return () => {
+      cancelled = true;
+    };
+  }, []);
+  return ok;
+}
+
 export function BasementBackground() {
+  const photoOk = usePhotoAvailable();
+
   return (
     <div
       aria-hidden
@@ -18,6 +50,66 @@ export function BasementBackground() {
         background: '#2a1608',
       }}
     >
+      {photoOk ? (
+        <PhotoLayer />
+      ) : photoOk === false ? (
+        <ProceduralLayer />
+      ) : null /* still probing — keep it dark */}
+
+      {/* Edge shadows + vignette — sit on top of either mode */}
+      <div
+        style={{
+          position: 'absolute',
+          inset: 0,
+          pointerEvents: 'none',
+          background:
+            'radial-gradient(ellipse at center 35%, rgba(0,0,0,0.05) 0%, rgba(0,0,0,0.55) 100%)',
+        }}
+      />
+      <div
+        style={{
+          position: 'absolute',
+          left: 0,
+          right: 0,
+          top: 0,
+          height: 100,
+          pointerEvents: 'none',
+          background: 'linear-gradient(to bottom, rgba(0,0,0,0.55), transparent)',
+        }}
+      />
+      <div
+        style={{
+          position: 'absolute',
+          left: 0,
+          right: 0,
+          bottom: 0,
+          height: 80,
+          pointerEvents: 'none',
+          background: 'linear-gradient(to top, rgba(0,0,0,0.65), transparent)',
+        }}
+      />
+    </div>
+  );
+}
+
+function PhotoLayer() {
+  return (
+    <div
+      style={{
+        position: 'absolute',
+        inset: 0,
+        backgroundImage: `url("${PHOTO_PATH}")`,
+        backgroundSize: 'cover',
+        backgroundPosition: 'center',
+        backgroundColor: '#2a1608',
+      }}
+    />
+  );
+}
+
+function ProceduralLayer() {
+  return (
+    <>
       {/* Wood wall — top 62% */}
       <div
         style={{
@@ -29,17 +121,6 @@ export function BasementBackground() {
           backgroundImage: WOOD_GRAIN_URL,
           backgroundColor: '#5a3818',
           backgroundSize: '600px 500px',
-        }}
-      />
-      {/* Ceiling shadow */}
-      <div
-        style={{
-          position: 'absolute',
-          top: 0,
-          left: 0,
-          right: 0,
-          height: 80,
-          background: 'linear-gradient(to bottom, rgba(0,0,0,0.55), transparent)',
         }}
       />
       {/* Dado rail */}
@@ -57,7 +138,7 @@ export function BasementBackground() {
           boxShadow: '0 2px 4px rgba(0,0,0,0.6)',
         }}
       />
-      {/* Floor (concrete peeking around the rug) */}
+      {/* Floor */}
       <div
         style={{
           position: 'absolute',
@@ -69,7 +150,7 @@ export function BasementBackground() {
             'radial-gradient(ellipse at center 30%, #2a1a0c 0%, #1a0e05 80%)',
         }}
       />
-      {/* Rug — perspective-skewed to look like it lies on the floor */}
+      {/* Rug */}
       <div
         style={{
           position: 'absolute',
@@ -108,7 +189,7 @@ export function BasementBackground() {
           borderTop: '2px solid #1a0a03',
         }}
       />
-      {/* Wall clutter — faint, set behind the main content with a readability mask */}
+      {/* Wall clutter — faint, behind the main content */}
       <div
         style={{
           position: 'absolute',
@@ -122,6 +203,6 @@ export function BasementBackground() {
       >
         <WallClutter />
       </div>
-    </div>
+    </>
   );
 }

@@ -1,15 +1,11 @@
 // Top-level shell for Pool '26.
 //
-// Responsibilities:
-//   1. Load the three static JSON files once on mount (rosters/stats/events/jokes)
-//   2. Hold selection + sort state (selection persists to localStorage)
-//   3. Compute standings and sort
-//   4. Render: BasementBackground, header (neon), ticker, and the
-//      responsive two-pane layout (Leaderboard left, RosterPanel right).
-//
-// Responsive breakpoint is a simple 900px JS check — we only need one
-// switch and CSS media queries don't compose well with the inline styles
-// we use everywhere else.
+// Layout matches the final design handoff (app.jsx):
+//   Desktop: thin header band with small neon left + STANLEY CUP pill +
+//            tiny LIVE/NHL.COM neon right. Ticker. Big TV + roster panel
+//            (roster sits at opacity 0.7 so the basement reads through).
+//   Mobile:  status bar + small centered neon, ticker, then either the
+//            leaderboard or the roster (roster wins when one is selected).
 
 import { useEffect, useMemo, useState } from 'react';
 import type { PoolData } from '../lib/dataFetch';
@@ -21,7 +17,6 @@ import { Leaderboard } from './Leaderboard';
 import { NeonSign } from './NeonSign';
 import { RosterPanel } from './RosterPanel';
 import { ScoringTicker } from './ScoringTicker';
-import { StarDivider } from './StarDivider';
 
 const SELECTION_KEY = 'pool26.selectedManagerId';
 const MOBILE_BREAKPOINT = 900;
@@ -64,7 +59,6 @@ export function App() {
     };
   }, []);
 
-  // Persist manager selection so reopening the page lands on your guy.
   useEffect(() => {
     if (typeof window === 'undefined') return;
     if (selectedId) {
@@ -85,7 +79,6 @@ export function App() {
       const match = standings.find((s) => s.id === selectedId);
       if (match) return match;
     }
-    // Fall back to the leader so the roster panel isn't empty on first load.
     return standings[0];
   }, [standings, selectedId]);
 
@@ -111,9 +104,7 @@ export function App() {
           >
             Pool '26 · Signal Lost
           </h1>
-          <p style={{ marginBottom: 8 }}>
-            Couldn't load the pool data.
-          </p>
+          <p style={{ marginBottom: 8 }}>Couldn't load the pool data.</p>
           <code
             style={{
               display: 'block',
@@ -167,48 +158,56 @@ export function App() {
           minHeight: '100vh',
           display: 'flex',
           flexDirection: 'column',
-          padding: isMobile ? '16px 12px 40px' : '28px 28px 64px',
-          gap: isMobile ? 16 : 20,
-          maxWidth: 1400,
+          maxWidth: 1280,
           margin: '0 auto',
           boxSizing: 'border-box',
         }}
       >
-        {/* Header — neon sign + round label */}
+        {/* Thin header band — matches the final design */}
         <header
           style={{
+            padding: isMobile ? '10px 12px 8px' : '14px 28px 10px',
+            borderBottom: '3px solid #1a0e05',
+            background:
+              'linear-gradient(to bottom, rgba(0,0,0,0.45), rgba(0,0,0,0.15))',
             display: 'flex',
-            flexDirection: isMobile ? 'column' : 'row',
-            alignItems: isMobile ? 'center' : 'flex-end',
-            justifyContent: 'space-between',
-            gap: 12,
-            textAlign: isMobile ? 'center' : 'left',
+            alignItems: 'center',
+            gap: isMobile ? 8 : 18,
+            flexWrap: 'wrap',
           }}
         >
-          <div>
-            <NeonSign
-              text="Pool '26"
-              sub="NHL PLAYOFF LEADERBOARD"
-              size={isMobile ? 'md' : 'lg'}
-              color="var(--rp-red-neon)"
-            />
-          </div>
-          <div
-            className="rp-mono"
-            style={{
-              color: 'var(--rp-paper)',
-              fontSize: 13,
-              letterSpacing: '0.2em',
-              textTransform: 'uppercase',
-              textShadow: '1px 1px 0 rgba(0,0,0,0.7)',
-              opacity: 0.85,
-            }}
-          >
-            ◆ {data.rosters.season} · {roundLabel} ◆
-          </div>
+          <NeonSign
+            text="Pool '26"
+            sub={isMobile ? `RD · ${roundLabel.toUpperCase()}` : 'PLAYOFF PICKS · EST. 1215'}
+            size={isMobile ? 'sm' : 'md'}
+            color="var(--rp-red-neon)"
+          />
+          <div style={{ flex: 1 }} />
+          {!isMobile && (
+            <div style={{ display: 'flex', gap: 10, alignItems: 'center' }}>
+              <div
+                className="rp-mono"
+                style={{
+                  fontSize: 9,
+                  color: 'var(--rp-lime)',
+                  letterSpacing: '0.15em',
+                  padding: '4px 8px',
+                  border: '1px dashed var(--rp-lime)',
+                  background: 'rgba(0,0,0,0.5)',
+                  textTransform: 'uppercase',
+                }}
+              >
+                ◆ {data.rosters.season} · {roundLabel} ◆
+              </div>
+              <NeonSign
+                text="LIVE"
+                sub="NHL.COM"
+                color="var(--rp-lime)"
+                size="sm"
+              />
+            </div>
+          )}
         </header>
-
-        <StarDivider />
 
         {/* Ticker */}
         <ScoringTicker events={data.events.events} jokes={data.jokes} />
@@ -217,15 +216,18 @@ export function App() {
         <main
           style={{
             display: 'grid',
-            gridTemplateColumns: isMobile ? '1fr' : 'minmax(0, 1.1fr) minmax(0, 0.9fr)',
-            gap: isMobile ? 20 : 28,
-            alignItems: 'start',
+            gridTemplateColumns: isMobile
+              ? '1fr'
+              : 'minmax(0, 1.05fr) minmax(0, 0.95fr)',
+            gap: isMobile ? 16 : 24,
+            alignItems: 'flex-start',
+            padding: isMobile ? '12px 12px 80px' : '24px 32px 80px',
           }}
         >
           <div
             style={{
               display: 'flex',
-              justifyContent: 'center',
+              justifyContent: isMobile ? 'center' : 'flex-end',
               minWidth: 0,
             }}
           >
@@ -239,7 +241,13 @@ export function App() {
               roundLabel={roundLabel}
             />
           </div>
-          <div style={{ minWidth: 0 }}>
+          <div
+            style={{
+              minWidth: 0,
+              // The final design lets the basement read through the roster.
+              opacity: 0.92,
+            }}
+          >
             <RosterPanel
               manager={selectedManager}
               teams={data.rosters.teams}
@@ -248,7 +256,6 @@ export function App() {
           </div>
         </main>
 
-        {/* Footer — tiny credits strip */}
         <footer
           className="rp-mono"
           style={{
@@ -258,11 +265,11 @@ export function App() {
             textTransform: 'uppercase',
             color: 'var(--rp-paper)',
             opacity: 0.6,
-            marginTop: 12,
+            padding: '0 12px 16px',
           }}
         >
           ◆ {data.rosters.managers.length} managers · 15 skaters each · G=1
-          A=1 · data refreshes ~5× daily ◆
+          A=1 · auto-refresh ◆
         </footer>
       </div>
     </>
