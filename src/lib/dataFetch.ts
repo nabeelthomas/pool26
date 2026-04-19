@@ -26,13 +26,17 @@ async function fetchJSON<T>(path: string): Promise<T> {
   return (await res.json()) as T;
 }
 
+// Vite injects the configured base ("/pool26/" on Pages, "/" in dev) here
+// so the same code works locally and on the deployed subpath.
+const DATA_BASE = `${import.meta.env.BASE_URL}data`.replace(/\/+/g, '/');
+
 /** Load all four data files in parallel. Individual failures reject the whole call. */
 export async function loadPoolData(): Promise<PoolData> {
   const [rosters, stats, events, jokesFile] = await Promise.all([
-    fetchJSON<RostersFile>('/data/rosters.json'),
-    fetchJSON<StatsFile>('/data/stats.json'),
-    fetchJSON<EventsFile>('/data/events.json'),
-    fetchJSON<{ jokes: string[] }>('/data/jokes.json'),
+    fetchJSON<RostersFile>(`${DATA_BASE}/rosters.json`),
+    fetchJSON<StatsFile>(`${DATA_BASE}/stats.json`),
+    fetchJSON<EventsFile>(`${DATA_BASE}/events.json`),
+    fetchJSON<{ jokes: string[] }>(`${DATA_BASE}/jokes.json`),
   ]);
   return { rosters, stats, events, jokes: jokesFile.jokes };
 }
