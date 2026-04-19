@@ -5,6 +5,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="theme-color" content="#2b1810" />
     <meta name="description" content="Pool '26 — a tiny NHL playoff pool leaderboard for a basement full of friends." />
+
+    <!-- Defense-in-depth headers (meta-equivalent; GitHub Pages can't set HTTP headers).
+         CSP locks every kind of fetch to known origins so even a future XSS bug has
+         nowhere to phone home. -->
+    <meta http-equiv="Content-Security-Policy" content="
+      default-src 'self';
+      script-src 'self';
+      style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;
+      font-src 'self' https://fonts.gstatic.com;
+      img-src 'self' data:;
+      connect-src 'self';
+      base-uri 'self';
+      form-action 'none';
+      frame-ancestors 'none';
+    " />
+    <meta name="referrer" content="strict-origin-when-cross-origin" />
+
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
