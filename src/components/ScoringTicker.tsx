@@ -117,7 +117,7 @@ export function ScoringTicker({ events, jokes }: ScoringTickerProps) {
             gap: 32,
             paddingLeft: 130,
             whiteSpace: 'nowrap',
-            animation: 'rp-ticker 45s linear infinite',
+            animation: 'rp-ticker 68s linear infinite',
             width: 'max-content',
           }}
         >
