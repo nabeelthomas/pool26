@@ -1,0 +1,54 @@
+name: update-stats
+
+# Five runs a day, Eastern Time:
+#   09:00 ET → 13:00 UTC (EDT, Apr–Nov)  /  14:00 UTC (EST, Nov–Mar)
+#   19:00 ET → 23:00 UTC                  /  00:00 UTC
+#   21:00 ET → 01:00 UTC (next day)       /  02:00 UTC
+#   22:00 ET → 02:00 UTC (next day)       /  03:00 UTC
+#   23:59 ET → 03:59 UTC (next day)       /  04:59 UTC
+#
+# GitHub crons run in UTC. The playoffs (Apr–Jun) are all Eastern Daylight
+# Time, so we hard-code the EDT offsets. If we ever need winter accuracy
+# we can add the EST duplicates or bake them into the script itself.
+on:
+  schedule:
+    - cron: '0 13 * * *'   # 09:00 ET
+    - cron: '0 23 * * *'   # 19:00 ET
+    - cron: '0 1 * * *'    # 21:00 ET
+    - cron: '0 2 * * *'    # 22:00 ET
+    - cron: '59 3 * * *'   # 23:59 ET
+  workflow_dispatch: {}    # allow manual runs from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-stats
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch latest playoff stats
+        run: node scripts/update-stats.mjs
+
+      - name: Commit if stats.json changed
+        run: |
+          git config user.name "pool26-bot"
+          git config user.email "pool26-bot@users.noreply.github.com"
+          if git diff --quiet -- public/data/stats.json; then
+            echo "No changes to commit."
+          else
+            git add public/data/stats.json
+            git commit -m "chore(stats): refresh $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            git push
+          fi

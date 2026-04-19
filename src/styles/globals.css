@@ -1,0 +1,147 @@
+/*
+ * Pool '26 — Global styles & design tokens.
+ * Ported from chrome.jsx / textures.jsx in the handoff prototype.
+ *
+ * Layering:
+ *   :root        – design tokens (colors, radii, etc.)
+ *   html, body   – full-bleed viewport, dark fallback under basement
+ *   .rp-*        – typography / animation helper classes
+ */
+
+:root {
+  /* Core palette */
+  --rp-bg: #3d2817;
+  --rp-wood: #2b1810;
+  --rp-wood-dark: #1a0e05;
+  --rp-paper: #ebddb8;
+  --rp-paper-shadow: #d5c79c;
+  --rp-muted: #a89871;
+  --rp-muted-dark: #5a4a2a;
+  --rp-red-neon: #ff2e3d;
+  --rp-lime: #c6ff3d;
+  --rp-cyan: #2dd4f7;
+  --rp-orange: #c45a2b;
+  --rp-amber: #ff9f1c;
+  --rp-joke: #f5a623;
+  --rp-ticker-bg: #1a0e05;
+  --rp-crt-bg: #0e1a0e;
+  --rp-olive: #5a6b3a;
+
+  color-scheme: dark;
+}
+
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  min-height: 100%;
+}
+
+html {
+  background: var(--rp-wood);
+}
+
+body {
+  font-family: 'DM Mono', 'Courier New', monospace;
+  color: var(--rp-paper);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  overflow-x: hidden;
+}
+
+/* ─── Typography helpers ──────────────────────────────────────────── */
+.rp-display  { font-family: 'Alfa Slab One', Georgia, serif; letter-spacing: 0.01em; }
+.rp-neon-sign{ font-family: 'Bungee Shade', 'Monoton', serif; letter-spacing: 0.02em; }
+.rp-broadcast{ font-family: 'Bungee', 'Alfa Slab One', Impact, sans-serif; letter-spacing: 0.05em; }
+.rp-mono     { font-family: 'DM Mono', 'Courier New', monospace; }
+.rp-led      { font-family: 'VT323', 'Courier New', monospace; letter-spacing: 0.04em; }
+.rp-stencil  { font-family: 'Big Shoulders Stencil Display', Impact, sans-serif; }
+
+/* ─── Animations ──────────────────────────────────────────────────── */
+@keyframes rp-flicker {
+  0%, 100% { opacity: 1; }
+  48%      { opacity: 1; }
+  49%      { opacity: 0.82; }
+  50%      { opacity: 1; }
+  51%      { opacity: 0.93; }
+  52%      { opacity: 1; }
+  73%      { opacity: 0.78; }
+  74%      { opacity: 1; }
+}
+@keyframes rp-neon-buzz {
+  0%, 100% { filter: drop-shadow(0 0 6px currentColor) drop-shadow(0 0 14px currentColor); }
+  50%      { filter: drop-shadow(0 0 4px currentColor) drop-shadow(0 0 10px currentColor); }
+  53%      { filter: drop-shadow(0 0 2px currentColor) drop-shadow(0 0 6px currentColor); }
+  56%      { filter: drop-shadow(0 0 6px currentColor) drop-shadow(0 0 14px currentColor); }
+}
+@keyframes rp-vhs-jitter {
+  0%, 100% { transform: translate(0, 0); }
+  20%      { transform: translate(-0.5px, 0.3px); }
+  40%      { transform: translate(0.5px, -0.2px); }
+  60%      { transform: translate(-0.3px, 0.5px); }
+  80%      { transform: translate(0.3px, -0.4px); }
+}
+@keyframes rp-ticker {
+  from { transform: translateX(0); }
+  to   { transform: translateX(-50%); }
+}
+@keyframes rp-scan-roll {
+  0%   { background-position: 0 0; }
+  100% { background-position: 0 6px; }
+}
+
+.rp-neon    { animation: rp-neon-buzz 3.5s steps(8, end) infinite; }
+.rp-flicker { animation: rp-flicker 6s steps(12, end) infinite; }
+.rp-vhs     { animation: rp-vhs-jitter 0.15s steps(2, end) infinite; }
+
+/* Respect users who ask for reduced motion — the flickers can be dizzying. */
+@media (prefers-reduced-motion: reduce) {
+  .rp-neon, .rp-flicker, .rp-vhs { animation: none !important; }
+  .rp-ticker-track { animation-duration: 120s !important; }
+}
+
+/* ─── Row hover (stepped, not smooth — intentional lo-fi feel) ────── */
+.rp-row { cursor: pointer; transition: filter 0s; }
+.rp-row:hover { filter: brightness(1.12); transition: filter 0.04s steps(2, end); }
+
+/* ─── Themed scrollbars ───────────────────────────────────────────── */
+.rp-scroll::-webkit-scrollbar        { width: 12px; height: 12px; }
+.rp-scroll::-webkit-scrollbar-track  { background: var(--rp-wood); border: 1px solid var(--rp-wood-dark); }
+.rp-scroll::-webkit-scrollbar-thumb  { background: var(--rp-orange); border: 2px solid var(--rp-wood); }
+
+/* ─── Diamond glyph (inline SVG-free bullet) ──────────────────────── */
+.rp-diamond {
+  display: inline-block;
+  width: 8px; height: 8px;
+  background: currentColor;
+  transform: rotate(45deg);
+  vertical-align: middle;
+}
+
+/* ─── Button base (shared across a few places) ────────────────────── */
+.rp-btn {
+  font-family: 'Alfa Slab One', serif;
+  border: 3px solid var(--rp-wood);
+  background: var(--rp-orange);
+  color: var(--rp-paper);
+  padding: 8px 14px;
+  cursor: pointer;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  box-shadow: 3px 3px 0 var(--rp-wood);
+  transition: all 0.05s steps(2, end);
+}
+.rp-btn:hover  { transform: translate(-1px, -1px); box-shadow: 4px 4px 0 var(--rp-wood); }
+.rp-btn:active { transform: translate(2px, 2px);   box-shadow: 1px 1px 0 var(--rp-wood); }
+
+/* Focus outlines that don't clash with the retro aesthetic */
+button:focus-visible,
+[role="button"]:focus-visible {
+  outline: 2px dashed var(--rp-lime);
+  outline-offset: 2px;
+}
+
+/* Selection color — matches leaderboard highlight */
+::selection {
+  background: var(--rp-lime);
+  color: var(--rp-wood-dark);
+}
