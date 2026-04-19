@@ -14,6 +14,9 @@ interface ScheduleGame {
   id: number;
   away: string; // 3-letter team code
   home: string;
+  awayScore: number | null;
+  homeScore: number | null;
+  period: string | null; // "1st" | "2nd" | "3rd" | "OT" | "SO" | null
   startUTC: string; // ISO
   status?: string; // "live" | "final" | "scheduled"
 }
@@ -94,7 +97,7 @@ export function TonightSlate({ standings }: TonightSlateProps) {
           textShadow: '0 0 4px var(--rp-lime)',
         }}
       >
-        ◆ Tonight's slate ◆
+        ◆ Today's slate ◆
       </div>
 
       <div
@@ -151,21 +154,39 @@ function GameChip({ game }: { game: ScheduleGame }) {
   });
   const isLive = game.status === 'live';
   const isFinal = game.status === 'final';
+  const hasScore =
+    (isLive || isFinal) &&
+    game.awayScore !== null &&
+    game.homeScore !== null;
+
+  // Status label: "● LIVE · 2nd" / "FINAL · OT" / "FINAL" / "7:30 ET"
+  let statusLabel: string;
+  if (isLive) {
+    statusLabel = game.period ? `● LIVE · ${game.period}` : '● LIVE';
+  } else if (isFinal) {
+    statusLabel = game.period ? `FINAL · ${game.period}` : 'FINAL';
+  } else {
+    statusLabel = `${time} ET`;
+  }
+
   return (
     <span
       style={{
         display: 'inline-flex',
         alignItems: 'center',
         gap: 6,
-        background: 'rgba(255,255,255,0.04)',
-        border: '1px solid rgba(255,255,255,0.15)',
+        background: isLive ? 'rgba(255,60,60,0.07)' : 'rgba(255,255,255,0.04)',
+        border: `1px solid ${isLive ? 'rgba(255,60,60,0.35)' : 'rgba(255,255,255,0.15)'}`,
         padding: '4px 8px',
         fontSize: 12,
         letterSpacing: '0.05em',
       }}
     >
-      <b style={{ color: 'var(--rp-paper)' }}>
-        {game.away} @ {game.home}
+      {/* Matchup + optional score */}
+      <b style={{ color: 'var(--rp-paper)', fontFamily: 'VT323, monospace', fontSize: 16 }}>
+        {hasScore
+          ? `${game.away} ${game.awayScore} – ${game.homeScore} ${game.home}`
+          : `${game.away} @ ${game.home}`}
       </b>
       <span
         style={{
@@ -176,9 +197,10 @@ function GameChip({ game }: { game: ScheduleGame }) {
               ? 'var(--rp-muted)'
               : 'var(--rp-cyan)',
           textShadow: isLive ? '0 0 4px var(--rp-red-neon)' : 'none',
+          letterSpacing: '0.1em',
         }}
       >
-        {isLive ? '● LIVE' : isFinal ? 'FINAL' : `${time} ET`}
+        {statusLabel}
       </span>
     </span>
   );

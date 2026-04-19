@@ -200,10 +200,30 @@ async function fetchTodaySchedule() {
           : status === 'FINAL' || status === 'OFF'
             ? 'final'
             : 'scheduled';
+      // Period descriptor for live games: "1st" / "2nd" / "3rd" / "OT" / "SO"
+      const pd = g.periodDescriptor;
+      const periodNum = pd?.number ?? 0;
+      const periodType = pd?.periodType ?? 'REG'; // REG|OT|SO
+      let period = null;
+      if (normalized === 'live') {
+        if (periodType === 'OT') period = 'OT';
+        else if (periodType === 'SO') period = 'SO';
+        else if (periodNum === 1) period = '1st';
+        else if (periodNum === 2) period = '2nd';
+        else if (periodNum === 3) period = '3rd';
+        else period = `P${periodNum}`;
+      } else if (normalized === 'final') {
+        // Tag OT/SO final
+        if (periodType === 'OT') period = 'OT';
+        else if (periodType === 'SO') period = 'SO';
+      }
       return {
         id: g.id,
         away: teamCode(g.awayTeam),
         home: teamCode(g.homeTeam),
+        awayScore: g.awayTeam?.score ?? null,
+        homeScore: g.homeTeam?.score ?? null,
+        period,
         startUTC: g.startTimeUTC,
         status: normalized,
       };
