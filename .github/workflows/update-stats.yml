@@ -1,23 +1,25 @@
 name: update-stats
 
-# Five runs a day, Eastern Time:
-#   09:00 ET → 13:00 UTC (EDT, Apr–Nov)  /  14:00 UTC (EST, Nov–Mar)
-#   19:00 ET → 23:00 UTC                  /  00:00 UTC
-#   21:00 ET → 01:00 UTC (next day)       /  02:00 UTC
-#   22:00 ET → 02:00 UTC (next day)       /  03:00 UTC
-#   23:59 ET → 03:59 UTC (next day)       /  04:59 UTC
+# Schedule (Eastern Daylight Time, which covers all of the playoffs):
+#   09:00 ET                       (one daily morning catch-up)
+#   every 15 minutes 15:00–03:00 ET  (active hockey window)
 #
-# GitHub crons run in UTC. The playoffs (Apr–Jun) are all Eastern Daylight
-# Time, so we hard-code the EDT offsets. If we ever need winter accuracy
-# we can add the EST duplicates or bake them into the script itself.
+# Translated to UTC (EDT = UTC-4):
+#   13:00 UTC                      → 09:00 ET
+#   19:00–23:45 UTC every 15 min   → 15:00–19:45 ET
+#   00:00–06:45 UTC every 15 min   → 20:00–02:45 ET
+#   07:00 UTC                      → 03:00 ET (final tick)
+#
+# GitHub Actions cron is best-effort — runs may be delayed by a few minutes
+# during high load on their side. That's fine for a leaderboard refresh.
+# Public repos get unlimited Actions minutes, so the volume is free.
 on:
   schedule:
-    - cron: '0 13 * * *'   # 09:00 ET
-    - cron: '0 23 * * *'   # 19:00 ET
-    - cron: '0 1 * * *'    # 21:00 ET
-    - cron: '0 2 * * *'    # 22:00 ET
-    - cron: '59 3 * * *'   # 23:59 ET
-  workflow_dispatch: {}    # allow manual runs from the Actions tab
+    - cron: '0 13 * * *'           # 09:00 ET — morning catch-up
+    - cron: '*/15 19-23 * * *'     # 15:00–19:45 ET (every 15 min)
+    - cron: '*/15 0-6 * * *'       # 20:00–02:45 ET (every 15 min)
+    - cron: '0 7 * * *'            # 03:00 ET — final tick
+  workflow_dispatch: {}            # allow manual runs from the Actions tab
 
 permissions:
   contents: write
