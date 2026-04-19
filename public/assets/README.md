@@ -1,8 +1,8 @@
 # Optional photo assets
 
-Drop a file here named `basement-bg.png` (or `.jpg`, but rename it to `.png`)
-and the site will auto-detect it on next load and use it as the dominant
-background — replacing the procedural wood-wall fallback.
+Drop a file here named `basement-bg.jpg` (also accepted: `.jpeg`, `.png`,
+`.webp`) and the site will auto-detect it on next load and use it as the
+dominant background — replacing the procedural wood-wall fallback.
 
 Recommended specs:
 - **Aspect:** landscape, ~16:10 or wider

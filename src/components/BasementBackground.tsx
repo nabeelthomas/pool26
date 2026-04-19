@@ -15,29 +15,42 @@ import { useEffect, useState } from 'react';
 import { WOOD_GRAIN_URL, RUG_URL } from '../lib/textures';
 import { WallClutter } from './WallClutter';
 
-const PHOTO_PATH = `${import.meta.env.BASE_URL}assets/basement-bg.png`.replace(
-  /\/+/g,
-  '/',
+// Try a few common extensions in order so .jpg / .jpeg / .png / .webp
+// all work without code changes. First one that loads wins.
+const CANDIDATES = ['jpg', 'jpeg', 'png', 'webp'].map((ext) =>
+  `${import.meta.env.BASE_URL}assets/basement-bg.${ext}`.replace(/\/+/g, '/'),
 );
 
-/** Probe whether the optional photo exists. Returns null until resolved. */
-function usePhotoAvailable(): boolean | null {
-  const [ok, setOk] = useState<boolean | null>(null);
+/** Probe candidate photos sequentially. Returns the resolved URL or null. */
+function usePhotoUrl(): { resolved: boolean; url: string | null } {
+  const [state, setState] = useState<{ resolved: boolean; url: string | null }>(
+    { resolved: false, url: null },
+  );
   useEffect(() => {
     let cancelled = false;
-    const img = new Image();
-    img.onload = () => !cancelled && setOk(true);
-    img.onerror = () => !cancelled && setOk(false);
-    img.src = PHOTO_PATH;
+    let idx = 0;
+    const tryNext = () => {
+      if (cancelled) return;
+      if (idx >= CANDIDATES.length) {
+        setState({ resolved: true, url: null });
+        return;
+      }
+      const url = CANDIDATES[idx++];
+      const img = new Image();
+      img.onload = () => !cancelled && setState({ resolved: true, url });
+      img.onerror = tryNext;
+      img.src = url;
+    };
+    tryNext();
     return () => {
       cancelled = true;
     };
   }, []);
-  return ok;
+  return state;
 }
 
 export function BasementBackground() {
-  const photoOk = usePhotoAvailable();
+  const { resolved, url } = usePhotoUrl();
 
   return (
     <div
@@ -50,9 +63,9 @@ export function BasementBackground() {
         background: '#2a1608',
       }}
     >
-      {photoOk ? (
-        <PhotoLayer />
-      ) : photoOk === false ? (
+      {url ? (
+        <PhotoLayer url={url} />
+      ) : resolved ? (
         <ProceduralLayer />
       ) : null /* still probing — keep it dark */}
 
@@ -92,13 +105,13 @@ export function BasementBackground() {
   );
 }
 
-function PhotoLayer() {
+function PhotoLayer({ url }: { url: string }) {
   return (
     <div
       style={{
         position: 'absolute',
         inset: 0,
-        backgroundImage: `url("${PHOTO_PATH}")`,
+        backgroundImage: `url("${url}")`,
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundColor: '#2a1608',
