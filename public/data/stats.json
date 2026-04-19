@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "2026-04-18T22:32:39.296Z",
+  "lastUpdated": "2026-04-19T06:53:41.501Z",
   "players": {
+    "Kirill Kaprizov": {
+      "gp": 1,
+      "g": 1,
+      "a": 2
+    },
     "Tim Stutzle": {
       "gp": 1,
       "g": 0,
@@ -10,6 +15,16 @@
       "gp": 1,
       "g": 0,
       "a": 0
+    },
+    "Brock Faber": {
+      "gp": 1,
+      "g": 0,
+      "a": 1
+    },
+    "Quinn Hughes": {
+      "gp": 1,
+      "g": 0,
+      "a": 1
     },
     "Sebastian Aho": {
       "gp": 1,
@@ -21,6 +36,11 @@
       "g": 0,
       "a": 2
     },
+    "Matt Duchene": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Seth Jarvis": {
       "gp": 1,
       "g": 0,
@@ -29,6 +49,16 @@
     "Logan Stankoven": {
       "gp": 1,
       "g": 1,
+      "a": 1
+    },
+    "Thomas Harley": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
+    "Miro Heiskanen": {
+      "gp": 1,
+      "g": 0,
       "a": 1
     },
     "Drake Batherson": {
@@ -41,14 +71,79 @@
       "g": 0,
       "a": 0
     },
+    "Sidney Crosby": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
+    "Joel Eriksson Ek": {
+      "gp": 1,
+      "g": 2,
+      "a": 1
+    },
+    "Mats Zuccarello": {
+      "gp": 1,
+      "g": 0,
+      "a": 3
+    },
+    "Erik Karlsson": {
+      "gp": 1,
+      "g": 0,
+      "a": 1
+    },
+    "Wyatt Johnston": {
+      "gp": 1,
+      "g": 0,
+      "a": 1
+    },
+    "Travis Konecny": {
+      "gp": 1,
+      "g": 0,
+      "a": 1
+    },
+    "Evgeni Malkin": {
+      "gp": 1,
+      "g": 1,
+      "a": 1
+    },
+    "Mikko Rantanen": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
+    "Jason Robertson": {
+      "gp": 1,
+      "g": 1,
+      "a": 0
+    },
+    "Bryan Rust": {
+      "gp": 1,
+      "g": 1,
+      "a": 0
+    },
+    "Vladimir Tarasenko": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Shayne Gostisbehere": {
       "gp": 1,
       "g": 0,
       "a": 0
     },
+    "Matt Boldy": {
+      "gp": 1,
+      "g": 2,
+      "a": 1
+    },
     "Nikolaj Ehlers": {
       "gp": 1,
       "g": 0,
+      "a": 0
+    },
+    "Porter Martone": {
+      "gp": 1,
+      "g": 1,
       "a": 0
     },
     "Andrei Svechnikov": {
