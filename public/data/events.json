@@ -2,6 +2,69 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Ivan Demidov",
+      "team": "MTL",
+      "time": "5:45 PM ET",
+      "pool": "Will"
+    },
+    {
+      "type": "GOAL",
+      "player": "Juraj Slafkovský",
+      "team": "MTL",
+      "time": "5:45 PM ET",
+      "pool": "Will, Will"
+    },
+    {
+      "type": "ASSIST",
+      "player": "Jake Guentzel",
+      "team": "MTL",
+      "time": "5:45 PM ET",
+      "pool": "Nabeel"
+    },
+    {
+      "type": "GOAL",
+      "player": "Brandon Hagel",
+      "team": "TBL",
+      "time": "5:45 PM ET",
+      "pool": "Cam"
+    },
+    {
+      "type": "ASSIST",
+      "player": "Nikita Kucherov",
+      "team": "MTL",
+      "time": "5:45 PM ET",
+      "pool": "Paddy"
+    },
+    {
+      "type": "GOAL",
+      "player": "Darren Raddysh",
+      "team": "TBL",
+      "time": "5:45 PM ET",
+      "pool": "Cam"
+    },
+    {
+      "type": "GOAL",
+      "player": "Artemi Panarin",
+      "team": "LAK",
+      "time": "3:00 PM ET",
+      "pool": "Will"
+    },
+    {
+      "type": "ASSIST",
+      "player": "Nathan MacKinnon",
+      "team": "LAK",
+      "time": "3:00 PM ET",
+      "pool": "Andy"
+    },
+    {
+      "type": "GOAL",
+      "player": "Artturi Lehkonen",
+      "team": "COL",
+      "time": "3:00 PM ET",
+      "pool": "Nabeel"
+    },
+    {
+      "type": "ASSIST",
       "player": "Evgeni Malkin",
       "team": "PHI",
       "time": "8:00 PM ET",

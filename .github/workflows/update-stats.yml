@@ -43,14 +43,14 @@ jobs:
       - name: Fetch latest playoff stats
         run: node scripts/update-stats.mjs
 
-      - name: Commit if stats.json changed
+      - name: Commit updated data files
         run: |
           git config user.name "pool26-bot"
           git config user.email "pool26-bot@users.noreply.github.com"
-          if git diff --quiet -- public/data/stats.json; then
+          git add public/data/stats.json public/data/events.json public/data/schedule.json
+          if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git add public/data/stats.json
             git commit -m "chore(stats): refresh $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
             git push
           fi

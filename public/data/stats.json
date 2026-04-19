@@ -1,10 +1,25 @@
 {
-  "lastUpdated": "2026-04-19T06:53:41.501Z",
+  "lastUpdated": "2026-04-19T23:46:52.907Z",
   "players": {
+    "Quinton Byfield": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Kirill Kaprizov": {
       "gp": 1,
       "g": 1,
       "a": 2
+    },
+    "Adrian Kempe": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
+    "Artemi Panarin": {
+      "gp": 1,
+      "g": 1,
+      "a": 0
     },
     "Tim Stutzle": {
       "gp": 1,
@@ -46,6 +61,16 @@
       "g": 0,
       "a": 0
     },
+    "Artturi Lehkonen": {
+      "gp": 1,
+      "g": 1,
+      "a": 0
+    },
+    "Brock Nelson": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Logan Stankoven": {
       "gp": 1,
       "g": 1,
@@ -60,6 +85,11 @@
       "gp": 1,
       "g": 0,
       "a": 1
+    },
+    "Cale Makar": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
     },
     "Drake Batherson": {
       "gp": 1,
@@ -80,6 +110,11 @@
       "gp": 1,
       "g": 2,
       "a": 1
+    },
+    "Martin Necas": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
     },
     "Mats Zuccarello": {
       "gp": 1,
@@ -127,6 +162,31 @@
       "a": 0
     },
     "Shayne Gostisbehere": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
+    "Nazem Kadri": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
+    "Gabriel Landeskog": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
+    "Nathan MacKinnon": {
+      "gp": 1,
+      "g": 0,
+      "a": 1
+    },
+    "Valeri Nichushkin": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
+    "Devon Toews": {
       "gp": 1,
       "g": 0,
       "a": 0
