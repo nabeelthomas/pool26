@@ -29,6 +29,12 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const REPO_ROOT = dirname(__dirname);
 const ROSTERS_PATH = join(REPO_ROOT, 'public', 'data', 'rosters.json');
 const STATS_PATH = join(REPO_ROOT, 'public', 'data', 'stats.json');
+const EVENTS_PATH = join(REPO_ROOT, 'public', 'data', 'events.json');
+const SCHEDULE_PATH = join(REPO_ROOT, 'public', 'data', 'schedule.json');
+
+// Keep at most this many ticker events on disk — the ticker recycles them
+// anyway and we don't want events.json to grow unbounded across a full run.
+const MAX_EVENTS = 60;
 
 // 2025-26 season id as NHL formats it.
 const SEASON_ID = '20252026';
@@ -150,6 +156,158 @@ function buildStatsMap(rosters, byNormalized) {
   return { stats: out, misses };
 }
 
+// ─── Today's schedule + per-game scoring events ────────────────────────
+//
+// Two extra writes alongside stats.json:
+//   1. schedule.json — list of today's NHL games with start time + status,
+//      consumed by the "Tonight's slate" panel.
+//   2. events.json — recent goals/assists from games involving any of our
+//      pool players, fed into the ticker.
+//
+// Both are best-effort. If the calls fail, we log and continue — stats.json
+// is still the primary product.
+
+const SCOREBOARD_URL = 'https://api-web.nhle.com/v1/score/now';
+const GAMECENTER_URL = (id) =>
+  `https://api-web.nhle.com/v1/gamecenter/${id}/landing`;
+
+/** Map team name shorthands the NHL uses to our 3-letter codes. */
+function teamCode(t) {
+  // The new NHL API uses tri-codes natively (EDM, MTL, etc.) but the field
+  // name varies by endpoint. Just look in the most common spots.
+  return (
+    t?.abbrev ?? t?.triCode ?? t?.teamAbbrev?.default ?? t?.id ?? null
+  );
+}
+
+function fmtClockET(iso) {
+  const d = new Date(iso);
+  return d.toLocaleTimeString('en-US', {
+    hour: 'numeric',
+    minute: '2-digit',
+    timeZone: 'America/New_York',
+  }) + ' ET';
+}
+
+async function fetchTodaySchedule() {
+  try {
+    const board = await fetchJSON(SCOREBOARD_URL);
+    const games = (board.games ?? []).map((g) => {
+      const status = g.gameState; // FUT|PRE|LIVE|FINAL|OFF
+      const normalized =
+        status === 'LIVE'
+          ? 'live'
+          : status === 'FINAL' || status === 'OFF'
+            ? 'final'
+            : 'scheduled';
+      return {
+        id: g.id,
+        away: teamCode(g.awayTeam),
+        home: teamCode(g.homeTeam),
+        startUTC: g.startTimeUTC,
+        status: normalized,
+      };
+    });
+    return games.filter((g) => g.away && g.home && g.startUTC);
+  } catch (err) {
+    console.warn('[update-stats] schedule fetch failed:', err.message);
+    return [];
+  }
+}
+
+/**
+ * Build a name → manager-display-names lookup so events know whose pool
+ * a goal landed in.
+ */
+function buildOwnership(rosters) {
+  const out = new Map();
+  for (const m of rosters.managers) {
+    for (const p of m.roster) {
+      const key = normalizeName(p.name);
+      const list = out.get(key) ?? [];
+      list.push(m.displayName);
+      out.set(key, list);
+      if (p.aliases) {
+        for (const a of p.aliases) {
+          const ak = normalizeName(a);
+          const al = out.get(ak) ?? [];
+          al.push(m.displayName);
+          out.set(ak, al);
+        }
+      }
+    }
+  }
+  return out;
+}
+
+/**
+ * Walk today's games, fetch each one's landing payload, and emit ticker
+ * events for any goal whose scorer or primary assister is in the pool.
+ */
+async function fetchTodayEvents(games, ownership) {
+  const events = [];
+  for (const game of games) {
+    if (game.status === 'scheduled') continue; // nothing to scrape yet
+    let landing;
+    try {
+      landing = await fetchJSON(GAMECENTER_URL(game.id));
+    } catch (err) {
+      console.warn(`[update-stats] gamecenter ${game.id} failed:`, err.message);
+      continue;
+    }
+    const periods = landing.summary?.scoring ?? [];
+    for (const period of periods) {
+      for (const goal of period.goals ?? []) {
+        const scorerName =
+          goal.firstName?.default && goal.lastName?.default
+            ? `${goal.firstName.default} ${goal.lastName.default}`
+            : goal.name?.default ?? '';
+        const scorerKey = normalizeName(scorerName);
+        const scorerPool = ownership.get(scorerKey);
+        if (scorerPool) {
+          events.push({
+            type: 'GOAL',
+            player: scorerName,
+            team: teamCode(goal) ?? game.away,
+            time: fmtClockET(goal.timeInPeriod ? game.startUTC : game.startUTC),
+            pool: scorerPool.join(', '),
+          });
+        }
+        // Primary assist (if any) is also worth a tick.
+        const a1 = goal.assists?.[0];
+        if (a1) {
+          const aName =
+            a1.firstName?.default && a1.lastName?.default
+              ? `${a1.firstName.default} ${a1.lastName.default}`
+              : a1.name?.default ?? '';
+          const aKey = normalizeName(aName);
+          const aPool = ownership.get(aKey);
+          if (aPool) {
+            events.push({
+              type: 'ASSIST',
+              player: aName,
+              team: teamCode(a1) ?? game.away,
+              time: fmtClockET(game.startUTC),
+              pool: aPool.join(', '),
+            });
+          }
+        }
+      }
+    }
+  }
+  // Most recent first, capped.
+  return events.slice(-MAX_EVENTS).reverse();
+}
+
+function loadPriorEvents() {
+  if (!existsSync(EVENTS_PATH)) return null;
+  try {
+    return JSON.parse(readFileSync(EVENTS_PATH, 'utf8'));
+  } catch {
+    return null;
+  }
+}
+
 async function main() {
   const rosters = loadRosters();
   const prior = loadPriorStats();
@@ -158,9 +316,38 @@ async function main() {
   const rows = await fetchAllPlayoffSkaters();
   console.log(`[update-stats] received ${rows.length} skaters`);
 
+  // Schedule + events run in parallel and are independent of the stats
+  // diff — even if stats didn't change, the schedule status (LIVE → FINAL)
+  // might have, and we want the slate to reflect that.
+  const games = await fetchTodaySchedule();
+  console.log(`[update-stats] schedule: ${games.length} games today`);
+  writeFileSync(
+    SCHEDULE_PATH,
+    JSON.stringify(
+      { generatedAt: new Date().toISOString(), games },
+      null,
+      2,
+    ) + '\n',
+    'utf8',
+  );
+
+  const ownership = buildOwnership(rosters);
+  const events = await fetchTodayEvents(games, ownership);
+  console.log(`[update-stats] emitted ${events.length} ticker events`);
+  const priorEvents = loadPriorEvents();
+  // Merge new events with the tail of the previous file so the ticker
+  // doesn't go silent between game days.
+  const merged = mergeEvents(events, priorEvents?.events ?? []).slice(
+    0,
+    MAX_EVENTS,
+  );
+  writeFileSync(
+    EVENTS_PATH,
+    JSON.stringify({ events: merged }, null, 2) + '\n',
+    'utf8',
+  );
+
   if (rows.length === 0) {
-    // Playoffs haven't started yet, or the endpoint temporarily returned
-    // nothing. Don't overwrite existing good data.
     console.log('[update-stats] 0 rows — leaving existing stats.json intact');
     return;
   }
@@ -173,16 +360,14 @@ async function main() {
     players: stats,
   };
 
-  // If nothing changed, skip writing so CI doesn't make an empty commit.
   if (prior && shallowEqualPlayers(prior.players, payload.players)) {
-    console.log('[update-stats] no stat changes — skipping write');
-    return;
+    console.log('[update-stats] no stat changes — skipping stats write');
+  } else {
+    writeFileSync(STATS_PATH, JSON.stringify(payload, null, 2) + '\n', 'utf8');
+    console.log(
+      `[update-stats] wrote ${Object.keys(stats).length} players to stats.json`,
+    );
   }
-
-  writeFileSync(STATS_PATH, JSON.stringify(payload, null, 2) + '\n', 'utf8');
-  console.log(
-    `[update-stats] wrote ${Object.keys(stats).length} players to stats.json`,
-  );
 
   if (misses.length > 0) {
     console.warn(
@@ -190,6 +375,19 @@ async function main() {
     );
     for (const m of misses) console.warn(`    · ${m}`);
   }
+}
+
+/** Dedupe by (player + type + time) and prefer the newer copy. */
+function mergeEvents(fresh, old) {
+  const seen = new Set();
+  const out = [];
+  for (const e of [...fresh, ...old]) {
+    const key = `${e.type}|${e.player}|${e.time}|${e.pool}`;
+    if (seen.has(key)) continue;
+    seen.add(key);
+    out.push(e);
+  }
+  return out;
 }
 
 function shallowEqualPlayers(a, b) {

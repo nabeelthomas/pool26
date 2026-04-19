@@ -2,6 +2,7 @@
 // sorted by points descending. Includes a totals strip and motto pennant.
 
 import type { ManagerStanding, TeamInfo } from '../types';
+import type { OwnershipMap } from '../lib/standings';
 import { PlayerRow } from './PlayerRow';
 import { PAPER_URL } from '../lib/textures';
 import { pad2, pad3 } from '../lib/format';
@@ -9,6 +10,8 @@ import { pad2, pad3 } from '../lib/format';
 interface RosterPanelProps {
   manager: ManagerStanding | null;
   teams: Record<string, TeamInfo>;
+  ownership: OwnershipMap;
+  totalManagers: number;
   onClose?: () => void;
 }
 
@@ -22,7 +25,13 @@ function textForAccent(color: string): string {
   return light.has(color.toLowerCase()) ? 'var(--rp-wood)' : 'var(--rp-paper)';
 }
 
-export function RosterPanel({ manager, teams, onClose }: RosterPanelProps) {
+export function RosterPanel({
+  manager,
+  teams,
+  ownership,
+  totalManagers,
+  onClose,
+}: RosterPanelProps) {
   if (!manager) {
     return (
       <div
@@ -328,6 +337,8 @@ export function RosterPanel({ manager, teams, onClose }: RosterPanelProps) {
             player={player}
             rank={i + 1}
             teams={teams}
+            totalManagers={totalManagers}
+            ownedBy={ownership[player.name] ?? [manager.displayName]}
           />
         ))}
       </div>

@@ -20,6 +20,8 @@ interface LeaderboardProps {
   lastUpdated: string;
   /** Season/round label shown in the CRT header. */
   roundLabel?: string;
+  /** Per-manager points delta since the user last visited (positive int or 0). */
+  pointsSinceLastVisit?: Record<string, number>;
 }
 
 const HEADER_COLS: Array<{ label: string; key: SortKey | null; align: 'center' | 'left' | 'right' }> = [
@@ -39,6 +41,7 @@ export function Leaderboard({
   setSortKey,
   lastUpdated,
   roundLabel = 'Playoffs',
+  pointsSinceLastVisit,
 }: LeaderboardProps) {
   const leader = standings[0];
   const leadBy =
@@ -284,6 +287,9 @@ export function Leaderboard({
             {standings.map((manager, i) => {
               const rank = i + 1;
               const isSelected = manager.id === selectedId;
+              // Gap to the row above (positive value, undefined for first row).
+              const gapAbove = i === 0 ? null : standings[i - 1].totals.points - manager.totals.points;
+              const delta = pointsSinceLastVisit?.[manager.id] ?? 0;
               return (
                 <button
                   key={manager.id}
@@ -337,10 +343,50 @@ export function Leaderboard({
                       whiteSpace: 'nowrap',
                       textTransform: 'uppercase',
                       letterSpacing: '0.05em',
+                      display: 'flex',
+                      alignItems: 'baseline',
+                      gap: 6,
                     }}
                   >
-                    {rank === 1 && '♛ '}
-                    {manager.displayName}
+                    <span
+                      style={{
+                        overflow: 'hidden',
+                        textOverflow: 'ellipsis',
+                      }}
+                    >
+                      {rank === 1 && '♛ '}
+                      {manager.displayName}
+                    </span>
+                    {gapAbove !== null && gapAbove > 0 && (
+                      <span
+                        title={`${gapAbove} pts behind ${standings[i - 1].displayName}`}
+                        style={{
+                          fontSize: 12,
+                          color: '#5a8a5a',
+                          letterSpacing: '0.05em',
+                          textShadow: 'none',
+                        }}
+                      >
+                        −{gapAbove}
+                      </span>
+                    )}
+                    {delta > 0 && (
+                      <span
+                        title="Points scored since your last visit"
+                        style={{
+                          fontSize: 11,
+                          color: 'var(--rp-amber)',
+                          background: 'rgba(255,159,28,0.15)',
+                          border: '1px solid rgba(255,159,28,0.6)',
+                          padding: '0 4px',
+                          letterSpacing: '0.05em',
+                          textShadow: '0 0 4px var(--rp-amber)',
+                          borderRadius: 2,
+                        }}
+                      >
+                        +{delta}
+                      </span>
+                    )}
                   </span>
                   <span
                     style={{

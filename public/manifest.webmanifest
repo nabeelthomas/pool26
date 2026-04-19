@@ -1,0 +1,19 @@
+{
+  "name": "Pool '26 — Playoff Picks",
+  "short_name": "Pool '26",
+  "description": "Tiny private NHL playoff pool leaderboard for a basement full of friends.",
+  "start_url": "/pool26/",
+  "scope": "/pool26/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#2b1810",
+  "theme_color": "#2b1810",
+  "icons": [
+    {
+      "src": "/pool26/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "generatedAt": "2026-04-19T07:28:56.177Z",
+  "games": [
+    {
+      "id": 2025030131,
+      "away": "OTT",
+      "home": "CAR",
+      "startUTC": "2026-04-18T19:00:00Z",
+      "status": "final"
+    },
+    {
+      "id": 2025030161,
+      "away": "MIN",
+      "home": "DAL",
+      "startUTC": "2026-04-18T21:30:00Z",
+      "status": "final"
+    },
+    {
+      "id": 2025030141,
+      "away": "PHI",
+      "home": "PIT",
+      "startUTC": "2026-04-19T00:00:00Z",
+      "status": "final"
+    }
+  ]
+}

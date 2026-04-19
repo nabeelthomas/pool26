@@ -8,14 +8,32 @@ interface PlayerRowProps {
   player: RosterPlayerWithStats;
   rank: number;
   teams: Record<string, TeamInfo>;
+  /** Total managers in the pool — denominator for the ownership badge. */
+  totalManagers: number;
+  /** Display names of all managers who rostered this player (>=1, includes current manager). */
+  ownedBy: string[];
 }
 
-export function PlayerRow({ player, rank, teams }: PlayerRowProps) {
+export function PlayerRow({
+  player,
+  rank,
+  teams,
+  totalManagers,
+  ownedBy,
+}: PlayerRowProps) {
   const team = teams[player.team];
   const teamColor = team?.color ?? 'var(--rp-olive)';
   const teamName = team?.name ?? player.team;
   const isHot = player.points >= 6;
   const isCold = player.points === 0 && player.stats.gp >= 2;
+  const ownCount = ownedBy.length;
+  const isContested = ownCount > 1;
+  const isUnique = ownCount === 1;
+  // Tooltip lists every manager who rostered them — fuel for trash-talk hovers.
+  const ownTitle =
+    ownCount > 1
+      ? `Also rostered by ${ownedBy.slice(1).join(', ')}`
+      : 'Uniquely yours — nobody else rostered this player';
 
   return (
     <div
@@ -93,9 +111,39 @@ export function PlayerRow({ player, rank, teams }: PlayerRowProps) {
             color: 'var(--rp-muted-dark)',
             letterSpacing: '0.1em',
             marginTop: 1,
+            display: 'flex',
+            alignItems: 'center',
+            gap: 6,
+            flexWrap: 'wrap',
           }}
         >
-          {player.pos} · {teamName}
+          <span>
+            {player.pos} · {teamName}
+          </span>
+          <span
+            title={ownTitle}
+            style={{
+              padding: '1px 5px',
+              border: '1px solid currentColor',
+              fontSize: 8,
+              letterSpacing: '0.1em',
+              color: isUnique
+                ? 'var(--rp-lime)'
+                : isContested
+                  ? 'var(--rp-orange)'
+                  : 'var(--rp-muted-dark)',
+              background: isUnique
+                ? 'rgba(198,255,61,0.08)'
+                : isContested
+                  ? 'rgba(255,159,28,0.08)'
+                  : 'transparent',
+              borderRadius: 2,
+            }}
+          >
+            {isUnique
+              ? '◆ SOLO'
+              : `◆ ${ownCount}/${totalManagers}`}
+          </span>
         </div>
       </div>
       <div style={{ display: 'flex', gap: 3, justifyContent: 'flex-end' }}>

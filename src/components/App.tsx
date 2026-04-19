@@ -1,24 +1,26 @@
 // Top-level shell for Pool '26.
-//
-// Layout matches the final design handoff (app.jsx):
-//   Desktop: thin header band with small neon left + STANLEY CUP pill +
-//            tiny LIVE/NHL.COM neon right. Ticker. Big TV + roster panel
-//            (roster sits at opacity 0.7 so the basement reads through).
-//   Mobile:  status bar + small centered neon, ticker, then either the
-//            leaderboard or the roster (roster wins when one is selected).
 
-import { useEffect, useMemo, useState } from 'react';
+import { useEffect, useMemo, useRef, useState } from 'react';
 import type { PoolData } from '../lib/dataFetch';
 import { loadPoolData } from '../lib/dataFetch';
-import { computeStandings, sortStandings } from '../lib/standings';
-import type { SortKey } from '../lib/standings';
+import {
+  buildOwnershipMap,
+  computeStandings,
+  snapshotFromStandings,
+  sortStandings,
+} from '../lib/standings';
+import type { SortKey, StandingsSnapshot } from '../lib/standings';
 import { BasementBackground } from './BasementBackground';
 import { Leaderboard } from './Leaderboard';
 import { NeonSign } from './NeonSign';
 import { RosterPanel } from './RosterPanel';
 import { ScoringTicker } from './ScoringTicker';
+import { ShareCard } from './ShareCard';
+import { TonightSlate } from './TonightSlate';
 
 const SELECTION_KEY = 'pool26.selectedManagerId';
+const SNAPSHOT_KEY = 'pool26.lastSnapshot';
+const REFRESH_MS = 5 * 60 * 1000; // 5-minute background poll while tab is open
 const MOBILE_BREAKPOINT = 900;
 
 function useIsMobile(): boolean {
@@ -33,6 +35,17 @@ function useIsMobile(): boolean {
   return isMobile;
 }
 
+function loadStoredSnapshot(): StandingsSnapshot | null {
+  if (typeof window === 'undefined') return null;
+  const raw = window.localStorage.getItem(SNAPSHOT_KEY);
+  if (!raw) return null;
+  try {
+    return JSON.parse(raw) as StandingsSnapshot;
+  } catch {
+    return null;
+  }
+}
+
 export function App() {
   const [data, setData] = useState<PoolData | null>(null);
   const [loadError, setLoadError] = useState<string | null>(null);
@@ -41,24 +54,46 @@ export function App() {
     if (typeof window === 'undefined') return null;
     return window.localStorage.getItem(SELECTION_KEY);
   });
+  const [shareOpen, setShareOpen] = useState(false);
   const isMobile = useIsMobile();
 
+  // Snapshot of standings as the user last saw them — used to compute the
+  // "+N since you looked" badge. We capture this ONCE at first paint of a
+  // session, then update it when the user closes/reopens the tab.
+  const visitSnapshotRef = useRef<StandingsSnapshot | null>(loadStoredSnapshot());
+
+  // Reusable loader so we can call it on mount and from the polling loop.
+  const refresh = useRef<() => Promise<void>>(async () => {});
+  refresh.current = async () => {
+    try {
+      const pool = await loadPoolData();
+      setData(pool);
+      setLoadError(null);
+    } catch (err) {
+      setLoadError((err as Error).message);
+    }
+  };
+
+  // Initial load.
   useEffect(() => {
-    let cancelled = false;
-    loadPoolData()
-      .then((pool) => {
-        if (cancelled) return;
-        setData(pool);
-      })
-      .catch((err: Error) => {
-        if (cancelled) return;
-        setLoadError(err.message);
-      });
+    refresh.current();
+  }, []);
+
+  // Background polling: every 5 min, plus an extra refresh whenever the
+  // tab regains focus (so phones unlocked from sleep get fresh numbers).
+  useEffect(() => {
+    const interval = window.setInterval(() => refresh.current(), REFRESH_MS);
+    const onVisible = () => {
+      if (document.visibilityState === 'visible') refresh.current();
+    };
+    document.addEventListener('visibilitychange', onVisible);
     return () => {
-      cancelled = true;
+      window.clearInterval(interval);
+      document.removeEventListener('visibilitychange', onVisible);
     };
   }, []);
 
+  // Persist manager selection.
   useEffect(() => {
     if (typeof window === 'undefined') return;
     if (selectedId) {
@@ -73,6 +108,11 @@ export function App() {
     return sortStandings(computeStandings(data.rosters, data.stats), sortKey);
   }, [data, sortKey]);
 
+  const ownership = useMemo(() => {
+    if (!data) return {};
+    return buildOwnershipMap(data.rosters);
+  }, [data]);
+
   const selectedManager = useMemo(() => {
     if (standings.length === 0) return null;
     if (selectedId) {
@@ -82,7 +122,33 @@ export function App() {
     return standings[0];
   }, [standings, selectedId]);
 
-  if (loadError) {
+  // Compute "points since last visit" once we have standings AND a stored
+  // snapshot. Bail when the snapshot is older than 12h (otherwise the
+  // delta swallows entire rounds and stops being interesting).
+  const pointsSinceLastVisit = useMemo(() => {
+    if (standings.length === 0) return undefined;
+    const snap = visitSnapshotRef.current;
+    if (!snap) return undefined;
+    const ageMs = Date.now() - new Date(snap.takenAt).getTime();
+    if (ageMs > 12 * 60 * 60 * 1000) return undefined;
+    const out: Record<string, number> = {};
+    for (const s of standings) {
+      const prior = snap.totalsById[s.id]?.points ?? s.totals.points;
+      out[s.id] = Math.max(0, s.totals.points - prior);
+    }
+    return out;
+  }, [standings]);
+
+  // Persist a fresh snapshot whenever standings change, so next visit has
+  // an accurate baseline.
+  useEffect(() => {
+    if (standings.length === 0) return;
+    if (typeof window === 'undefined') return;
+    const fresh = snapshotFromStandings(standings);
+    window.localStorage.setItem(SNAPSHOT_KEY, JSON.stringify(fresh));
+  }, [standings]);
+
+  if (loadError && !data) {
     return (
       <>
         <BasementBackground />
@@ -148,6 +214,7 @@ export function App() {
   }
 
   const roundLabel = data.rosters.round ?? 'Playoffs';
+  const totalManagers = data.rosters.managers.length;
 
   return (
     <>
@@ -163,7 +230,7 @@ export function App() {
           boxSizing: 'border-box',
         }}
       >
-        {/* Thin header band — matches the final design */}
+        {/* Thin header band */}
         <header
           style={{
             padding: isMobile ? '10px 12px 8px' : '14px 28px 10px',
@@ -178,7 +245,11 @@ export function App() {
         >
           <NeonSign
             text="Pool '26"
-            sub={isMobile ? `RD · ${roundLabel.toUpperCase()}` : 'PLAYOFF PICKS · EST. 1215'}
+            sub={
+              isMobile
+                ? `RD · ${roundLabel.toUpperCase()}`
+                : 'PLAYOFF PICKS · EST. 1215'
+            }
             size={isMobile ? 'sm' : 'md'}
             color="var(--rp-red-neon)"
           />
@@ -207,6 +278,26 @@ export function App() {
               />
             </div>
           )}
+          <button
+            type="button"
+            onClick={() => setShareOpen(true)}
+            className="rp-mono"
+            style={{
+              padding: '6px 12px',
+              fontSize: 11,
+              letterSpacing: '0.15em',
+              textTransform: 'uppercase',
+              background: 'var(--rp-amber)',
+              color: 'var(--rp-wood-dark)',
+              border: '2px solid var(--rp-wood-dark)',
+              cursor: 'pointer',
+              boxShadow: '2px 2px 0 rgba(0,0,0,0.7)',
+              fontWeight: 700,
+            }}
+            aria-label="Open shareable standings card"
+          >
+            ◆ Share
+          </button>
         </header>
 
         {/* Ticker */}
@@ -221,7 +312,7 @@ export function App() {
               : 'minmax(0, 1.05fr) minmax(0, 0.95fr)',
             gap: isMobile ? 16 : 24,
             alignItems: 'flex-start',
-            padding: isMobile ? '12px 12px 80px' : '24px 32px 80px',
+            padding: isMobile ? '12px 12px 16px' : '24px 32px 16px',
           }}
         >
           <div
@@ -239,22 +330,28 @@ export function App() {
               setSortKey={setSortKey}
               lastUpdated={data.stats.lastUpdated}
               roundLabel={roundLabel}
+              pointsSinceLastVisit={pointsSinceLastVisit}
             />
           </div>
-          <div
-            style={{
-              minWidth: 0,
-              // The final design lets the basement read through the roster.
-              opacity: 0.92,
-            }}
-          >
+          <div style={{ minWidth: 0, opacity: 0.92 }}>
             <RosterPanel
               manager={selectedManager}
               teams={data.rosters.teams}
+              ownership={ownership}
+              totalManagers={totalManagers}
               onClose={isMobile ? () => setSelectedId(null) : undefined}
             />
           </div>
         </main>
+
+        {/* Tonight's slate — full width below the main grid */}
+        <div
+          style={{
+            padding: isMobile ? '0 12px 16px' : '0 32px 16px',
+          }}
+        >
+          <TonightSlate standings={standings} />
+        </div>
 
         <footer
           className="rp-mono"
@@ -268,10 +365,18 @@ export function App() {
             padding: '0 12px 16px',
           }}
         >
-          ◆ {data.rosters.managers.length} managers · 15 skaters each · G=1
-          A=1 · auto-refresh ◆
+          ◆ {totalManagers} managers · 15 skaters each · G=1 A=1 · auto-refresh ◆
         </footer>
       </div>
+
+      {shareOpen && (
+        <ShareCard
+          standings={standings}
+          roundLabel={roundLabel}
+          lastUpdated={data.stats.lastUpdated}
+          onClose={() => setShareOpen(false)}
+        />
+      )}
     </>
   );
 }

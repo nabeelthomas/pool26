@@ -85,3 +85,37 @@ export function sortStandings(
 ): ManagerStanding[] {
   return [...standings].sort((a, b) => b.totals[sortKey] - a.totals[sortKey]);
 }
+
+/**
+ * Map of player name → list of manager display names who rostered them.
+ * Built once at load time and passed down into the roster view.
+ */
+export type OwnershipMap = Record<string, string[]>;
+
+export function buildOwnershipMap(rosters: RostersFile): OwnershipMap {
+  const out: OwnershipMap = {};
+  for (const manager of rosters.managers) {
+    for (const player of manager.roster) {
+      const list = out[player.name] ?? (out[player.name] = []);
+      list.push(manager.displayName);
+    }
+  }
+  return out;
+}
+
+/**
+ * Snapshot used for "what changed since you last looked".
+ * Only stores totals — that's all the visit-to-visit diff needs.
+ */
+export interface StandingsSnapshot {
+  takenAt: string; // ISO
+  totalsById: Record<string, PlayerStats & { points: number }>;
+}
+
+export function snapshotFromStandings(
+  standings: readonly ManagerStanding[],
+): StandingsSnapshot {
+  const totalsById: StandingsSnapshot['totalsById'] = {};
+  for (const s of standings) totalsById[s.id] = { ...s.totals };
+  return { takenAt: new Date().toISOString(), totalsById };
+}
