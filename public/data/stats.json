@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-20T05:46:10.977Z",
+  "lastUpdated": "2026-04-20T05:54:09.091Z",
   "players": {
     "Quinton Byfield": {
       "gp": 1,
@@ -81,6 +81,11 @@
       "g": 0,
       "a": 0
     },
+    "Jack Eichel": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Jake Guentzel": {
       "gp": 1,
       "g": 0,
@@ -126,6 +131,11 @@
       "g": 0,
       "a": 0
     },
+    "Shea Theodore": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Drake Batherson": {
       "gp": 1,
       "g": 0,
@@ -137,6 +147,11 @@
       "a": 0
     },
     "Sidney Crosby": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
+    "Pavel Dorofeyev": {
       "gp": 1,
       "g": 0,
       "a": 0
@@ -196,10 +211,20 @@
       "g": 1,
       "a": 2
     },
+    "Dylan Guenther": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Wyatt Johnston": {
       "gp": 1,
       "g": 0,
       "a": 1
+    },
+    "Clayton Keller": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
     },
     "Travis Konecny": {
       "gp": 1,
@@ -229,6 +254,11 @@
     "Bryan Rust": {
       "gp": 1,
       "g": 1,
+      "a": 0
+    },
+    "Nick Schmaltz": {
+      "gp": 1,
+      "g": 0,
       "a": 0
     },
     "Vladimir Tarasenko": {
