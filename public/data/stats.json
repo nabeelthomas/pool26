@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-20T04:12:10.801Z",
+  "lastUpdated": "2026-04-20T04:32:14.275Z",
   "players": {
     "Quinton Byfield": {
       "gp": 1,
@@ -144,6 +144,16 @@
     "Joel Eriksson Ek": {
       "gp": 1,
       "g": 2,
+      "a": 1
+    },
+    "Tomas Hertl": {
+      "gp": 1,
+      "g": 0,
+      "a": 1
+    },
+    "Mitch Marner": {
+      "gp": 1,
+      "g": 0,
       "a": 1
     },
     "Martin Necas": {
@@ -329,6 +339,11 @@
     "Corey Perry": {
       "gp": 1,
       "g": 0,
+      "a": 0
+    },
+    "Mark Stone": {
+      "gp": 1,
+      "g": 1,
       "a": 0
     },
     "Andrei Svechnikov": {
