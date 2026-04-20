@@ -1,13 +1,18 @@
 name: update-stats
 
 # Triggering is handled externally by cron-job.org, which POSTs to this
-# workflow's dispatch endpoint on a reliable 15-minute schedule during NHL
-# hours (19:00–06:45 UTC). We moved off GitHub's built-in `schedule:` because
-# it's best-effort and routinely skips runs under platform load — unacceptable
-# for a live leaderboard during a playoff game.
+# workflow's dispatch endpoint every 2 minutes during NHL hours
+# (19:00–06:45 UTC). We moved off GitHub's built-in `schedule:` because it's
+# best-effort and routinely skips runs under platform load — unacceptable for
+# a live leaderboard during a playoff game.
 #
-# If the external trigger ever breaks, runs can still be kicked off manually
-# from the Actions tab via `workflow_dispatch`.
+# 2-min cadence is fine cost-wise: each run is ~15s of Actions time and the
+# script no-ops the stats.json write when nothing changed (see shallowEqualPlayers
+# in scripts/update-stats.mjs). schedule.json/events.json always re-write since
+# their generatedAt timestamps move every tick.
+#
+# If the external trigger ever breaks (cron-job.org paused, PAT expired, etc.),
+# runs can still be kicked off manually from the Actions tab via `workflow_dispatch`.
 on:
   workflow_dispatch: {}
 

@@ -149,16 +149,30 @@ function indexSkaters(rows) {
 }
 
 /**
- * Map our roster to summary stats, overlaying in-progress live-game goals
- * and assists. The NHL summary endpoint only includes players whose games
- * have completed — so during Montreal's first playoff game, none of their
- * skaters show up at all. `liveTally` fills that gap.
+ * Map our roster to summary stats, cross-referenced against running totals
+ * harvested from the gamecenter landings.
  *
- * For FINAL games we trust the summary (~10-min lag is acceptable); only
- * LIVE tallies are overlayed here to avoid double-counting once the
- * summary catches up.
+ * Why both sources: the NHL `/skater/summary` endpoint lags in two distinct
+ * windows where it can't be the only source of truth:
+ *   1. During an in-progress game it omits that game's skaters entirely.
+ *   2. After a game ends, the box score takes ~5–15 minutes to be aggregated
+ *      into the summary table. During that window a player whose only
+ *      playoff goal was tonight (e.g. a first-time scorer) doesn't appear
+ *      anywhere in summary at all — they vanish from the leaderboard.
+ *
+ * Earlier this code added a live-only tally on top of summary, but that left
+ * gap #2 wide open. The fix: walk the gamecenter landings for every
+ * non-scheduled game and read each player's `goalsToDate` / `assistsToDate`
+ * — both fields are running playoff totals, NOT per-event deltas. We then
+ * take MAX(summary, gamecenter) per stat. Because both inputs are running
+ * totals, MAX is correct in every state:
+ *   - Brand-new scorer: summary missing → gamecenter wins.
+ *   - Established player, summary lagging: gamecenter is fresher → wins.
+ *   - Steady state (summary caught up): both equal → MAX is a no-op.
+ *   - Goal disallowed on review: both inputs drop next cron → no stale max.
+ * No double-counting is possible by construction.
  */
-function buildStatsMap(rosters, byNormalized, liveTally) {
+function buildStatsMap(rosters, byNormalized, runningTotals) {
   const out = {};
   const misses = [];
   for (const manager of rosters.managers) {
@@ -175,31 +189,40 @@ function buildStatsMap(rosters, byNormalized, liveTally) {
         }
       }
 
-      // Try live tally under full + abbreviated variants.
-      let liveG = 0;
-      let liveA = 0;
-      let liveMatched = false;
+      // Try gamecenter running totals under full + abbreviated variants.
+      // Goals always carry full names (firstName.default + lastName.default),
+      // but assist records sometimes only expose the abbreviated `name.default`
+      // form ("I. Demidov"), so we have to try both shapes.
+      let gcG = 0;
+      let gcA = 0;
+      let gcMatched = false;
       const consumed = new Set();
       for (const candidate of candidates) {
         for (const variant of nameVariants(candidate)) {
           if (consumed.has(variant)) continue;
-          const t = liveTally.get(variant);
+          const t = runningTotals.get(variant);
           if (t) {
-            liveG += t.g;
-            liveA += t.a;
-            liveMatched = true;
+            // MAX, not SUM: the same player can be keyed under multiple name
+            // variants (e.g. full form from a goal, abbreviated from an
+            // assist). Both reflect the same running total, so MAX dedupes.
+            if (t.g > gcG) gcG = t.g;
+            if (t.a > gcA) gcA = t.a;
+            gcMatched = true;
             consumed.add(variant);
           }
         }
       }
 
-      if (summaryHit || liveMatched) {
-        const base = summaryHit ?? { gp: 0, g: 0, a: 0 };
+      if (summaryHit || gcMatched) {
+        const sumG = summaryHit?.g ?? 0;
+        const sumA = summaryHit?.a ?? 0;
         out[player.name] = {
-          // Bump gp to ≥1 if we're crediting live points; otherwise trust the summary.
-          gp: summaryHit ? base.gp : liveMatched ? 1 : 0,
-          g: base.g + liveG,
-          a: base.a + liveA,
+          // gp comes from summary when available (it tracks every game played,
+          // not just scoring ones). If summary doesn't have them yet but they
+          // turned up in tonight's gamecenter, they've played ≥1 game.
+          gp: summaryHit ? summaryHit.gp : gcMatched ? 1 : 0,
+          g: Math.max(sumG, gcG),
+          a: Math.max(sumA, gcA),
         };
       } else {
         misses.push(`${manager.displayName}: ${player.name}`);
@@ -319,19 +342,31 @@ function buildOwnership(rosters) {
 
 /**
  * Walk today's games. Returns:
- *   - events: ticker entries for pool-player goals/primary assists
- *   - liveTally: Map<normalizedNameVariant, { g, a }> counting goals and
- *     assists only for LIVE (in-progress) games. Used to patch over the
- *     NHL summary endpoint's blind spot during in-progress playoff games.
+ *   - events: ticker entries for pool-player goals/primary assists.
+ *   - runningTotals: Map<normalizedNameVariant, { g, a }> of each player's
+ *     running playoff totals as reported by the gamecenter landing's
+ *     `goalsToDate` / `assistsToDate` fields. We accumulate via MAX (these
+ *     are running totals, not deltas), so calling for the same player
+ *     across multiple goals/games naturally lands on their highest seen
+ *     total. See buildStatsMap for how this is reconciled with the summary
+ *     endpoint.
+ *
+ *   We walk both live AND final games — the running totals are equally
+ *   useful in both states. For live games, summary is missing the player
+ *   entirely; for just-ended games, summary lags ~5–15 min before
+ *   ingesting the box score.
  */
 async function walkTodayLandings(games, ownership) {
   const events = [];
-  const liveTally = new Map();
+  const runningTotals = new Map();
 
-  const bump = (key, stat) => {
-    const e = liveTally.get(key) ?? { g: 0, a: 0 };
-    e[stat] += 1;
-    liveTally.set(key, e);
+  const record = (key, stat, value) => {
+    if (typeof value !== 'number' || value < 0) return;
+    const e = runningTotals.get(key) ?? { g: 0, a: 0 };
+    if (value > e[stat]) {
+      e[stat] = value;
+      runningTotals.set(key, e);
+    }
   };
 
   for (const game of games) {
@@ -343,7 +378,6 @@ async function walkTodayLandings(games, ownership) {
       console.warn(`[update-stats] gamecenter ${game.id} failed:`, err.message);
       continue;
     }
-    const isLive = game.status === 'live';
     const periods = landing.summary?.scoring ?? [];
 
     for (const period of periods) {
@@ -365,10 +399,10 @@ async function walkTodayLandings(games, ownership) {
               pool: scorerPool.join(', '),
             });
           }
-          if (isLive) bump(scorerKey, 'g');
+          record(scorerKey, 'g', goal.goalsToDate);
         }
 
-        // --- Assists (primary → ticker, all → tally) ---
+        // --- Assists (primary → ticker, all → totals) ---
         const assists = goal.assists ?? [];
         for (let i = 0; i < assists.length; i++) {
           const a = assists[i];
@@ -391,7 +425,7 @@ async function walkTodayLandings(games, ownership) {
               });
             }
           }
-          if (isLive) bump(aKey, 'a');
+          record(aKey, 'a', a.assistsToDate);
         }
       }
     }
@@ -399,7 +433,7 @@ async function walkTodayLandings(games, ownership) {
 
   return {
     events: events.slice(-MAX_EVENTS).reverse(),
-    liveTally,
+    runningTotals,
   };
 }
 
@@ -436,9 +470,9 @@ async function main() {
   );
 
   const ownership = buildOwnership(rosters);
-  const { events, liveTally } = await walkTodayLandings(games, ownership);
+  const { events, runningTotals } = await walkTodayLandings(games, ownership);
   console.log(
-    `[update-stats] emitted ${events.length} ticker events · ${liveTally.size} live tally keys`,
+    `[update-stats] emitted ${events.length} ticker events · ${runningTotals.size} gamecenter player totals`,
   );
   const priorEvents = loadPriorEvents();
   // Merge new events with the tail of the previous file so the ticker
@@ -453,13 +487,13 @@ async function main() {
     'utf8',
   );
 
-  if (rows.length === 0 && liveTally.size === 0) {
-    console.log('[update-stats] 0 rows + no live data — leaving stats.json intact');
+  if (rows.length === 0 && runningTotals.size === 0) {
+    console.log('[update-stats] 0 rows + no gamecenter data — leaving stats.json intact');
     return;
   }
 
   const indexed = indexSkaters(rows);
-  const { stats, misses } = buildStatsMap(rosters, indexed, liveTally);
+  const { stats, misses } = buildStatsMap(rosters, indexed, runningTotals);
 
   const payload = {
     lastUpdated: new Date().toISOString(),
