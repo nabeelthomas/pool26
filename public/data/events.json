@@ -2,7 +2,21 @@
   "events": [
     {
       "type": "ASSIST",
-      "player": "Ivan Demidov",
+      "player": "David Pastrnak",
+      "team": "BOS",
+      "time": "7:30 PM ET",
+      "pool": "Reiner, Reiner"
+    },
+    {
+      "type": "GOAL",
+      "player": "Morgan Geekie",
+      "team": "BOS",
+      "time": "7:30 PM ET",
+      "pool": "Paddy"
+    },
+    {
+      "type": "ASSIST",
+      "player": "Cole Caufield",
       "team": "MTL",
       "time": "5:45 PM ET",
       "pool": "Will"
@@ -13,6 +27,13 @@
       "team": "MTL",
       "time": "5:45 PM ET",
       "pool": "Will, Will"
+    },
+    {
+      "type": "ASSIST",
+      "player": "Ivan Demidov",
+      "team": "MTL",
+      "time": "5:45 PM ET",
+      "pool": "Will"
     },
     {
       "type": "ASSIST",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-20T00:01:08.945Z",
+  "generatedAt": "2026-04-20T00:15:12.271Z",
   "games": [
     {
       "id": 2025030151,
@@ -15,7 +15,7 @@
       "id": 2025030121,
       "away": "MTL",
       "home": "TBL",
-      "awayScore": 2,
+      "awayScore": 3,
       "homeScore": 2,
       "period": "3rd",
       "startUTC": "2026-04-19T21:45:00Z",
@@ -25,7 +25,7 @@
       "id": 2025030111,
       "away": "BOS",
       "home": "BUF",
-      "awayScore": 0,
+      "awayScore": 1,
       "homeScore": 0,
       "period": "1st",
       "startUTC": "2026-04-19T23:30:00Z",
