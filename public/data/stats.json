@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-20T03:46:10.879Z",
+  "lastUpdated": "2026-04-20T03:48:12.599Z",
   "players": {
     "Quinton Byfield": {
       "gp": 1,
@@ -94,6 +94,11 @@
     "Artturi Lehkonen": {
       "gp": 1,
       "g": 1,
+      "a": 0
+    },
+    "Brock Nelson": {
+      "gp": 1,
+      "g": 0,
       "a": 0
     },
     "Brayden Point": {
@@ -226,6 +231,11 @@
       "g": 0,
       "a": 0
     },
+    "Nazem Kadri": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Gabriel Landeskog": {
       "gp": 1,
       "g": 0,
@@ -272,6 +282,11 @@
       "a": 0
     },
     "Rasmus Dahlin": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
+    "Devon Toews": {
       "gp": 1,
       "g": 0,
       "a": 0
