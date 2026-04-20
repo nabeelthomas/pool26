@@ -20,7 +20,7 @@ import { TonightSlate } from './TonightSlate';
 
 const SELECTION_KEY = 'pool26.selectedManagerId';
 const SNAPSHOT_KEY = 'pool26.lastSnapshot';
-const REFRESH_MS = 5 * 60 * 1000; // 5-minute background poll while tab is open
+const REFRESH_MS = 2 * 60 * 1000; // 2-minute background poll — matches cron cadence
 const MOBILE_BREAKPOINT = 900;
 
 function useIsMobile(): boolean {
