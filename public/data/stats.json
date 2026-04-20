@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-20T02:26:10.898Z",
+  "lastUpdated": "2026-04-20T02:28:10.918Z",
   "players": {
     "Quinton Byfield": {
       "gp": 1,
@@ -151,11 +151,6 @@
       "g": 0,
       "a": 0
     },
-    "David Pastrnak": {
-      "gp": 1,
-      "g": 1,
-      "a": 2
-    },
     "Nick Suzuki": {
       "gp": 1,
       "g": 0,
@@ -169,11 +164,6 @@
     "Erik Karlsson": {
       "gp": 1,
       "g": 0,
-      "a": 1
-    },
-    "Morgan Geekie": {
-      "gp": 1,
-      "g": 1,
       "a": 1
     },
     "Wyatt Johnston": {
@@ -240,21 +230,6 @@
       "gp": 1,
       "g": 0,
       "a": 0
-    },
-    "Jack Quinn": {
-      "gp": 1,
-      "g": 0,
-      "a": 1
-    },
-    "Tage Thompson": {
-      "gp": 1,
-      "g": 2,
-      "a": 1
-    },
-    "Alex Tuch": {
-      "gp": 1,
-      "g": 1,
-      "a": 1
     },
     "Devon Toews": {
       "gp": 1,
