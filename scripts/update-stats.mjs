@@ -60,6 +60,26 @@ function normalizeName(name) {
     .trim();
 }
 
+/**
+ * All normalized forms a name could show up as in the NHL API.
+ *
+ * The gamecenter landing endpoint returns full names for goals
+ * ("Ivan Demidov") but abbreviated names for assists ("I. Demidov"),
+ * so we produce all three variants and match whichever we find.
+ */
+function nameVariants(fullName) {
+  const full = normalizeName(fullName);
+  const parts = fullName.trim().split(/\s+/);
+  if (parts.length < 2) return [full];
+  const first = parts[0];
+  const last = parts.slice(1).join(' ');
+  return [
+    full,
+    normalizeName(`${first[0]}. ${last}`), // "i. demidov"
+    normalizeName(`${first[0]} ${last}`), // "i demidov" (belt-and-suspenders)
+  ];
+}
+
 async function fetchJSON(url) {
   const res = await fetch(url, {
     headers: {
@@ -129,25 +149,58 @@ function indexSkaters(rows) {
 }
 
 /**
- * Map our roster (with possible aliases) to the API data, emitting one
- * entry per roster player keyed by the roster's primary name.
+ * Map our roster to summary stats, overlaying in-progress live-game goals
+ * and assists. The NHL summary endpoint only includes players whose games
+ * have completed — so during Montreal's first playoff game, none of their
+ * skaters show up at all. `liveTally` fills that gap.
+ *
+ * For FINAL games we trust the summary (~10-min lag is acceptable); only
+ * LIVE tallies are overlayed here to avoid double-counting once the
+ * summary catches up.
  */
-function buildStatsMap(rosters, byNormalized) {
+function buildStatsMap(rosters, byNormalized, liveTally) {
   const out = {};
   const misses = [];
   for (const manager of rosters.managers) {
     for (const player of manager.roster) {
       const candidates = [player.name, ...(player.aliases ?? [])];
-      let hit = null;
+
+      // Try summary (full-name match only — summary always has full names).
+      let summaryHit = null;
       for (const candidate of candidates) {
         const found = byNormalized.get(normalizeName(candidate));
         if (found) {
-          hit = found;
+          summaryHit = found;
           break;
         }
       }
-      if (hit) {
-        out[player.name] = { gp: hit.gp, g: hit.g, a: hit.a };
+
+      // Try live tally under full + abbreviated variants.
+      let liveG = 0;
+      let liveA = 0;
+      let liveMatched = false;
+      const consumed = new Set();
+      for (const candidate of candidates) {
+        for (const variant of nameVariants(candidate)) {
+          if (consumed.has(variant)) continue;
+          const t = liveTally.get(variant);
+          if (t) {
+            liveG += t.g;
+            liveA += t.a;
+            liveMatched = true;
+            consumed.add(variant);
+          }
+        }
+      }
+
+      if (summaryHit || liveMatched) {
+        const base = summaryHit ?? { gp: 0, g: 0, a: 0 };
+        out[player.name] = {
+          // Bump gp to ≥1 if we're crediting live points; otherwise trust the summary.
+          gp: summaryHit ? base.gp : liveMatched ? 1 : 0,
+          g: base.g + liveG,
+          a: base.a + liveA,
+        };
       } else {
         misses.push(`${manager.displayName}: ${player.name}`);
       }
@@ -193,9 +246,12 @@ async function fetchTodaySchedule() {
   try {
     const board = await fetchJSON(SCOREBOARD_URL);
     const games = (board.games ?? []).map((g) => {
-      const status = g.gameState; // FUT|PRE|LIVE|FINAL|OFF
+      // NHL gameState values we've seen: FUT, PRE, LIVE, CRIT, OFF, FINAL.
+      // CRIT = last few minutes / overtime of a close game — treat as LIVE.
+      // OFF = game over, waiting for final posting — treat as FINAL.
+      const status = g.gameState;
       const normalized =
-        status === 'LIVE'
+        status === 'LIVE' || status === 'CRIT'
           ? 'live'
           : status === 'FINAL' || status === 'OFF'
             ? 'final'
@@ -217,6 +273,8 @@ async function fetchTodaySchedule() {
         if (periodType === 'OT') period = 'OT';
         else if (periodType === 'SO') period = 'SO';
       }
+      // CRIT specifically — tag as "LIVE" visually but keep period info above.
+      // (Already set via the isLive branch since we map CRIT → live.)
       return {
         id: g.id,
         away: teamCode(g.awayTeam),
@@ -241,19 +299,18 @@ async function fetchTodaySchedule() {
  */
 function buildOwnership(rosters) {
   const out = new Map();
+  const add = (key, displayName) => {
+    const list = out.get(key) ?? [];
+    if (!list.includes(displayName)) list.push(displayName);
+    out.set(key, list);
+  };
   for (const m of rosters.managers) {
     for (const p of m.roster) {
-      const key = normalizeName(p.name);
-      const list = out.get(key) ?? [];
-      list.push(m.displayName);
-      out.set(key, list);
-      if (p.aliases) {
-        for (const a of p.aliases) {
-          const ak = normalizeName(a);
-          const al = out.get(ak) ?? [];
-          al.push(m.displayName);
-          out.set(ak, al);
-        }
+      const candidates = [p.name, ...(p.aliases ?? [])];
+      for (const c of candidates) {
+        // Register every form the NHL API might hand us — full name from
+        // goals, abbreviated "F. Last" from assists.
+        for (const v of nameVariants(c)) add(v, m.displayName);
       }
     }
   }
@@ -261,13 +318,24 @@ function buildOwnership(rosters) {
 }
 
 /**
- * Walk today's games, fetch each one's landing payload, and emit ticker
- * events for any goal whose scorer or primary assister is in the pool.
+ * Walk today's games. Returns:
+ *   - events: ticker entries for pool-player goals/primary assists
+ *   - liveTally: Map<normalizedNameVariant, { g, a }> counting goals and
+ *     assists only for LIVE (in-progress) games. Used to patch over the
+ *     NHL summary endpoint's blind spot during in-progress playoff games.
  */
-async function fetchTodayEvents(games, ownership) {
+async function walkTodayLandings(games, ownership) {
   const events = [];
+  const liveTally = new Map();
+
+  const bump = (key, stat) => {
+    const e = liveTally.get(key) ?? { g: 0, a: 0 };
+    e[stat] += 1;
+    liveTally.set(key, e);
+  };
+
   for (const game of games) {
-    if (game.status === 'scheduled') continue; // nothing to scrape yet
+    if (game.status === 'scheduled') continue;
     let landing;
     try {
       landing = await fetchJSON(GAMECENTER_URL(game.id));
@@ -275,48 +343,64 @@ async function fetchTodayEvents(games, ownership) {
       console.warn(`[update-stats] gamecenter ${game.id} failed:`, err.message);
       continue;
     }
+    const isLive = game.status === 'live';
     const periods = landing.summary?.scoring ?? [];
+
     for (const period of periods) {
       for (const goal of period.goals ?? []) {
+        // --- Goal scorer ---
         const scorerName =
           goal.firstName?.default && goal.lastName?.default
             ? `${goal.firstName.default} ${goal.lastName.default}`
             : goal.name?.default ?? '';
-        const scorerKey = normalizeName(scorerName);
-        const scorerPool = ownership.get(scorerKey);
-        if (scorerPool) {
-          events.push({
-            type: 'GOAL',
-            player: scorerName,
-            team: teamCode(goal) ?? game.away,
-            time: fmtClockET(goal.timeInPeriod ? game.startUTC : game.startUTC),
-            pool: scorerPool.join(', '),
-          });
-        }
-        // Primary assist (if any) is also worth a tick.
-        const a1 = goal.assists?.[0];
-        if (a1) {
-          const aName =
-            a1.firstName?.default && a1.lastName?.default
-              ? `${a1.firstName.default} ${a1.lastName.default}`
-              : a1.name?.default ?? '';
-          const aKey = normalizeName(aName);
-          const aPool = ownership.get(aKey);
-          if (aPool) {
+        if (scorerName) {
+          const scorerKey = normalizeName(scorerName);
+          const scorerPool = ownership.get(scorerKey);
+          if (scorerPool) {
             events.push({
-              type: 'ASSIST',
-              player: aName,
-              team: teamCode(a1) ?? game.away,
+              type: 'GOAL',
+              player: scorerName,
+              team: (typeof goal.teamAbbrev === 'string' ? goal.teamAbbrev : goal.teamAbbrev?.default) ?? game.away,
               time: fmtClockET(game.startUTC),
-              pool: aPool.join(', '),
+              pool: scorerPool.join(', '),
             });
           }
+          if (isLive) bump(scorerKey, 'g');
+        }
+
+        // --- Assists (primary → ticker, all → tally) ---
+        const assists = goal.assists ?? [];
+        for (let i = 0; i < assists.length; i++) {
+          const a = assists[i];
+          const aName =
+            a.firstName?.default && a.lastName?.default
+              ? `${a.firstName.default} ${a.lastName.default}`
+              : a.name?.default ?? '';
+          if (!aName) continue;
+          const aKey = normalizeName(aName);
+
+          if (i === 0) {
+            const aPool = ownership.get(aKey);
+            if (aPool) {
+              events.push({
+                type: 'ASSIST',
+                player: aName,
+                team: (typeof goal.teamAbbrev === 'string' ? goal.teamAbbrev : goal.teamAbbrev?.default) ?? game.away,
+                time: fmtClockET(game.startUTC),
+                pool: aPool.join(', '),
+              });
+            }
+          }
+          if (isLive) bump(aKey, 'a');
         }
       }
     }
   }
-  // Most recent first, capped.
-  return events.slice(-MAX_EVENTS).reverse();
+
+  return {
+    events: events.slice(-MAX_EVENTS).reverse(),
+    liveTally,
+  };
 }
 
 function loadPriorEvents() {
@@ -352,8 +436,10 @@ async function main() {
   );
 
   const ownership = buildOwnership(rosters);
-  const events = await fetchTodayEvents(games, ownership);
-  console.log(`[update-stats] emitted ${events.length} ticker events`);
+  const { events, liveTally } = await walkTodayLandings(games, ownership);
+  console.log(
+    `[update-stats] emitted ${events.length} ticker events · ${liveTally.size} live tally keys`,
+  );
   const priorEvents = loadPriorEvents();
   // Merge new events with the tail of the previous file so the ticker
   // doesn't go silent between game days.
@@ -367,13 +453,13 @@ async function main() {
     'utf8',
   );
 
-  if (rows.length === 0) {
-    console.log('[update-stats] 0 rows — leaving existing stats.json intact');
+  if (rows.length === 0 && liveTally.size === 0) {
+    console.log('[update-stats] 0 rows + no live data — leaving stats.json intact');
     return;
   }
 
   const indexed = indexSkaters(rows);
-  const { stats, misses } = buildStatsMap(rosters, indexed);
+  const { stats, misses } = buildStatsMap(rosters, indexed, liveTally);
 
   const payload = {
     lastUpdated: new Date().toISOString(),

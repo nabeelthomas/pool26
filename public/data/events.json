@@ -5,7 +5,7 @@
       "player": "David Pastrnak",
       "team": "BOS",
       "time": "7:30 PM ET",
-      "pool": "Reiner, Reiner"
+      "pool": "Reiner"
     },
     {
       "type": "GOAL",
@@ -51,6 +51,20 @@
     },
     {
       "type": "ASSIST",
+      "player": "Jake Guentzel",
+      "team": "TBL",
+      "time": "5:45 PM ET",
+      "pool": "Nabeel"
+    },
+    {
+      "type": "GOAL",
+      "player": "Brandon Hagel",
+      "team": "TBL",
+      "time": "5:45 PM ET",
+      "pool": "Cam"
+    },
+    {
+      "type": "ASSIST",
       "player": "Cole Caufield",
       "team": "MTL",
       "time": "5:45 PM ET",
@@ -61,7 +75,7 @@
       "player": "Juraj Slafkovský",
       "team": "MTL",
       "time": "5:45 PM ET",
-      "pool": "Will, Will"
+      "pool": "Will"
     },
     {
       "type": "ASSIST",
@@ -73,7 +87,7 @@
     {
       "type": "ASSIST",
       "player": "Nikita Kucherov",
-      "team": "MTL",
+      "team": "TBL",
       "time": "5:45 PM ET",
       "pool": "Paddy"
     },
@@ -83,6 +97,20 @@
       "team": "TBL",
       "time": "5:45 PM ET",
       "pool": "Cam"
+    },
+    {
+      "type": "ASSIST",
+      "player": "David Pastrnak",
+      "team": "BOS",
+      "time": "7:30 PM ET",
+      "pool": "Reiner, Reiner"
+    },
+    {
+      "type": "GOAL",
+      "player": "Juraj Slafkovský",
+      "team": "MTL",
+      "time": "5:45 PM ET",
+      "pool": "Will, Will"
     },
     {
       "type": "ASSIST",
