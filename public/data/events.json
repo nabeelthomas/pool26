@@ -2,6 +2,13 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Morgan Geekie",
+      "team": "BOS",
+      "time": "7:30 PM ET",
+      "pool": "Paddy"
+    },
+    {
+      "type": "ASSIST",
       "player": "David Pastrnak",
       "team": "BOS",
       "time": "7:30 PM ET",
@@ -90,13 +97,6 @@
       "team": "COL",
       "time": "3:00 PM ET",
       "pool": "Nabeel"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Morgan Geekie",
-      "team": "BOS",
-      "time": "7:30 PM ET",
-      "pool": "Paddy"
     },
     {
       "type": "ASSIST",
