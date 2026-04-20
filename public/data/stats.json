@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-20T01:00:19.235Z",
+  "lastUpdated": "2026-04-20T01:02:11.146Z",
   "players": {
     "Quinton Byfield": {
       "gp": 1,
@@ -33,7 +33,7 @@
     },
     "Juraj Slafkovsky": {
       "gp": 1,
-      "g": 2,
+      "g": 3,
       "a": 0
     },
     "Tim Stutzle": {
@@ -52,6 +52,11 @@
       "a": 1
     },
     "Quinn Hughes": {
+      "gp": 1,
+      "g": 0,
+      "a": 1
+    },
+    "Lane Hutson": {
       "gp": 1,
       "g": 0,
       "a": 1
@@ -144,7 +149,7 @@
     "Nick Suzuki": {
       "gp": 1,
       "g": 0,
-      "a": 1
+      "a": 2
     },
     "Mats Zuccarello": {
       "gp": 1,
