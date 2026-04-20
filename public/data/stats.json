@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-20T08:24:12.400Z",
+  "lastUpdated": "2026-04-20T08:26:11.168Z",
   "players": {
     "Quinton Byfield": {
       "gp": 1,
@@ -221,6 +221,11 @@
       "g": 0,
       "a": 1
     },
+    "Clayton Keller": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Travis Konecny": {
       "gp": 1,
       "g": 0,
@@ -249,6 +254,11 @@
     "Bryan Rust": {
       "gp": 1,
       "g": 1,
+      "a": 0
+    },
+    "Nick Schmaltz": {
+      "gp": 1,
+      "g": 0,
       "a": 0
     },
     "Vladimir Tarasenko": {
@@ -357,6 +367,11 @@
       "a": 0
     },
     "Josh Norris": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
+    "Corey Perry": {
       "gp": 1,
       "g": 0,
       "a": 0
