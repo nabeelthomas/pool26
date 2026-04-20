@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-20T02:28:10.918Z",
+  "lastUpdated": "2026-04-20T03:02:10.299Z",
   "players": {
     "Quinton Byfield": {
       "gp": 1,
@@ -151,6 +151,11 @@
       "g": 0,
       "a": 0
     },
+    "David Pastrnak": {
+      "gp": 1,
+      "g": 1,
+      "a": 2
+    },
     "Nick Suzuki": {
       "gp": 1,
       "g": 0,
@@ -165,6 +170,16 @@
       "gp": 1,
       "g": 0,
       "a": 1
+    },
+    "Charlie McAvoy": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
+    "Morgan Geekie": {
+      "gp": 1,
+      "g": 1,
+      "a": 2
     },
     "Wyatt Johnston": {
       "gp": 1,
@@ -211,6 +226,11 @@
       "g": 0,
       "a": 0
     },
+    "Josh Doan": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Nazem Kadri": {
       "gp": 1,
       "g": 0,
@@ -226,7 +246,42 @@
       "g": 0,
       "a": 1
     },
+    "Ryan McLeod": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Valeri Nichushkin": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
+    "Jack Quinn": {
+      "gp": 1,
+      "g": 0,
+      "a": 1
+    },
+    "Tage Thompson": {
+      "gp": 1,
+      "g": 2,
+      "a": 1
+    },
+    "Alex Tuch": {
+      "gp": 1,
+      "g": 1,
+      "a": 1
+    },
+    "Jason Zucker": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
+    "Bowen Byram": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
+    "Rasmus Dahlin": {
       "gp": 1,
       "g": 0,
       "a": 0
@@ -256,9 +311,19 @@
       "g": 2,
       "a": 0
     },
+    "James Hagens": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Porter Martone": {
       "gp": 1,
       "g": 1,
+      "a": 0
+    },
+    "Josh Norris": {
+      "gp": 1,
+      "g": 0,
       "a": 0
     },
     "Corey Perry": {
