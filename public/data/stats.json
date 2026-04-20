@@ -1,20 +1,10 @@
 {
-  "lastUpdated": "2026-04-20T01:02:11.146Z",
+  "lastUpdated": "2026-04-20T01:14:09.461Z",
   "players": {
     "Quinton Byfield": {
       "gp": 1,
       "g": 0,
       "a": 0
-    },
-    "Cole Caufield": {
-      "gp": 1,
-      "g": 0,
-      "a": 2
-    },
-    "Ivan Demidov": {
-      "gp": 1,
-      "g": 0,
-      "a": 1
     },
     "Kirill Kaprizov": {
       "gp": 1,
@@ -29,11 +19,6 @@
     "Artemi Panarin": {
       "gp": 1,
       "g": 1,
-      "a": 0
-    },
-    "Juraj Slafkovsky": {
-      "gp": 1,
-      "g": 3,
       "a": 0
     },
     "Tim Stutzle": {
@@ -56,11 +41,6 @@
       "g": 0,
       "a": 1
     },
-    "Lane Hutson": {
-      "gp": 1,
-      "g": 0,
-      "a": 1
-    },
     "Sebastian Aho": {
       "gp": 1,
       "g": 0,
@@ -75,11 +55,6 @@
       "gp": 1,
       "g": 0,
       "a": 0
-    },
-    "Jake Guentzel": {
-      "gp": 1,
-      "g": 0,
-      "a": 3
     },
     "Seth Jarvis": {
       "gp": 1,
@@ -146,11 +121,6 @@
       "g": 0,
       "a": 1
     },
-    "Nick Suzuki": {
-      "gp": 1,
-      "g": 0,
-      "a": 2
-    },
     "Mats Zuccarello": {
       "gp": 1,
       "g": 0,
@@ -175,11 +145,6 @@
       "gp": 1,
       "g": 0,
       "a": 1
-    },
-    "Nikita Kucherov": {
-      "gp": 1,
-      "g": 0,
-      "a": 2
     },
     "Evgeni Malkin": {
       "gp": 1,
@@ -246,11 +211,6 @@
       "g": 0,
       "a": 0
     },
-    "Brandon Hagel": {
-      "gp": 1,
-      "g": 2,
-      "a": 0
-    },
     "Porter Martone": {
       "gp": 1,
       "g": 1,
@@ -259,11 +219,6 @@
     "Andrei Svechnikov": {
       "gp": 1,
       "g": 0,
-      "a": 0
-    },
-    "Darren Raddysh": {
-      "gp": 1,
-      "g": 1,
       "a": 0
     }
   }
