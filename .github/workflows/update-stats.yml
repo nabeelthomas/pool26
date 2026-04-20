@@ -1,25 +1,15 @@
 name: update-stats
 
-# Schedule (Eastern Daylight Time, which covers all of the playoffs):
-#   09:00 ET                       (one daily morning catch-up)
-#   every 15 minutes 15:00–03:00 ET  (active hockey window)
+# Triggering is handled externally by cron-job.org, which POSTs to this
+# workflow's dispatch endpoint on a reliable 15-minute schedule during NHL
+# hours (19:00–06:45 UTC). We moved off GitHub's built-in `schedule:` because
+# it's best-effort and routinely skips runs under platform load — unacceptable
+# for a live leaderboard during a playoff game.
 #
-# Translated to UTC (EDT = UTC-4):
-#   13:00 UTC                      → 09:00 ET
-#   19:00–23:45 UTC every 15 min   → 15:00–19:45 ET
-#   00:00–06:45 UTC every 15 min   → 20:00–02:45 ET
-#   07:00 UTC                      → 03:00 ET (final tick)
-#
-# GitHub Actions cron is best-effort — runs may be delayed by a few minutes
-# during high load on their side. That's fine for a leaderboard refresh.
-# Public repos get unlimited Actions minutes, so the volume is free.
+# If the external trigger ever breaks, runs can still be kicked off manually
+# from the Actions tab via `workflow_dispatch`.
 on:
-  schedule:
-    - cron: '0 13 * * *'           # 09:00 ET — morning catch-up
-    - cron: '*/15 19-23 * * *'     # 15:00–19:45 ET (every 15 min)
-    - cron: '*/15 0-6 * * *'       # 20:00–02:45 ET (every 15 min)
-    - cron: '0 7 * * *'            # 03:00 ET — final tick
-  workflow_dispatch: {}            # allow manual runs from the Actions tab
+  workflow_dispatch: {}
 
 permissions:
   contents: write
