@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "GOAL",
+      "player": "Ivan Barbashev",
+      "team": "VGK",
+      "time": "10:00 PM ET",
+      "pool": "Paddy"
+    },
+    {
       "type": "ASSIST",
       "player": "Tomas Hertl",
       "team": "VGK",
