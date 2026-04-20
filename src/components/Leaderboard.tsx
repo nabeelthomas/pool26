@@ -182,7 +182,7 @@ export function Leaderboard({
               }}
               aria-live="polite"
             >
-              ● LIVE · {timeAgo(lastCronRun).toUpperCase()} AGO · LAST PT: {timeAgo(lastUpdated).toUpperCase()} AGO
+              ● LIVE · {timeAgo(lastCronRun).toUpperCase()} · LAST PT: {timeAgo(lastUpdated).toUpperCase()}
             </div>
           </div>
 
