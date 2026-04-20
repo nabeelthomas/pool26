@@ -2,6 +2,13 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Jack Quinn",
+      "team": "BUF",
+      "time": "7:30 PM ET",
+      "pool": "Andy"
+    },
+    {
+      "type": "ASSIST",
       "player": "Alex Tuch",
       "team": "BUF",
       "time": "7:30 PM ET",

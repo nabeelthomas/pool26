@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-20T02:14:10.348Z",
+  "lastUpdated": "2026-04-20T02:18:10.516Z",
   "players": {
     "Quinton Byfield": {
       "gp": 1,
@@ -240,6 +240,11 @@
       "gp": 1,
       "g": 0,
       "a": 0
+    },
+    "Jack Quinn": {
+      "gp": 1,
+      "g": 0,
+      "a": 1
     },
     "Tage Thompson": {
       "gp": 1,
