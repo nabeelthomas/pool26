@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-20T02:06:08.922Z",
+  "lastUpdated": "2026-04-20T02:14:10.348Z",
   "players": {
     "Quinton Byfield": {
       "gp": 1,
@@ -243,8 +243,13 @@
     },
     "Tage Thompson": {
       "gp": 1,
-      "g": 1,
+      "g": 2,
       "a": 0
+    },
+    "Alex Tuch": {
+      "gp": 1,
+      "g": 0,
+      "a": 1
     },
     "Devon Toews": {
       "gp": 1,
