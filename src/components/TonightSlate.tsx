@@ -30,10 +30,10 @@ interface TonightSlateProps {
   standings: ManagerStanding[];
 }
 
-const SCHEDULE_PATH = `${import.meta.env.BASE_URL}data/schedule.json`.replace(
-  /\/+/g,
-  '/',
-);
+// Fetched from raw.githubusercontent.com to bypass the Pages build pipeline —
+// same reasoning as dataFetch.ts. Updates within seconds of a cron push.
+const SCHEDULE_PATH =
+  'https://raw.githubusercontent.com/nabeelthomas/pool26/main/public/data/schedule.json';
 
 export function TonightSlate({ standings }: TonightSlateProps) {
   const [schedule, setSchedule] = useState<ScheduleFile | null>(null);

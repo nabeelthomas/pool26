@@ -7,6 +7,11 @@ name: deploy
 on:
   push:
     branches: [main]
+    paths-ignore:
+      # Data files are served from raw.githubusercontent.com, not Pages.
+      # Excluding them means cron commits (every 2 min) don't trigger a
+      # full Vite rebuild — deploys only happen when source code changes.
+      - 'public/data/**'
   workflow_dispatch: {}
 
 permissions:

@@ -28,18 +28,23 @@ async function fetchJSON<T>(path: string): Promise<T> {
   return (await res.json()) as T;
 }
 
-// Vite injects the configured base ("/pool26/" on Pages, "/" in dev) here
-// so the same code works locally and on the deployed subpath.
-const DATA_BASE = `${import.meta.env.BASE_URL}data`.replace(/\/+/g, '/');
+// Static files that rarely change are served from the Pages CDN (fast, cached).
+const PAGES_BASE = `${import.meta.env.BASE_URL}data`.replace(/\/+/g, '/');
+
+// Frequently-updated data files are fetched directly from raw.githubusercontent.com
+// so they bypass the Pages build pipeline. Pages only redeploys when source code
+// changes; data commits land here within seconds of the cron pushing to main.
+const RAW_BASE =
+  'https://raw.githubusercontent.com/nabeelthomas/pool26/main/public/data';
 
 /** Load all data files in parallel. Individual failures reject the whole call. */
 export async function loadPoolData(): Promise<PoolData> {
   const [rosters, stats, events, jokesFile, scheduleFile] = await Promise.all([
-    fetchJSON<RostersFile>(`${DATA_BASE}/rosters.json`),
-    fetchJSON<StatsFile>(`${DATA_BASE}/stats.json`),
-    fetchJSON<EventsFile>(`${DATA_BASE}/events.json`),
-    fetchJSON<{ jokes: string[] }>(`${DATA_BASE}/jokes.json`),
-    fetchJSON<{ generatedAt: string }>(`${DATA_BASE}/schedule.json`),
+    fetchJSON<RostersFile>(`${PAGES_BASE}/rosters.json`),
+    fetchJSON<StatsFile>(`${RAW_BASE}/stats.json`),
+    fetchJSON<EventsFile>(`${RAW_BASE}/events.json`),
+    fetchJSON<{ jokes: string[] }>(`${PAGES_BASE}/jokes.json`),
+    fetchJSON<{ generatedAt: string }>(`${RAW_BASE}/schedule.json`),
   ]);
   return {
     rosters,
