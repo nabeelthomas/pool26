@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-20T04:52:10.364Z",
+  "lastUpdated": "2026-04-20T04:54:10.041Z",
   "players": {
     "Quinton Byfield": {
       "gp": 1,
@@ -85,6 +85,11 @@
       "gp": 1,
       "g": 0,
       "a": 3
+    },
+    "Seth Jarvis": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
     },
     "Artturi Lehkonen": {
       "gp": 1,
@@ -226,6 +231,11 @@
       "g": 0,
       "a": 0
     },
+    "Shayne Gostisbehere": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Josh Doan": {
       "gp": 1,
       "g": 0,
@@ -282,6 +292,11 @@
       "a": 0
     },
     "Rasmus Dahlin": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
+    "Devon Toews": {
       "gp": 1,
       "g": 0,
       "a": 0
