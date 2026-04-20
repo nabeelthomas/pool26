@@ -1,7 +1,22 @@
 {
-  "lastUpdated": "2026-04-20T01:50:13.029Z",
+  "lastUpdated": "2026-04-20T02:02:10.470Z",
   "players": {
     "Quinton Byfield": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
+    "Cole Caufield": {
+      "gp": 1,
+      "g": 0,
+      "a": 2
+    },
+    "Ivan Demidov": {
+      "gp": 1,
+      "g": 0,
+      "a": 1
+    },
+    "Oliver Kapanen": {
       "gp": 1,
       "g": 0,
       "a": 0
@@ -19,6 +34,11 @@
     "Artemi Panarin": {
       "gp": 1,
       "g": 1,
+      "a": 0
+    },
+    "Juraj Slafkovsky": {
+      "gp": 1,
+      "g": 3,
       "a": 0
     },
     "Tim Stutzle": {
@@ -41,6 +61,11 @@
       "g": 0,
       "a": 1
     },
+    "Lane Hutson": {
+      "gp": 1,
+      "g": 0,
+      "a": 1
+    },
     "Sebastian Aho": {
       "gp": 1,
       "g": 0,
@@ -56,6 +81,11 @@
       "g": 0,
       "a": 0
     },
+    "Jake Guentzel": {
+      "gp": 1,
+      "g": 0,
+      "a": 3
+    },
     "Seth Jarvis": {
       "gp": 1,
       "g": 0,
@@ -67,6 +97,11 @@
       "a": 0
     },
     "Brock Nelson": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
+    "Brayden Point": {
       "gp": 1,
       "g": 0,
       "a": 0
@@ -121,6 +156,11 @@
       "g": 0,
       "a": 2
     },
+    "Nick Suzuki": {
+      "gp": 1,
+      "g": 0,
+      "a": 2
+    },
     "Mats Zuccarello": {
       "gp": 1,
       "g": 0,
@@ -145,6 +185,11 @@
       "gp": 1,
       "g": 0,
       "a": 1
+    },
+    "Nikita Kucherov": {
+      "gp": 1,
+      "g": 0,
+      "a": 2
     },
     "Evgeni Malkin": {
       "gp": 1,
@@ -206,9 +251,19 @@
       "g": 2,
       "a": 1
     },
+    "Anthony Cirelli": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Nikolaj Ehlers": {
       "gp": 1,
       "g": 0,
+      "a": 0
+    },
+    "Brandon Hagel": {
+      "gp": 1,
+      "g": 2,
       "a": 0
     },
     "Porter Martone": {
@@ -216,9 +271,19 @@
       "g": 1,
       "a": 0
     },
+    "Corey Perry": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Andrei Svechnikov": {
       "gp": 1,
       "g": 0,
+      "a": 0
+    },
+    "Darren Raddysh": {
+      "gp": 1,
+      "g": 1,
       "a": 0
     }
   }
