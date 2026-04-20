@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-04-20T23:10:19.074Z",
+  "generatedAt": "2026-04-20T23:12:11.889Z",
   "games": [
     {
       "id": 2025030142,
       "away": "PHI",
       "home": "PIT",
-      "awayScore": null,
-      "homeScore": null,
-      "period": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "period": "1st",
       "startUTC": "2026-04-20T23:00:00Z",
-      "status": "scheduled"
+      "status": "live"
     },
     {
       "id": 2025030132,
