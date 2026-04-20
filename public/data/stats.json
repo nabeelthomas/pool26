@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-20T00:58:08.929Z",
+  "lastUpdated": "2026-04-20T01:00:19.235Z",
   "players": {
     "Quinton Byfield": {
       "gp": 1,
@@ -21,6 +21,11 @@
       "g": 1,
       "a": 2
     },
+    "Adrian Kempe": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Artemi Panarin": {
       "gp": 1,
       "g": 1,
@@ -36,6 +41,11 @@
       "g": 0,
       "a": 0
     },
+    "Brady Tkachuk": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Brock Faber": {
       "gp": 1,
       "g": 0,
@@ -45,6 +55,11 @@
       "gp": 1,
       "g": 0,
       "a": 1
+    },
+    "Sebastian Aho": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
     },
     "Jackson Blake": {
       "gp": 1,
@@ -81,12 +96,22 @@
       "g": 1,
       "a": 1
     },
+    "Thomas Harley": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Miro Heiskanen": {
       "gp": 1,
       "g": 0,
       "a": 1
     },
     "Cale Makar": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
+    "Drake Batherson": {
       "gp": 1,
       "g": 0,
       "a": 0
@@ -201,6 +226,11 @@
       "g": 0,
       "a": 0
     },
+    "Devon Toews": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Matt Boldy": {
       "gp": 1,
       "g": 2,
@@ -219,6 +249,11 @@
     "Porter Martone": {
       "gp": 1,
       "g": 1,
+      "a": 0
+    },
+    "Andrei Svechnikov": {
+      "gp": 1,
+      "g": 0,
       "a": 0
     },
     "Darren Raddysh": {
