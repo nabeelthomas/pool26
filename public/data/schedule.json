@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-20T02:04:10.966Z",
+  "generatedAt": "2026-04-20T02:06:08.833Z",
   "games": [
     {
       "id": 2025030151,
@@ -26,7 +26,7 @@
       "away": "BOS",
       "home": "BUF",
       "awayScore": 2,
-      "homeScore": 0,
+      "homeScore": 1,
       "period": "3rd",
       "startUTC": "2026-04-19T23:30:00Z",
       "status": "live"

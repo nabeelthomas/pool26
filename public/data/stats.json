@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-20T02:02:10.470Z",
+  "lastUpdated": "2026-04-20T02:06:08.922Z",
   "players": {
     "Quinton Byfield": {
       "gp": 1,
@@ -239,6 +239,11 @@
     "Valeri Nichushkin": {
       "gp": 1,
       "g": 0,
+      "a": 0
+    },
+    "Tage Thompson": {
+      "gp": 1,
+      "g": 1,
       "a": 0
     },
     "Devon Toews": {

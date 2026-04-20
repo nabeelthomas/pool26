@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "GOAL",
+      "player": "Tage Thompson",
+      "team": "BUF",
+      "time": "7:30 PM ET",
+      "pool": "Andy"
+    },
+    {
       "type": "ASSIST",
       "player": "Morgan Geekie",
       "team": "BOS",
