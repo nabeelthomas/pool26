@@ -16,7 +16,9 @@ interface LeaderboardProps {
   onSelect: (id: string) => void;
   sortKey: SortKey;
   setSortKey: (key: SortKey) => void;
-  /** ISO timestamp shown as "updated Xm ago" in the CRT header. */
+  /** ISO timestamp of the last cron run (from schedule.json#generatedAt). */
+  lastCronRun: string;
+  /** ISO timestamp of when player stats last actually changed. */
   lastUpdated: string;
   /** Season/round label shown in the CRT header. */
   roundLabel?: string;
@@ -39,6 +41,7 @@ export function Leaderboard({
   onSelect,
   sortKey,
   setSortKey,
+  lastCronRun,
   lastUpdated,
   roundLabel = 'Playoffs',
   pointsSinceLastVisit,
@@ -179,7 +182,7 @@ export function Leaderboard({
               }}
               aria-live="polite"
             >
-              ● LIVE · UPDATED {timeAgo(lastUpdated).toUpperCase()}
+              ● LIVE · {timeAgo(lastCronRun).toUpperCase()} AGO · LAST PT: {timeAgo(lastUpdated).toUpperCase()} AGO
             </div>
           </div>
 

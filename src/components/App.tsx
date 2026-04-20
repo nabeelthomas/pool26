@@ -328,6 +328,7 @@ export function App() {
               onSelect={(id) => setSelectedId(id)}
               sortKey={sortKey}
               setSortKey={setSortKey}
+              lastCronRun={data.lastCronRun}
               lastUpdated={data.stats.lastUpdated}
               roundLabel={roundLabel}
               pointsSinceLastVisit={pointsSinceLastVisit}
