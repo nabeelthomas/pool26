@@ -52,7 +52,10 @@ function interleave(events: TickerEvent[], jokes: string[]): TickerItem[] {
 }
 
 export function ScoringTicker({ events, jokes }: ScoringTickerProps) {
-  const items = useMemo(() => interleave(events, jokes), [events, jokes]);
+  const items = useMemo(() => {
+    const shuffled = [...jokes].sort(() => Math.random() - 0.5);
+    return interleave(events, shuffled);
+  }, [events, jokes]);
   // Duplicate so translateX(-50%) hands off cleanly.
   const doubled = useMemo(() => [...items, ...items], [items]);
 
