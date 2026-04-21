@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-21T07:24:14.644Z",
+  "lastUpdated": "2026-04-21T07:26:15.180Z",
   "players": {
     "Quinton Byfield": {
       "gp": 1,
@@ -30,6 +30,11 @@
       "gp": 2,
       "g": 1,
       "a": 3
+    },
+    "Adrian Kempe": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
     },
     "Artemi Panarin": {
       "gp": 1,
@@ -271,7 +276,17 @@
       "g": 1,
       "a": 0
     },
+    "Nick Schmaltz": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Vladimir Tarasenko": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
+    "Shayne Gostisbehere": {
       "gp": 2,
       "g": 0,
       "a": 0
@@ -350,6 +365,11 @@
       "gp": 2,
       "g": 2,
       "a": 1
+    },
+    "Anthony Cirelli": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
     },
     "Leon Draisaitl": {
       "gp": 1,
