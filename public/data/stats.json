@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "2026-04-21T08:02:13.952Z",
+  "lastUpdated": "2026-04-21T08:04:14.683Z",
   "players": {
+    "Quinton Byfield": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Cole Caufield": {
       "gp": 1,
       "g": 0,
@@ -14,6 +19,11 @@
     "Kasperi Kapanen": {
       "gp": 1,
       "g": 2,
+      "a": 0
+    },
+    "Oliver Kapanen": {
+      "gp": 1,
+      "g": 0,
       "a": 0
     },
     "Kirill Kaprizov": {
@@ -62,7 +72,7 @@
       "a": 1
     },
     "Sebastian Aho": {
-      "gp": 1,
+      "gp": 2,
       "g": 1,
       "a": 0
     },
@@ -101,10 +111,20 @@
       "g": 0,
       "a": 0
     },
+    "Brayden Point": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Logan Stankoven": {
       "gp": 2,
       "g": 2,
       "a": 1
+    },
+    "Thomas Harley": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
     },
     "Miro Heiskanen": {
       "gp": 2,
@@ -112,6 +132,11 @@
       "a": 2
     },
     "Cale Makar": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
+    "Shea Theodore": {
       "gp": 1,
       "g": 0,
       "a": 0
@@ -256,6 +281,11 @@
       "g": 0,
       "a": 0
     },
+    "Vladimir Tarasenko": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
     "Shayne Gostisbehere": {
       "gp": 2,
       "g": 0,
@@ -276,10 +306,20 @@
       "g": 0,
       "a": 0
     },
+    "Gabriel Landeskog": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Nathan MacKinnon": {
       "gp": 1,
       "g": 0,
       "a": 1
+    },
+    "Ryan McLeod": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
     },
     "Valeri Nichushkin": {
       "gp": 1,
@@ -301,12 +341,22 @@
       "g": 1,
       "a": 1
     },
+    "Jason Zucker": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Bowen Byram": {
       "gp": 1,
       "g": 0,
       "a": 0
     },
     "Rasmus Dahlin": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
+    "Devon Toews": {
       "gp": 1,
       "g": 0,
       "a": 0
@@ -361,9 +411,14 @@
       "g": 0,
       "a": 0
     },
-    "Mark Stone": {
+    "Corey Perry": {
       "gp": 1,
-      "g": 1,
+      "g": 0,
+      "a": 0
+    },
+    "Andrei Svechnikov": {
+      "gp": 2,
+      "g": 0,
       "a": 0
     },
     "Evan Bouchard": {
