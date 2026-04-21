@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-21T05:26:10.137Z",
+  "lastUpdated": "2026-04-21T05:28:12.811Z",
   "players": {
     "Quinton Byfield": {
       "gp": 1,
@@ -21,20 +21,10 @@
       "g": 2,
       "a": 0
     },
-    "Oliver Kapanen": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
-    },
     "Kirill Kaprizov": {
       "gp": 2,
       "g": 1,
       "a": 3
-    },
-    "Adrian Kempe": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
     },
     "Artemi Panarin": {
       "gp": 1,
@@ -44,11 +34,6 @@
     "Juraj Slafkovsky": {
       "gp": 1,
       "g": 3,
-      "a": 0
-    },
-    "Tim Stutzle": {
-      "gp": 2,
-      "g": 0,
       "a": 0
     },
     "Brady Tkachuk": {
@@ -95,11 +80,6 @@
       "gp": 1,
       "g": 0,
       "a": 3
-    },
-    "Seth Jarvis": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
     },
     "Artturi Lehkonen": {
       "gp": 1,
@@ -151,6 +131,16 @@
       "g": 1,
       "a": 0
     },
+    "Sidney Crosby": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
+    "Pavel Dorofeyev": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Joel Eriksson Ek": {
       "gp": 2,
       "g": 2,
@@ -165,11 +155,6 @@
       "gp": 1,
       "g": 0,
       "a": 1
-    },
-    "Martin Necas": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
     },
     "David Pastrnak": {
       "gp": 1,
@@ -196,6 +181,11 @@
       "g": 0,
       "a": 1
     },
+    "Charlie McAvoy": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Ivan Barbashev": {
       "gp": 1,
       "g": 1,
@@ -211,15 +201,15 @@
       "g": 1,
       "a": 2
     },
+    "Dylan Guenther": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Wyatt Johnston": {
       "gp": 2,
       "g": 2,
       "a": 1
-    },
-    "Clayton Keller": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
     },
     "Travis Konecny": {
       "gp": 2,
@@ -257,6 +247,11 @@
       "a": 0
     },
     "Vladimir Tarasenko": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
+    "Shayne Gostisbehere": {
       "gp": 2,
       "g": 0,
       "a": 0
@@ -331,6 +326,11 @@
       "g": 2,
       "a": 1
     },
+    "Anthony Cirelli": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Leon Draisaitl": {
       "gp": 1,
       "g": 0,
@@ -346,19 +346,14 @@
       "g": 2,
       "a": 0
     },
+    "James Hagens": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Porter Martone": {
       "gp": 2,
       "g": 2,
-      "a": 0
-    },
-    "Josh Norris": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
-    },
-    "Corey Perry": {
-      "gp": 1,
-      "g": 0,
       "a": 0
     },
     "Mark Stone": {
