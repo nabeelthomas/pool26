@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-21T02:16:10.450Z",
+  "lastUpdated": "2026-04-21T02:52:13.686Z",
   "players": {
     "Quinton Byfield": {
       "gp": 1,
@@ -41,11 +41,6 @@
       "g": 3,
       "a": 0
     },
-    "Tim Stutzle": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
-    },
     "Brady Tkachuk": {
       "gp": 1,
       "g": 0,
@@ -75,11 +70,6 @@
       "gp": 1,
       "g": 0,
       "a": 3
-    },
-    "Matt Duchene": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
     },
     "Jack Eichel": {
       "gp": 1,
@@ -146,16 +136,6 @@
       "g": 1,
       "a": 0
     },
-    "Sidney Crosby": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
-    },
-    "Pavel Dorofeyev": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
-    },
     "Joel Eriksson Ek": {
       "gp": 1,
       "g": 2,
@@ -192,14 +172,9 @@
       "a": 3
     },
     "Erik Karlsson": {
-      "gp": 1,
+      "gp": 2,
       "g": 0,
       "a": 1
-    },
-    "Charlie McAvoy": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
     },
     "Ivan Barbashev": {
       "gp": 1,
@@ -227,7 +202,7 @@
       "a": 0
     },
     "Travis Konecny": {
-      "gp": 1,
+      "gp": 2,
       "g": 0,
       "a": 2
     },
@@ -237,7 +212,7 @@
       "a": 2
     },
     "Evgeni Malkin": {
-      "gp": 1,
+      "gp": 2,
       "g": 1,
       "a": 1
     },
@@ -252,13 +227,8 @@
       "a": 0
     },
     "Bryan Rust": {
-      "gp": 1,
+      "gp": 2,
       "g": 1,
-      "a": 0
-    },
-    "Nick Schmaltz": {
-      "gp": 1,
-      "g": 0,
       "a": 0
     },
     "Vladimir Tarasenko": {
@@ -296,11 +266,6 @@
       "g": 0,
       "a": 0
     },
-    "Valeri Nichushkin": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
-    },
     "Jack Quinn": {
       "gp": 1,
       "g": 0,
@@ -326,11 +291,6 @@
       "g": 0,
       "a": 0
     },
-    "Rasmus Dahlin": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
-    },
     "Devon Toews": {
       "gp": 1,
       "g": 0,
@@ -340,11 +300,6 @@
       "gp": 1,
       "g": 2,
       "a": 1
-    },
-    "Anthony Cirelli": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
     },
     "Nikolaj Ehlers": {
       "gp": 1,
@@ -356,13 +311,8 @@
       "g": 2,
       "a": 0
     },
-    "James Hagens": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
-    },
     "Porter Martone": {
-      "gp": 1,
+      "gp": 2,
       "g": 2,
       "a": 0
     },
