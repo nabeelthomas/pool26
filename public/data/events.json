@@ -29,6 +29,13 @@
       "pool": "Will"
     },
     {
+      "type": "ASSIST",
+      "player": "Joel Eriksson Ek",
+      "team": "MIN",
+      "time": "9:30 PM ET",
+      "pool": "Reiner"
+    },
+    {
       "type": "GOAL",
       "player": "Brock Faber",
       "team": "MIN",
