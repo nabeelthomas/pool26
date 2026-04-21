@@ -2,6 +2,20 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Nick Suzuki",
+      "team": "MTL",
+      "time": "7:00 PM ET",
+      "pool": "Reiner"
+    },
+    {
+      "type": "GOAL",
+      "player": "Lane Hutson",
+      "team": "MTL",
+      "time": "7:00 PM ET",
+      "pool": "Will"
+    },
+    {
+      "type": "ASSIST",
       "player": "Jake Guentzel",
       "team": "TBL",
       "time": "7:00 PM ET",
@@ -405,20 +419,6 @@
       "team": "MIN",
       "time": "5:30 PM ET",
       "pool": "Will"
-    },
-    {
-      "type": "GOAL",
-      "player": "Kirill Kaprizov",
-      "team": "MIN",
-      "time": "5:30 PM ET",
-      "pool": "Will"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Matt Boldy",
-      "team": "MIN",
-      "time": "5:30 PM ET",
-      "pool": "Cam"
     }
   ]
 }
