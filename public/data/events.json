@@ -8,6 +8,20 @@
       "pool": "Nabeel"
     },
     {
+      "type": "ASSIST",
+      "player": "Travis Konecny",
+      "team": "PHI",
+      "time": "7:00 PM ET",
+      "pool": "Paddy"
+    },
+    {
+      "type": "GOAL",
+      "player": "Porter Martone",
+      "team": "PHI",
+      "time": "7:00 PM ET",
+      "pool": "Cam"
+    },
+    {
       "type": "GOAL",
       "player": "Ivan Barbashev",
       "team": "VGK",
