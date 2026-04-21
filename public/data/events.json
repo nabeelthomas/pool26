@@ -64,6 +64,13 @@
       "pool": "Paddy"
     },
     {
+      "type": "ASSIST",
+      "player": "Nikolaj Ehlers",
+      "team": "CAR",
+      "time": "7:30 PM ET",
+      "pool": "Cam"
+    },
+    {
       "type": "GOAL",
       "player": "Dylan Cozens",
       "team": "OTT",
