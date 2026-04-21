@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "ASSIST",
+      "player": "Mattias Ekholm",
+      "team": "EDM",
+      "time": "10:00 PM ET",
+      "pool": "Reiner"
+    },
+    {
       "type": "GOAL",
       "player": "Leo Carlsson",
       "team": "ANA",
@@ -410,13 +417,6 @@
       "type": "ASSIST",
       "player": "Jackson Blake",
       "team": "OTT",
-      "time": "3:00 PM ET",
-      "pool": "Nabeel"
-    },
-    {
-      "type": "GOAL",
-      "player": "Logan Stankoven",
-      "team": "CAR",
       "time": "3:00 PM ET",
       "pool": "Nabeel"
     }
