@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-21T00:08:10.702Z",
+  "lastUpdated": "2026-04-21T00:20:14.238Z",
   "players": {
     "Quinton Byfield": {
       "gp": 1,
@@ -75,11 +75,6 @@
       "gp": 1,
       "g": 0,
       "a": 3
-    },
-    "Matt Duchene": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
     },
     "Jack Eichel": {
       "gp": 1,
@@ -266,11 +261,6 @@
       "g": 0,
       "a": 0
     },
-    "Shayne Gostisbehere": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
-    },
     "Josh Doan": {
       "gp": 1,
       "g": 0,
@@ -292,11 +282,6 @@
       "a": 1
     },
     "Ryan McLeod": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
-    },
-    "Valeri Nichushkin": {
       "gp": 1,
       "g": 0,
       "a": 0
@@ -356,22 +341,12 @@
       "g": 2,
       "a": 0
     },
-    "James Hagens": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
-    },
     "Porter Martone": {
       "gp": 1,
       "g": 1,
       "a": 0
     },
     "Josh Norris": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
-    },
-    "Corey Perry": {
       "gp": 1,
       "g": 0,
       "a": 0
