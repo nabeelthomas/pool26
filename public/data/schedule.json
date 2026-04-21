@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T04:18:10.666Z",
+  "generatedAt": "2026-04-21T04:20:13.359Z",
   "games": [
     {
       "id": 2025030142,
@@ -25,7 +25,7 @@
       "id": 2025030162,
       "away": "MIN",
       "home": "DAL",
-      "awayScore": 1,
+      "awayScore": 2,
       "homeScore": 3,
       "period": "3rd",
       "startUTC": "2026-04-21T01:30:00Z",
