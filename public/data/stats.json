@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-21T01:50:14.153Z",
+  "lastUpdated": "2026-04-21T01:52:12.673Z",
   "players": {
     "Quinton Byfield": {
       "gp": 1,
@@ -26,6 +26,11 @@
       "g": 1,
       "a": 2
     },
+    "Adrian Kempe": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Artemi Panarin": {
       "gp": 1,
       "g": 1,
@@ -37,6 +42,11 @@
       "a": 0
     },
     "Tim Stutzle": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
+    "Brady Tkachuk": {
       "gp": 1,
       "g": 0,
       "a": 0
@@ -186,6 +196,11 @@
       "g": 0,
       "a": 1
     },
+    "Charlie McAvoy": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Ivan Barbashev": {
       "gp": 1,
       "g": 1,
@@ -195,6 +210,11 @@
       "gp": 1,
       "g": 1,
       "a": 2
+    },
+    "Dylan Guenther": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
     },
     "Wyatt Johnston": {
       "gp": 1,
@@ -247,6 +267,11 @@
       "a": 0
     },
     "Shayne Gostisbehere": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
+    "Josh Doan": {
       "gp": 1,
       "g": 0,
       "a": 0
