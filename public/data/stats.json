@@ -1,11 +1,6 @@
 {
-  "lastUpdated": "2026-04-21T04:54:13.217Z",
+  "lastUpdated": "2026-04-21T04:58:15.219Z",
   "players": {
-    "Quinton Byfield": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
-    },
     "Cole Caufield": {
       "gp": 1,
       "g": 0,
@@ -19,11 +14,6 @@
     "Kasperi Kapanen": {
       "gp": 1,
       "g": 2,
-      "a": 0
-    },
-    "Oliver Kapanen": {
-      "gp": 1,
-      "g": 0,
       "a": 0
     },
     "Kirill Kaprizov": {
@@ -86,11 +76,6 @@
       "g": 1,
       "a": 1
     },
-    "Jack Eichel": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
-    },
     "Jake Guentzel": {
       "gp": 1,
       "g": 0,
@@ -130,11 +115,6 @@
       "gp": 1,
       "g": 0,
       "a": 2
-    },
-    "Cale Makar": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
     },
     "Shea Theodore": {
       "gp": 1,
@@ -206,11 +186,6 @@
       "g": 0,
       "a": 1
     },
-    "Charlie McAvoy": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
-    },
     "Ivan Barbashev": {
       "gp": 1,
       "g": 1,
@@ -276,11 +251,6 @@
       "g": 0,
       "a": 0
     },
-    "Vladimir Tarasenko": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
-    },
     "Shayne Gostisbehere": {
       "gp": 2,
       "g": 0,
@@ -292,11 +262,6 @@
       "a": 0
     },
     "Nazem Kadri": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
-    },
-    "Gabriel Landeskog": {
       "gp": 1,
       "g": 0,
       "a": 0
@@ -331,22 +296,7 @@
       "g": 1,
       "a": 1
     },
-    "Jason Zucker": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
-    },
-    "Bowen Byram": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
-    },
     "Rasmus Dahlin": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
-    },
-    "Devon Toews": {
       "gp": 1,
       "g": 0,
       "a": 0
@@ -399,11 +349,6 @@
     "Mark Stone": {
       "gp": 1,
       "g": 1,
-      "a": 0
-    },
-    "Andrei Svechnikov": {
-      "gp": 2,
-      "g": 0,
       "a": 0
     },
     "Darren Raddysh": {
