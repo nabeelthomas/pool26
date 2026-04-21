@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "GOAL",
+      "player": "Kasperi Kapanen",
+      "team": "EDM",
+      "time": "10:00 PM ET",
+      "pool": "Will"
+    },
+    {
       "type": "ASSIST",
       "player": "Mattias Ekholm",
       "team": "EDM",
@@ -27,13 +34,6 @@
       "team": "EDM",
       "time": "10:00 PM ET",
       "pool": "Cam"
-    },
-    {
-      "type": "GOAL",
-      "player": "Kasperi Kapanen",
-      "team": "EDM",
-      "time": "10:00 PM ET",
-      "pool": "Will"
     },
     {
       "type": "GOAL",
