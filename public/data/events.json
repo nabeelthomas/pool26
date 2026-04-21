@@ -2,6 +2,13 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Leo Carlsson",
+      "team": "ANA",
+      "time": "10:00 PM ET",
+      "pool": "Paddy"
+    },
+    {
+      "type": "ASSIST",
       "player": "Leon Draisaitl",
       "team": "EDM",
       "time": "10:00 PM ET",

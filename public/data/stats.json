@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-21T03:14:11.149Z",
+  "lastUpdated": "2026-04-21T03:22:10.244Z",
   "players": {
     "Quinton Byfield": {
       "gp": 1,
@@ -210,6 +210,11 @@
       "gp": 1,
       "g": 1,
       "a": 0
+    },
+    "Leo Carlsson": {
+      "gp": 1,
+      "g": 0,
+      "a": 1
     },
     "Morgan Geekie": {
       "gp": 1,
