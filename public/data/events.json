@@ -36,6 +36,13 @@
       "pool": "Will"
     },
     {
+      "type": "GOAL",
+      "player": "Wyatt Johnston",
+      "team": "DAL",
+      "time": "9:30 PM ET",
+      "pool": "Paddy"
+    },
+    {
       "type": "ASSIST",
       "player": "Joel Eriksson Ek",
       "team": "MIN",
@@ -76,13 +83,6 @@
       "team": "MIN",
       "time": "9:30 PM ET",
       "pool": "Will"
-    },
-    {
-      "type": "GOAL",
-      "player": "Wyatt Johnston",
-      "team": "DAL",
-      "time": "9:30 PM ET",
-      "pool": "Paddy"
     },
     {
       "type": "ASSIST",
