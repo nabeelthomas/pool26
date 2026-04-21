@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-21T05:34:12.535Z",
+  "lastUpdated": "2026-04-21T05:36:11.016Z",
   "players": {
     "Quinton Byfield": {
       "gp": 1,
@@ -46,6 +46,11 @@
       "g": 3,
       "a": 0
     },
+    "Tim Stutzle": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
     "Brady Tkachuk": {
       "gp": 2,
       "g": 0,
@@ -90,6 +95,11 @@
       "gp": 1,
       "g": 0,
       "a": 3
+    },
+    "Seth Jarvis": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
     },
     "Artturi Lehkonen": {
       "gp": 1,
@@ -165,6 +175,11 @@
       "gp": 1,
       "g": 0,
       "a": 1
+    },
+    "Martin Necas": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
     },
     "Ryan Nugent-Hopkins": {
       "gp": 1,
@@ -306,6 +321,11 @@
       "g": 0,
       "a": 0
     },
+    "Valeri Nichushkin": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Jack Quinn": {
       "gp": 1,
       "g": 0,
@@ -346,6 +366,11 @@
       "g": 2,
       "a": 1
     },
+    "Anthony Cirelli": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Leon Draisaitl": {
       "gp": 1,
       "g": 0,
@@ -359,6 +384,11 @@
     "Brandon Hagel": {
       "gp": 1,
       "g": 2,
+      "a": 0
+    },
+    "James Hagens": {
+      "gp": 1,
+      "g": 0,
       "a": 0
     },
     "Zach Hyman": {
@@ -376,6 +406,11 @@
       "g": 0,
       "a": 0
     },
+    "Josh Norris": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Corey Perry": {
       "gp": 1,
       "g": 0,
@@ -388,6 +423,11 @@
     },
     "Andrei Svechnikov": {
       "gp": 2,
+      "g": 0,
+      "a": 0
+    },
+    "Evan Bouchard": {
+      "gp": 1,
       "g": 0,
       "a": 0
     },
