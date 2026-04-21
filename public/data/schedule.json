@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T01:10:12.432Z",
+  "generatedAt": "2026-04-21T01:12:09.731Z",
   "games": [
     {
       "id": 2025030142,
@@ -15,7 +15,7 @@
       "id": 2025030132,
       "away": "OTT",
       "home": "CAR",
-      "awayScore": 1,
+      "awayScore": 2,
       "homeScore": 2,
       "period": "2nd",
       "startUTC": "2026-04-20T23:30:00Z",
