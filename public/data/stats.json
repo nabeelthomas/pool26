@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-21T02:52:13.686Z",
+  "lastUpdated": "2026-04-21T02:54:13.486Z",
   "players": {
     "Quinton Byfield": {
       "gp": 1,
@@ -41,6 +41,11 @@
       "g": 3,
       "a": 0
     },
+    "Tim Stutzle": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Brady Tkachuk": {
       "gp": 1,
       "g": 0,
@@ -70,6 +75,11 @@
       "gp": 1,
       "g": 0,
       "a": 3
+    },
+    "Matt Duchene": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
     },
     "Jack Eichel": {
       "gp": 1,
@@ -136,6 +146,16 @@
       "g": 1,
       "a": 0
     },
+    "Sidney Crosby": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
+    "Pavel Dorofeyev": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Joel Eriksson Ek": {
       "gp": 1,
       "g": 2,
@@ -175,6 +195,11 @@
       "gp": 2,
       "g": 0,
       "a": 1
+    },
+    "Charlie McAvoy": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
     },
     "Ivan Barbashev": {
       "gp": 1,
@@ -231,6 +256,11 @@
       "g": 1,
       "a": 0
     },
+    "Nick Schmaltz": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Vladimir Tarasenko": {
       "gp": 1,
       "g": 0,
@@ -266,6 +296,11 @@
       "g": 0,
       "a": 0
     },
+    "Valeri Nichushkin": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Jack Quinn": {
       "gp": 1,
       "g": 0,
@@ -291,6 +326,11 @@
       "g": 0,
       "a": 0
     },
+    "Rasmus Dahlin": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Devon Toews": {
       "gp": 1,
       "g": 0,
@@ -301,6 +341,11 @@
       "g": 2,
       "a": 1
     },
+    "Anthony Cirelli": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Nikolaj Ehlers": {
       "gp": 1,
       "g": 0,
@@ -309,6 +354,11 @@
     "Brandon Hagel": {
       "gp": 1,
       "g": 2,
+      "a": 0
+    },
+    "James Hagens": {
+      "gp": 1,
+      "g": 0,
       "a": 0
     },
     "Porter Martone": {
