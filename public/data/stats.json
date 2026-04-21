@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-21T04:14:10.923Z",
+  "lastUpdated": "2026-04-21T04:16:13.114Z",
   "players": {
     "Quinton Byfield": {
       "gp": 1,
@@ -46,16 +46,6 @@
       "g": 3,
       "a": 0
     },
-    "Tim Stutzle": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
-    },
-    "Brady Tkachuk": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
-    },
     "Brock Faber": {
       "gp": 1,
       "g": 1,
@@ -84,7 +74,7 @@
     "Matt Duchene": {
       "gp": 1,
       "g": 1,
-      "a": 0
+      "a": 1
     },
     "Jack Eichel": {
       "gp": 1,
@@ -200,11 +190,6 @@
       "gp": 2,
       "g": 0,
       "a": 1
-    },
-    "Charlie McAvoy": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
     },
     "Ivan Barbashev": {
       "gp": 1,
@@ -350,11 +335,6 @@
       "gp": 1,
       "g": 2,
       "a": 1
-    },
-    "Anthony Cirelli": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
     },
     "Leon Draisaitl": {
       "gp": 1,
