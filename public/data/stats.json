@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-21T05:44:14.377Z",
+  "lastUpdated": "2026-04-21T05:46:15.553Z",
   "players": {
     "Quinton Byfield": {
       "gp": 1,
@@ -19,6 +19,11 @@
     "Kasperi Kapanen": {
       "gp": 1,
       "g": 2,
+      "a": 0
+    },
+    "Oliver Kapanen": {
+      "gp": 1,
+      "g": 0,
       "a": 0
     },
     "Kirill Kaprizov": {
@@ -67,7 +72,7 @@
       "a": 1
     },
     "Sebastian Aho": {
-      "gp": 1,
+      "gp": 2,
       "g": 1,
       "a": 0
     },
@@ -146,6 +151,16 @@
       "g": 1,
       "a": 0
     },
+    "Sidney Crosby": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
+    "Pavel Dorofeyev": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Joel Eriksson Ek": {
       "gp": 2,
       "g": 2,
@@ -195,6 +210,11 @@
       "gp": 2,
       "g": 0,
       "a": 1
+    },
+    "Charlie McAvoy": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
     },
     "Ivan Barbashev": {
       "gp": 1,
@@ -276,6 +296,16 @@
       "g": 0,
       "a": 0
     },
+    "Cutter Gauthier": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
+    "Nazem Kadri": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Gabriel Landeskog": {
       "gp": 1,
       "g": 0,
@@ -321,6 +351,11 @@
       "g": 0,
       "a": 0
     },
+    "Rasmus Dahlin": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Devon Toews": {
       "gp": 1,
       "g": 0,
@@ -352,6 +387,11 @@
       "a": 0
     },
     "James Hagens": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
+    "Zach Hyman": {
       "gp": 1,
       "g": 0,
       "a": 0
