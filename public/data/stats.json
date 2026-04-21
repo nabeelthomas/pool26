@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-21T01:30:15.750Z",
+  "lastUpdated": "2026-04-21T01:32:09.349Z",
   "players": {
     "Quinton Byfield": {
       "gp": 1,
@@ -39,6 +39,16 @@
     "Juraj Slafkovsky": {
       "gp": 1,
       "g": 3,
+      "a": 0
+    },
+    "Tim Stutzle": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
+    "Brady Tkachuk": {
+      "gp": 1,
+      "g": 0,
       "a": 0
     },
     "Brock Faber": {
@@ -201,6 +211,11 @@
       "g": 1,
       "a": 2
     },
+    "Dylan Guenther": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Wyatt Johnston": {
       "gp": 1,
       "g": 0,
@@ -252,6 +267,11 @@
       "a": 0
     },
     "Shayne Gostisbehere": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
+    "Josh Doan": {
       "gp": 1,
       "g": 0,
       "a": 0
@@ -320,6 +340,11 @@
       "gp": 1,
       "g": 2,
       "a": 1
+    },
+    "Anthony Cirelli": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
     },
     "Nikolaj Ehlers": {
       "gp": 1,
