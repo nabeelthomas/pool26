@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-21T10:40:12.631Z",
+  "lastUpdated": "2026-04-21T10:48:10.342Z",
   "players": {
     "Quinton Byfield": {
       "gp": 1,
@@ -44,11 +44,6 @@
     "Juraj Slafkovsky": {
       "gp": 1,
       "g": 3,
-      "a": 0
-    },
-    "Tim Stutzle": {
-      "gp": 2,
-      "g": 0,
       "a": 0
     },
     "Brady Tkachuk": {
@@ -176,11 +171,6 @@
       "g": 0,
       "a": 1
     },
-    "Martin Necas": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
-    },
     "Ryan Nugent-Hopkins": {
       "gp": 1,
       "g": 0,
@@ -203,11 +193,6 @@
     },
     "Mattias Ekholm": {
       "gp": 1,
-      "g": 0,
-      "a": 1
-    },
-    "Erik Karlsson": {
-      "gp": 2,
       "g": 0,
       "a": 1
     },
@@ -241,11 +226,6 @@
       "g": 2,
       "a": 1
     },
-    "Clayton Keller": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
-    },
     "Travis Konecny": {
       "gp": 2,
       "g": 0,
@@ -274,11 +254,6 @@
     "Bryan Rust": {
       "gp": 2,
       "g": 1,
-      "a": 0
-    },
-    "Nick Schmaltz": {
-      "gp": 1,
-      "g": 0,
       "a": 0
     },
     "Vladimir Tarasenko": {
@@ -321,16 +296,6 @@
       "g": 0,
       "a": 0
     },
-    "Valeri Nichushkin": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
-    },
-    "Jack Quinn": {
-      "gp": 1,
-      "g": 0,
-      "a": 1
-    },
     "Tage Thompson": {
       "gp": 1,
       "g": 2,
@@ -366,11 +331,6 @@
       "g": 2,
       "a": 1
     },
-    "Anthony Cirelli": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
-    },
     "Leon Draisaitl": {
       "gp": 1,
       "g": 0,
@@ -384,11 +344,6 @@
     "Brandon Hagel": {
       "gp": 1,
       "g": 2,
-      "a": 0
-    },
-    "James Hagens": {
-      "gp": 1,
-      "g": 0,
       "a": 0
     },
     "Zach Hyman": {
@@ -423,11 +378,6 @@
     },
     "Andrei Svechnikov": {
       "gp": 2,
-      "g": 0,
-      "a": 0
-    },
-    "Evan Bouchard": {
-      "gp": 1,
       "g": 0,
       "a": 0
     },
