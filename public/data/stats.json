@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-21T02:08:09.921Z",
+  "lastUpdated": "2026-04-21T02:16:10.450Z",
   "players": {
     "Quinton Byfield": {
       "gp": 1,
@@ -24,7 +24,7 @@
     "Kirill Kaprizov": {
       "gp": 1,
       "g": 1,
-      "a": 2
+      "a": 3
     },
     "Adrian Kempe": {
       "gp": 1,
@@ -53,13 +53,13 @@
     },
     "Brock Faber": {
       "gp": 1,
-      "g": 0,
+      "g": 1,
       "a": 1
     },
     "Quinn Hughes": {
       "gp": 1,
       "g": 0,
-      "a": 1
+      "a": 2
     },
     "Lane Hutson": {
       "gp": 1,

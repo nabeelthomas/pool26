@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "type": "ASSIST",
+      "player": "Quinn Hughes",
+      "team": "MIN",
+      "time": "9:30 PM ET",
+      "pool": "Will"
+    },
+    {
+      "type": "GOAL",
+      "player": "Brock Faber",
+      "team": "MIN",
+      "time": "9:30 PM ET",
+      "pool": "Will"
+    },
+    {
       "type": "GOAL",
       "player": "Wyatt Johnston",
       "team": "DAL",
