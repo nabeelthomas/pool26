@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-21T06:00:15.793Z",
+  "lastUpdated": "2026-04-21T06:32:11.506Z",
   "players": {
     "Quinton Byfield": {
       "gp": 1,
@@ -31,11 +31,6 @@
       "g": 1,
       "a": 3
     },
-    "Adrian Kempe": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
-    },
     "Artemi Panarin": {
       "gp": 1,
       "g": 1,
@@ -44,11 +39,6 @@
     "Juraj Slafkovsky": {
       "gp": 1,
       "g": 3,
-      "a": 0
-    },
-    "Tim Stutzle": {
-      "gp": 2,
-      "g": 0,
       "a": 0
     },
     "Brady Tkachuk": {
@@ -95,11 +85,6 @@
       "gp": 1,
       "g": 0,
       "a": 3
-    },
-    "Seth Jarvis": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
     },
     "Artturi Lehkonen": {
       "gp": 1,
@@ -241,11 +226,6 @@
       "g": 2,
       "a": 1
     },
-    "Clayton Keller": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
-    },
     "Travis Konecny": {
       "gp": 2,
       "g": 0,
@@ -274,11 +254,6 @@
     "Bryan Rust": {
       "gp": 2,
       "g": 1,
-      "a": 0
-    },
-    "Nick Schmaltz": {
-      "gp": 1,
-      "g": 0,
       "a": 0
     },
     "Vladimir Tarasenko": {
@@ -402,11 +377,6 @@
       "a": 0
     },
     "Connor McDavid": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
-    },
-    "Josh Norris": {
       "gp": 1,
       "g": 0,
       "a": 0
