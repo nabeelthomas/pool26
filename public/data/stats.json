@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T05:44:10.817Z",
+  "lastUpdated": "2026-04-22T05:48:11.558Z",
   "players": {
     "Quinton Byfield": {
       "gp": 1,
@@ -101,11 +101,6 @@
       "g": 0,
       "a": 0
     },
-    "Artturi Lehkonen": {
-      "gp": 1,
-      "g": 1,
-      "a": 0
-    },
     "Brock Nelson": {
       "gp": 1,
       "g": 0,
@@ -149,16 +144,6 @@
     "Dylan Cozens": {
       "gp": 2,
       "g": 1,
-      "a": 0
-    },
-    "Sidney Crosby": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
-    "Pavel Dorofeyev": {
-      "gp": 2,
-      "g": 0,
       "a": 0
     },
     "Joel Eriksson Ek": {
@@ -276,17 +261,7 @@
       "g": 1,
       "a": 0
     },
-    "Nick Schmaltz": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
     "Vladimir Tarasenko": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
-    "Shayne Gostisbehere": {
       "gp": 2,
       "g": 0,
       "a": 0
@@ -297,11 +272,6 @@
       "a": 0
     },
     "Cutter Gauthier": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
-    },
-    "Nazem Kadri": {
       "gp": 1,
       "g": 0,
       "a": 0
@@ -376,11 +346,6 @@
       "g": 0,
       "a": 2
     },
-    "Nikolaj Ehlers": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
-    },
     "Brandon Hagel": {
       "gp": 2,
       "g": 3,
@@ -388,11 +353,6 @@
     },
     "James Hagens": {
       "gp": 2,
-      "g": 0,
-      "a": 0
-    },
-    "Zach Hyman": {
-      "gp": 1,
       "g": 0,
       "a": 0
     },
@@ -429,11 +389,6 @@
     "Evan Bouchard": {
       "gp": 1,
       "g": 0,
-      "a": 0
-    },
-    "Darren Raddysh": {
-      "gp": 2,
-      "g": 1,
       "a": 0
     }
   }
