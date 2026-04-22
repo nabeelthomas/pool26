@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T01:30:15.880Z",
+  "lastUpdated": "2026-04-22T01:32:12.879Z",
   "players": {
     "Quinton Byfield": {
       "gp": 1,
@@ -44,6 +44,11 @@
     "Juraj Slafkovsky": {
       "gp": 1,
       "g": 3,
+      "a": 0
+    },
+    "Tim Stutzle": {
+      "gp": 2,
+      "g": 0,
       "a": 0
     },
     "Brady Tkachuk": {
@@ -171,6 +176,11 @@
       "g": 0,
       "a": 1
     },
+    "Martin Necas": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Ryan Nugent-Hopkins": {
       "gp": 1,
       "g": 0,
@@ -266,6 +276,11 @@
       "g": 1,
       "a": 0
     },
+    "Nick Schmaltz": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Vladimir Tarasenko": {
       "gp": 2,
       "g": 0,
@@ -351,6 +366,11 @@
       "g": 2,
       "a": 1
     },
+    "Anthony Cirelli": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Leon Draisaitl": {
       "gp": 1,
       "g": 0,
@@ -386,6 +406,11 @@
       "g": 0,
       "a": 0
     },
+    "Josh Norris": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Corey Perry": {
       "gp": 1,
       "g": 0,
@@ -398,6 +423,11 @@
     },
     "Andrei Svechnikov": {
       "gp": 2,
+      "g": 0,
+      "a": 0
+    },
+    "Evan Bouchard": {
+      "gp": 1,
       "g": 0,
       "a": 0
     },
