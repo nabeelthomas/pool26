@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T06:12:12.924Z",
+  "lastUpdated": "2026-04-22T06:14:12.210Z",
   "players": {
     "Quinton Byfield": {
       "gp": 1,
@@ -71,6 +71,11 @@
       "g": 1,
       "a": 1
     },
+    "Sebastian Aho": {
+      "gp": 2,
+      "g": 1,
+      "a": 0
+    },
     "Jackson Blake": {
       "gp": 2,
       "g": 0,
@@ -91,6 +96,11 @@
       "g": 0,
       "a": 4
     },
+    "Seth Jarvis": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
     "Artturi Lehkonen": {
       "gp": 1,
       "g": 1,
@@ -101,10 +111,20 @@
       "g": 0,
       "a": 0
     },
+    "Brayden Point": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
     "Logan Stankoven": {
       "gp": 2,
       "g": 2,
       "a": 1
+    },
+    "Thomas Harley": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
     },
     "Miro Heiskanen": {
       "gp": 2,
@@ -113,6 +133,11 @@
     },
     "Cale Makar": {
       "gp": 1,
+      "g": 0,
+      "a": 0
+    },
+    "Shea Theodore": {
+      "gp": 2,
       "g": 0,
       "a": 0
     },
@@ -181,6 +206,11 @@
       "g": 0,
       "a": 1
     },
+    "Erik Karlsson": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
+    },
     "Charlie McAvoy": {
       "gp": 2,
       "g": 0,
@@ -231,6 +261,11 @@
       "g": 1,
       "a": 1
     },
+    "Mikko Rantanen": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
+    },
     "Jason Robertson": {
       "gp": 2,
       "g": 2,
@@ -246,8 +281,23 @@
       "g": 0,
       "a": 0
     },
+    "Vladimir Tarasenko": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
     "Shayne Gostisbehere": {
       "gp": 2,
+      "g": 0,
+      "a": 0
+    },
+    "Josh Doan": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
+    "Cutter Gauthier": {
+      "gp": 1,
       "g": 0,
       "a": 0
     },
@@ -265,6 +315,11 @@
       "gp": 1,
       "g": 0,
       "a": 1
+    },
+    "Ryan McLeod": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
     },
     "Valeri Nichushkin": {
       "gp": 1,
@@ -286,13 +341,18 @@
       "g": 1,
       "a": 2
     },
+    "Jason Zucker": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
     "Bowen Byram": {
       "gp": 2,
       "g": 1,
       "a": 0
     },
     "Rasmus Dahlin": {
-      "gp": 1,
+      "gp": 2,
       "g": 0,
       "a": 1
     },
@@ -339,6 +399,11 @@
     "Porter Martone": {
       "gp": 2,
       "g": 2,
+      "a": 0
+    },
+    "Connor McDavid": {
+      "gp": 1,
+      "g": 0,
       "a": 0
     },
     "Josh Norris": {
