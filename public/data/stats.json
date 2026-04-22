@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T10:34:13.373Z",
+  "lastUpdated": "2026-04-22T10:36:12.554Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -212,7 +212,7 @@
       "a": 1
     },
     "Charlie McAvoy": {
-      "gp": 1,
+      "gp": 2,
       "g": 0,
       "a": 1
     },
@@ -310,6 +310,11 @@
       "gp": 2,
       "g": 1,
       "a": 0
+    },
+    "Nathan MacKinnon": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
     },
     "Ryan McLeod": {
       "gp": 2,
