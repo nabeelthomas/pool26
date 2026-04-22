@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T07:46:14.480Z",
+  "lastUpdated": "2026-04-22T07:48:11.183Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -47,6 +47,11 @@
       "a": 0
     },
     "Tim Stutzle": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
+    "Brady Tkachuk": {
       "gp": 2,
       "g": 0,
       "a": 0
@@ -281,6 +286,16 @@
       "g": 0,
       "a": 0
     },
+    "Shayne Gostisbehere": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
+    "Josh Doan": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
     "Cutter Gauthier": {
       "gp": 1,
       "g": 0,
@@ -337,7 +352,7 @@
       "a": 0
     },
     "Rasmus Dahlin": {
-      "gp": 1,
+      "gp": 2,
       "g": 0,
       "a": 1
     },
@@ -360,6 +375,11 @@
       "gp": 1,
       "g": 0,
       "a": 2
+    },
+    "Nikolaj Ehlers": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
     },
     "Brandon Hagel": {
       "gp": 2,
