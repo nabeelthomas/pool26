@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T03:42:10.076Z",
+  "lastUpdated": "2026-04-22T03:44:09.421Z",
   "players": {
     "Quinton Byfield": {
       "gp": 1,
@@ -10,11 +10,6 @@
       "gp": 2,
       "g": 0,
       "a": 3
-    },
-    "Ivan Demidov": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
     },
     "Kasperi Kapanen": {
       "gp": 1,
@@ -36,14 +31,14 @@
       "g": 0,
       "a": 0
     },
-    "Artemi Panarin": {
-      "gp": 1,
-      "g": 1,
-      "a": 0
-    },
     "Juraj Slafkovsky": {
       "gp": 2,
       "g": 3,
+      "a": 0
+    },
+    "Tim Stutzle": {
+      "gp": 2,
+      "g": 0,
       "a": 0
     },
     "Brady Tkachuk": {
@@ -65,11 +60,6 @@
       "gp": 2,
       "g": 1,
       "a": 1
-    },
-    "Sebastian Aho": {
-      "gp": 2,
-      "g": 1,
-      "a": 0
     },
     "Jackson Blake": {
       "gp": 2,
@@ -94,11 +84,6 @@
     "Seth Jarvis": {
       "gp": 2,
       "g": 0,
-      "a": 0
-    },
-    "Artturi Lehkonen": {
-      "gp": 1,
-      "g": 1,
       "a": 0
     },
     "Brock Nelson": {
@@ -170,6 +155,11 @@
       "gp": 1,
       "g": 0,
       "a": 2
+    },
+    "Martin Necas": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
     },
     "Ryan Nugent-Hopkins": {
       "gp": 1,
@@ -251,11 +241,6 @@
       "g": 1,
       "a": 1
     },
-    "Mikko Rantanen": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
-    },
     "Jason Robertson": {
       "gp": 2,
       "g": 2,
@@ -316,6 +301,11 @@
       "g": 0,
       "a": 0
     },
+    "Jack Quinn": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
+    },
     "Tage Thompson": {
       "gp": 2,
       "g": 2,
@@ -332,7 +322,7 @@
       "a": 0
     },
     "Bowen Byram": {
-      "gp": 1,
+      "gp": 2,
       "g": 1,
       "a": 0
     },
@@ -414,6 +404,11 @@
     "Evan Bouchard": {
       "gp": 1,
       "g": 0,
+      "a": 0
+    },
+    "Darren Raddysh": {
+      "gp": 2,
+      "g": 1,
       "a": 0
     }
   }
