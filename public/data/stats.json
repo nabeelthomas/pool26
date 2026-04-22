@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T02:22:10.283Z",
+  "lastUpdated": "2026-04-22T02:24:09.936Z",
   "players": {
     "Quinton Byfield": {
       "gp": 1,
@@ -30,11 +30,6 @@
       "gp": 2,
       "g": 1,
       "a": 3
-    },
-    "Adrian Kempe": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
     },
     "Artemi Panarin": {
       "gp": 1,
@@ -95,11 +90,6 @@
       "gp": 1,
       "g": 0,
       "a": 4
-    },
-    "Seth Jarvis": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
     },
     "Artturi Lehkonen": {
       "gp": 1,
@@ -176,11 +166,6 @@
       "g": 0,
       "a": 2
     },
-    "Martin Necas": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
-    },
     "Ryan Nugent-Hopkins": {
       "gp": 1,
       "g": 0,
@@ -241,11 +226,6 @@
       "g": 2,
       "a": 1
     },
-    "Clayton Keller": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
-    },
     "Travis Konecny": {
       "gp": 2,
       "g": 0,
@@ -282,11 +262,6 @@
       "a": 0
     },
     "Vladimir Tarasenko": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
-    "Shayne Gostisbehere": {
       "gp": 2,
       "g": 0,
       "a": 0
@@ -339,7 +314,7 @@
     "Alex Tuch": {
       "gp": 1,
       "g": 1,
-      "a": 1
+      "a": 2
     },
     "Jason Zucker": {
       "gp": 1,
@@ -354,7 +329,7 @@
     "Rasmus Dahlin": {
       "gp": 1,
       "g": 0,
-      "a": 0
+      "a": 1
     },
     "Devon Toews": {
       "gp": 1,
@@ -406,11 +381,6 @@
       "g": 0,
       "a": 0
     },
-    "Josh Norris": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
-    },
     "Corey Perry": {
       "gp": 1,
       "g": 0,
@@ -423,11 +393,6 @@
     },
     "Andrei Svechnikov": {
       "gp": 2,
-      "g": 0,
-      "a": 0
-    },
-    "Evan Bouchard": {
-      "gp": 1,
       "g": 0,
       "a": 0
     },
