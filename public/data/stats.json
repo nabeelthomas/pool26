@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T08:10:17.763Z",
+  "lastUpdated": "2026-04-22T08:12:10.566Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -30,11 +30,6 @@
       "gp": 2,
       "g": 1,
       "a": 3
-    },
-    "Adrian Kempe": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
     },
     "Artemi Panarin": {
       "gp": 2,
@@ -101,11 +96,6 @@
       "g": 0,
       "a": 0
     },
-    "Artturi Lehkonen": {
-      "gp": 2,
-      "g": 1,
-      "a": 0
-    },
     "Brock Nelson": {
       "gp": 2,
       "g": 0,
@@ -166,11 +156,6 @@
       "g": 2,
       "a": 2
     },
-    "Tomas Hertl": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
-    },
     "Mitch Marner": {
       "gp": 2,
       "g": 0,
@@ -200,11 +185,6 @@
       "gp": 1,
       "g": 0,
       "a": 3
-    },
-    "Mattias Ekholm": {
-      "gp": 1,
-      "g": 0,
-      "a": 1
     },
     "Erik Karlsson": {
       "gp": 2,
@@ -241,6 +221,11 @@
       "g": 2,
       "a": 1
     },
+    "Clayton Keller": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
     "Travis Konecny": {
       "gp": 2,
       "g": 0,
@@ -254,6 +239,11 @@
     "Evgeni Malkin": {
       "gp": 2,
       "g": 1,
+      "a": 1
+    },
+    "Mikko Rantanen": {
+      "gp": 2,
+      "g": 0,
       "a": 1
     },
     "Jason Robertson": {
@@ -287,7 +277,7 @@
       "a": 0
     },
     "Nazem Kadri": {
-      "gp": 2,
+      "gp": 1,
       "g": 0,
       "a": 1
     },
@@ -322,7 +312,7 @@
       "a": 0
     },
     "Bowen Byram": {
-      "gp": 2,
+      "gp": 1,
       "g": 1,
       "a": 0
     },
@@ -356,8 +346,8 @@
       "g": 3,
       "a": 1
     },
-    "James Hagens": {
-      "gp": 2,
+    "Zach Hyman": {
+      "gp": 1,
       "g": 0,
       "a": 0
     },
