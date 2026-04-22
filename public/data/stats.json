@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T04:34:09.610Z",
+  "lastUpdated": "2026-04-22T04:36:12.728Z",
   "players": {
     "Quinton Byfield": {
       "gp": 1,
@@ -131,6 +131,11 @@
       "g": 0,
       "a": 2
     },
+    "Cale Makar": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Shea Theodore": {
       "gp": 1,
       "g": 0,
@@ -170,6 +175,16 @@
       "gp": 1,
       "g": 0,
       "a": 2
+    },
+    "Martin Necas": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
+    "Ryan Nugent-Hopkins": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
     },
     "David Pastrnak": {
       "gp": 2,
@@ -281,6 +296,11 @@
       "g": 0,
       "a": 0
     },
+    "Cutter Gauthier": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Nazem Kadri": {
       "gp": 1,
       "g": 0,
@@ -306,6 +326,11 @@
       "g": 0,
       "a": 0
     },
+    "Jack Quinn": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
+    },
     "Tage Thompson": {
       "gp": 2,
       "g": 2,
@@ -322,7 +347,7 @@
       "a": 0
     },
     "Bowen Byram": {
-      "gp": 1,
+      "gp": 2,
       "g": 1,
       "a": 0
     },
@@ -330,6 +355,11 @@
       "gp": 2,
       "g": 0,
       "a": 1
+    },
+    "Devon Toews": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
     },
     "Matt Boldy": {
       "gp": 2,
