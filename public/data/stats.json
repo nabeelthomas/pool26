@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T10:32:10.719Z",
+  "lastUpdated": "2026-04-22T10:34:13.373Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -212,7 +212,7 @@
       "a": 1
     },
     "Charlie McAvoy": {
-      "gp": 2,
+      "gp": 1,
       "g": 0,
       "a": 1
     },
@@ -311,11 +311,6 @@
       "g": 1,
       "a": 0
     },
-    "Nathan MacKinnon": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
-    },
     "Ryan McLeod": {
       "gp": 2,
       "g": 0,
@@ -352,7 +347,7 @@
       "a": 0
     },
     "Rasmus Dahlin": {
-      "gp": 1,
+      "gp": 2,
       "g": 0,
       "a": 1
     },
@@ -375,6 +370,11 @@
       "gp": 1,
       "g": 0,
       "a": 2
+    },
+    "Nikolaj Ehlers": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
     },
     "Brandon Hagel": {
       "gp": 2,
