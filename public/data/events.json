@@ -1,18 +1,25 @@
 {
   "events": [
     {
-      "type": "GOAL",
-      "player": "Dylan Guenther",
-      "team": "UTA",
-      "time": "9:30 PM ET",
-      "pool": "Paddy"
-    },
-    {
       "type": "ASSIST",
       "player": "Jack Eichel",
       "team": "VGK",
       "time": "9:30 PM ET",
       "pool": "Nabeel"
+    },
+    {
+      "type": "GOAL",
+      "player": "Ivan Barbashev",
+      "team": "VGK",
+      "time": "9:30 PM ET",
+      "pool": "Paddy"
+    },
+    {
+      "type": "GOAL",
+      "player": "Dylan Guenther",
+      "team": "UTA",
+      "time": "9:30 PM ET",
+      "pool": "Paddy"
     },
     {
       "type": "GOAL",
@@ -90,13 +97,6 @@
       "team": "TBL",
       "time": "7:00 PM ET",
       "pool": "Cam"
-    },
-    {
-      "type": "GOAL",
-      "player": "Ivan Barbashev",
-      "team": "VGK",
-      "time": "9:30 PM ET",
-      "pool": "Paddy"
     },
     {
       "type": "GOAL",
