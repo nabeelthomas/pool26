@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T03:18:09.710Z",
+  "lastUpdated": "2026-04-22T03:22:14.874Z",
   "players": {
     "Quinton Byfield": {
       "gp": 1,
@@ -7,12 +7,12 @@
       "a": 0
     },
     "Cole Caufield": {
-      "gp": 1,
+      "gp": 2,
       "g": 0,
       "a": 3
     },
     "Ivan Demidov": {
-      "gp": 1,
+      "gp": 2,
       "g": 0,
       "a": 1
     },
@@ -22,7 +22,7 @@
       "a": 0
     },
     "Oliver Kapanen": {
-      "gp": 1,
+      "gp": 2,
       "g": 0,
       "a": 0
     },
@@ -42,7 +42,7 @@
       "a": 0
     },
     "Juraj Slafkovsky": {
-      "gp": 1,
+      "gp": 2,
       "g": 3,
       "a": 0
     },
@@ -67,7 +67,7 @@
       "a": 3
     },
     "Lane Hutson": {
-      "gp": 1,
+      "gp": 2,
       "g": 1,
       "a": 1
     },
@@ -92,7 +92,7 @@
       "a": 1
     },
     "Jake Guentzel": {
-      "gp": 1,
+      "gp": 2,
       "g": 0,
       "a": 4
     },
@@ -112,7 +112,7 @@
       "a": 0
     },
     "Brayden Point": {
-      "gp": 1,
+      "gp": 2,
       "g": 0,
       "a": 0
     },
@@ -192,7 +192,7 @@
       "a": 4
     },
     "Nick Suzuki": {
-      "gp": 1,
+      "gp": 2,
       "g": 0,
       "a": 3
     },
@@ -252,7 +252,7 @@
       "a": 2
     },
     "Nikita Kucherov": {
-      "gp": 1,
+      "gp": 2,
       "g": 1,
       "a": 2
     },
@@ -367,7 +367,7 @@
       "a": 1
     },
     "Anthony Cirelli": {
-      "gp": 1,
+      "gp": 2,
       "g": 0,
       "a": 2
     },
@@ -382,7 +382,7 @@
       "a": 1
     },
     "Brandon Hagel": {
-      "gp": 1,
+      "gp": 2,
       "g": 3,
       "a": 1
     },
@@ -412,7 +412,7 @@
       "a": 0
     },
     "Corey Perry": {
-      "gp": 1,
+      "gp": 2,
       "g": 0,
       "a": 0
     },
@@ -432,7 +432,7 @@
       "a": 0
     },
     "Darren Raddysh": {
-      "gp": 1,
+      "gp": 2,
       "g": 1,
       "a": 0
     }
