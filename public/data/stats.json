@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T10:58:14.217Z",
+  "lastUpdated": "2026-04-22T23:00:18.515Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -10,6 +10,11 @@
       "gp": 2,
       "g": 0,
       "a": 3
+    },
+    "Ivan Demidov": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
     },
     "Kasperi Kapanen": {
       "gp": 1,
@@ -101,6 +106,11 @@
       "g": 1,
       "a": 0
     },
+    "Brock Nelson": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
     "Brayden Point": {
       "gp": 2,
       "g": 0,
@@ -120,6 +130,11 @@
       "gp": 2,
       "g": 0,
       "a": 2
+    },
+    "Cale Makar": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
     },
     "Shea Theodore": {
       "gp": 2,
@@ -197,7 +212,7 @@
       "a": 1
     },
     "Charlie McAvoy": {
-      "gp": 1,
+      "gp": 2,
       "g": 0,
       "a": 1
     },
@@ -262,6 +277,11 @@
       "a": 0
     },
     "Nick Schmaltz": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
+    "Vladimir Tarasenko": {
       "gp": 2,
       "g": 0,
       "a": 0
