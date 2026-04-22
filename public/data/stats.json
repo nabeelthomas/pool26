@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T00:20:13.145Z",
+  "lastUpdated": "2026-04-22T00:34:13.221Z",
   "players": {
     "Quinton Byfield": {
       "gp": 1,
@@ -51,11 +51,6 @@
       "g": 0,
       "a": 0
     },
-    "Brady Tkachuk": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
     "Brock Faber": {
       "gp": 2,
       "g": 2,
@@ -71,11 +66,6 @@
       "g": 1,
       "a": 1
     },
-    "Sebastian Aho": {
-      "gp": 2,
-      "g": 1,
-      "a": 0
-    },
     "Jackson Blake": {
       "gp": 2,
       "g": 0,
@@ -85,11 +75,6 @@
       "gp": 2,
       "g": 1,
       "a": 1
-    },
-    "Jack Eichel": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
     },
     "Jake Guentzel": {
       "gp": 1,
@@ -104,11 +89,6 @@
     "Artturi Lehkonen": {
       "gp": 1,
       "g": 1,
-      "a": 0
-    },
-    "Brock Nelson": {
-      "gp": 1,
-      "g": 0,
       "a": 0
     },
     "Brayden Point": {
@@ -131,11 +111,6 @@
       "g": 0,
       "a": 2
     },
-    "Cale Makar": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
-    },
     "Shea Theodore": {
       "gp": 1,
       "g": 0,
@@ -149,16 +124,6 @@
     "Dylan Cozens": {
       "gp": 2,
       "g": 1,
-      "a": 0
-    },
-    "Sidney Crosby": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
-    "Pavel Dorofeyev": {
-      "gp": 1,
-      "g": 0,
       "a": 0
     },
     "Joel Eriksson Ek": {
@@ -231,11 +196,6 @@
       "g": 1,
       "a": 2
     },
-    "Dylan Guenther": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
-    },
     "Wyatt Johnston": {
       "gp": 2,
       "g": 2,
@@ -291,17 +251,7 @@
       "g": 0,
       "a": 0
     },
-    "Josh Doan": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
-    },
     "Cutter Gauthier": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
-    },
-    "Nazem Kadri": {
       "gp": 1,
       "g": 0,
       "a": 0
@@ -342,16 +292,6 @@
       "a": 1
     },
     "Jason Zucker": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
-    },
-    "Bowen Byram": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
-    },
-    "Rasmus Dahlin": {
       "gp": 1,
       "g": 0,
       "a": 0
@@ -407,11 +347,6 @@
       "a": 0
     },
     "Josh Norris": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
-    },
-    "Corey Perry": {
       "gp": 1,
       "g": 0,
       "a": 0
