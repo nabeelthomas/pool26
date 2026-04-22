@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T08:04:11.934Z",
+  "lastUpdated": "2026-04-22T08:06:13.864Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -99,6 +99,11 @@
     "Seth Jarvis": {
       "gp": 2,
       "g": 0,
+      "a": 0
+    },
+    "Artturi Lehkonen": {
+      "gp": 2,
+      "g": 1,
       "a": 0
     },
     "Brock Nelson": {
@@ -266,6 +271,11 @@
       "g": 2,
       "a": 0
     },
+    "Bryan Rust": {
+      "gp": 2,
+      "g": 1,
+      "a": 0
+    },
     "Nick Schmaltz": {
       "gp": 2,
       "g": 0,
@@ -316,6 +326,11 @@
       "g": 0,
       "a": 0
     },
+    "Jack Quinn": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
+    },
     "Tage Thompson": {
       "gp": 2,
       "g": 2,
@@ -342,7 +357,7 @@
       "a": 1
     },
     "Devon Toews": {
-      "gp": 1,
+      "gp": 2,
       "g": 0,
       "a": 1
     },
