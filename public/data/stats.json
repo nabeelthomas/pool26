@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T23:46:09.644Z",
+  "lastUpdated": "2026-04-22T23:48:10.250Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -30,6 +30,11 @@
       "gp": 2,
       "g": 1,
       "a": 3
+    },
+    "Adrian Kempe": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
     },
     "Artemi Panarin": {
       "gp": 2,
@@ -106,10 +111,20 @@
       "g": 0,
       "a": 0
     },
+    "Brayden Point": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
     "Logan Stankoven": {
       "gp": 2,
       "g": 2,
       "a": 1
+    },
+    "Thomas Harley": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
     },
     "Miro Heiskanen": {
       "gp": 2,
@@ -121,9 +136,9 @@
       "g": 0,
       "a": 0
     },
-    "Drake Batherson": {
+    "Shea Theodore": {
       "gp": 2,
-      "g": 1,
+      "g": 0,
       "a": 0
     },
     "Dylan Cozens": {
@@ -191,11 +206,6 @@
       "g": 0,
       "a": 1
     },
-    "Charlie McAvoy": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
-    },
     "Ivan Barbashev": {
       "gp": 2,
       "g": 2,
@@ -252,11 +262,16 @@
       "a": 0
     },
     "Bryan Rust": {
-      "gp": 2,
-      "g": 1,
+      "gp": 1,
+      "g": 0,
       "a": 1
     },
     "Nick Schmaltz": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
+    "Vladimir Tarasenko": {
       "gp": 2,
       "g": 0,
       "a": 0
@@ -268,6 +283,11 @@
     },
     "Josh Doan": {
       "gp": 2,
+      "g": 0,
+      "a": 0
+    },
+    "Cutter Gauthier": {
+      "gp": 1,
       "g": 0,
       "a": 0
     },
@@ -306,17 +326,17 @@
       "g": 1,
       "a": 2
     },
+    "Jason Zucker": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
     "Bowen Byram": {
       "gp": 2,
       "g": 1,
       "a": 0
     },
     "Rasmus Dahlin": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
-    },
-    "Devon Toews": {
       "gp": 2,
       "g": 0,
       "a": 1
