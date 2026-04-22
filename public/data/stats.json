@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T06:04:10.291Z",
+  "lastUpdated": "2026-04-22T06:08:09.558Z",
   "players": {
     "Quinton Byfield": {
       "gp": 1,
@@ -10,11 +10,6 @@
       "gp": 2,
       "g": 0,
       "a": 3
-    },
-    "Ivan Demidov": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
     },
     "Kasperi Kapanen": {
       "gp": 1,
@@ -146,11 +141,6 @@
       "g": 1,
       "a": 0
     },
-    "Dylan Cozens": {
-      "gp": 2,
-      "g": 1,
-      "a": 0
-    },
     "Sidney Crosby": {
       "gp": 2,
       "g": 0,
@@ -201,11 +191,6 @@
       "g": 0,
       "a": 3
     },
-    "Mattias Ekholm": {
-      "gp": 1,
-      "g": 0,
-      "a": 1
-    },
     "Erik Karlsson": {
       "gp": 2,
       "g": 0,
@@ -241,11 +226,6 @@
       "g": 2,
       "a": 1
     },
-    "Clayton Keller": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
     "Travis Konecny": {
       "gp": 2,
       "g": 0,
@@ -269,16 +249,6 @@
     "Jason Robertson": {
       "gp": 2,
       "g": 2,
-      "a": 0
-    },
-    "Bryan Rust": {
-      "gp": 2,
-      "g": 1,
-      "a": 0
-    },
-    "Nick Schmaltz": {
-      "gp": 2,
-      "g": 0,
       "a": 0
     },
     "Vladimir Tarasenko": {
@@ -326,11 +296,6 @@
       "g": 0,
       "a": 0
     },
-    "Jack Quinn": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
-    },
     "Tage Thompson": {
       "gp": 2,
       "g": 2,
@@ -347,7 +312,7 @@
       "a": 0
     },
     "Bowen Byram": {
-      "gp": 2,
+      "gp": 1,
       "g": 1,
       "a": 0
     },
@@ -386,16 +351,6 @@
       "g": 3,
       "a": 1
     },
-    "James Hagens": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
-    "Zach Hyman": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
-    },
     "Porter Martone": {
       "gp": 2,
       "g": 2,
@@ -407,11 +362,6 @@
       "a": 0
     },
     "Josh Norris": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
-    "Corey Perry": {
       "gp": 2,
       "g": 0,
       "a": 0
