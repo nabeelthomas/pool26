@@ -2,6 +2,20 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Bryan Rust",
+      "team": "PIT",
+      "time": "7:00 PM ET",
+      "pool": "Paddy"
+    },
+    {
+      "type": "GOAL",
+      "player": "Evgeni Malkin",
+      "team": "PIT",
+      "time": "7:00 PM ET",
+      "pool": "Paddy"
+    },
+    {
+      "type": "ASSIST",
       "player": "Martin Necas",
       "team": "COL",
       "time": "10:00 PM ET",
@@ -405,20 +419,6 @@
       "team": "LAK",
       "time": "3:00 PM ET",
       "pool": "Will"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Nathan MacKinnon",
-      "team": "COL",
-      "time": "3:00 PM ET",
-      "pool": "Andy"
-    },
-    {
-      "type": "GOAL",
-      "player": "Artturi Lehkonen",
-      "team": "COL",
-      "time": "3:00 PM ET",
-      "pool": "Nabeel"
     }
   ]
 }

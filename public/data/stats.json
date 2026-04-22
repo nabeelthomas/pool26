@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T23:18:10.983Z",
+  "lastUpdated": "2026-04-22T23:22:11.151Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -106,11 +106,6 @@
       "g": 1,
       "a": 0
     },
-    "Brock Nelson": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
     "Brayden Point": {
       "gp": 2,
       "g": 0,
@@ -154,7 +149,7 @@
     "Sidney Crosby": {
       "gp": 2,
       "g": 0,
-      "a": 0
+      "a": 1
     },
     "Pavel Dorofeyev": {
       "gp": 2,
@@ -180,11 +175,6 @@
       "gp": 2,
       "g": 0,
       "a": 1
-    },
-    "Ryan Nugent-Hopkins": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
     },
     "David Pastrnak": {
       "gp": 2,
@@ -258,7 +248,7 @@
     },
     "Evgeni Malkin": {
       "gp": 2,
-      "g": 1,
+      "g": 2,
       "a": 1
     },
     "Mikko Rantanen": {
@@ -274,7 +264,7 @@
     "Bryan Rust": {
       "gp": 2,
       "g": 1,
-      "a": 0
+      "a": 1
     },
     "Nick Schmaltz": {
       "gp": 2,
@@ -399,11 +389,6 @@
     "Porter Martone": {
       "gp": 2,
       "g": 2,
-      "a": 0
-    },
-    "Connor McDavid": {
-      "gp": 1,
-      "g": 0,
       "a": 0
     },
     "Josh Norris": {
