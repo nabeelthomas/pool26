@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T09:12:10.584Z",
+  "lastUpdated": "2026-04-22T09:14:11.593Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -101,6 +101,11 @@
       "g": 0,
       "a": 0
     },
+    "Artturi Lehkonen": {
+      "gp": 2,
+      "g": 1,
+      "a": 0
+    },
     "Brock Nelson": {
       "gp": 2,
       "g": 0,
@@ -161,6 +166,11 @@
       "g": 2,
       "a": 2
     },
+    "Tomas Hertl": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
+    },
     "Mitch Marner": {
       "gp": 2,
       "g": 0,
@@ -190,6 +200,11 @@
       "gp": 1,
       "g": 0,
       "a": 3
+    },
+    "Mattias Ekholm": {
+      "gp": 1,
+      "g": 0,
+      "a": 1
     },
     "Erik Karlsson": {
       "gp": 2,
@@ -360,6 +375,11 @@
       "gp": 1,
       "g": 0,
       "a": 2
+    },
+    "Nikolaj Ehlers": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
     },
     "Brandon Hagel": {
       "gp": 2,
