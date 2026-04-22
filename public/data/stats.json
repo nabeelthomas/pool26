@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T10:06:11.897Z",
+  "lastUpdated": "2026-04-22T10:08:10.897Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -201,6 +201,11 @@
       "g": 0,
       "a": 3
     },
+    "Mattias Ekholm": {
+      "gp": 1,
+      "g": 0,
+      "a": 1
+    },
     "Erik Karlsson": {
       "gp": 2,
       "g": 0,
@@ -320,6 +325,11 @@
       "gp": 2,
       "g": 0,
       "a": 0
+    },
+    "Jack Quinn": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
     },
     "Tage Thompson": {
       "gp": 2,
