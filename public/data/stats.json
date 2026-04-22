@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T10:02:11.124Z",
+  "lastUpdated": "2026-04-22T10:04:10.558Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -141,6 +141,11 @@
       "g": 0,
       "a": 0
     },
+    "Drake Batherson": {
+      "gp": 2,
+      "g": 1,
+      "a": 0
+    },
     "Dylan Cozens": {
       "gp": 2,
       "g": 1,
@@ -160,6 +165,11 @@
       "gp": 2,
       "g": 2,
       "a": 2
+    },
+    "Tomas Hertl": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
     },
     "Mitch Marner": {
       "gp": 2,
@@ -193,6 +203,11 @@
     },
     "Mattias Ekholm": {
       "gp": 1,
+      "g": 0,
+      "a": 1
+    },
+    "Erik Karlsson": {
+      "gp": 2,
       "g": 0,
       "a": 1
     },
@@ -256,6 +271,11 @@
       "g": 2,
       "a": 0
     },
+    "Bryan Rust": {
+      "gp": 2,
+      "g": 1,
+      "a": 0
+    },
     "Nick Schmaltz": {
       "gp": 2,
       "g": 0,
@@ -282,7 +302,7 @@
       "a": 0
     },
     "Nazem Kadri": {
-      "gp": 1,
+      "gp": 2,
       "g": 0,
       "a": 1
     },
@@ -305,6 +325,11 @@
       "gp": 2,
       "g": 0,
       "a": 0
+    },
+    "Jack Quinn": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
     },
     "Tage Thompson": {
       "gp": 2,
@@ -332,7 +357,7 @@
       "a": 1
     },
     "Devon Toews": {
-      "gp": 1,
+      "gp": 2,
       "g": 0,
       "a": 1
     },
@@ -350,6 +375,11 @@
       "gp": 1,
       "g": 0,
       "a": 2
+    },
+    "Nikolaj Ehlers": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
     },
     "Brandon Hagel": {
       "gp": 2,
