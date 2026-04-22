@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T02:16:10.977Z",
+  "lastUpdated": "2026-04-22T02:18:12.879Z",
   "players": {
     "Quinton Byfield": {
       "gp": 1,
@@ -51,6 +51,11 @@
       "g": 0,
       "a": 0
     },
+    "Brady Tkachuk": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
     "Brock Faber": {
       "gp": 2,
       "g": 2,
@@ -65,6 +70,11 @@
       "gp": 1,
       "g": 1,
       "a": 1
+    },
+    "Sebastian Aho": {
+      "gp": 2,
+      "g": 1,
+      "a": 0
     },
     "Jackson Blake": {
       "gp": 2,
@@ -141,6 +151,16 @@
       "g": 1,
       "a": 0
     },
+    "Sidney Crosby": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
+    "Pavel Dorofeyev": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Joel Eriksson Ek": {
       "gp": 2,
       "g": 2,
@@ -153,7 +173,7 @@
     },
     "Mitch Marner": {
       "gp": 1,
-      "g": 0,
+      "g": 1,
       "a": 1
     },
     "Martin Necas": {
@@ -211,6 +231,11 @@
       "g": 2,
       "a": 2
     },
+    "Dylan Guenther": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Wyatt Johnston": {
       "gp": 2,
       "g": 2,
@@ -266,6 +291,21 @@
       "g": 0,
       "a": 0
     },
+    "Josh Doan": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
+    "Cutter Gauthier": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
+    "Nazem Kadri": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Gabriel Landeskog": {
       "gp": 1,
       "g": 0,
@@ -311,6 +351,16 @@
       "g": 0,
       "a": 0
     },
+    "Rasmus Dahlin": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
+    "Devon Toews": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Matt Boldy": {
       "gp": 2,
       "g": 2,
@@ -351,7 +401,17 @@
       "g": 2,
       "a": 0
     },
+    "Connor McDavid": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Josh Norris": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
+    "Corey Perry": {
       "gp": 1,
       "g": 0,
       "a": 0

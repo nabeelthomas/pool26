@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "GOAL",
+      "player": "Mitch Marner",
+      "team": "VGK",
+      "time": "9:30 PM ET",
+      "pool": "Reiner"
+    },
+    {
       "type": "ASSIST",
       "player": "David Pastrnak",
       "team": "BOS",
@@ -412,13 +419,6 @@
       "team": "MIN",
       "time": "5:30 PM ET",
       "pool": "Reiner"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Wyatt Johnston",
-      "team": "MIN",
-      "time": "5:30 PM ET",
-      "pool": "Paddy"
     }
   ]
 }
