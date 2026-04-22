@@ -1,7 +1,7 @@
 {
   "events": [
     {
-      "type": "GOAL",
+      "type": "ASSIST",
       "player": "Dylan Guenther",
       "team": "UTA",
       "time": "9:30 PM ET",
@@ -18,6 +18,13 @@
       "type": "GOAL",
       "player": "Ivan Barbashev",
       "team": "VGK",
+      "time": "9:30 PM ET",
+      "pool": "Paddy"
+    },
+    {
+      "type": "GOAL",
+      "player": "Dylan Guenther",
+      "team": "UTA",
       "time": "9:30 PM ET",
       "pool": "Paddy"
     },
@@ -410,13 +417,6 @@
       "type": "ASSIST",
       "player": "Evgeni Malkin",
       "team": "PHI",
-      "time": "8:00 PM ET",
-      "pool": "Paddy"
-    },
-    {
-      "type": "GOAL",
-      "player": "Bryan Rust",
-      "team": "PIT",
       "time": "8:00 PM ET",
       "pool": "Paddy"
     }
