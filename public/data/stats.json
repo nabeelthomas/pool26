@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T07:16:10.685Z",
+  "lastUpdated": "2026-04-22T07:20:17.102Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -106,11 +106,6 @@
       "g": 1,
       "a": 0
     },
-    "Brock Nelson": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
     "Brayden Point": {
       "gp": 2,
       "g": 0,
@@ -130,11 +125,6 @@
       "gp": 2,
       "g": 0,
       "a": 2
-    },
-    "Cale Makar": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
     },
     "Shea Theodore": {
       "gp": 2,
@@ -271,11 +261,6 @@
       "g": 2,
       "a": 0
     },
-    "Bryan Rust": {
-      "gp": 2,
-      "g": 1,
-      "a": 0
-    },
     "Nick Schmaltz": {
       "gp": 2,
       "g": 0,
@@ -352,7 +337,7 @@
       "a": 0
     },
     "Rasmus Dahlin": {
-      "gp": 2,
+      "gp": 1,
       "g": 0,
       "a": 1
     },
