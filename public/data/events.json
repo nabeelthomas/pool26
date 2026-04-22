@@ -9,6 +9,13 @@
     },
     {
       "type": "GOAL",
+      "player": "Ivan Barbashev",
+      "team": "VGK",
+      "time": "9:30 PM ET",
+      "pool": "Paddy"
+    },
+    {
+      "type": "GOAL",
       "player": "Mark Stone",
       "team": "VGK",
       "time": "9:30 PM ET",
@@ -412,13 +419,6 @@
       "team": "PHI",
       "time": "8:00 PM ET",
       "pool": "Paddy"
-    },
-    {
-      "type": "GOAL",
-      "player": "Porter Martone",
-      "team": "PHI",
-      "time": "8:00 PM ET",
-      "pool": "Cam"
     }
   ]
 }
