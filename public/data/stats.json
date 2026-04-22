@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T05:20:14.626Z",
+  "lastUpdated": "2026-04-22T05:22:10.573Z",
   "players": {
     "Quinton Byfield": {
       "gp": 1,
@@ -179,7 +179,7 @@
     "Martin Necas": {
       "gp": 1,
       "g": 0,
-      "a": 0
+      "a": 1
     },
     "Ryan Nugent-Hopkins": {
       "gp": 1,
@@ -359,7 +359,7 @@
     "Devon Toews": {
       "gp": 1,
       "g": 0,
-      "a": 0
+      "a": 1
     },
     "Matt Boldy": {
       "gp": 2,
