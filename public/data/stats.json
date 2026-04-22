@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T07:32:10.935Z",
+  "lastUpdated": "2026-04-22T07:34:10.113Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -11,9 +11,19 @@
       "g": 0,
       "a": 3
     },
+    "Ivan Demidov": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
+    },
     "Kasperi Kapanen": {
       "gp": 1,
       "g": 2,
+      "a": 0
+    },
+    "Oliver Kapanen": {
+      "gp": 2,
+      "g": 0,
       "a": 0
     },
     "Kirill Kaprizov": {
@@ -86,9 +96,9 @@
       "g": 0,
       "a": 4
     },
-    "Artturi Lehkonen": {
+    "Seth Jarvis": {
       "gp": 2,
-      "g": 1,
+      "g": 0,
       "a": 0
     },
     "Brock Nelson": {
@@ -115,6 +125,11 @@
       "gp": 2,
       "g": 0,
       "a": 2
+    },
+    "Cale Makar": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
     },
     "Shea Theodore": {
       "gp": 2,
@@ -161,6 +176,11 @@
       "g": 0,
       "a": 1
     },
+    "Ryan Nugent-Hopkins": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "David Pastrnak": {
       "gp": 2,
       "g": 1,
@@ -187,7 +207,7 @@
       "a": 1
     },
     "Charlie McAvoy": {
-      "gp": 1,
+      "gp": 2,
       "g": 0,
       "a": 1
     },
@@ -332,7 +352,7 @@
       "a": 1
     },
     "Devon Toews": {
-      "gp": 2,
+      "gp": 1,
       "g": 0,
       "a": 1
     },
@@ -374,6 +394,16 @@
     "Porter Martone": {
       "gp": 2,
       "g": 2,
+      "a": 0
+    },
+    "Connor McDavid": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
+    "Josh Norris": {
+      "gp": 2,
+      "g": 0,
       "a": 0
     },
     "Corey Perry": {
