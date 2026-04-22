@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T04:48:11.355Z",
+  "lastUpdated": "2026-04-22T04:52:13.273Z",
   "players": {
     "Quinton Byfield": {
       "gp": 1,
@@ -141,11 +141,6 @@
       "g": 0,
       "a": 0
     },
-    "Drake Batherson": {
-      "gp": 2,
-      "g": 1,
-      "a": 0
-    },
     "Dylan Cozens": {
       "gp": 2,
       "g": 1,
@@ -201,18 +196,13 @@
       "g": 0,
       "a": 3
     },
-    "Mattias Ekholm": {
-      "gp": 1,
-      "g": 0,
-      "a": 1
-    },
     "Erik Karlsson": {
       "gp": 2,
       "g": 0,
       "a": 1
     },
     "Charlie McAvoy": {
-      "gp": 2,
+      "gp": 1,
       "g": 0,
       "a": 1
     },
@@ -310,11 +300,6 @@
       "gp": 1,
       "g": 0,
       "a": 0
-    },
-    "Nathan MacKinnon": {
-      "gp": 1,
-      "g": 0,
-      "a": 1
     },
     "Ryan McLeod": {
       "gp": 2,
