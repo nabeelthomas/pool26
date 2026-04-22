@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T03:28:12.225Z",
+  "lastUpdated": "2026-04-22T03:30:15.152Z",
   "players": {
     "Quinton Byfield": {
       "gp": 1,
@@ -89,7 +89,7 @@
     "Jack Eichel": {
       "gp": 1,
       "g": 0,
-      "a": 2
+      "a": 1
     },
     "Jake Guentzel": {
       "gp": 2,
@@ -218,7 +218,7 @@
     },
     "Ivan Barbashev": {
       "gp": 1,
-      "g": 2,
+      "g": 1,
       "a": 0
     },
     "Leo Carlsson": {
@@ -233,7 +233,7 @@
     },
     "Dylan Guenther": {
       "gp": 1,
-      "g": 0,
+      "g": 1,
       "a": 0
     },
     "Wyatt Johnston": {
