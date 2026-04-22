@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T06:44:10.181Z",
+  "lastUpdated": "2026-04-22T06:46:13.413Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -46,6 +46,16 @@
       "g": 3,
       "a": 0
     },
+    "Tim Stutzle": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
+    "Brady Tkachuk": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
     "Brock Faber": {
       "gp": 2,
       "g": 2,
@@ -89,11 +99,6 @@
     "Seth Jarvis": {
       "gp": 2,
       "g": 0,
-      "a": 0
-    },
-    "Artturi Lehkonen": {
-      "gp": 2,
-      "g": 1,
       "a": 0
     },
     "Brock Nelson": {
@@ -196,11 +201,6 @@
       "g": 0,
       "a": 1
     },
-    "Erik Karlsson": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
-    },
     "Charlie McAvoy": {
       "gp": 2,
       "g": 0,
@@ -231,6 +231,11 @@
       "g": 2,
       "a": 1
     },
+    "Clayton Keller": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
     "Travis Konecny": {
       "gp": 2,
       "g": 0,
@@ -256,12 +261,22 @@
       "g": 2,
       "a": 0
     },
-    "Bryan Rust": {
+    "Nick Schmaltz": {
       "gp": 2,
-      "g": 1,
+      "g": 0,
       "a": 0
     },
     "Vladimir Tarasenko": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
+    "Shayne Gostisbehere": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
+    "Josh Doan": {
       "gp": 2,
       "g": 0,
       "a": 0
@@ -272,7 +287,7 @@
       "a": 0
     },
     "Nazem Kadri": {
-      "gp": 2,
+      "gp": 1,
       "g": 0,
       "a": 1
     },
@@ -291,10 +306,10 @@
       "g": 0,
       "a": 0
     },
-    "Jack Quinn": {
+    "Valeri Nichushkin": {
       "gp": 2,
       "g": 0,
-      "a": 1
+      "a": 0
     },
     "Tage Thompson": {
       "gp": 2,
@@ -322,7 +337,7 @@
       "a": 1
     },
     "Devon Toews": {
-      "gp": 2,
+      "gp": 1,
       "g": 0,
       "a": 1
     },
@@ -350,6 +365,11 @@
       "gp": 2,
       "g": 3,
       "a": 1
+    },
+    "James Hagens": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
     },
     "Zach Hyman": {
       "gp": 1,
