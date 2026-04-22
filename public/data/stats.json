@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T04:56:13.058Z",
+  "lastUpdated": "2026-04-22T04:58:12.477Z",
   "players": {
     "Quinton Byfield": {
       "gp": 1,
@@ -176,6 +176,11 @@
       "g": 0,
       "a": 2
     },
+    "Martin Necas": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Ryan Nugent-Hopkins": {
       "gp": 1,
       "g": 0,
@@ -291,6 +296,16 @@
       "g": 0,
       "a": 0
     },
+    "Cutter Gauthier": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
+    "Nazem Kadri": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "Gabriel Landeskog": {
       "gp": 1,
       "g": 0,
@@ -300,6 +315,11 @@
       "gp": 1,
       "g": 0,
       "a": 1
+    },
+    "Ryan McLeod": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
     },
     "Valeri Nichushkin": {
       "gp": 1,
@@ -327,7 +347,7 @@
       "a": 0
     },
     "Bowen Byram": {
-      "gp": 2,
+      "gp": 1,
       "g": 1,
       "a": 0
     },
@@ -379,6 +399,11 @@
     "Porter Martone": {
       "gp": 2,
       "g": 2,
+      "a": 0
+    },
+    "Connor McDavid": {
+      "gp": 1,
+      "g": 0,
       "a": 0
     },
     "Josh Norris": {
