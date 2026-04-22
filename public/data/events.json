@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "GOAL",
+      "player": "Artemi Panarin",
+      "team": "LAK",
+      "time": "10:00 PM ET",
+      "pool": "Will"
+    },
+    {
       "type": "ASSIST",
       "player": "Dylan Guenther",
       "team": "UTA",
@@ -412,13 +419,6 @@
       "team": "MTL",
       "time": "5:45 PM ET",
       "pool": "Will, Will"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Evgeni Malkin",
-      "team": "PHI",
-      "time": "8:00 PM ET",
-      "pool": "Paddy"
     }
   ]
 }
