@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T01:24:13.314Z",
+  "lastUpdated": "2026-04-22T01:26:09.409Z",
   "players": {
     "Quinton Byfield": {
       "gp": 1,
@@ -429,6 +429,11 @@
     "Evan Bouchard": {
       "gp": 1,
       "g": 0,
+      "a": 0
+    },
+    "Darren Raddysh": {
+      "gp": 1,
+      "g": 1,
       "a": 0
     }
   }
