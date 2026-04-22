@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T01:14:13.646Z",
+  "lastUpdated": "2026-04-22T01:22:09.107Z",
   "players": {
     "Quinton Byfield": {
       "gp": 1,
@@ -70,11 +70,6 @@
       "gp": 1,
       "g": 1,
       "a": 1
-    },
-    "Sebastian Aho": {
-      "gp": 2,
-      "g": 1,
-      "a": 0
     },
     "Jackson Blake": {
       "gp": 2,
@@ -189,7 +184,7 @@
     "David Pastrnak": {
       "gp": 1,
       "g": 1,
-      "a": 3
+      "a": 4
     },
     "Nick Suzuki": {
       "gp": 1,
@@ -214,7 +209,7 @@
     "Charlie McAvoy": {
       "gp": 1,
       "g": 0,
-      "a": 0
+      "a": 1
     },
     "Ivan Barbashev": {
       "gp": 1,
