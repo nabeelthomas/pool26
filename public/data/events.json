@@ -16,6 +16,20 @@
     },
     {
       "type": "ASSIST",
+      "player": "Anthony Cirelli",
+      "team": "TBL",
+      "time": "7:00 PM ET",
+      "pool": "Cam"
+    },
+    {
+      "type": "GOAL",
+      "player": "Nikita Kucherov",
+      "team": "TBL",
+      "time": "7:00 PM ET",
+      "pool": "Paddy"
+    },
+    {
+      "type": "ASSIST",
       "player": "Nick Suzuki",
       "team": "MTL",
       "time": "7:00 PM ET",
@@ -405,20 +419,6 @@
       "team": "MIN",
       "time": "5:30 PM ET",
       "pool": "Paddy"
-    },
-    {
-      "type": "GOAL",
-      "player": "Jason Robertson",
-      "team": "DAL",
-      "time": "5:30 PM ET",
-      "pool": "Paddy"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Brock Faber",
-      "team": "MIN",
-      "time": "5:30 PM ET",
-      "pool": "Will"
     }
   ]
 }
