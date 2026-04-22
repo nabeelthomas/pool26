@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T03:44:09.421Z",
+  "lastUpdated": "2026-04-22T03:46:12.038Z",
   "players": {
     "Quinton Byfield": {
       "gp": 1,
@@ -10,6 +10,11 @@
       "gp": 2,
       "g": 0,
       "a": 3
+    },
+    "Ivan Demidov": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
     },
     "Kasperi Kapanen": {
       "gp": 1,
@@ -29,6 +34,11 @@
     "Adrian Kempe": {
       "gp": 1,
       "g": 0,
+      "a": 0
+    },
+    "Artemi Panarin": {
+      "gp": 1,
+      "g": 1,
       "a": 0
     },
     "Juraj Slafkovsky": {
@@ -61,6 +71,11 @@
       "g": 1,
       "a": 1
     },
+    "Sebastian Aho": {
+      "gp": 2,
+      "g": 1,
+      "a": 0
+    },
     "Jackson Blake": {
       "gp": 2,
       "g": 0,
@@ -84,6 +99,11 @@
     "Seth Jarvis": {
       "gp": 2,
       "g": 0,
+      "a": 0
+    },
+    "Artturi Lehkonen": {
+      "gp": 1,
+      "g": 1,
       "a": 0
     },
     "Brock Nelson": {
@@ -239,6 +259,11 @@
     "Evgeni Malkin": {
       "gp": 2,
       "g": 1,
+      "a": 1
+    },
+    "Mikko Rantanen": {
+      "gp": 2,
+      "g": 0,
       "a": 1
     },
     "Jason Robertson": {
