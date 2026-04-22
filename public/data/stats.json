@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T08:52:14.895Z",
+  "lastUpdated": "2026-04-22T08:54:12.736Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -206,6 +206,11 @@
       "g": 0,
       "a": 1
     },
+    "Erik Karlsson": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
+    },
     "Charlie McAvoy": {
       "gp": 2,
       "g": 0,
@@ -264,6 +269,11 @@
     "Jason Robertson": {
       "gp": 2,
       "g": 2,
+      "a": 0
+    },
+    "Bryan Rust": {
+      "gp": 2,
+      "g": 1,
       "a": 0
     },
     "Nick Schmaltz": {
@@ -365,6 +375,11 @@
       "gp": 1,
       "g": 0,
       "a": 2
+    },
+    "Nikolaj Ehlers": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
     },
     "Brandon Hagel": {
       "gp": 2,
