@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T09:24:10.774Z",
+  "lastUpdated": "2026-04-23T09:26:11.799Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -31,11 +31,6 @@
       "g": 1,
       "a": 3
     },
-    "Adrian Kempe": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
     "Artemi Panarin": {
       "gp": 2,
       "g": 2,
@@ -44,11 +39,6 @@
     "Juraj Slafkovsky": {
       "gp": 2,
       "g": 3,
-      "a": 0
-    },
-    "Tim Stutzle": {
-      "gp": 2,
-      "g": 0,
       "a": 0
     },
     "Brady Tkachuk": {
@@ -104,11 +94,6 @@
     "Artturi Lehkonen": {
       "gp": 2,
       "g": 1,
-      "a": 0
-    },
-    "Brock Nelson": {
-      "gp": 2,
-      "g": 0,
       "a": 0
     },
     "Brayden Point": {
@@ -240,11 +225,6 @@
       "gp": 3,
       "g": 3,
       "a": 2
-    },
-    "Clayton Keller": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
     },
     "Travis Konecny": {
       "gp": 3,
@@ -422,11 +402,6 @@
       "a": 0
     },
     "Andrei Svechnikov": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
-    "Evan Bouchard": {
       "gp": 2,
       "g": 0,
       "a": 0
