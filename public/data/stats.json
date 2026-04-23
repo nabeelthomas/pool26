@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T09:20:12.918Z",
+  "lastUpdated": "2026-04-23T09:22:12.772Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -21,10 +21,20 @@
       "g": 2,
       "a": 1
     },
+    "Oliver Kapanen": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
     "Kirill Kaprizov": {
       "gp": 3,
       "g": 1,
       "a": 3
+    },
+    "Adrian Kempe": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
     },
     "Artemi Panarin": {
       "gp": 2,
@@ -96,6 +106,11 @@
       "g": 1,
       "a": 0
     },
+    "Brock Nelson": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
     "Brayden Point": {
       "gp": 2,
       "g": 0,
@@ -131,15 +146,15 @@
       "g": 1,
       "a": 0
     },
-    "Dylan Cozens": {
-      "gp": 2,
-      "g": 1,
-      "a": 0
-    },
     "Sidney Crosby": {
       "gp": 3,
       "g": 0,
       "a": 1
+    },
+    "Pavel Dorofeyev": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
     },
     "Joel Eriksson Ek": {
       "gp": 3,
@@ -256,8 +271,18 @@
       "g": 1,
       "a": 1
     },
+    "Nick Schmaltz": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
     "Vladimir Tarasenko": {
       "gp": 3,
+      "g": 0,
+      "a": 0
+    },
+    "Shayne Gostisbehere": {
+      "gp": 2,
       "g": 0,
       "a": 0
     },
@@ -271,11 +296,6 @@
       "g": 2,
       "a": 1
     },
-    "Nazem Kadri": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
-    },
     "Gabriel Landeskog": {
       "gp": 2,
       "g": 1,
@@ -286,7 +306,7 @@
       "g": 0,
       "a": 1
     },
-    "Ryan McLeod": {
+    "Valeri Nichushkin": {
       "gp": 2,
       "g": 0,
       "a": 0
@@ -309,11 +329,6 @@
     "Jason Zucker": {
       "gp": 2,
       "g": 0,
-      "a": 0
-    },
-    "Bowen Byram": {
-      "gp": 2,
-      "g": 1,
       "a": 0
     },
     "Rasmus Dahlin": {
@@ -366,16 +381,6 @@
       "g": 2,
       "a": 1
     },
-    "Connor McDavid": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
-    "Josh Norris": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
     "Corey Perry": {
       "gp": 2,
       "g": 0,
@@ -386,19 +391,9 @@
       "g": 2,
       "a": 0
     },
-    "Andrei Svechnikov": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
     "Evan Bouchard": {
       "gp": 2,
       "g": 0,
-      "a": 0
-    },
-    "Darren Raddysh": {
-      "gp": 2,
-      "g": 1,
       "a": 0
     }
   }
