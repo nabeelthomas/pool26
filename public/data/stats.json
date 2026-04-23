@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T05:40:14.723Z",
+  "lastUpdated": "2026-04-23T05:42:17.868Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -146,6 +146,11 @@
       "g": 1,
       "a": 0
     },
+    "Dylan Cozens": {
+      "gp": 2,
+      "g": 1,
+      "a": 0
+    },
     "Sidney Crosby": {
       "gp": 3,
       "g": 0,
@@ -177,7 +182,7 @@
       "a": 1
     },
     "Ryan Nugent-Hopkins": {
-      "gp": 1,
+      "gp": 2,
       "g": 0,
       "a": 1
     },
@@ -257,7 +262,7 @@
       "a": 1
     },
     "Mikko Rantanen": {
-      "gp": 1,
+      "gp": 2,
       "g": 1,
       "a": 2
     },
@@ -339,6 +344,11 @@
     "Jason Zucker": {
       "gp": 2,
       "g": 0,
+      "a": 0
+    },
+    "Bowen Byram": {
+      "gp": 2,
+      "g": 1,
       "a": 0
     },
     "Rasmus Dahlin": {
