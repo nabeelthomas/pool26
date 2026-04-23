@@ -16,6 +16,20 @@
     },
     {
       "type": "ASSIST",
+      "player": "Matt Boldy",
+      "team": "MIN",
+      "time": "9:30 PM ET",
+      "pool": "Cam"
+    },
+    {
+      "type": "GOAL",
+      "player": "Joel Eriksson Ek",
+      "team": "MIN",
+      "time": "9:30 PM ET",
+      "pool": "Reiner"
+    },
+    {
+      "type": "ASSIST",
       "player": "Matt Duchene",
       "team": "DAL",
       "time": "9:30 PM ET",
@@ -405,20 +419,6 @@
       "team": "MTL",
       "time": "5:45 PM ET",
       "pool": "Will"
-    },
-    {
-      "type": "GOAL",
-      "player": "Juraj Slafkovský",
-      "team": "MTL",
-      "time": "5:45 PM ET",
-      "pool": "Will"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Jake Guentzel",
-      "team": "TBL",
-      "time": "5:45 PM ET",
-      "pool": "Nabeel"
     }
   ]
 }
