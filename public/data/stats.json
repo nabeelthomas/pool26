@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T03:16:10.693Z",
+  "lastUpdated": "2026-04-23T03:18:15.557Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -146,13 +146,8 @@
       "g": 1,
       "a": 0
     },
-    "Dylan Cozens": {
-      "gp": 2,
-      "g": 1,
-      "a": 0
-    },
     "Sidney Crosby": {
-      "gp": 1,
+      "gp": 3,
       "g": 0,
       "a": 1
     },
@@ -262,9 +257,9 @@
       "a": 1
     },
     "Mikko Rantanen": {
-      "gp": 2,
+      "gp": 1,
       "g": 1,
-      "a": 1
+      "a": 0
     },
     "Jason Robertson": {
       "gp": 2,
@@ -299,7 +294,7 @@
     "Cutter Gauthier": {
       "gp": 1,
       "g": 1,
-      "a": 0
+      "a": 1
     },
     "Nazem Kadri": {
       "gp": 2,
@@ -346,10 +341,15 @@
       "g": 0,
       "a": 0
     },
-    "Bowen Byram": {
+    "Rasmus Dahlin": {
       "gp": 2,
-      "g": 1,
-      "a": 0
+      "g": 0,
+      "a": 1
+    },
+    "Devon Toews": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
     },
     "Matt Boldy": {
       "gp": 2,
