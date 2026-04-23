@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T04:48:10.831Z",
+  "lastUpdated": "2026-04-23T04:50:17.717Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -30,11 +30,6 @@
       "gp": 2,
       "g": 1,
       "a": 3
-    },
-    "Adrian Kempe": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
     },
     "Artemi Panarin": {
       "gp": 2,
@@ -131,6 +126,11 @@
       "g": 0,
       "a": 2
     },
+    "Cale Makar": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
     "Shea Theodore": {
       "gp": 2,
       "g": 0,
@@ -150,11 +150,6 @@
       "gp": 3,
       "g": 0,
       "a": 1
-    },
-    "Pavel Dorofeyev": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
     },
     "Joel Eriksson Ek": {
       "gp": 2,
@@ -236,11 +231,6 @@
       "g": 2,
       "a": 2
     },
-    "Clayton Keller": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
     "Travis Konecny": {
       "gp": 3,
       "g": 0,
@@ -271,17 +261,7 @@
       "g": 1,
       "a": 1
     },
-    "Nick Schmaltz": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
     "Vladimir Tarasenko": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
-    "Shayne Gostisbehere": {
       "gp": 2,
       "g": 0,
       "a": 0
@@ -396,12 +376,12 @@
       "g": 2,
       "a": 1
     },
-    "Josh Norris": {
-      "gp": 2,
+    "Connor McDavid": {
+      "gp": 1,
       "g": 0,
       "a": 0
     },
-    "Corey Perry": {
+    "Josh Norris": {
       "gp": 2,
       "g": 0,
       "a": 0
