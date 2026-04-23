@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T23:04:08.876Z",
+  "lastUpdated": "2026-04-23T23:06:11.971Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -30,6 +30,11 @@
       "gp": 3,
       "g": 1,
       "a": 3
+    },
+    "Adrian Kempe": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
     },
     "Artemi Panarin": {
       "gp": 2,
@@ -151,11 +156,6 @@
       "g": 0,
       "a": 1
     },
-    "Pavel Dorofeyev": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
     "Joel Eriksson Ek": {
       "gp": 3,
       "g": 3,
@@ -271,6 +271,11 @@
       "g": 1,
       "a": 1
     },
+    "Vladimir Tarasenko": {
+      "gp": 3,
+      "g": 0,
+      "a": 0
+    },
     "Shayne Gostisbehere": {
       "gp": 2,
       "g": 0,
@@ -301,6 +306,11 @@
       "g": 0,
       "a": 1
     },
+    "Ryan McLeod": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
     "Valeri Nichushkin": {
       "gp": 2,
       "g": 0,
@@ -320,6 +330,11 @@
       "gp": 2,
       "g": 1,
       "a": 2
+    },
+    "Jason Zucker": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
     },
     "Bowen Byram": {
       "gp": 2,
@@ -375,6 +390,11 @@
       "gp": 3,
       "g": 2,
       "a": 1
+    },
+    "Connor McDavid": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
     },
     "Josh Norris": {
       "gp": 2,
