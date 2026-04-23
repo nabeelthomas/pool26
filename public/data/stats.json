@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T00:22:10.260Z",
+  "lastUpdated": "2026-04-23T00:24:10.357Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -91,11 +91,6 @@
       "g": 0,
       "a": 0
     },
-    "Artturi Lehkonen": {
-      "gp": 2,
-      "g": 1,
-      "a": 0
-    },
     "Brock Nelson": {
       "gp": 2,
       "g": 0,
@@ -131,11 +126,6 @@
       "g": 0,
       "a": 0
     },
-    "Drake Batherson": {
-      "gp": 2,
-      "g": 1,
-      "a": 0
-    },
     "Dylan Cozens": {
       "gp": 2,
       "g": 1,
@@ -150,11 +140,6 @@
       "gp": 2,
       "g": 2,
       "a": 2
-    },
-    "Tomas Hertl": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
     },
     "Mitch Marner": {
       "gp": 2,
@@ -185,11 +170,6 @@
       "gp": 1,
       "g": 0,
       "a": 3
-    },
-    "Mattias Ekholm": {
-      "gp": 1,
-      "g": 0,
-      "a": 1
     },
     "Erik Karlsson": {
       "gp": 2,
@@ -225,11 +205,6 @@
       "gp": 2,
       "g": 2,
       "a": 1
-    },
-    "Clayton Keller": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
     },
     "Travis Konecny": {
       "gp": 2,
@@ -276,11 +251,6 @@
       "g": 0,
       "a": 0
     },
-    "Nazem Kadri": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
-    },
     "Gabriel Landeskog": {
       "gp": 2,
       "g": 1,
@@ -296,10 +266,10 @@
       "g": 0,
       "a": 0
     },
-    "Jack Quinn": {
+    "Valeri Nichushkin": {
       "gp": 2,
       "g": 0,
-      "a": 1
+      "a": 0
     },
     "Tage Thompson": {
       "gp": 2,
@@ -322,11 +292,6 @@
       "a": 0
     },
     "Rasmus Dahlin": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
-    },
-    "Devon Toews": {
       "gp": 2,
       "g": 0,
       "a": 1
@@ -356,6 +321,11 @@
       "g": 3,
       "a": 1
     },
+    "James Hagens": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
     "Porter Martone": {
       "gp": 2,
       "g": 2,
@@ -367,6 +337,11 @@
       "a": 0
     },
     "Josh Norris": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
+    "Corey Perry": {
       "gp": 2,
       "g": 0,
       "a": 0
