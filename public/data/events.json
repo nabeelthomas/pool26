@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "type": "ASSIST",
+      "player": "Jason Robertson",
+      "team": "DAL",
+      "time": "9:30 PM ET",
+      "pool": "Paddy"
+    },
+    {
+      "type": "GOAL",
+      "player": "Mikko Rantanen",
+      "team": "DAL",
+      "time": "9:30 PM ET",
+      "pool": "Paddy"
+    },
+    {
       "type": "GOAL",
       "player": "Erik Karlsson",
       "team": "PIT",
@@ -405,20 +419,6 @@
       "team": "MTL",
       "time": "5:45 PM ET",
       "pool": "Will"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Nikita Kucherov",
-      "team": "TBL",
-      "time": "5:45 PM ET",
-      "pool": "Paddy"
-    },
-    {
-      "type": "GOAL",
-      "player": "Darren Raddysh",
-      "team": "TBL",
-      "time": "5:45 PM ET",
-      "pool": "Cam"
     }
   ]
 }
