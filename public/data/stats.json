@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T03:32:10.149Z",
+  "lastUpdated": "2026-04-23T03:34:12.415Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -11,10 +11,20 @@
       "g": 0,
       "a": 3
     },
+    "Ivan Demidov": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
+    },
     "Kasperi Kapanen": {
       "gp": 1,
       "g": 2,
       "a": 1
+    },
+    "Oliver Kapanen": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
     },
     "Kirill Kaprizov": {
       "gp": 2,
@@ -34,11 +44,6 @@
     "Juraj Slafkovsky": {
       "gp": 2,
       "g": 3,
-      "a": 0
-    },
-    "Tim Stutzle": {
-      "gp": 2,
-      "g": 0,
       "a": 0
     },
     "Brady Tkachuk": {
@@ -86,7 +91,17 @@
       "g": 0,
       "a": 4
     },
-    "Brock Nelson": {
+    "Seth Jarvis": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
+    "Artturi Lehkonen": {
+      "gp": 2,
+      "g": 1,
+      "a": 0
+    },
+    "Brayden Point": {
       "gp": 2,
       "g": 0,
       "a": 0
@@ -96,10 +111,25 @@
       "g": 2,
       "a": 1
     },
+    "Thomas Harley": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
     "Miro Heiskanen": {
       "gp": 2,
       "g": 0,
       "a": 2
+    },
+    "Cale Makar": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
+    "Shea Theodore": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
     },
     "Drake Batherson": {
       "gp": 2,
@@ -125,6 +155,11 @@
       "gp": 2,
       "g": 3,
       "a": 2
+    },
+    "Tomas Hertl": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
     },
     "Mitch Marner": {
       "gp": 2,
@@ -164,6 +199,11 @@
     "Erik Karlsson": {
       "gp": 3,
       "g": 1,
+      "a": 1
+    },
+    "Charlie McAvoy": {
+      "gp": 2,
+      "g": 0,
       "a": 1
     },
     "Ivan Barbashev": {
@@ -226,7 +266,7 @@
       "g": 1,
       "a": 1
     },
-    "Nick Schmaltz": {
+    "Vladimir Tarasenko": {
       "gp": 2,
       "g": 0,
       "a": 0
@@ -246,6 +286,11 @@
       "g": 1,
       "a": 1
     },
+    "Nazem Kadri": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
+    },
     "Gabriel Landeskog": {
       "gp": 2,
       "g": 1,
@@ -257,11 +302,6 @@
       "a": 1
     },
     "Ryan McLeod": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
-    "Valeri Nichushkin": {
       "gp": 2,
       "g": 0,
       "a": 0
@@ -280,6 +320,11 @@
       "gp": 2,
       "g": 1,
       "a": 2
+    },
+    "Jason Zucker": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
     },
     "Bowen Byram": {
       "gp": 2,
@@ -311,15 +356,15 @@
       "g": 1,
       "a": 3
     },
+    "Nikolaj Ehlers": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
+    },
     "Brandon Hagel": {
       "gp": 2,
       "g": 3,
       "a": 1
-    },
-    "James Hagens": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
     },
     "Zach Hyman": {
       "gp": 1,
@@ -331,7 +376,12 @@
       "g": 2,
       "a": 1
     },
-    "Corey Perry": {
+    "Connor McDavid": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
+    "Josh Norris": {
       "gp": 2,
       "g": 0,
       "a": 0
@@ -339,6 +389,11 @@
     "Mark Stone": {
       "gp": 2,
       "g": 2,
+      "a": 0
+    },
+    "Andrei Svechnikov": {
+      "gp": 2,
+      "g": 0,
       "a": 0
     },
     "Evan Bouchard": {
