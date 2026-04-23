@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T06:16:14.345Z",
+  "lastUpdated": "2026-04-23T06:22:14.796Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -27,7 +27,7 @@
       "a": 0
     },
     "Kirill Kaprizov": {
-      "gp": 2,
+      "gp": 3,
       "g": 1,
       "a": 3
     },
@@ -57,12 +57,12 @@
       "a": 0
     },
     "Brock Faber": {
-      "gp": 2,
+      "gp": 3,
       "g": 2,
       "a": 1
     },
     "Quinn Hughes": {
-      "gp": 2,
+      "gp": 3,
       "g": 0,
       "a": 4
     },
@@ -82,7 +82,7 @@
       "a": 3
     },
     "Matt Duchene": {
-      "gp": 2,
+      "gp": 3,
       "g": 2,
       "a": 3
     },
@@ -122,12 +122,12 @@
       "a": 1
     },
     "Thomas Harley": {
-      "gp": 2,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
     "Miro Heiskanen": {
-      "gp": 2,
+      "gp": 3,
       "g": 0,
       "a": 3
     },
@@ -162,7 +162,7 @@
       "a": 0
     },
     "Joel Eriksson Ek": {
-      "gp": 2,
+      "gp": 3,
       "g": 3,
       "a": 2
     },
@@ -237,7 +237,7 @@
       "a": 1
     },
     "Wyatt Johnston": {
-      "gp": 2,
+      "gp": 3,
       "g": 3,
       "a": 2
     },
@@ -262,12 +262,12 @@
       "a": 1
     },
     "Mikko Rantanen": {
-      "gp": 2,
+      "gp": 3,
       "g": 1,
       "a": 2
     },
     "Jason Robertson": {
-      "gp": 2,
+      "gp": 3,
       "g": 3,
       "a": 2
     },
@@ -282,7 +282,7 @@
       "a": 0
     },
     "Vladimir Tarasenko": {
-      "gp": 2,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
@@ -299,11 +299,6 @@
     "Cutter Gauthier": {
       "gp": 2,
       "g": 2,
-      "a": 1
-    },
-    "Nazem Kadri": {
-      "gp": 2,
-      "g": 0,
       "a": 1
     },
     "Gabriel Landeskog": {
@@ -362,7 +357,7 @@
       "a": 1
     },
     "Matt Boldy": {
-      "gp": 2,
+      "gp": 3,
       "g": 2,
       "a": 2
     },
