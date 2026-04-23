@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T01:58:12.260Z",
+  "lastUpdated": "2026-04-23T02:02:11.732Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -96,24 +96,9 @@
       "g": 0,
       "a": 4
     },
-    "Seth Jarvis": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
     "Artturi Lehkonen": {
       "gp": 2,
       "g": 1,
-      "a": 0
-    },
-    "Brock Nelson": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
-    "Brayden Point": {
-      "gp": 2,
-      "g": 0,
       "a": 0
     },
     "Logan Stankoven": {
@@ -121,25 +106,10 @@
       "g": 2,
       "a": 1
     },
-    "Thomas Harley": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
     "Miro Heiskanen": {
       "gp": 2,
       "g": 0,
       "a": 2
-    },
-    "Cale Makar": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
-    "Shea Theodore": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
     },
     "Drake Batherson": {
       "gp": 2,
@@ -165,11 +135,6 @@
       "gp": 2,
       "g": 2,
       "a": 2
-    },
-    "Tomas Hertl": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
     },
     "Mitch Marner": {
       "gp": 2,
@@ -281,11 +246,6 @@
       "g": 0,
       "a": 0
     },
-    "Vladimir Tarasenko": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
     "Shayne Gostisbehere": {
       "gp": 2,
       "g": 0,
@@ -293,11 +253,6 @@
     },
     "Josh Doan": {
       "gp": 2,
-      "g": 0,
-      "a": 0
-    },
-    "Cutter Gauthier": {
-      "gp": 1,
       "g": 0,
       "a": 0
     },
@@ -326,11 +281,6 @@
       "g": 0,
       "a": 0
     },
-    "Jack Quinn": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
-    },
     "Tage Thompson": {
       "gp": 2,
       "g": 2,
@@ -340,11 +290,6 @@
       "gp": 2,
       "g": 1,
       "a": 2
-    },
-    "Jason Zucker": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
     },
     "Bowen Byram": {
       "gp": 2,
@@ -401,16 +346,6 @@
       "g": 2,
       "a": 1
     },
-    "Connor McDavid": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
-    },
-    "Josh Norris": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
     "Corey Perry": {
       "gp": 2,
       "g": 0,
@@ -419,11 +354,6 @@
     "Mark Stone": {
       "gp": 2,
       "g": 2,
-      "a": 0
-    },
-    "Andrei Svechnikov": {
-      "gp": 2,
-      "g": 0,
       "a": 0
     },
     "Evan Bouchard": {
