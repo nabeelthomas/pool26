@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T06:32:15.672Z",
+  "lastUpdated": "2026-04-23T06:34:11.461Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -96,11 +96,6 @@
       "g": 0,
       "a": 4
     },
-    "Seth Jarvis": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
     "Artturi Lehkonen": {
       "gp": 2,
       "g": 1,
@@ -111,42 +106,17 @@
       "g": 0,
       "a": 0
     },
-    "Brayden Point": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
     "Logan Stankoven": {
       "gp": 2,
       "g": 2,
       "a": 1
-    },
-    "Thomas Harley": {
-      "gp": 3,
-      "g": 0,
-      "a": 0
     },
     "Miro Heiskanen": {
       "gp": 3,
       "g": 0,
       "a": 3
     },
-    "Cale Makar": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
-    "Shea Theodore": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
     "Drake Batherson": {
-      "gp": 2,
-      "g": 1,
-      "a": 0
-    },
-    "Dylan Cozens": {
       "gp": 2,
       "g": 1,
       "a": 0
@@ -281,11 +251,6 @@
       "g": 0,
       "a": 0
     },
-    "Vladimir Tarasenko": {
-      "gp": 3,
-      "g": 0,
-      "a": 0
-    },
     "Shayne Gostisbehere": {
       "gp": 2,
       "g": 0,
@@ -341,16 +306,6 @@
       "g": 1,
       "a": 2
     },
-    "Jason Zucker": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
-    "Bowen Byram": {
-      "gp": 2,
-      "g": 1,
-      "a": 0
-    },
     "Rasmus Dahlin": {
       "gp": 2,
       "g": 0,
@@ -401,16 +356,6 @@
       "g": 2,
       "a": 1
     },
-    "Connor McDavid": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
-    "Josh Norris": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
     "Corey Perry": {
       "gp": 2,
       "g": 0,
@@ -421,19 +366,9 @@
       "g": 2,
       "a": 0
     },
-    "Andrei Svechnikov": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
     "Evan Bouchard": {
       "gp": 2,
       "g": 0,
-      "a": 0
-    },
-    "Darren Raddysh": {
-      "gp": 2,
-      "g": 1,
       "a": 0
     }
   }
