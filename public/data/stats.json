@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T03:14:10.140Z",
+  "lastUpdated": "2026-04-23T03:16:10.693Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -44,6 +44,16 @@
     "Juraj Slafkovsky": {
       "gp": 2,
       "g": 3,
+      "a": 0
+    },
+    "Tim Stutzle": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
+    "Brady Tkachuk": {
+      "gp": 2,
+      "g": 0,
       "a": 0
     },
     "Brock Faber": {
@@ -96,6 +106,11 @@
       "g": 1,
       "a": 0
     },
+    "Brock Nelson": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
     "Brayden Point": {
       "gp": 2,
       "g": 0,
@@ -137,7 +152,7 @@
       "a": 0
     },
     "Sidney Crosby": {
-      "gp": 3,
+      "gp": 1,
       "g": 0,
       "a": 1
     },
@@ -276,6 +291,11 @@
       "g": 0,
       "a": 0
     },
+    "Josh Doan": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
     "Cutter Gauthier": {
       "gp": 1,
       "g": 1,
@@ -331,16 +351,6 @@
       "g": 1,
       "a": 0
     },
-    "Rasmus Dahlin": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
-    },
-    "Devon Toews": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
-    },
     "Matt Boldy": {
       "gp": 2,
       "g": 2,
@@ -387,6 +397,11 @@
       "a": 0
     },
     "Josh Norris": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
+    "Corey Perry": {
       "gp": 2,
       "g": 0,
       "a": 0
