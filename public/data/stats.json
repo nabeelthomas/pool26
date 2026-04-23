@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T03:12:12.476Z",
+  "lastUpdated": "2026-04-23T03:14:10.140Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -31,6 +31,11 @@
       "g": 1,
       "a": 3
     },
+    "Adrian Kempe": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
     "Artemi Panarin": {
       "gp": 2,
       "g": 2,
@@ -39,16 +44,6 @@
     "Juraj Slafkovsky": {
       "gp": 2,
       "g": 3,
-      "a": 0
-    },
-    "Tim Stutzle": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
-    "Brady Tkachuk": {
-      "gp": 2,
-      "g": 0,
       "a": 0
     },
     "Brock Faber": {
@@ -142,7 +137,7 @@
       "a": 0
     },
     "Sidney Crosby": {
-      "gp": 1,
+      "gp": 3,
       "g": 0,
       "a": 1
     },
@@ -231,6 +226,11 @@
       "g": 2,
       "a": 1
     },
+    "Clayton Keller": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
     "Travis Konecny": {
       "gp": 3,
       "g": 0,
@@ -261,17 +261,17 @@
       "g": 1,
       "a": 1
     },
+    "Nick Schmaltz": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
     "Vladimir Tarasenko": {
       "gp": 2,
       "g": 0,
       "a": 0
     },
     "Shayne Gostisbehere": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
-    "Josh Doan": {
       "gp": 2,
       "g": 0,
       "a": 0
@@ -300,6 +300,16 @@
       "gp": 2,
       "g": 0,
       "a": 0
+    },
+    "Valeri Nichushkin": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
+    "Jack Quinn": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
     },
     "Tage Thompson": {
       "gp": 2,
@@ -355,6 +365,11 @@
       "gp": 2,
       "g": 3,
       "a": 1
+    },
+    "James Hagens": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
     },
     "Zach Hyman": {
       "gp": 1,
