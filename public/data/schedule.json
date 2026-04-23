@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T05:54:09.931Z",
+  "generatedAt": "2026-04-23T05:56:09.584Z",
   "games": [
     {
       "id": 2025030143,
@@ -19,7 +19,7 @@
       "homeScore": 3,
       "period": "OT",
       "startUTC": "2026-04-23T01:30:00Z",
-      "status": "live"
+      "status": "final"
     },
     {
       "id": 2025030182,

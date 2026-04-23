@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T05:54:10.006Z",
+  "lastUpdated": "2026-04-23T05:56:09.711Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -44,11 +44,6 @@
     "Juraj Slafkovsky": {
       "gp": 2,
       "g": 3,
-      "a": 0
-    },
-    "Tim Stutzle": {
-      "gp": 2,
-      "g": 0,
       "a": 0
     },
     "Brady Tkachuk": {
@@ -241,11 +236,6 @@
       "g": 3,
       "a": 2
     },
-    "Clayton Keller": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
     "Travis Konecny": {
       "gp": 3,
       "g": 0,
@@ -269,7 +259,7 @@
     "Jason Robertson": {
       "gp": 2,
       "g": 3,
-      "a": 1
+      "a": 2
     },
     "Bryan Rust": {
       "gp": 3,
@@ -282,11 +272,6 @@
       "a": 0
     },
     "Vladimir Tarasenko": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
-    "Shayne Gostisbehere": {
       "gp": 2,
       "g": 0,
       "a": 0
