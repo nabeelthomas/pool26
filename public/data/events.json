@@ -2,6 +2,13 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Leon Draisaitl",
+      "team": "EDM",
+      "time": "10:00 PM ET",
+      "pool": "Cam"
+    },
+    {
+      "type": "ASSIST",
       "player": "Cutter Gauthier",
       "team": "ANA",
       "time": "10:00 PM ET",
@@ -244,13 +251,6 @@
       "team": "ANA",
       "time": "10:00 PM ET",
       "pool": "Paddy"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Leon Draisaitl",
-      "team": "EDM",
-      "time": "10:00 PM ET",
-      "pool": "Cam"
     },
     {
       "type": "GOAL",
