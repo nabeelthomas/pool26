@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "GOAL",
+      "player": "Cutter Gauthier",
+      "team": "ANA",
+      "time": "10:00 PM ET",
+      "pool": "Andy"
+    },
+    {
       "type": "ASSIST",
       "player": "Mattias Ekholm",
       "team": "EDM",
@@ -23,13 +30,6 @@
     },
     {
       "type": "ASSIST",
-      "player": "Cutter Gauthier",
-      "team": "ANA",
-      "time": "10:00 PM ET",
-      "pool": "Andy"
-    },
-    {
-      "type": "GOAL",
       "player": "Cutter Gauthier",
       "team": "ANA",
       "time": "10:00 PM ET",
