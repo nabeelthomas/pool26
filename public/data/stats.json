@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T02:16:10.584Z",
+  "lastUpdated": "2026-04-23T02:26:12.627Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -44,16 +44,6 @@
     "Juraj Slafkovsky": {
       "gp": 2,
       "g": 3,
-      "a": 0
-    },
-    "Tim Stutzle": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
-    "Brady Tkachuk": {
-      "gp": 2,
-      "g": 0,
       "a": 0
     },
     "Brock Faber": {
@@ -276,22 +266,12 @@
       "g": 1,
       "a": 1
     },
-    "Nick Schmaltz": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
     "Vladimir Tarasenko": {
       "gp": 2,
       "g": 0,
       "a": 0
     },
     "Shayne Gostisbehere": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
-    "Josh Doan": {
       "gp": 2,
       "g": 0,
       "a": 0
@@ -317,11 +297,6 @@
       "a": 1
     },
     "Ryan McLeod": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
-    "Valeri Nichushkin": {
       "gp": 2,
       "g": 0,
       "a": 0
@@ -386,11 +361,6 @@
       "g": 3,
       "a": 1
     },
-    "James Hagens": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
     "Zach Hyman": {
       "gp": 1,
       "g": 0,
@@ -411,11 +381,6 @@
       "g": 0,
       "a": 0
     },
-    "Corey Perry": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
     "Mark Stone": {
       "gp": 2,
       "g": 2,
@@ -423,11 +388,6 @@
     },
     "Andrei Svechnikov": {
       "gp": 2,
-      "g": 0,
-      "a": 0
-    },
-    "Evan Bouchard": {
-      "gp": 1,
       "g": 0,
       "a": 0
     },
