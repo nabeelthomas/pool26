@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T02:26:12.627Z",
+  "lastUpdated": "2026-04-23T02:28:11.892Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -44,6 +44,11 @@
     "Juraj Slafkovsky": {
       "gp": 2,
       "g": 3,
+      "a": 0
+    },
+    "Brady Tkachuk": {
+      "gp": 2,
+      "g": 0,
       "a": 0
     },
     "Brock Faber": {
@@ -142,14 +147,9 @@
       "a": 0
     },
     "Sidney Crosby": {
-      "gp": 2,
+      "gp": 1,
       "g": 0,
       "a": 1
-    },
-    "Pavel Dorofeyev": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
     },
     "Joel Eriksson Ek": {
       "gp": 2,
@@ -271,7 +271,7 @@
       "g": 0,
       "a": 0
     },
-    "Shayne Gostisbehere": {
+    "Josh Doan": {
       "gp": 2,
       "g": 0,
       "a": 0
@@ -297,6 +297,11 @@
       "a": 1
     },
     "Ryan McLeod": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
+    "Valeri Nichushkin": {
       "gp": 2,
       "g": 0,
       "a": 0
@@ -348,7 +353,7 @@
     },
     "Leon Draisaitl": {
       "gp": 1,
-      "g": 0,
+      "g": 1,
       "a": 2
     },
     "Nikolaj Ehlers": {
@@ -360,6 +365,11 @@
       "gp": 2,
       "g": 3,
       "a": 1
+    },
+    "James Hagens": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
     },
     "Zach Hyman": {
       "gp": 1,
@@ -388,6 +398,11 @@
     },
     "Andrei Svechnikov": {
       "gp": 2,
+      "g": 0,
+      "a": 0
+    },
+    "Evan Bouchard": {
+      "gp": 1,
       "g": 0,
       "a": 0
     },

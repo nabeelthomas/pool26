@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "GOAL",
+      "player": "Leon Draisaitl",
+      "team": "EDM",
+      "time": "10:00 PM ET",
+      "pool": "Cam"
+    },
+    {
       "type": "ASSIST",
       "player": "Matt Duchene",
       "team": "DAL",
@@ -412,13 +419,6 @@
       "team": "TBL",
       "time": "5:45 PM ET",
       "pool": "Cam"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Cole Caufield",
-      "team": "MTL",
-      "time": "5:45 PM ET",
-      "pool": "Will"
     }
   ]
 }
