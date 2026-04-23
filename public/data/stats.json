@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T05:32:11.274Z",
+  "lastUpdated": "2026-04-23T05:34:09.716Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -141,13 +141,18 @@
       "g": 0,
       "a": 0
     },
+    "Drake Batherson": {
+      "gp": 2,
+      "g": 1,
+      "a": 0
+    },
     "Dylan Cozens": {
       "gp": 2,
       "g": 1,
       "a": 0
     },
     "Sidney Crosby": {
-      "gp": 1,
+      "gp": 3,
       "g": 0,
       "a": 1
     },
@@ -160,6 +165,11 @@
       "gp": 2,
       "g": 3,
       "a": 2
+    },
+    "Tomas Hertl": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
     },
     "Mitch Marner": {
       "gp": 2,
@@ -199,6 +209,11 @@
     "Erik Karlsson": {
       "gp": 3,
       "g": 1,
+      "a": 1
+    },
+    "Charlie McAvoy": {
+      "gp": 2,
+      "g": 0,
       "a": 1
     },
     "Ivan Barbashev": {
