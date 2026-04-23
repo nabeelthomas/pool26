@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T10:20:15.433Z",
+  "lastUpdated": "2026-04-23T10:22:13.720Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -30,11 +30,6 @@
       "gp": 3,
       "g": 1,
       "a": 3
-    },
-    "Adrian Kempe": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
     },
     "Artemi Panarin": {
       "gp": 2,
@@ -104,11 +99,6 @@
     "Artturi Lehkonen": {
       "gp": 2,
       "g": 1,
-      "a": 0
-    },
-    "Brock Nelson": {
-      "gp": 2,
-      "g": 0,
       "a": 0
     },
     "Brayden Point": {
@@ -211,6 +201,11 @@
       "g": 1,
       "a": 1
     },
+    "Charlie McAvoy": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
+    },
     "Ivan Barbashev": {
       "gp": 2,
       "g": 2,
@@ -235,11 +230,6 @@
       "gp": 3,
       "g": 3,
       "a": 2
-    },
-    "Clayton Keller": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
     },
     "Travis Konecny": {
       "gp": 3,
@@ -270,11 +260,6 @@
       "gp": 3,
       "g": 1,
       "a": 1
-    },
-    "Nick Schmaltz": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
     },
     "Vladimir Tarasenko": {
       "gp": 3,
@@ -341,6 +326,11 @@
       "g": 0,
       "a": 0
     },
+    "Bowen Byram": {
+      "gp": 2,
+      "g": 1,
+      "a": 0
+    },
     "Rasmus Dahlin": {
       "gp": 2,
       "g": 0,
@@ -397,11 +387,6 @@
       "a": 0
     },
     "Josh Norris": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
-    "Corey Perry": {
       "gp": 2,
       "g": 0,
       "a": 0
