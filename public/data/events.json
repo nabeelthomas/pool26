@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "GOAL",
+      "player": "Erik Karlsson",
+      "team": "PIT",
+      "time": "7:00 PM ET",
+      "pool": "Reiner"
+    },
+    {
       "type": "ASSIST",
       "player": "Bryan Rust",
       "team": "PIT",
@@ -412,13 +419,6 @@
       "team": "TBL",
       "time": "5:45 PM ET",
       "pool": "Cam"
-    },
-    {
-      "type": "GOAL",
-      "player": "Artemi Panarin",
-      "team": "LAK",
-      "time": "3:00 PM ET",
-      "pool": "Will"
     }
   ]
 }
