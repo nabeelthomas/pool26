@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T00:46:09.824Z",
+  "lastUpdated": "2026-04-23T00:48:09.410Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -106,7 +106,7 @@
       "g": 1,
       "a": 0
     },
-    "Brock Nelson": {
+    "Brayden Point": {
       "gp": 2,
       "g": 0,
       "a": 0
@@ -116,12 +116,17 @@
       "g": 2,
       "a": 1
     },
+    "Thomas Harley": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
     "Miro Heiskanen": {
       "gp": 2,
       "g": 0,
       "a": 2
     },
-    "Cale Makar": {
+    "Shea Theodore": {
       "gp": 2,
       "g": 0,
       "a": 0
@@ -166,6 +171,11 @@
       "g": 0,
       "a": 1
     },
+    "Ryan Nugent-Hopkins": {
+      "gp": 1,
+      "g": 0,
+      "a": 0
+    },
     "David Pastrnak": {
       "gp": 2,
       "g": 1,
@@ -187,6 +197,11 @@
       "a": 1
     },
     "Erik Karlsson": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
+    },
+    "Charlie McAvoy": {
       "gp": 2,
       "g": 0,
       "a": 1
@@ -251,6 +266,16 @@
       "g": 1,
       "a": 1
     },
+    "Nick Schmaltz": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
+    "Shayne Gostisbehere": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
     "Josh Doan": {
       "gp": 2,
       "g": 0,
@@ -269,6 +294,16 @@
     "Gabriel Landeskog": {
       "gp": 2,
       "g": 1,
+      "a": 0
+    },
+    "Nathan MacKinnon": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
+    },
+    "Ryan McLeod": {
+      "gp": 2,
+      "g": 0,
       "a": 0
     },
     "Valeri Nichushkin": {
@@ -290,11 +325,6 @@
       "gp": 2,
       "g": 1,
       "a": 2
-    },
-    "Jason Zucker": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
     },
     "Bowen Byram": {
       "gp": 2,
@@ -350,16 +380,6 @@
       "gp": 2,
       "g": 2,
       "a": 1
-    },
-    "Connor McDavid": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
-    },
-    "Josh Norris": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
     },
     "Corey Perry": {
       "gp": 2,
