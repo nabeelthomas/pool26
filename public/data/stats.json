@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T23:02:09.286Z",
+  "lastUpdated": "2026-04-23T23:04:08.876Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -10,6 +10,11 @@
       "gp": 2,
       "g": 0,
       "a": 3
+    },
+    "Ivan Demidov": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
     },
     "Kasperi Kapanen": {
       "gp": 2,
@@ -25,11 +30,6 @@
       "gp": 3,
       "g": 1,
       "a": 3
-    },
-    "Adrian Kempe": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
     },
     "Artemi Panarin": {
       "gp": 2,
@@ -96,6 +96,11 @@
       "g": 0,
       "a": 0
     },
+    "Artturi Lehkonen": {
+      "gp": 2,
+      "g": 1,
+      "a": 0
+    },
     "Brock Nelson": {
       "gp": 2,
       "g": 0,
@@ -121,9 +126,19 @@
       "g": 0,
       "a": 3
     },
+    "Cale Makar": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
     "Shea Theodore": {
       "gp": 2,
       "g": 0,
+      "a": 0
+    },
+    "Drake Batherson": {
+      "gp": 2,
+      "g": 1,
       "a": 0
     },
     "Dylan Cozens": {
@@ -191,6 +206,11 @@
       "g": 1,
       "a": 1
     },
+    "Charlie McAvoy": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
+    },
     "Ivan Barbashev": {
       "gp": 2,
       "g": 2,
@@ -251,16 +271,6 @@
       "g": 1,
       "a": 1
     },
-    "Nick Schmaltz": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
-    "Vladimir Tarasenko": {
-      "gp": 3,
-      "g": 0,
-      "a": 0
-    },
     "Shayne Gostisbehere": {
       "gp": 2,
       "g": 0,
@@ -296,6 +306,11 @@
       "g": 0,
       "a": 0
     },
+    "Jack Quinn": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
+    },
     "Tage Thompson": {
       "gp": 2,
       "g": 2,
@@ -305,11 +320,6 @@
       "gp": 2,
       "g": 1,
       "a": 2
-    },
-    "Jason Zucker": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
     },
     "Bowen Byram": {
       "gp": 2,
@@ -379,6 +389,11 @@
     "Mark Stone": {
       "gp": 2,
       "g": 2,
+      "a": 0
+    },
+    "Andrei Svechnikov": {
+      "gp": 2,
+      "g": 0,
       "a": 0
     },
     "Evan Bouchard": {
