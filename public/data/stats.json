@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T02:10:13.965Z",
+  "lastUpdated": "2026-04-23T02:16:10.584Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -84,7 +84,7 @@
     "Matt Duchene": {
       "gp": 2,
       "g": 1,
-      "a": 2
+      "a": 3
     },
     "Jack Eichel": {
       "gp": 2,
@@ -268,7 +268,7 @@
     },
     "Jason Robertson": {
       "gp": 2,
-      "g": 2,
+      "g": 3,
       "a": 1
     },
     "Bryan Rust": {
