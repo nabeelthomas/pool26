@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T00:30:14.169Z",
+  "lastUpdated": "2026-04-23T00:36:11.631Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -101,11 +101,6 @@
       "g": 0,
       "a": 0
     },
-    "Artturi Lehkonen": {
-      "gp": 2,
-      "g": 1,
-      "a": 0
-    },
     "Brock Nelson": {
       "gp": 2,
       "g": 0,
@@ -165,11 +160,6 @@
       "gp": 2,
       "g": 2,
       "a": 2
-    },
-    "Tomas Hertl": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
     },
     "Mitch Marner": {
       "gp": 2,
@@ -261,11 +251,6 @@
       "g": 2,
       "a": 1
     },
-    "Mikko Rantanen": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
-    },
     "Jason Robertson": {
       "gp": 2,
       "g": 2,
@@ -326,11 +311,6 @@
       "g": 0,
       "a": 0
     },
-    "Jack Quinn": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
-    },
     "Tage Thompson": {
       "gp": 2,
       "g": 2,
@@ -346,17 +326,7 @@
       "g": 0,
       "a": 0
     },
-    "Bowen Byram": {
-      "gp": 2,
-      "g": 1,
-      "a": 0
-    },
     "Rasmus Dahlin": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
-    },
-    "Devon Toews": {
       "gp": 2,
       "g": 0,
       "a": 1
@@ -375,11 +345,6 @@
       "gp": 1,
       "g": 0,
       "a": 2
-    },
-    "Nikolaj Ehlers": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
     },
     "Brandon Hagel": {
       "gp": 2,
