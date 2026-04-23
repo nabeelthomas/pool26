@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T08:46:12.941Z",
+  "lastUpdated": "2026-04-23T08:48:10.922Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -10,11 +10,6 @@
       "gp": 2,
       "g": 0,
       "a": 3
-    },
-    "Ivan Demidov": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
     },
     "Kasperi Kapanen": {
       "gp": 2,
@@ -44,6 +39,11 @@
     "Juraj Slafkovsky": {
       "gp": 2,
       "g": 3,
+      "a": 0
+    },
+    "Tim Stutzle": {
+      "gp": 2,
+      "g": 0,
       "a": 0
     },
     "Brady Tkachuk": {
@@ -91,12 +91,17 @@
       "g": 0,
       "a": 4
     },
-    "Artturi Lehkonen": {
+    "Seth Jarvis": {
       "gp": 2,
-      "g": 1,
+      "g": 0,
       "a": 0
     },
     "Brock Nelson": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
+    "Brayden Point": {
       "gp": 2,
       "g": 0,
       "a": 0
@@ -105,6 +110,11 @@
       "gp": 2,
       "g": 2,
       "a": 1
+    },
+    "Thomas Harley": {
+      "gp": 3,
+      "g": 0,
+      "a": 0
     },
     "Miro Heiskanen": {
       "gp": 3,
@@ -116,7 +126,12 @@
       "g": 0,
       "a": 0
     },
-    "Drake Batherson": {
+    "Shea Theodore": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
+    "Dylan Cozens": {
       "gp": 2,
       "g": 1,
       "a": 0
@@ -146,8 +161,13 @@
       "g": 0,
       "a": 2
     },
-    "Ryan Nugent-Hopkins": {
+    "Martin Necas": {
       "gp": 2,
+      "g": 0,
+      "a": 1
+    },
+    "Ryan Nugent-Hopkins": {
+      "gp": 1,
       "g": 0,
       "a": 1
     },
@@ -276,6 +296,11 @@
       "g": 1,
       "a": 0
     },
+    "Nathan MacKinnon": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
+    },
     "Ryan McLeod": {
       "gp": 2,
       "g": 0,
@@ -285,11 +310,6 @@
       "gp": 2,
       "g": 0,
       "a": 0
-    },
-    "Jack Quinn": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
     },
     "Tage Thompson": {
       "gp": 2,
@@ -336,11 +356,6 @@
       "g": 1,
       "a": 3
     },
-    "Nikolaj Ehlers": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
-    },
     "Brandon Hagel": {
       "gp": 2,
       "g": 3,
@@ -366,6 +381,11 @@
       "g": 0,
       "a": 0
     },
+    "Josh Norris": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
     "Corey Perry": {
       "gp": 2,
       "g": 0,
@@ -377,6 +397,11 @@
       "a": 0
     },
     "Andrei Svechnikov": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
+    "Evan Bouchard": {
       "gp": 2,
       "g": 0,
       "a": 0
