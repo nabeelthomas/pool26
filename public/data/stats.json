@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T07:04:10.533Z",
+  "lastUpdated": "2026-04-23T07:10:17.040Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -10,11 +10,6 @@
       "gp": 2,
       "g": 0,
       "a": 3
-    },
-    "Ivan Demidov": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
     },
     "Kasperi Kapanen": {
       "gp": 2,
@@ -31,11 +26,6 @@
       "g": 1,
       "a": 3
     },
-    "Adrian Kempe": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
     "Artemi Panarin": {
       "gp": 2,
       "g": 2,
@@ -44,11 +34,6 @@
     "Juraj Slafkovsky": {
       "gp": 2,
       "g": 3,
-      "a": 0
-    },
-    "Tim Stutzle": {
-      "gp": 2,
-      "g": 0,
       "a": 0
     },
     "Brady Tkachuk": {
@@ -101,11 +86,6 @@
       "g": 0,
       "a": 0
     },
-    "Artturi Lehkonen": {
-      "gp": 2,
-      "g": 1,
-      "a": 0
-    },
     "Brock Nelson": {
       "gp": 2,
       "g": 0,
@@ -141,18 +121,13 @@
       "g": 0,
       "a": 0
     },
-    "Drake Batherson": {
-      "gp": 2,
-      "g": 1,
-      "a": 0
-    },
     "Dylan Cozens": {
       "gp": 2,
       "g": 1,
       "a": 0
     },
     "Sidney Crosby": {
-      "gp": 3,
+      "gp": 1,
       "g": 0,
       "a": 1
     },
@@ -166,11 +141,6 @@
       "g": 3,
       "a": 2
     },
-    "Tomas Hertl": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
-    },
     "Mitch Marner": {
       "gp": 2,
       "g": 0,
@@ -182,7 +152,7 @@
       "a": 1
     },
     "Ryan Nugent-Hopkins": {
-      "gp": 2,
+      "gp": 1,
       "g": 0,
       "a": 1
     },
@@ -241,11 +211,6 @@
       "g": 3,
       "a": 2
     },
-    "Clayton Keller": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
     "Travis Konecny": {
       "gp": 3,
       "g": 0,
@@ -275,11 +240,6 @@
       "gp": 3,
       "g": 1,
       "a": 1
-    },
-    "Nick Schmaltz": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
     },
     "Vladimir Tarasenko": {
       "gp": 3,
@@ -326,11 +286,6 @@
       "g": 0,
       "a": 0
     },
-    "Jack Quinn": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
-    },
     "Tage Thompson": {
       "gp": 2,
       "g": 2,
@@ -351,11 +306,6 @@
       "g": 1,
       "a": 0
     },
-    "Rasmus Dahlin": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
-    },
     "Devon Toews": {
       "gp": 2,
       "g": 0,
@@ -375,11 +325,6 @@
       "gp": 2,
       "g": 1,
       "a": 3
-    },
-    "Nikolaj Ehlers": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
     },
     "Brandon Hagel": {
       "gp": 2,
