@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T08:28:10.756Z",
+  "lastUpdated": "2026-04-23T08:30:15.057Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -131,14 +131,14 @@
       "g": 0,
       "a": 3
     },
-    "Shea Theodore": {
+    "Cale Makar": {
       "gp": 2,
       "g": 0,
       "a": 0
     },
-    "Drake Batherson": {
+    "Shea Theodore": {
       "gp": 2,
-      "g": 1,
+      "g": 0,
       "a": 0
     },
     "Dylan Cozens": {
@@ -147,7 +147,7 @@
       "a": 0
     },
     "Sidney Crosby": {
-      "gp": 3,
+      "gp": 1,
       "g": 0,
       "a": 1
     },
@@ -346,11 +346,6 @@
       "g": 1,
       "a": 0
     },
-    "Rasmus Dahlin": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
-    },
     "Devon Toews": {
       "gp": 2,
       "g": 0,
@@ -371,11 +366,6 @@
       "g": 1,
       "a": 3
     },
-    "Nikolaj Ehlers": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
-    },
     "Brandon Hagel": {
       "gp": 2,
       "g": 3,
@@ -387,7 +377,7 @@
       "a": 0
     },
     "Zach Hyman": {
-      "gp": 2,
+      "gp": 1,
       "g": 1,
       "a": 0
     },
@@ -395,6 +385,11 @@
       "gp": 3,
       "g": 2,
       "a": 1
+    },
+    "Connor McDavid": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
     },
     "Josh Norris": {
       "gp": 2,
@@ -409,6 +404,11 @@
     "Mark Stone": {
       "gp": 2,
       "g": 2,
+      "a": 0
+    },
+    "Andrei Svechnikov": {
+      "gp": 2,
+      "g": 0,
       "a": 0
     },
     "Evan Bouchard": {
