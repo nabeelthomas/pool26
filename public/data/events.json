@@ -44,6 +44,20 @@
     },
     {
       "type": "ASSIST",
+      "player": "Mikko Rantanen",
+      "team": "DAL",
+      "time": "9:30 PM ET",
+      "pool": "Paddy"
+    },
+    {
+      "type": "GOAL",
+      "player": "Matt Duchene",
+      "team": "DAL",
+      "time": "9:30 PM ET",
+      "pool": "Nabeel"
+    },
+    {
+      "type": "ASSIST",
       "player": "Matt Boldy",
       "team": "MIN",
       "time": "9:30 PM ET",
@@ -279,20 +293,6 @@
       "team": "MIN",
       "time": "9:30 PM ET",
       "pool": "Will"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Mikko Rantanen",
-      "team": "DAL",
-      "time": "9:30 PM ET",
-      "pool": "Paddy"
-    },
-    {
-      "type": "GOAL",
-      "player": "Matt Duchene",
-      "team": "DAL",
-      "time": "9:30 PM ET",
-      "pool": "Nabeel"
     },
     {
       "type": "ASSIST",
