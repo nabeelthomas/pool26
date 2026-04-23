@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T00:50:15.006Z",
+  "lastUpdated": "2026-04-23T00:52:13.472Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -31,6 +31,11 @@
       "g": 1,
       "a": 3
     },
+    "Adrian Kempe": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
     "Artemi Panarin": {
       "gp": 2,
       "g": 2,
@@ -42,6 +47,11 @@
       "a": 0
     },
     "Tim Stutzle": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
+    "Brady Tkachuk": {
       "gp": 2,
       "g": 0,
       "a": 0
@@ -281,6 +291,11 @@
       "g": 0,
       "a": 0
     },
+    "Josh Doan": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
     "Cutter Gauthier": {
       "gp": 1,
       "g": 0,
@@ -302,6 +317,11 @@
       "a": 1
     },
     "Ryan McLeod": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
+    "Valeri Nichushkin": {
       "gp": 2,
       "g": 0,
       "a": 0
@@ -366,6 +386,11 @@
       "g": 3,
       "a": 1
     },
+    "James Hagens": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
     "Zach Hyman": {
       "gp": 1,
       "g": 0,
@@ -382,6 +407,11 @@
       "a": 0
     },
     "Josh Norris": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
+    "Corey Perry": {
       "gp": 2,
       "g": 0,
       "a": 0
