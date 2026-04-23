@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T04:16:12.612Z",
+  "lastUpdated": "2026-04-23T04:18:17.850Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -152,7 +152,7 @@
       "a": 0
     },
     "Sidney Crosby": {
-      "gp": 1,
+      "gp": 3,
       "g": 0,
       "a": 1
     },
@@ -350,6 +350,11 @@
       "gp": 2,
       "g": 1,
       "a": 0
+    },
+    "Rasmus Dahlin": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
     },
     "Devon Toews": {
       "gp": 2,
