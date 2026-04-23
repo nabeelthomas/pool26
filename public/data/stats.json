@@ -1,11 +1,6 @@
 {
-  "lastUpdated": "2026-04-23T07:48:11.899Z",
+  "lastUpdated": "2026-04-23T07:50:20.457Z",
   "players": {
-    "Quinton Byfield": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
-    },
     "Cole Caufield": {
       "gp": 2,
       "g": 0,
@@ -46,6 +41,16 @@
       "g": 3,
       "a": 0
     },
+    "Tim Stutzle": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
+    "Brady Tkachuk": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
     "Brock Faber": {
       "gp": 3,
       "g": 2,
@@ -60,11 +65,6 @@
       "gp": 2,
       "g": 1,
       "a": 1
-    },
-    "Sebastian Aho": {
-      "gp": 2,
-      "g": 1,
-      "a": 0
     },
     "Jackson Blake": {
       "gp": 2,
@@ -132,11 +132,6 @@
       "a": 0
     },
     "Drake Batherson": {
-      "gp": 2,
-      "g": 1,
-      "a": 0
-    },
-    "Dylan Cozens": {
       "gp": 2,
       "g": 1,
       "a": 0
@@ -231,6 +226,11 @@
       "g": 3,
       "a": 2
     },
+    "Clayton Keller": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
     "Travis Konecny": {
       "gp": 3,
       "g": 0,
@@ -261,12 +261,22 @@
       "g": 1,
       "a": 1
     },
+    "Nick Schmaltz": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
     "Vladimir Tarasenko": {
       "gp": 3,
       "g": 0,
       "a": 0
     },
     "Shayne Gostisbehere": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
+    "Josh Doan": {
       "gp": 2,
       "g": 0,
       "a": 0
@@ -280,11 +290,6 @@
       "gp": 2,
       "g": 0,
       "a": 1
-    },
-    "Gabriel Landeskog": {
-      "gp": 2,
-      "g": 1,
-      "a": 0
     },
     "Nathan MacKinnon": {
       "gp": 2,
@@ -327,11 +332,6 @@
       "a": 0
     },
     "Rasmus Dahlin": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
-    },
-    "Devon Toews": {
       "gp": 2,
       "g": 0,
       "a": 1
@@ -382,6 +382,11 @@
       "a": 0
     },
     "Josh Norris": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
+    "Corey Perry": {
       "gp": 2,
       "g": 0,
       "a": 0
