@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T09:18:12.277Z",
+  "lastUpdated": "2026-04-23T09:20:12.918Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -21,20 +21,10 @@
       "g": 2,
       "a": 1
     },
-    "Oliver Kapanen": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
     "Kirill Kaprizov": {
       "gp": 3,
       "g": 1,
       "a": 3
-    },
-    "Adrian Kempe": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
     },
     "Artemi Panarin": {
       "gp": 2,
@@ -106,11 +96,6 @@
       "g": 1,
       "a": 0
     },
-    "Brock Nelson": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
     "Brayden Point": {
       "gp": 2,
       "g": 0,
@@ -155,11 +140,6 @@
       "gp": 3,
       "g": 0,
       "a": 1
-    },
-    "Pavel Dorofeyev": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
     },
     "Joel Eriksson Ek": {
       "gp": 3,
@@ -276,18 +256,8 @@
       "g": 1,
       "a": 1
     },
-    "Nick Schmaltz": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
     "Vladimir Tarasenko": {
       "gp": 3,
-      "g": 0,
-      "a": 0
-    },
-    "Shayne Gostisbehere": {
-      "gp": 2,
       "g": 0,
       "a": 0
     },
@@ -317,11 +287,6 @@
       "a": 1
     },
     "Ryan McLeod": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
-    "Valeri Nichushkin": {
       "gp": 2,
       "g": 0,
       "a": 0
