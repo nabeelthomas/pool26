@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T23:22:09.501Z",
+  "lastUpdated": "2026-04-23T23:24:09.383Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -10,11 +10,6 @@
       "gp": 2,
       "g": 0,
       "a": 3
-    },
-    "Ivan Demidov": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
     },
     "Kasperi Kapanen": {
       "gp": 2,
@@ -101,17 +96,7 @@
       "g": 0,
       "a": 0
     },
-    "Artturi Lehkonen": {
-      "gp": 2,
-      "g": 1,
-      "a": 0
-    },
     "Brock Nelson": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
-    "Brayden Point": {
       "gp": 2,
       "g": 0,
       "a": 0
@@ -131,24 +116,9 @@
       "g": 0,
       "a": 3
     },
-    "Cale Makar": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
     "Shea Theodore": {
       "gp": 2,
       "g": 0,
-      "a": 0
-    },
-    "Drake Batherson": {
-      "gp": 2,
-      "g": 1,
-      "a": 0
-    },
-    "Dylan Cozens": {
-      "gp": 2,
-      "g": 1,
       "a": 0
     },
     "Sidney Crosby": {
@@ -209,11 +179,6 @@
     "Erik Karlsson": {
       "gp": 3,
       "g": 1,
-      "a": 1
-    },
-    "Charlie McAvoy": {
-      "gp": 2,
-      "g": 0,
       "a": 1
     },
     "Ivan Barbashev": {
@@ -326,11 +291,6 @@
       "g": 0,
       "a": 0
     },
-    "Jack Quinn": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
-    },
     "Tage Thompson": {
       "gp": 2,
       "g": 2,
@@ -352,11 +312,6 @@
       "a": 0
     },
     "Rasmus Dahlin": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
-    },
-    "Devon Toews": {
       "gp": 2,
       "g": 0,
       "a": 1
@@ -401,16 +356,6 @@
       "g": 2,
       "a": 1
     },
-    "Connor McDavid": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
-    "Josh Norris": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
     "Corey Perry": {
       "gp": 2,
       "g": 0,
@@ -419,11 +364,6 @@
     "Mark Stone": {
       "gp": 2,
       "g": 2,
-      "a": 0
-    },
-    "Andrei Svechnikov": {
-      "gp": 2,
-      "g": 0,
       "a": 0
     },
     "Evan Bouchard": {
