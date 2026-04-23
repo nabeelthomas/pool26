@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T02:44:12.906Z",
+  "lastUpdated": "2026-04-23T02:46:12.887Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -141,6 +141,11 @@
       "g": 0,
       "a": 0
     },
+    "Drake Batherson": {
+      "gp": 2,
+      "g": 1,
+      "a": 0
+    },
     "Dylan Cozens": {
       "gp": 2,
       "g": 1,
@@ -257,9 +262,9 @@
       "a": 1
     },
     "Mikko Rantanen": {
-      "gp": 1,
+      "gp": 2,
       "g": 1,
-      "a": 0
+      "a": 1
     },
     "Jason Robertson": {
       "gp": 2,
@@ -321,6 +326,11 @@
       "g": 0,
       "a": 0
     },
+    "Jack Quinn": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
+    },
     "Tage Thompson": {
       "gp": 2,
       "g": 2,
@@ -336,7 +346,17 @@
       "g": 0,
       "a": 0
     },
+    "Bowen Byram": {
+      "gp": 2,
+      "g": 1,
+      "a": 0
+    },
     "Rasmus Dahlin": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
+    },
+    "Devon Toews": {
       "gp": 2,
       "g": 0,
       "a": 1
