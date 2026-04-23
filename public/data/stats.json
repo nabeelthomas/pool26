@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T02:46:12.887Z",
+  "lastUpdated": "2026-04-23T02:48:10.063Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -10,11 +10,6 @@
       "gp": 2,
       "g": 0,
       "a": 3
-    },
-    "Ivan Demidov": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
     },
     "Kasperi Kapanen": {
       "gp": 1,
@@ -106,11 +101,6 @@
       "g": 1,
       "a": 0
     },
-    "Brock Nelson": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
     "Brayden Point": {
       "gp": 2,
       "g": 0,
@@ -130,11 +120,6 @@
       "gp": 2,
       "g": 0,
       "a": 2
-    },
-    "Cale Makar": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
     },
     "Shea Theodore": {
       "gp": 2,
@@ -209,11 +194,6 @@
     "Erik Karlsson": {
       "gp": 2,
       "g": 1,
-      "a": 1
-    },
-    "Charlie McAvoy": {
-      "gp": 2,
-      "g": 0,
       "a": 1
     },
     "Ivan Barbashev": {
@@ -311,16 +291,6 @@
       "g": 1,
       "a": 0
     },
-    "Nathan MacKinnon": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
-    },
-    "Ryan McLeod": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
     "Valeri Nichushkin": {
       "gp": 2,
       "g": 0,
@@ -400,11 +370,6 @@
       "gp": 2,
       "g": 2,
       "a": 1
-    },
-    "Connor McDavid": {
-      "gp": 1,
-      "g": 0,
-      "a": 0
     },
     "Josh Norris": {
       "gp": 2,
