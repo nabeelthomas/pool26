@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T08:48:10.922Z",
+  "lastUpdated": "2026-04-23T08:50:16.194Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -129,6 +129,11 @@
     "Shea Theodore": {
       "gp": 2,
       "g": 0,
+      "a": 0
+    },
+    "Drake Batherson": {
+      "gp": 2,
+      "g": 1,
       "a": 0
     },
     "Dylan Cozens": {
@@ -355,6 +360,11 @@
       "gp": 2,
       "g": 1,
       "a": 3
+    },
+    "Nikolaj Ehlers": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
     },
     "Brandon Hagel": {
       "gp": 2,
