@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T08:26:12.132Z",
+  "lastUpdated": "2026-04-23T08:28:10.756Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -177,7 +177,7 @@
       "a": 1
     },
     "Ryan Nugent-Hopkins": {
-      "gp": 1,
+      "gp": 2,
       "g": 0,
       "a": 1
     },
@@ -276,6 +276,11 @@
       "g": 0,
       "a": 0
     },
+    "Vladimir Tarasenko": {
+      "gp": 3,
+      "g": 0,
+      "a": 0
+    },
     "Shayne Gostisbehere": {
       "gp": 2,
       "g": 0,
@@ -291,6 +296,11 @@
       "g": 2,
       "a": 1
     },
+    "Nazem Kadri": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
+    },
     "Gabriel Landeskog": {
       "gp": 2,
       "g": 1,
@@ -301,10 +311,20 @@
       "g": 0,
       "a": 1
     },
+    "Ryan McLeod": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
     "Valeri Nichushkin": {
       "gp": 2,
       "g": 0,
       "a": 0
+    },
+    "Jack Quinn": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
     },
     "Tage Thompson": {
       "gp": 2,
@@ -316,7 +336,22 @@
       "g": 1,
       "a": 2
     },
+    "Jason Zucker": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
+    "Bowen Byram": {
+      "gp": 2,
+      "g": 1,
+      "a": 0
+    },
     "Rasmus Dahlin": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
+    },
+    "Devon Toews": {
       "gp": 2,
       "g": 0,
       "a": 1
