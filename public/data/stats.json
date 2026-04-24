@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-24T03:50:10.940Z",
+  "lastUpdated": "2026-04-24T03:52:08.339Z",
   "players": {
     "Quinton Byfield": {
-      "gp": 2,
+      "gp": 1,
       "g": 0,
       "a": 2
     },
@@ -12,9 +12,9 @@
       "a": 3
     },
     "Ivan Demidov": {
-      "gp": 2,
+      "gp": 0,
       "g": 0,
-      "a": 1
+      "a": 0
     },
     "Kasperi Kapanen": {
       "gp": 2,
@@ -77,8 +77,8 @@
       "a": 1
     },
     "Sebastian Aho": {
-      "gp": 3,
-      "g": 1,
+      "gp": 0,
+      "g": 0,
       "a": 0
     },
     "Jackson Blake": {
@@ -142,7 +142,7 @@
       "a": 3
     },
     "Cale Makar": {
-      "gp": 2,
+      "gp": 1,
       "g": 1,
       "a": 0
     },
@@ -322,7 +322,7 @@
       "a": 0
     },
     "Gabriel Landeskog": {
-      "gp": 2,
+      "gp": 1,
       "g": 2,
       "a": 0
     },
@@ -417,7 +417,7 @@
       "a": 1
     },
     "Connor McDavid": {
-      "gp": 2,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
