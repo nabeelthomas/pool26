@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T00:58:08.813Z",
+  "lastUpdated": "2026-04-24T01:00:15.004Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -10,6 +10,11 @@
       "gp": 2,
       "g": 0,
       "a": 3
+    },
+    "Ivan Demidov": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
     },
     "Kasperi Kapanen": {
       "gp": 2,
@@ -96,6 +101,11 @@
       "g": 0,
       "a": 0
     },
+    "Artturi Lehkonen": {
+      "gp": 2,
+      "g": 1,
+      "a": 0
+    },
     "Brock Nelson": {
       "gp": 2,
       "g": 0,
@@ -136,6 +146,11 @@
       "g": 1,
       "a": 0
     },
+    "Dylan Cozens": {
+      "gp": 2,
+      "g": 1,
+      "a": 0
+    },
     "Sidney Crosby": {
       "gp": 3,
       "g": 0,
@@ -162,6 +177,11 @@
       "a": 2
     },
     "Martin Necas": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
+    },
+    "Ryan Nugent-Hopkins": {
       "gp": 2,
       "g": 0,
       "a": 1
@@ -336,6 +356,11 @@
       "g": 0,
       "a": 1
     },
+    "Devon Toews": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
+    },
     "Matt Boldy": {
       "gp": 3,
       "g": 2,
@@ -350,6 +375,11 @@
       "gp": 2,
       "g": 1,
       "a": 3
+    },
+    "Nikolaj Ehlers": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
     },
     "Brandon Hagel": {
       "gp": 2,
