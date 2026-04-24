@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T09:38:09.931Z",
+  "lastUpdated": "2026-04-24T09:40:14.468Z",
   "players": {
     "Quinton Byfield": {
       "gp": 3,
@@ -52,7 +52,7 @@
       "a": 0
     },
     "Brady Tkachuk": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
@@ -142,7 +142,7 @@
       "a": 3
     },
     "Cale Makar": {
-      "gp": 1,
+      "gp": 3,
       "g": 1,
       "a": 0
     },
@@ -162,12 +162,12 @@
       "a": 0
     },
     "Sidney Crosby": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
-      "a": 0
+      "a": 1
     },
     "Pavel Dorofeyev": {
-      "gp": 2,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -302,7 +302,7 @@
       "a": 0
     },
     "Josh Doan": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
@@ -367,9 +367,9 @@
       "a": 1
     },
     "Rasmus Dahlin": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
-      "a": 0
+      "a": 1
     },
     "Devon Toews": {
       "gp": 3,
@@ -407,8 +407,8 @@
       "a": 0
     },
     "Zach Hyman": {
-      "gp": 0,
-      "g": 0,
+      "gp": 2,
+      "g": 1,
       "a": 0
     },
     "Porter Martone": {
@@ -417,7 +417,7 @@
       "a": 1
     },
     "Connor McDavid": {
-      "gp": 0,
+      "gp": 2,
       "g": 0,
       "a": 0
     },
@@ -427,7 +427,7 @@
       "a": 0
     },
     "Corey Perry": {
-      "gp": 0,
+      "gp": 2,
       "g": 0,
       "a": 0
     },
