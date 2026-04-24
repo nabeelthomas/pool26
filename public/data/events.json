@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "type": "ASSIST",
+      "player": "Artemi Panarin",
+      "team": "LAK",
+      "time": "10:00 PM ET",
+      "pool": "Will"
+    },
+    {
+      "type": "GOAL",
+      "player": "Adrian Kempe",
+      "team": "LAK",
+      "time": "10:00 PM ET",
+      "pool": "Will"
+    },
+    {
       "type": "GOAL",
       "player": "Artturi Lehkonen",
       "team": "COL",
@@ -405,20 +419,6 @@
       "team": "CAR",
       "time": "7:30 PM ET",
       "pool": "Nabeel"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Travis Konecny",
-      "team": "PHI",
-      "time": "7:00 PM ET",
-      "pool": "Paddy"
-    },
-    {
-      "type": "GOAL",
-      "player": "Porter Martone",
-      "team": "PHI",
-      "time": "7:00 PM ET",
-      "pool": "Cam"
     }
   ]
 }
