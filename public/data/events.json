@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "GOAL",
+      "player": "Artturi Lehkonen",
+      "team": "COL",
+      "time": "10:00 PM ET",
+      "pool": "Nabeel"
+    },
+    {
       "type": "ASSIST",
       "player": "Devon Toews",
       "team": "COL",
@@ -412,13 +419,6 @@
       "team": "PHI",
       "time": "7:00 PM ET",
       "pool": "Cam"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Seth Jarvis",
-      "team": "CAR",
-      "time": "7:30 PM ET",
-      "pool": "Nabeel"
     }
   ]
 }
