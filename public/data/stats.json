@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T04:58:13.071Z",
+  "lastUpdated": "2026-04-24T05:00:19.269Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -12,9 +12,9 @@
       "a": 3
     },
     "Ivan Demidov": {
-      "gp": 0,
+      "gp": 2,
       "g": 0,
-      "a": 0
+      "a": 1
     },
     "Kasperi Kapanen": {
       "gp": 2,
@@ -22,7 +22,7 @@
       "a": 1
     },
     "Oliver Kapanen": {
-      "gp": 0,
+      "gp": 2,
       "g": 0,
       "a": 0
     },
@@ -107,12 +107,12 @@
       "a": 0
     },
     "Seth Jarvis": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
     "Artturi Lehkonen": {
-      "gp": 1,
+      "gp": 2,
       "g": 2,
       "a": 1
     },
@@ -122,7 +122,7 @@
       "a": 0
     },
     "Brayden Point": {
-      "gp": 0,
+      "gp": 2,
       "g": 0,
       "a": 0
     },
@@ -132,7 +132,7 @@
       "a": 1
     },
     "Thomas Harley": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
@@ -142,7 +142,7 @@
       "a": 3
     },
     "Cale Makar": {
-      "gp": 1,
+      "gp": 2,
       "g": 1,
       "a": 0
     },
@@ -157,14 +157,14 @@
       "a": 0
     },
     "Dylan Cozens": {
-      "gp": 3,
-      "g": 1,
+      "gp": 0,
+      "g": 0,
       "a": 0
     },
     "Sidney Crosby": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
-      "a": 1
+      "a": 0
     },
     "Pavel Dorofeyev": {
       "gp": 2,
@@ -192,9 +192,9 @@
       "a": 1
     },
     "Ryan Nugent-Hopkins": {
-      "gp": 0,
+      "gp": 2,
       "g": 0,
-      "a": 0
+      "a": 1
     },
     "David Pastrnak": {
       "gp": 3,
@@ -292,7 +292,7 @@
       "a": 0
     },
     "Vladimir Tarasenko": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
@@ -317,9 +317,9 @@
       "a": 0
     },
     "Nazem Kadri": {
-      "gp": 0,
+      "gp": 2,
       "g": 0,
-      "a": 0
+      "a": 1
     },
     "Gabriel Landeskog": {
       "gp": 2,
@@ -367,12 +367,12 @@
       "a": 1
     },
     "Rasmus Dahlin": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
-      "a": 1
+      "a": 0
     },
     "Devon Toews": {
-      "gp": 1,
+      "gp": 2,
       "g": 0,
       "a": 2
     },
@@ -392,9 +392,9 @@
       "a": 3
     },
     "Nikolaj Ehlers": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
-      "a": 1
+      "a": 0
     },
     "Brandon Hagel": {
       "gp": 2,
@@ -407,8 +407,8 @@
       "a": 0
     },
     "Zach Hyman": {
-      "gp": 2,
-      "g": 1,
+      "gp": 0,
+      "g": 0,
       "a": 0
     },
     "Porter Martone": {
@@ -422,7 +422,7 @@
       "a": 0
     },
     "Josh Norris": {
-      "gp": 0,
+      "gp": 2,
       "g": 0,
       "a": 0
     },
@@ -437,7 +437,7 @@
       "a": 0
     },
     "Andrei Svechnikov": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
