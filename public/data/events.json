@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "GOAL",
+      "player": "Brock Nelson",
+      "team": "COL",
+      "time": "10:00 PM ET",
+      "pool": "Nabeel"
+    },
+    {
       "type": "ASSIST",
       "player": "Artemi Panarin",
       "team": "LAK",
@@ -412,13 +419,6 @@
       "team": "OTT",
       "time": "7:30 PM ET",
       "pool": "Reiner"
-    },
-    {
-      "type": "GOAL",
-      "player": "Sebastian Aho",
-      "team": "CAR",
-      "time": "7:30 PM ET",
-      "pool": "Nabeel"
     }
   ]
 }
