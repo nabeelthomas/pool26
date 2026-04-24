@@ -2,6 +2,20 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Devon Toews",
+      "team": "COL",
+      "time": "10:00 PM ET",
+      "pool": "Andy"
+    },
+    {
+      "type": "GOAL",
+      "player": "Cale Makar",
+      "team": "COL",
+      "time": "10:00 PM ET",
+      "pool": "Nabeel"
+    },
+    {
+      "type": "ASSIST",
       "player": "Quinton Byfield",
       "team": "LAK",
       "time": "10:00 PM ET",
@@ -405,20 +419,6 @@
       "team": "CAR",
       "time": "7:30 PM ET",
       "pool": "Nabeel"
-    },
-    {
-      "type": "GOAL",
-      "player": "Ivan Barbashev",
-      "team": "VGK",
-      "time": "10:00 PM ET",
-      "pool": "Paddy"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Tomas Hertl",
-      "team": "VGK",
-      "time": "10:00 PM ET",
-      "pool": "Reiner"
     }
   ]
 }
