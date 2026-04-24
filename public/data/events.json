@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "ASSIST",
+      "player": "Quinton Byfield",
+      "team": "LAK",
+      "time": "10:00 PM ET",
+      "pool": "Will"
+    },
+    {
       "type": "GOAL",
       "player": "Gabriel Landeskog",
       "team": "COL",
@@ -412,13 +419,6 @@
       "team": "VGK",
       "time": "10:00 PM ET",
       "pool": "Reiner"
-    },
-    {
-      "type": "GOAL",
-      "player": "Mark Stone",
-      "team": "VGK",
-      "time": "10:00 PM ET",
-      "pool": "Cam"
     }
   ]
 }
