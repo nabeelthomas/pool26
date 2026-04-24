@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T04:10:14.174Z",
+  "lastUpdated": "2026-04-24T04:12:10.487Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -157,14 +157,14 @@
       "a": 0
     },
     "Dylan Cozens": {
-      "gp": 3,
-      "g": 1,
+      "gp": 0,
+      "g": 0,
       "a": 0
     },
     "Sidney Crosby": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
-      "a": 1
+      "a": 0
     },
     "Pavel Dorofeyev": {
       "gp": 2,
@@ -367,9 +367,9 @@
       "a": 1
     },
     "Rasmus Dahlin": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
-      "a": 1
+      "a": 0
     },
     "Devon Toews": {
       "gp": 2,
@@ -392,9 +392,9 @@
       "a": 3
     },
     "Nikolaj Ehlers": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
-      "a": 1
+      "a": 0
     },
     "Brandon Hagel": {
       "gp": 2,
@@ -407,8 +407,8 @@
       "a": 0
     },
     "Zach Hyman": {
-      "gp": 2,
-      "g": 1,
+      "gp": 0,
+      "g": 0,
       "a": 0
     },
     "Porter Martone": {
