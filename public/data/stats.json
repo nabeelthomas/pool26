@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T00:24:10.765Z",
+  "lastUpdated": "2026-04-24T00:26:08.899Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -141,6 +141,11 @@
       "g": 0,
       "a": 0
     },
+    "Drake Batherson": {
+      "gp": 2,
+      "g": 1,
+      "a": 0
+    },
     "Dylan Cozens": {
       "gp": 2,
       "g": 1,
@@ -207,7 +212,7 @@
       "a": 1
     },
     "Charlie McAvoy": {
-      "gp": 1,
+      "gp": 2,
       "g": 0,
       "a": 2
     },
@@ -341,7 +346,17 @@
       "g": 0,
       "a": 0
     },
+    "Bowen Byram": {
+      "gp": 2,
+      "g": 1,
+      "a": 0
+    },
     "Rasmus Dahlin": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
+    },
+    "Devon Toews": {
       "gp": 2,
       "g": 0,
       "a": 1
