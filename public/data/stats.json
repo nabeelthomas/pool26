@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T05:22:12.270Z",
+  "lastUpdated": "2026-04-24T05:24:09.853Z",
   "players": {
     "Quinton Byfield": {
       "gp": 3,
@@ -12,9 +12,9 @@
       "a": 3
     },
     "Ivan Demidov": {
-      "gp": 0,
+      "gp": 2,
       "g": 0,
-      "a": 0
+      "a": 1
     },
     "Kasperi Kapanen": {
       "gp": 2,
@@ -117,7 +117,7 @@
       "a": 1
     },
     "Brock Nelson": {
-      "gp": 1,
+      "gp": 3,
       "g": 1,
       "a": 0
     },
@@ -177,9 +177,9 @@
       "a": 2
     },
     "Tomas Hertl": {
-      "gp": 0,
+      "gp": 2,
       "g": 0,
-      "a": 0
+      "a": 1
     },
     "Mitch Marner": {
       "gp": 2,
@@ -317,9 +317,9 @@
       "a": 0
     },
     "Nazem Kadri": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
-      "a": 0
+      "a": 1
     },
     "Gabriel Landeskog": {
       "gp": 3,
