@@ -2,6 +2,13 @@
   "events": [
     {
       "type": "GOAL",
+      "player": "Jackson Blake",
+      "team": "CAR",
+      "time": "7:30 PM ET",
+      "pool": "Nabeel"
+    },
+    {
+      "type": "GOAL",
       "player": "Drake Batherson",
       "team": "OTT",
       "time": "7:30 PM ET",
@@ -13,6 +20,13 @@
       "team": "CAR",
       "time": "7:30 PM ET",
       "pool": "Nabeel"
+    },
+    {
+      "type": "GOAL",
+      "player": "Alex Tuch",
+      "team": "BUF",
+      "time": "7:00 PM ET",
+      "pool": "Andy"
     },
     {
       "type": "GOAL",
@@ -405,20 +419,6 @@
       "team": "BOS",
       "time": "7:30 PM ET",
       "pool": "Reiner"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Tage Thompson",
-      "team": "BUF",
-      "time": "7:30 PM ET",
-      "pool": "Andy"
-    },
-    {
-      "type": "GOAL",
-      "player": "Alex Tuch",
-      "team": "BUF",
-      "time": "7:30 PM ET",
-      "pool": "Andy"
     }
   ]
 }
