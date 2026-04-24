@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T00:34:11.984Z",
+  "lastUpdated": "2026-04-24T00:36:10.166Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -44,11 +44,6 @@
     "Juraj Slafkovsky": {
       "gp": 2,
       "g": 3,
-      "a": 0
-    },
-    "Tim Stutzle": {
-      "gp": 2,
-      "g": 0,
       "a": 0
     },
     "Brady Tkachuk": {
@@ -131,6 +126,11 @@
       "g": 0,
       "a": 3
     },
+    "Cale Makar": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
     "Shea Theodore": {
       "gp": 2,
       "g": 0,
@@ -145,11 +145,6 @@
       "gp": 2,
       "g": 1,
       "a": 0
-    },
-    "Sidney Crosby": {
-      "gp": 3,
-      "g": 0,
-      "a": 1
     },
     "Pavel Dorofeyev": {
       "gp": 2,
@@ -271,8 +266,8 @@
       "g": 1,
       "a": 1
     },
-    "Nick Schmaltz": {
-      "gp": 2,
+    "Vladimir Tarasenko": {
+      "gp": 3,
       "g": 0,
       "a": 0
     },
@@ -331,15 +326,15 @@
       "g": 1,
       "a": 2
     },
+    "Jason Zucker": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
     "Bowen Byram": {
       "gp": 2,
       "g": 2,
       "a": 0
-    },
-    "Rasmus Dahlin": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
     },
     "Devon Toews": {
       "gp": 2,
@@ -361,11 +356,6 @@
       "g": 1,
       "a": 3
     },
-    "Nikolaj Ehlers": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
-    },
     "Brandon Hagel": {
       "gp": 2,
       "g": 3,
@@ -376,15 +366,15 @@
       "g": 0,
       "a": 0
     },
-    "Zach Hyman": {
-      "gp": 2,
-      "g": 1,
-      "a": 0
-    },
     "Porter Martone": {
       "gp": 3,
       "g": 2,
       "a": 1
+    },
+    "Connor McDavid": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
     },
     "Josh Norris": {
       "gp": 2,
@@ -399,6 +389,11 @@
     "Mark Stone": {
       "gp": 2,
       "g": 2,
+      "a": 0
+    },
+    "Andrei Svechnikov": {
+      "gp": 2,
+      "g": 0,
       "a": 0
     },
     "Evan Bouchard": {

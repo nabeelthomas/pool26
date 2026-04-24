@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T00:34:11.918Z",
+  "generatedAt": "2026-04-24T00:36:10.023Z",
   "games": [
     {
       "id": 2025030113,
@@ -17,7 +17,7 @@
       "home": "OTT",
       "awayScore": 1,
       "homeScore": 0,
-      "period": "1st",
+      "period": "2nd",
       "startUTC": "2026-04-23T23:30:00Z",
       "status": "live"
     },
