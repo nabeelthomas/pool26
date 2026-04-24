@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T00:22:09.041Z",
+  "lastUpdated": "2026-04-24T00:24:10.765Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -44,6 +44,11 @@
     "Juraj Slafkovsky": {
       "gp": 2,
       "g": 3,
+      "a": 0
+    },
+    "Tim Stutzle": {
+      "gp": 2,
+      "g": 0,
       "a": 0
     },
     "Brady Tkachuk": {
@@ -101,6 +106,11 @@
       "g": 1,
       "a": 0
     },
+    "Brock Nelson": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
     "Brayden Point": {
       "gp": 2,
       "g": 0,
@@ -131,11 +141,6 @@
       "g": 0,
       "a": 0
     },
-    "Drake Batherson": {
-      "gp": 2,
-      "g": 1,
-      "a": 0
-    },
     "Dylan Cozens": {
       "gp": 2,
       "g": 1,
@@ -146,10 +151,20 @@
       "g": 0,
       "a": 1
     },
+    "Pavel Dorofeyev": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
     "Joel Eriksson Ek": {
       "gp": 3,
       "g": 3,
       "a": 2
+    },
+    "Tomas Hertl": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
     },
     "Mitch Marner": {
       "gp": 2,
@@ -192,7 +207,7 @@
       "a": 1
     },
     "Charlie McAvoy": {
-      "gp": 2,
+      "gp": 1,
       "g": 0,
       "a": 2
     },
@@ -220,6 +235,11 @@
       "gp": 3,
       "g": 3,
       "a": 2
+    },
+    "Clayton Keller": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
     },
     "Travis Konecny": {
       "gp": 3,
@@ -251,6 +271,11 @@
       "g": 1,
       "a": 1
     },
+    "Nick Schmaltz": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
     "Vladimir Tarasenko": {
       "gp": 3,
       "g": 0,
@@ -269,6 +294,11 @@
     "Cutter Gauthier": {
       "gp": 2,
       "g": 2,
+      "a": 1
+    },
+    "Nazem Kadri": {
+      "gp": 2,
+      "g": 0,
       "a": 1
     },
     "Gabriel Landeskog": {
@@ -311,17 +341,7 @@
       "g": 0,
       "a": 0
     },
-    "Bowen Byram": {
-      "gp": 2,
-      "g": 1,
-      "a": 0
-    },
     "Rasmus Dahlin": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
-    },
-    "Devon Toews": {
       "gp": 2,
       "g": 0,
       "a": 1
