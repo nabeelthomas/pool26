@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T02:04:10.648Z",
+  "lastUpdated": "2026-04-24T02:08:08.977Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -22,7 +22,7 @@
       "a": 1
     },
     "Oliver Kapanen": {
-      "gp": 2,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -52,7 +52,7 @@
       "a": 0
     },
     "Brady Tkachuk": {
-      "gp": 2,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -162,9 +162,9 @@
       "a": 0
     },
     "Sidney Crosby": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
-      "a": 1
+      "a": 0
     },
     "Pavel Dorofeyev": {
       "gp": 2,
@@ -192,9 +192,9 @@
       "a": 1
     },
     "Ryan Nugent-Hopkins": {
-      "gp": 2,
+      "gp": 0,
       "g": 0,
-      "a": 1
+      "a": 0
     },
     "David Pastrnak": {
       "gp": 2,
@@ -287,7 +287,7 @@
       "a": 1
     },
     "Nick Schmaltz": {
-      "gp": 2,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -297,12 +297,12 @@
       "a": 0
     },
     "Shayne Gostisbehere": {
-      "gp": 2,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
     "Josh Doan": {
-      "gp": 2,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -392,9 +392,9 @@
       "a": 3
     },
     "Nikolaj Ehlers": {
-      "gp": 2,
+      "gp": 0,
       "g": 0,
-      "a": 1
+      "a": 0
     },
     "Brandon Hagel": {
       "gp": 2,
