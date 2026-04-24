@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T08:48:12.764Z",
+  "lastUpdated": "2026-04-24T08:50:14.778Z",
   "players": {
     "Quinton Byfield": {
       "gp": 3,
@@ -12,9 +12,9 @@
       "a": 3
     },
     "Ivan Demidov": {
-      "gp": 0,
+      "gp": 2,
       "g": 0,
-      "a": 0
+      "a": 1
     },
     "Kasperi Kapanen": {
       "gp": 2,
@@ -47,12 +47,12 @@
       "a": 0
     },
     "Tim Stutzle": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
     "Brady Tkachuk": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -107,7 +107,7 @@
       "a": 0
     },
     "Seth Jarvis": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
@@ -167,7 +167,7 @@
       "a": 1
     },
     "Pavel Dorofeyev": {
-      "gp": 0,
+      "gp": 2,
       "g": 0,
       "a": 0
     },
@@ -187,14 +187,14 @@
       "a": 2
     },
     "Martin Necas": {
+      "gp": 3,
+      "g": 0,
+      "a": 1
+    },
+    "Ryan Nugent-Hopkins": {
       "gp": 0,
       "g": 0,
       "a": 0
-    },
-    "Ryan Nugent-Hopkins": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
     },
     "David Pastrnak": {
       "gp": 3,
@@ -292,7 +292,7 @@
       "a": 0
     },
     "Vladimir Tarasenko": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
@@ -302,7 +302,7 @@
       "a": 0
     },
     "Josh Doan": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -357,7 +357,7 @@
       "a": 2
     },
     "Jason Zucker": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
@@ -392,9 +392,9 @@
       "a": 3
     },
     "Nikolaj Ehlers": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
-      "a": 1
+      "a": 0
     },
     "Brandon Hagel": {
       "gp": 2,
@@ -417,17 +417,17 @@
       "a": 1
     },
     "Connor McDavid": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
-    "Josh Norris": {
       "gp": 0,
       "g": 0,
       "a": 0
     },
-    "Corey Perry": {
+    "Josh Norris": {
       "gp": 2,
+      "g": 0,
+      "a": 0
+    },
+    "Corey Perry": {
+      "gp": 0,
       "g": 0,
       "a": 0
     },
