@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T01:36:10.752Z",
+  "lastUpdated": "2026-04-24T01:38:14.212Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -21,10 +21,20 @@
       "g": 2,
       "a": 1
     },
+    "Oliver Kapanen": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
     "Kirill Kaprizov": {
       "gp": 3,
       "g": 1,
       "a": 3
+    },
+    "Adrian Kempe": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
     },
     "Artemi Panarin": {
       "gp": 2,
@@ -151,6 +161,11 @@
       "g": 3,
       "a": 2
     },
+    "Tomas Hertl": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
+    },
     "Mitch Marner": {
       "gp": 2,
       "g": 0,
@@ -215,6 +230,11 @@
       "gp": 3,
       "g": 3,
       "a": 2
+    },
+    "Clayton Keller": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
     },
     "Travis Konecny": {
       "gp": 3,
@@ -316,11 +336,6 @@
       "g": 2,
       "a": 1
     },
-    "Rasmus Dahlin": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
-    },
     "Devon Toews": {
       "gp": 2,
       "g": 0,
@@ -387,6 +402,11 @@
       "a": 0
     },
     "Andrei Svechnikov": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
+    "Evan Bouchard": {
       "gp": 2,
       "g": 0,
       "a": 0
