@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T02:28:10.530Z",
+  "lastUpdated": "2026-04-24T02:30:14.794Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -162,9 +162,9 @@
       "a": 0
     },
     "Sidney Crosby": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
-      "a": 1
+      "a": 0
     },
     "Pavel Dorofeyev": {
       "gp": 2,
@@ -177,9 +177,9 @@
       "a": 2
     },
     "Tomas Hertl": {
-      "gp": 2,
+      "gp": 0,
       "g": 0,
-      "a": 1
+      "a": 0
     },
     "Mitch Marner": {
       "gp": 2,
@@ -317,9 +317,9 @@
       "a": 0
     },
     "Nazem Kadri": {
-      "gp": 2,
+      "gp": 0,
       "g": 0,
-      "a": 1
+      "a": 0
     },
     "Gabriel Landeskog": {
       "gp": 2,
@@ -367,9 +367,9 @@
       "a": 1
     },
     "Rasmus Dahlin": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
-      "a": 1
+      "a": 0
     },
     "Devon Toews": {
       "gp": 2,
