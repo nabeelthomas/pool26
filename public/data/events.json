@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "type": "ASSIST",
+      "player": "Jake Guentzel",
+      "team": "TBL",
+      "time": "7:00 PM ET",
+      "pool": "Nabeel"
+    },
+    {
+      "type": "GOAL",
+      "player": "Brayden Point",
+      "team": "TBL",
+      "time": "7:00 PM ET",
+      "pool": "Nabeel"
+    },
+    {
       "type": "GOAL",
       "player": "Brock Nelson",
       "team": "COL",
@@ -344,13 +358,6 @@
       "pool": "Will"
     },
     {
-      "type": "ASSIST",
-      "player": "Jake Guentzel",
-      "team": "TBL",
-      "time": "7:00 PM ET",
-      "pool": "Nabeel"
-    },
-    {
       "type": "GOAL",
       "player": "Brandon Hagel",
       "team": "TBL",
@@ -412,13 +419,6 @@
       "team": "CAR",
       "time": "7:30 PM ET",
       "pool": "Cam"
-    },
-    {
-      "type": "GOAL",
-      "player": "Dylan Cozens",
-      "team": "OTT",
-      "time": "7:30 PM ET",
-      "pool": "Reiner"
     }
   ]
 }
