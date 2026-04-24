@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T02:00:18.487Z",
+  "lastUpdated": "2026-04-24T02:02:09.633Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -12,9 +12,9 @@
       "a": 3
     },
     "Ivan Demidov": {
-      "gp": 2,
+      "gp": 0,
       "g": 0,
-      "a": 1
+      "a": 0
     },
     "Kasperi Kapanen": {
       "gp": 2,
@@ -53,6 +53,11 @@
     },
     "Brady Tkachuk": {
       "gp": 2,
+      "g": 0,
+      "a": 0
+    },
+    "Noah Dobson": {
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -96,14 +101,19 @@
       "g": 0,
       "a": 4
     },
+    "Roope Hintz": {
+      "gp": 0,
+      "g": 0,
+      "a": 0
+    },
     "Seth Jarvis": {
-      "gp": 2,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
     "Artturi Lehkonen": {
-      "gp": 2,
-      "g": 1,
+      "gp": 0,
+      "g": 0,
       "a": 0
     },
     "Brock Nelson": {
@@ -112,7 +122,7 @@
       "a": 0
     },
     "Brayden Point": {
-      "gp": 2,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -122,7 +132,7 @@
       "a": 1
     },
     "Thomas Harley": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -137,12 +147,12 @@
       "a": 0
     },
     "Shea Theodore": {
-      "gp": 2,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
     "Drake Batherson": {
-      "gp": 2,
+      "gp": 1,
       "g": 2,
       "a": 0
     },
@@ -212,7 +222,7 @@
       "a": 1
     },
     "Charlie McAvoy": {
-      "gp": 2,
+      "gp": 1,
       "g": 0,
       "a": 2
     },
@@ -282,7 +292,7 @@
       "a": 0
     },
     "Vladimir Tarasenko": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -301,6 +311,11 @@
       "g": 2,
       "a": 1
     },
+    "Pontus Holmberg": {
+      "gp": 0,
+      "g": 0,
+      "a": 0
+    },
     "Nazem Kadri": {
       "gp": 2,
       "g": 0,
@@ -317,7 +332,7 @@
       "a": 1
     },
     "Ryan McLeod": {
-      "gp": 2,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -327,7 +342,7 @@
       "a": 0
     },
     "Jack Quinn": {
-      "gp": 2,
+      "gp": 1,
       "g": 0,
       "a": 2
     },
@@ -342,7 +357,7 @@
       "a": 2
     },
     "Jason Zucker": {
-      "gp": 2,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -407,7 +422,7 @@
       "a": 0
     },
     "Josh Norris": {
-      "gp": 2,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -422,7 +437,7 @@
       "a": 0
     },
     "Andrei Svechnikov": {
-      "gp": 2,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
