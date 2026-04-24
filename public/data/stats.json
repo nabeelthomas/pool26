@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T01:48:08.896Z",
+  "lastUpdated": "2026-04-24T01:50:14.079Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -10,11 +10,6 @@
       "gp": 2,
       "g": 0,
       "a": 3
-    },
-    "Ivan Demidov": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
     },
     "Kasperi Kapanen": {
       "gp": 2,
@@ -31,6 +26,11 @@
       "g": 1,
       "a": 3
     },
+    "Adrian Kempe": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
     "Artemi Panarin": {
       "gp": 2,
       "g": 2,
@@ -42,6 +42,11 @@
       "a": 0
     },
     "Tim Stutzle": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
+    "Brady Tkachuk": {
       "gp": 2,
       "g": 0,
       "a": 0
@@ -91,11 +96,6 @@
       "g": 0,
       "a": 0
     },
-    "Artturi Lehkonen": {
-      "gp": 2,
-      "g": 1,
-      "a": 0
-    },
     "Brock Nelson": {
       "gp": 2,
       "g": 0,
@@ -134,11 +134,6 @@
     "Drake Batherson": {
       "gp": 2,
       "g": 2,
-      "a": 0
-    },
-    "Dylan Cozens": {
-      "gp": 2,
-      "g": 1,
       "a": 0
     },
     "Sidney Crosby": {
@@ -202,7 +197,7 @@
       "a": 1
     },
     "Charlie McAvoy": {
-      "gp": 2,
+      "gp": 1,
       "g": 0,
       "a": 2
     },
@@ -230,6 +225,11 @@
       "gp": 3,
       "g": 3,
       "a": 2
+    },
+    "Clayton Keller": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
     },
     "Travis Konecny": {
       "gp": 3,
@@ -261,12 +261,22 @@
       "g": 1,
       "a": 1
     },
+    "Nick Schmaltz": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
     "Vladimir Tarasenko": {
       "gp": 3,
       "g": 0,
       "a": 0
     },
     "Shayne Gostisbehere": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
+    "Josh Doan": {
       "gp": 2,
       "g": 0,
       "a": 0
@@ -292,6 +302,11 @@
       "a": 1
     },
     "Ryan McLeod": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
+    },
+    "Valeri Nichushkin": {
       "gp": 2,
       "g": 0,
       "a": 0
@@ -326,11 +341,6 @@
       "g": 0,
       "a": 1
     },
-    "Devon Toews": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
-    },
     "Matt Boldy": {
       "gp": 3,
       "g": 2,
@@ -355,6 +365,11 @@
       "gp": 2,
       "g": 3,
       "a": 1
+    },
+    "James Hagens": {
+      "gp": 2,
+      "g": 0,
+      "a": 0
     },
     "Zach Hyman": {
       "gp": 2,
