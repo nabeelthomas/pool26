@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T01:40:14.736Z",
+  "lastUpdated": "2026-04-24T01:42:11.828Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -151,6 +151,11 @@
       "g": 1,
       "a": 0
     },
+    "Sidney Crosby": {
+      "gp": 3,
+      "g": 0,
+      "a": 1
+    },
     "Pavel Dorofeyev": {
       "gp": 2,
       "g": 0,
@@ -161,12 +166,22 @@
       "g": 3,
       "a": 2
     },
+    "Tomas Hertl": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
+    },
     "Mitch Marner": {
       "gp": 2,
       "g": 0,
       "a": 2
     },
     "Martin Necas": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
+    },
+    "Ryan Nugent-Hopkins": {
       "gp": 2,
       "g": 0,
       "a": 1
@@ -286,6 +301,11 @@
       "g": 2,
       "a": 1
     },
+    "Nazem Kadri": {
+      "gp": 2,
+      "g": 0,
+      "a": 1
+    },
     "Gabriel Landeskog": {
       "gp": 2,
       "g": 1,
@@ -309,7 +329,7 @@
     "Jack Quinn": {
       "gp": 2,
       "g": 0,
-      "a": 1
+      "a": 2
     },
     "Tage Thompson": {
       "gp": 2,
@@ -329,6 +349,11 @@
     "Bowen Byram": {
       "gp": 2,
       "g": 2,
+      "a": 1
+    },
+    "Rasmus Dahlin": {
+      "gp": 2,
+      "g": 0,
       "a": 1
     },
     "Devon Toews": {
@@ -364,6 +389,11 @@
     "James Hagens": {
       "gp": 2,
       "g": 0,
+      "a": 0
+    },
+    "Zach Hyman": {
+      "gp": 2,
+      "g": 1,
       "a": 0
     },
     "Porter Martone": {
