@@ -8,6 +8,13 @@
       "pool": "Nabeel"
     },
     {
+      "type": "ASSIST",
+      "player": "Charlie McAvoy",
+      "team": "BOS",
+      "time": "7:00 PM ET",
+      "pool": "Reiner"
+    },
+    {
       "type": "GOAL",
       "player": "Cutter Gauthier",
       "team": "ANA",
@@ -409,13 +416,6 @@
     {
       "type": "ASSIST",
       "player": "Jack Quinn",
-      "team": "BUF",
-      "time": "7:30 PM ET",
-      "pool": "Andy"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Alex Tuch",
       "team": "BUF",
       "time": "7:30 PM ET",
       "pool": "Andy"
