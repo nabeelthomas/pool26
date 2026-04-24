@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T04:44:10.364Z",
+  "lastUpdated": "2026-04-24T04:46:12.478Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -157,8 +157,8 @@
       "a": 0
     },
     "Dylan Cozens": {
-      "gp": 3,
-      "g": 1,
+      "gp": 0,
+      "g": 0,
       "a": 0
     },
     "Sidney Crosby": {
@@ -177,9 +177,9 @@
       "a": 2
     },
     "Tomas Hertl": {
-      "gp": 2,
+      "gp": 0,
       "g": 0,
-      "a": 1
+      "a": 0
     },
     "Mitch Marner": {
       "gp": 2,
@@ -372,7 +372,7 @@
       "a": 1
     },
     "Devon Toews": {
-      "gp": 2,
+      "gp": 1,
       "g": 0,
       "a": 2
     },
@@ -442,7 +442,7 @@
       "a": 0
     },
     "Evan Bouchard": {
-      "gp": 2,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
