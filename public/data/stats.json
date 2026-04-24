@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T09:44:09.799Z",
+  "lastUpdated": "2026-04-24T09:46:13.450Z",
   "players": {
     "Quinton Byfield": {
       "gp": 3,
@@ -12,9 +12,9 @@
       "a": 3
     },
     "Ivan Demidov": {
-      "gp": 0,
+      "gp": 2,
       "g": 0,
-      "a": 0
+      "a": 1
     },
     "Kasperi Kapanen": {
       "gp": 2,
@@ -47,7 +47,7 @@
       "a": 0
     },
     "Tim Stutzle": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -117,7 +117,7 @@
       "a": 1
     },
     "Brock Nelson": {
-      "gp": 1,
+      "gp": 3,
       "g": 1,
       "a": 0
     },
@@ -297,7 +297,7 @@
       "a": 0
     },
     "Shayne Gostisbehere": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
@@ -327,9 +327,9 @@
       "a": 0
     },
     "Nathan MacKinnon": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
-      "a": 0
+      "a": 1
     },
     "Ryan McLeod": {
       "gp": 3,
@@ -357,7 +357,7 @@
       "a": 2
     },
     "Jason Zucker": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
@@ -422,7 +422,7 @@
       "a": 0
     },
     "Josh Norris": {
-      "gp": 0,
+      "gp": 2,
       "g": 0,
       "a": 0
     },
