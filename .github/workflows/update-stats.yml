@@ -15,6 +15,12 @@ name: update-stats
 # runs can still be kicked off manually from the Actions tab via `workflow_dispatch`.
 on:
   workflow_dispatch: {}
+  schedule:
+    # Cleanup runs at 9 AM and 12 PM ET (13:00 / 16:00 UTC) to pull in
+    # overnight data that the NHL summary endpoint hadn't ingested yet
+    # during the live window. GitHub schedule is best-effort but that's
+    # fine here — these aren't time-critical.
+    - cron: '0 13,16 * * *'
 
 permissions:
   contents: write
