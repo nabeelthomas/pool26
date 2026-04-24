@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T06:20:14.688Z",
+  "lastUpdated": "2026-04-24T06:22:12.045Z",
   "players": {
     "Quinton Byfield": {
       "gp": 3,
@@ -12,9 +12,9 @@
       "a": 3
     },
     "Ivan Demidov": {
-      "gp": 2,
+      "gp": 0,
       "g": 0,
-      "a": 1
+      "a": 0
     },
     "Kasperi Kapanen": {
       "gp": 2,
@@ -107,7 +107,7 @@
       "a": 0
     },
     "Seth Jarvis": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -167,7 +167,7 @@
       "a": 1
     },
     "Pavel Dorofeyev": {
-      "gp": 2,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -192,9 +192,9 @@
       "a": 1
     },
     "Ryan Nugent-Hopkins": {
-      "gp": 2,
+      "gp": 0,
       "g": 0,
-      "a": 1
+      "a": 0
     },
     "David Pastrnak": {
       "gp": 3,
@@ -292,7 +292,7 @@
       "a": 0
     },
     "Vladimir Tarasenko": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -317,9 +317,9 @@
       "a": 0
     },
     "Nazem Kadri": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
-      "a": 1
+      "a": 0
     },
     "Gabriel Landeskog": {
       "gp": 3,
@@ -357,7 +357,7 @@
       "a": 2
     },
     "Jason Zucker": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -422,7 +422,7 @@
       "a": 0
     },
     "Josh Norris": {
-      "gp": 2,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
