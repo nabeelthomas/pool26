@@ -225,6 +225,9 @@ function buildStatsMap(rosters, byNormalized, runningTotals) {
           a: Math.max(sumA, gcA),
         };
       } else {
+        // Still write zeros so the UI doesn't silently drop players from
+        // the roster when the API hasn't ingested their data yet.
+        out[player.name] = { gp: 0, g: 0, a: 0 };
         misses.push(`${manager.displayName}: ${player.name}`);
       }
     }
