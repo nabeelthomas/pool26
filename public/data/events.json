@@ -8,6 +8,13 @@
       "pool": "Nabeel"
     },
     {
+      "type": "GOAL",
+      "player": "Bowen Byram",
+      "team": "BUF",
+      "time": "7:00 PM ET",
+      "pool": "Andy"
+    },
+    {
       "type": "ASSIST",
       "player": "Charlie McAvoy",
       "team": "BOS",
@@ -409,13 +416,6 @@
     {
       "type": "GOAL",
       "player": "Alex Tuch",
-      "team": "BUF",
-      "time": "7:30 PM ET",
-      "pool": "Andy"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Jack Quinn",
       "team": "BUF",
       "time": "7:30 PM ET",
       "pool": "Andy"
