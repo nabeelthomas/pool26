@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T01:00:15.004Z",
+  "lastUpdated": "2026-04-24T01:04:09.064Z",
   "players": {
     "Quinton Byfield": {
       "gp": 2,
@@ -31,11 +31,6 @@
       "g": 1,
       "a": 3
     },
-    "Adrian Kempe": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
     "Artemi Panarin": {
       "gp": 2,
       "g": 2,
@@ -47,11 +42,6 @@
       "a": 0
     },
     "Tim Stutzle": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
-    "Brady Tkachuk": {
       "gp": 2,
       "g": 0,
       "a": 0
@@ -106,11 +96,6 @@
       "g": 1,
       "a": 0
     },
-    "Brock Nelson": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
     "Brayden Point": {
       "gp": 2,
       "g": 0,
@@ -156,20 +141,10 @@
       "g": 0,
       "a": 1
     },
-    "Pavel Dorofeyev": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
     "Joel Eriksson Ek": {
       "gp": 3,
       "g": 3,
       "a": 2
-    },
-    "Tomas Hertl": {
-      "gp": 2,
-      "g": 0,
-      "a": 1
     },
     "Mitch Marner": {
       "gp": 2,
@@ -276,23 +251,8 @@
       "g": 1,
       "a": 1
     },
-    "Nick Schmaltz": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
     "Vladimir Tarasenko": {
       "gp": 3,
-      "g": 0,
-      "a": 0
-    },
-    "Shayne Gostisbehere": {
-      "gp": 2,
-      "g": 0,
-      "a": 0
-    },
-    "Josh Doan": {
-      "gp": 2,
       "g": 0,
       "a": 0
     },
@@ -389,11 +349,6 @@
     "James Hagens": {
       "gp": 2,
       "g": 0,
-      "a": 0
-    },
-    "Zach Hyman": {
-      "gp": 2,
-      "g": 1,
       "a": 0
     },
     "Porter Martone": {
