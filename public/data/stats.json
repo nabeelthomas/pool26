@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T04:26:10.594Z",
+  "lastUpdated": "2026-04-25T04:28:13.379Z",
   "players": {
     "Quinton Byfield": {
       "gp": 3,
@@ -117,8 +117,8 @@
       "a": 1
     },
     "Brock Nelson": {
-      "gp": 3,
-      "g": 1,
+      "gp": 0,
+      "g": 0,
       "a": 0
     },
     "Brayden Point": {
@@ -192,9 +192,9 @@
       "a": 1
     },
     "Ryan Nugent-Hopkins": {
-      "gp": 2,
+      "gp": 1,
       "g": 1,
-      "a": 1
+      "a": 0
     },
     "David Pastrnak": {
       "gp": 3,
@@ -317,9 +317,9 @@
       "a": 0
     },
     "Nazem Kadri": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
-      "a": 1
+      "a": 0
     },
     "Gabriel Landeskog": {
       "gp": 3,
@@ -418,7 +418,7 @@
     },
     "Connor McDavid": {
       "gp": 2,
-      "g": 0,
+      "g": 1,
       "a": 1
     },
     "Josh Norris": {

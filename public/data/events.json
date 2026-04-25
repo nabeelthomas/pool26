@@ -2,6 +2,13 @@
   "events": [
     {
       "type": "GOAL",
+      "player": "Connor McDavid",
+      "team": "EDM",
+      "time": "10:00 PM ET",
+      "pool": "Cam"
+    },
+    {
+      "type": "GOAL",
       "player": "Leo Carlsson",
       "team": "ANA",
       "time": "10:00 PM ET",
@@ -412,13 +419,6 @@
       "team": "TBL",
       "time": "7:00 PM ET",
       "pool": "Paddy"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Nick Suzuki",
-      "team": "MTL",
-      "time": "7:00 PM ET",
-      "pool": "Reiner"
     }
   ]
 }
