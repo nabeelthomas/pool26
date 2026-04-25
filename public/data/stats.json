@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T05:32:10.397Z",
+  "lastUpdated": "2026-04-25T05:34:10.975Z",
   "players": {
     "Quinton Byfield": {
       "gp": 3,
@@ -167,7 +167,7 @@
       "a": 1
     },
     "Pavel Dorofeyev": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -217,9 +217,9 @@
       "a": 2
     },
     "Erik Karlsson": {
-      "gp": 0,
-      "g": 0,
-      "a": 0
+      "gp": 3,
+      "g": 1,
+      "a": 1
     },
     "Charlie McAvoy": {
       "gp": 3,
@@ -297,7 +297,7 @@
       "a": 0
     },
     "Shayne Gostisbehere": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -332,7 +332,7 @@
       "a": 1
     },
     "Ryan McLeod": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -372,9 +372,9 @@
       "a": 1
     },
     "Devon Toews": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Matt Boldy": {
       "gp": 3,
