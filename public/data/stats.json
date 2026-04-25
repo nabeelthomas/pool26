@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T05:04:09.337Z",
+  "lastUpdated": "2026-04-25T05:06:11.085Z",
   "players": {
     "Quinton Byfield": {
       "gp": 3,
@@ -22,7 +22,7 @@
       "a": 1
     },
     "Oliver Kapanen": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -107,7 +107,7 @@
       "a": 0
     },
     "Seth Jarvis": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -142,8 +142,8 @@
       "a": 3
     },
     "Cale Makar": {
-      "gp": 0,
-      "g": 0,
+      "gp": 3,
+      "g": 1,
       "a": 0
     },
     "Shea Theodore": {
