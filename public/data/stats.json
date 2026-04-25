@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T03:04:09.663Z",
+  "lastUpdated": "2026-04-25T03:06:11.832Z",
   "players": {
     "Quinton Byfield": {
       "gp": 3,
@@ -142,8 +142,8 @@
       "a": 3
     },
     "Cale Makar": {
-      "gp": 3,
-      "g": 1,
+      "gp": 0,
+      "g": 0,
       "a": 0
     },
     "Shea Theodore": {
@@ -157,8 +157,8 @@
       "a": 0
     },
     "Dylan Cozens": {
-      "gp": 3,
-      "g": 1,
+      "gp": 0,
+      "g": 0,
       "a": 0
     },
     "Sidney Crosby": {
@@ -252,7 +252,7 @@
       "a": 2
     },
     "Clayton Keller": {
-      "gp": 1,
+      "gp": 2,
       "g": 0,
       "a": 2
     },
@@ -297,7 +297,7 @@
       "a": 0
     },
     "Shayne Gostisbehere": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
@@ -317,9 +317,9 @@
       "a": 0
     },
     "Nazem Kadri": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
-      "a": 0
+      "a": 1
     },
     "Gabriel Landeskog": {
       "gp": 3,
@@ -434,7 +434,7 @@
     "Mark Stone": {
       "gp": 2,
       "g": 2,
-      "a": 0
+      "a": 1
     },
     "Andrei Svechnikov": {
       "gp": 3,
