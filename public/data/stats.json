@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T08:08:12.379Z",
+  "lastUpdated": "2026-04-25T08:10:12.323Z",
   "players": {
     "Quinton Byfield": {
       "gp": 3,
@@ -52,7 +52,7 @@
       "a": 0
     },
     "Brady Tkachuk": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -107,7 +107,7 @@
       "a": 0
     },
     "Seth Jarvis": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
@@ -152,8 +152,8 @@
       "a": 0
     },
     "Drake Batherson": {
-      "gp": 3,
-      "g": 2,
+      "gp": 0,
+      "g": 0,
       "a": 0
     },
     "Dylan Cozens": {
@@ -167,7 +167,7 @@
       "a": 1
     },
     "Pavel Dorofeyev": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -222,9 +222,9 @@
       "a": 1
     },
     "Charlie McAvoy": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Ivan Barbashev": {
       "gp": 3,
@@ -292,7 +292,7 @@
       "a": 1
     },
     "Vladimir Tarasenko": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
@@ -302,7 +302,7 @@
       "a": 0
     },
     "Josh Doan": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -322,8 +322,8 @@
       "a": 1
     },
     "Gabriel Landeskog": {
-      "gp": 0,
-      "g": 0,
+      "gp": 3,
+      "g": 2,
       "a": 0
     },
     "Nathan MacKinnon": {
@@ -422,7 +422,7 @@
       "a": 1
     },
     "Josh Norris": {
-      "gp": 0,
+      "gp": 2,
       "g": 0,
       "a": 0
     },
