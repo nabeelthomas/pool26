@@ -2,6 +2,13 @@
   "events": [
     {
       "type": "GOAL",
+      "player": "Dylan Guenther",
+      "team": "UTA",
+      "time": "9:30 PM ET",
+      "pool": "Paddy"
+    },
+    {
+      "type": "GOAL",
       "player": "Lane Hutson",
       "team": "MTL",
       "time": "7:00 PM ET",
@@ -298,13 +305,6 @@
       "type": "GOAL",
       "player": "Ivan Barbashev",
       "team": "VGK",
-      "time": "9:30 PM ET",
-      "pool": "Paddy"
-    },
-    {
-      "type": "GOAL",
-      "player": "Dylan Guenther",
-      "team": "UTA",
       "time": "9:30 PM ET",
       "pool": "Paddy"
     },
