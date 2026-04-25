@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T04:00:14.643Z",
+  "lastUpdated": "2026-04-25T04:02:09.149Z",
   "players": {
     "Quinton Byfield": {
       "gp": 3,
@@ -22,7 +22,7 @@
       "a": 1
     },
     "Oliver Kapanen": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -77,8 +77,8 @@
       "a": 1
     },
     "Sebastian Aho": {
-      "gp": 3,
-      "g": 1,
+      "gp": 0,
+      "g": 0,
       "a": 0
     },
     "Jackson Blake": {
@@ -107,7 +107,7 @@
       "a": 0
     },
     "Seth Jarvis": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
@@ -132,7 +132,7 @@
       "a": 1
     },
     "Thomas Harley": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -142,12 +142,12 @@
       "a": 3
     },
     "Cale Makar": {
-      "gp": 3,
-      "g": 1,
+      "gp": 0,
+      "g": 0,
       "a": 0
     },
     "Shea Theodore": {
-      "gp": 0,
+      "gp": 2,
       "g": 0,
       "a": 0
     },
@@ -162,9 +162,9 @@
       "a": 0
     },
     "Sidney Crosby": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
-      "a": 0
+      "a": 1
     },
     "Pavel Dorofeyev": {
       "gp": 2,
@@ -252,7 +252,7 @@
       "a": 2
     },
     "Clayton Keller": {
-      "gp": 1,
+      "gp": 2,
       "g": 0,
       "a": 2
     },
@@ -287,12 +287,12 @@
       "a": 1
     },
     "Nick Schmaltz": {
-      "gp": 2,
+      "gp": 1,
       "g": 0,
       "a": 1
     },
     "Vladimir Tarasenko": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
@@ -337,7 +337,7 @@
       "a": 0
     },
     "Valeri Nichushkin": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
@@ -357,7 +357,7 @@
       "a": 2
     },
     "Jason Zucker": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
@@ -367,9 +367,9 @@
       "a": 1
     },
     "Rasmus Dahlin": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
-      "a": 0
+      "a": 1
     },
     "Devon Toews": {
       "gp": 3,
@@ -402,7 +402,7 @@
       "a": 1
     },
     "James Hagens": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
@@ -442,13 +442,13 @@
       "a": 0
     },
     "Evan Bouchard": {
-      "gp": 2,
+      "gp": 1,
       "g": 0,
       "a": 1
     },
     "Darren Raddysh": {
-      "gp": 0,
-      "g": 0,
+      "gp": 3,
+      "g": 1,
       "a": 0
     }
   }
