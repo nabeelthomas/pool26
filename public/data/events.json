@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "GOAL",
+      "player": "Brandon Hagel",
+      "team": "TBL",
+      "time": "7:00 PM ET",
+      "pool": "Cam"
+    },
+    {
       "type": "ASSIST",
       "player": "Jake Guentzel",
       "team": "TBL",
@@ -356,13 +363,6 @@
       "team": "MTL",
       "time": "7:00 PM ET",
       "pool": "Will"
-    },
-    {
-      "type": "GOAL",
-      "player": "Brandon Hagel",
-      "team": "TBL",
-      "time": "7:00 PM ET",
-      "pool": "Cam"
     },
     {
       "type": "GOAL",
