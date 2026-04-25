@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T05:52:09.636Z",
+  "lastUpdated": "2026-04-25T05:54:13.322Z",
   "players": {
     "Quinton Byfield": {
       "gp": 3,
@@ -47,7 +47,7 @@
       "a": 0
     },
     "Tim Stutzle": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -257,9 +257,9 @@
       "a": 2
     },
     "Travis Konecny": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Nikita Kucherov": {
       "gp": 3,
