@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T08:02:12.146Z",
+  "lastUpdated": "2026-04-25T08:04:10.862Z",
   "players": {
     "Quinton Byfield": {
       "gp": 3,
@@ -107,7 +107,7 @@
       "a": 0
     },
     "Seth Jarvis": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -167,7 +167,7 @@
       "a": 1
     },
     "Pavel Dorofeyev": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
@@ -252,14 +252,14 @@
       "a": 2
     },
     "Clayton Keller": {
-      "gp": 3,
+      "gp": 1,
       "g": 0,
       "a": 2
     },
     "Travis Konecny": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Nikita Kucherov": {
       "gp": 3,
@@ -292,17 +292,17 @@
       "a": 1
     },
     "Vladimir Tarasenko": {
-      "gp": 3,
-      "g": 0,
-      "a": 0
-    },
-    "Shayne Gostisbehere": {
       "gp": 0,
       "g": 0,
       "a": 0
     },
-    "Josh Doan": {
+    "Shayne Gostisbehere": {
       "gp": 3,
+      "g": 0,
+      "a": 0
+    },
+    "Josh Doan": {
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -357,7 +357,7 @@
       "a": 2
     },
     "Jason Zucker": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -422,7 +422,7 @@
       "a": 1
     },
     "Josh Norris": {
-      "gp": 2,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
