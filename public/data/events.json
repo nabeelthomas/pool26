@@ -2,6 +2,20 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Ivan Barbashev",
+      "team": "VGK",
+      "time": "9:30 PM ET",
+      "pool": "Paddy"
+    },
+    {
+      "type": "GOAL",
+      "player": "Jack Eichel",
+      "team": "VGK",
+      "time": "9:30 PM ET",
+      "pool": "Nabeel"
+    },
+    {
+      "type": "ASSIST",
       "player": "Clayton Keller",
       "team": "UTA",
       "time": "9:30 PM ET",
@@ -405,20 +419,6 @@
       "team": "ANA",
       "time": "10:00 PM ET",
       "pool": "Paddy"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Joel Eriksson Ek",
-      "team": "MIN",
-      "time": "9:30 PM ET",
-      "pool": "Reiner"
-    },
-    {
-      "type": "GOAL",
-      "player": "Brock Faber",
-      "team": "MIN",
-      "time": "9:30 PM ET",
-      "pool": "Will"
     }
   ]
 }
