@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T05:00:17.131Z",
+  "lastUpdated": "2026-04-25T05:02:11.859Z",
   "players": {
     "Quinton Byfield": {
       "gp": 3,
@@ -32,8 +32,8 @@
       "a": 3
     },
     "Adrian Kempe": {
-      "gp": 0,
-      "g": 0,
+      "gp": 3,
+      "g": 1,
       "a": 0
     },
     "Artemi Panarin": {
@@ -47,7 +47,7 @@
       "a": 0
     },
     "Tim Stutzle": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -107,7 +107,7 @@
       "a": 0
     },
     "Seth Jarvis": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -167,7 +167,7 @@
       "a": 1
     },
     "Pavel Dorofeyev": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -302,7 +302,7 @@
       "a": 0
     },
     "Josh Doan": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
@@ -422,7 +422,7 @@
       "a": 1
     },
     "Josh Norris": {
-      "gp": 2,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -437,7 +437,7 @@
       "a": 1
     },
     "Andrei Svechnikov": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
