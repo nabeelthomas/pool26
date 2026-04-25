@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "ASSIST",
+      "player": "Nick Schmaltz",
+      "team": "UTA",
+      "time": "9:30 PM ET",
+      "pool": "Paddy"
+    },
+    {
       "type": "GOAL",
       "player": "Dylan Guenther",
       "team": "UTA",
@@ -412,13 +419,6 @@
       "team": "MIN",
       "time": "9:30 PM ET",
       "pool": "Will"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Nikolaj Ehlers",
-      "team": "CAR",
-      "time": "7:30 PM ET",
-      "pool": "Cam"
     }
   ]
 }
