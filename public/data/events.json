@@ -2,6 +2,20 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Matt Duchene",
+      "team": "DAL",
+      "time": "5:30 PM ET",
+      "pool": "Nabeel"
+    },
+    {
+      "type": "GOAL",
+      "player": "Miro Heiskanen",
+      "team": "DAL",
+      "time": "5:30 PM ET",
+      "pool": "Nabeel"
+    },
+    {
+      "type": "ASSIST",
       "player": "Kirill Kaprizov",
       "team": "MIN",
       "time": "5:30 PM ET",
@@ -13,13 +27,6 @@
       "team": "MIN",
       "time": "5:30 PM ET",
       "pool": "Will"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Matt Duchene",
-      "team": "DAL",
-      "time": "5:30 PM ET",
-      "pool": "Nabeel"
     },
     {
       "type": "GOAL",
@@ -412,13 +419,6 @@
       "team": "PIT",
       "time": "7:00 PM ET",
       "pool": "Paddy"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Martin Necas",
-      "team": "COL",
-      "time": "10:00 PM ET",
-      "pool": "Reiner"
     }
   ]
 }

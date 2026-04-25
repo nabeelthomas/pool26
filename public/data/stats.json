@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-04-25T23:14:11.140Z",
+  "lastUpdated": "2026-04-25T23:16:10.074Z",
   "players": {
     "Quinton Byfield": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Cole Caufield": {
       "gp": 3,
@@ -89,7 +89,7 @@
     "Matt Duchene": {
       "gp": 3,
       "g": 2,
-      "a": 4
+      "a": 5
     },
     "Jack Eichel": {
       "gp": 3,
@@ -138,7 +138,7 @@
     },
     "Miro Heiskanen": {
       "gp": 3,
-      "g": 0,
+      "g": 1,
       "a": 3
     },
     "Cale Makar": {
@@ -212,9 +212,9 @@
       "a": 3
     },
     "Mattias Ekholm": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Erik Karlsson": {
       "gp": 3,
@@ -274,7 +274,7 @@
     "Mikko Rantanen": {
       "gp": 3,
       "g": 1,
-      "a": 3
+      "a": 4
     },
     "Jason Robertson": {
       "gp": 3,
@@ -302,7 +302,7 @@
       "a": 0
     },
     "Josh Doan": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
@@ -332,7 +332,7 @@
       "a": 1
     },
     "Ryan McLeod": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
@@ -437,7 +437,7 @@
       "a": 1
     },
     "Andrei Svechnikov": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
       "a": 0
     },
