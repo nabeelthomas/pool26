@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-04-25T18:00:37.875Z",
+  "generatedAt": "2026-04-25T23:00:18.945Z",
   "games": [
     {
       "id": 2025030134,
       "away": "CAR",
       "home": "OTT",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 4,
+      "homeScore": 2,
       "period": null,
       "startUTC": "2026-04-25T19:00:00Z",
-      "status": "scheduled"
+      "status": "final"
     },
     {
       "id": 2025030164,
       "away": "DAL",
       "home": "MIN",
-      "awayScore": null,
-      "homeScore": null,
-      "period": null,
+      "awayScore": 1,
+      "homeScore": 1,
+      "period": "2nd",
       "startUTC": "2026-04-25T21:30:00Z",
-      "status": "scheduled"
+      "status": "live"
     },
     {
       "id": 2025030144,

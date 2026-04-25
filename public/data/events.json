@@ -2,6 +2,83 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Kirill Kaprizov",
+      "team": "MIN",
+      "time": "5:30 PM ET",
+      "pool": "Will"
+    },
+    {
+      "type": "GOAL",
+      "player": "Brock Faber",
+      "team": "MIN",
+      "time": "5:30 PM ET",
+      "pool": "Will"
+    },
+    {
+      "type": "ASSIST",
+      "player": "Matt Duchene",
+      "team": "DAL",
+      "time": "5:30 PM ET",
+      "pool": "Nabeel"
+    },
+    {
+      "type": "GOAL",
+      "player": "Jason Robertson",
+      "team": "DAL",
+      "time": "5:30 PM ET",
+      "pool": "Paddy"
+    },
+    {
+      "type": "ASSIST",
+      "player": "Seth Jarvis",
+      "team": "CAR",
+      "time": "3:00 PM ET",
+      "pool": "Nabeel"
+    },
+    {
+      "type": "GOAL",
+      "player": "Sebastian Aho",
+      "team": "CAR",
+      "time": "3:00 PM ET",
+      "pool": "Nabeel"
+    },
+    {
+      "type": "ASSIST",
+      "player": "Drake Batherson",
+      "team": "OTT",
+      "time": "3:00 PM ET",
+      "pool": "Reiner"
+    },
+    {
+      "type": "GOAL",
+      "player": "Dylan Cozens",
+      "team": "OTT",
+      "time": "3:00 PM ET",
+      "pool": "Reiner"
+    },
+    {
+      "type": "GOAL",
+      "player": "Logan Stankoven",
+      "team": "CAR",
+      "time": "3:00 PM ET",
+      "pool": "Nabeel"
+    },
+    {
+      "type": "ASSIST",
+      "player": "Tim Stützle",
+      "team": "OTT",
+      "time": "3:00 PM ET",
+      "pool": "Will"
+    },
+    {
+      "type": "GOAL",
+      "player": "Drake Batherson",
+      "team": "OTT",
+      "time": "3:00 PM ET",
+      "pool": "Reiner"
+    },
+    {
+      "type": "ASSIST",
       "player": "Leon Draisaitl",
       "team": "EDM",
       "time": "10:00 PM ET",
@@ -342,83 +419,6 @@
       "team": "COL",
       "time": "10:00 PM ET",
       "pool": "Reiner"
-    },
-    {
-      "type": "GOAL",
-      "player": "Artemi Panarin",
-      "team": "LAK",
-      "time": "10:00 PM ET",
-      "pool": "Will"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Dylan Guenther",
-      "team": "UTA",
-      "time": "9:30 PM ET",
-      "pool": "Paddy"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Jack Eichel",
-      "team": "VGK",
-      "time": "9:30 PM ET",
-      "pool": "Nabeel"
-    },
-    {
-      "type": "GOAL",
-      "player": "Ivan Barbashev",
-      "team": "VGK",
-      "time": "9:30 PM ET",
-      "pool": "Paddy"
-    },
-    {
-      "type": "GOAL",
-      "player": "Mark Stone",
-      "team": "VGK",
-      "time": "9:30 PM ET",
-      "pool": "Cam"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Rasmus Dahlin",
-      "team": "BUF",
-      "time": "7:30 PM ET",
-      "pool": "Andy"
-    },
-    {
-      "type": "GOAL",
-      "player": "Bowen Byram",
-      "team": "BUF",
-      "time": "7:30 PM ET",
-      "pool": "Andy"
-    },
-    {
-      "type": "ASSIST",
-      "player": "David Pastrnak",
-      "team": "BOS",
-      "time": "7:30 PM ET",
-      "pool": "Reiner"
-    },
-    {
-      "type": "GOAL",
-      "player": "Morgan Geekie",
-      "team": "BOS",
-      "time": "7:30 PM ET",
-      "pool": "Paddy"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Anthony Cirelli",
-      "team": "TBL",
-      "time": "7:00 PM ET",
-      "pool": "Cam"
-    },
-    {
-      "type": "GOAL",
-      "player": "Nikita Kucherov",
-      "team": "TBL",
-      "time": "7:00 PM ET",
-      "pool": "Paddy"
     }
   ]
 }
