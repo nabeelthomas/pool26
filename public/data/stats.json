@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T08:34:12.712Z",
+  "lastUpdated": "2026-04-25T08:36:09.436Z",
   "players": {
     "Quinton Byfield": {
       "gp": 3,
@@ -22,7 +22,7 @@
       "a": 1
     },
     "Oliver Kapanen": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -52,7 +52,7 @@
       "a": 0
     },
     "Brady Tkachuk": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -107,7 +107,7 @@
       "a": 0
     },
     "Seth Jarvis": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -417,12 +417,12 @@
       "a": 1
     },
     "Connor McDavid": {
-      "gp": 1,
+      "gp": 3,
       "g": 1,
       "a": 1
     },
     "Josh Norris": {
-      "gp": 2,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -437,7 +437,7 @@
       "a": 1
     },
     "Andrei Svechnikov": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
