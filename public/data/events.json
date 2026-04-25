@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "ASSIST",
+      "player": "Leon Draisaitl",
+      "team": "EDM",
+      "time": "10:00 PM ET",
+      "pool": "Cam"
+    },
+    {
       "type": "GOAL",
       "player": "Connor McDavid",
       "team": "EDM",
@@ -27,13 +34,6 @@
       "team": "EDM",
       "time": "10:00 PM ET",
       "pool": "Reiner"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Leon Draisaitl",
-      "team": "EDM",
-      "time": "10:00 PM ET",
-      "pool": "Cam"
     },
     {
       "type": "GOAL",

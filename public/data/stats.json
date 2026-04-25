@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T04:28:13.379Z",
+  "lastUpdated": "2026-04-25T04:30:15.076Z",
   "players": {
     "Quinton Byfield": {
       "gp": 3,
@@ -107,7 +107,7 @@
       "a": 0
     },
     "Seth Jarvis": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -117,8 +117,8 @@
       "a": 1
     },
     "Brock Nelson": {
-      "gp": 0,
-      "g": 0,
+      "gp": 3,
+      "g": 1,
       "a": 0
     },
     "Brayden Point": {
@@ -132,7 +132,7 @@
       "a": 1
     },
     "Thomas Harley": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -192,9 +192,9 @@
       "a": 1
     },
     "Ryan Nugent-Hopkins": {
-      "gp": 1,
+      "gp": 2,
       "g": 1,
-      "a": 0
+      "a": 1
     },
     "David Pastrnak": {
       "gp": 3,
@@ -252,7 +252,7 @@
       "a": 2
     },
     "Clayton Keller": {
-      "gp": 2,
+      "gp": 1,
       "g": 0,
       "a": 2
     },
@@ -317,9 +317,9 @@
       "a": 0
     },
     "Nazem Kadri": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
-      "a": 0
+      "a": 1
     },
     "Gabriel Landeskog": {
       "gp": 3,
@@ -389,7 +389,7 @@
     "Leon Draisaitl": {
       "gp": 2,
       "g": 1,
-      "a": 4
+      "a": 5
     },
     "Nikolaj Ehlers": {
       "gp": 3,
@@ -402,7 +402,7 @@
       "a": 1
     },
     "James Hagens": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -422,7 +422,7 @@
       "a": 1
     },
     "Josh Norris": {
-      "gp": 2,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -437,14 +437,14 @@
       "a": 1
     },
     "Andrei Svechnikov": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
     "Evan Bouchard": {
       "gp": 2,
       "g": 0,
-      "a": 1
+      "a": 2
     },
     "Darren Raddysh": {
       "gp": 3,
