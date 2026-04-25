@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T03:50:12.986Z",
+  "lastUpdated": "2026-04-25T03:52:14.570Z",
   "players": {
     "Quinton Byfield": {
       "gp": 3,
@@ -12,9 +12,9 @@
       "a": 3
     },
     "Ivan Demidov": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
-      "a": 1
+      "a": 0
     },
     "Kasperi Kapanen": {
       "gp": 2,
@@ -22,7 +22,7 @@
       "a": 1
     },
     "Oliver Kapanen": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -302,7 +302,7 @@
       "a": 0
     },
     "Josh Doan": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
@@ -357,7 +357,7 @@
       "a": 2
     },
     "Jason Zucker": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -417,7 +417,7 @@
       "a": 1
     },
     "Connor McDavid": {
-      "gp": 1,
+      "gp": 2,
       "g": 0,
       "a": 1
     },
@@ -442,7 +442,7 @@
       "a": 0
     },
     "Evan Bouchard": {
-      "gp": 1,
+      "gp": 2,
       "g": 0,
       "a": 1
     },
