@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T10:02:13.253Z",
+  "lastUpdated": "2026-04-25T10:04:14.968Z",
   "players": {
     "Quinton Byfield": {
       "gp": 3,
@@ -22,7 +22,7 @@
       "a": 1
     },
     "Oliver Kapanen": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -47,7 +47,7 @@
       "a": 0
     },
     "Tim Stutzle": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -282,9 +282,9 @@
       "a": 2
     },
     "Bryan Rust": {
-      "gp": 3,
-      "g": 1,
-      "a": 1
+      "gp": 0,
+      "g": 0,
+      "a": 0
     },
     "Nick Schmaltz": {
       "gp": 3,
