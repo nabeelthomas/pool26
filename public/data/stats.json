@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T08:40:13.040Z",
+  "lastUpdated": "2026-04-25T08:42:10.685Z",
   "players": {
     "Quinton Byfield": {
       "gp": 3,
@@ -107,7 +107,7 @@
       "a": 0
     },
     "Seth Jarvis": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -152,8 +152,8 @@
       "a": 0
     },
     "Drake Batherson": {
-      "gp": 0,
-      "g": 0,
+      "gp": 3,
+      "g": 2,
       "a": 0
     },
     "Dylan Cozens": {
@@ -292,17 +292,17 @@
       "a": 1
     },
     "Vladimir Tarasenko": {
-      "gp": 3,
-      "g": 0,
-      "a": 0
-    },
-    "Shayne Gostisbehere": {
       "gp": 0,
       "g": 0,
       "a": 0
     },
-    "Josh Doan": {
+    "Shayne Gostisbehere": {
       "gp": 3,
+      "g": 0,
+      "a": 0
+    },
+    "Josh Doan": {
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -332,12 +332,12 @@
       "a": 1
     },
     "Ryan McLeod": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
     "Valeri Nichushkin": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -357,7 +357,7 @@
       "a": 2
     },
     "Jason Zucker": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -422,7 +422,7 @@
       "a": 1
     },
     "Josh Norris": {
-      "gp": 2,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -442,7 +442,7 @@
       "a": 0
     },
     "Evan Bouchard": {
-      "gp": 3,
+      "gp": 1,
       "g": 0,
       "a": 2
     },
