@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T00:32:10.222Z",
+  "lastUpdated": "2026-04-25T00:34:09.029Z",
   "players": {
     "Quinton Byfield": {
       "gp": 3,
@@ -142,8 +142,8 @@
       "a": 3
     },
     "Cale Makar": {
-      "gp": 0,
-      "g": 0,
+      "gp": 3,
+      "g": 1,
       "a": 0
     },
     "Shea Theodore": {
@@ -162,12 +162,12 @@
       "a": 0
     },
     "Sidney Crosby": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
-      "a": 0
+      "a": 1
     },
     "Pavel Dorofeyev": {
-      "gp": 2,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -292,12 +292,12 @@
       "a": 0
     },
     "Vladimir Tarasenko": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
     "Shayne Gostisbehere": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -357,7 +357,7 @@
       "a": 2
     },
     "Jason Zucker": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -367,9 +367,9 @@
       "a": 1
     },
     "Rasmus Dahlin": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
-      "a": 0
+      "a": 1
     },
     "Devon Toews": {
       "gp": 3,
@@ -407,8 +407,8 @@
       "a": 0
     },
     "Zach Hyman": {
-      "gp": 0,
-      "g": 0,
+      "gp": 2,
+      "g": 1,
       "a": 0
     },
     "Porter Martone": {
@@ -422,7 +422,7 @@
       "a": 0
     },
     "Josh Norris": {
-      "gp": 2,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
