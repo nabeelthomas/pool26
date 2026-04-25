@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T04:40:14.538Z",
+  "lastUpdated": "2026-04-25T04:42:09.533Z",
   "players": {
     "Quinton Byfield": {
       "gp": 3,
@@ -32,8 +32,8 @@
       "a": 3
     },
     "Adrian Kempe": {
-      "gp": 0,
-      "g": 0,
+      "gp": 3,
+      "g": 1,
       "a": 0
     },
     "Artemi Panarin": {
@@ -132,7 +132,7 @@
       "a": 1
     },
     "Thomas Harley": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -147,7 +147,7 @@
       "a": 0
     },
     "Shea Theodore": {
-      "gp": 2,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -162,9 +162,9 @@
       "a": 0
     },
     "Sidney Crosby": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
-      "a": 1
+      "a": 0
     },
     "Pavel Dorofeyev": {
       "gp": 2,
@@ -252,7 +252,7 @@
       "a": 2
     },
     "Clayton Keller": {
-      "gp": 2,
+      "gp": 1,
       "g": 0,
       "a": 2
     },
@@ -332,12 +332,12 @@
       "a": 1
     },
     "Ryan McLeod": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
     "Valeri Nichushkin": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
@@ -367,9 +367,9 @@
       "a": 1
     },
     "Rasmus Dahlin": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
-      "a": 1
+      "a": 0
     },
     "Devon Toews": {
       "gp": 3,
@@ -402,7 +402,7 @@
       "a": 1
     },
     "James Hagens": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
@@ -417,12 +417,12 @@
       "a": 1
     },
     "Connor McDavid": {
-      "gp": 2,
+      "gp": 1,
       "g": 1,
       "a": 1
     },
     "Josh Norris": {
-      "gp": 2,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
