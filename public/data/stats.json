@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T05:46:12.971Z",
+  "lastUpdated": "2026-04-25T05:48:10.575Z",
   "players": {
     "Quinton Byfield": {
       "gp": 3,
@@ -152,8 +152,8 @@
       "a": 0
     },
     "Drake Batherson": {
-      "gp": 0,
-      "g": 0,
+      "gp": 3,
+      "g": 2,
       "a": 0
     },
     "Dylan Cozens": {
@@ -192,9 +192,9 @@
       "a": 1
     },
     "Ryan Nugent-Hopkins": {
-      "gp": 1,
+      "gp": 3,
       "g": 1,
-      "a": 0
+      "a": 1
     },
     "David Pastrnak": {
       "gp": 3,
@@ -332,7 +332,7 @@
       "a": 1
     },
     "Ryan McLeod": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -427,7 +427,7 @@
       "a": 0
     },
     "Corey Perry": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
