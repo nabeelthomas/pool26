@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-04-25T23:52:13.239Z",
+  "lastUpdated": "2026-04-25T23:54:09.231Z",
   "players": {
     "Quinton Byfield": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Cole Caufield": {
       "gp": 3,
@@ -107,7 +107,7 @@
       "a": 0
     },
     "Seth Jarvis": {
-      "gp": 4,
+      "gp": 1,
       "g": 0,
       "a": 2
     },
@@ -167,7 +167,7 @@
       "a": 1
     },
     "Pavel Dorofeyev": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
@@ -192,9 +192,9 @@
       "a": 1
     },
     "Ryan Nugent-Hopkins": {
-      "gp": 3,
-      "g": 1,
-      "a": 1
+      "gp": 0,
+      "g": 0,
+      "a": 0
     },
     "David Pastrnak": {
       "gp": 3,
@@ -257,9 +257,9 @@
       "a": 2
     },
     "Travis Konecny": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Nikita Kucherov": {
       "gp": 3,
@@ -322,8 +322,8 @@
       "a": 1
     },
     "Gabriel Landeskog": {
-      "gp": 0,
-      "g": 0,
+      "gp": 3,
+      "g": 2,
       "a": 0
     },
     "Nathan MacKinnon": {
@@ -342,9 +342,9 @@
       "a": 0
     },
     "Jack Quinn": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Tage Thompson": {
       "gp": 3,
@@ -372,9 +372,9 @@
       "a": 1
     },
     "Devon Toews": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Matt Boldy": {
       "gp": 3,
@@ -427,7 +427,7 @@
       "a": 0
     },
     "Corey Perry": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
