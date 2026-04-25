@@ -2,6 +2,13 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Clayton Keller",
+      "team": "UTA",
+      "time": "9:30 PM ET",
+      "pool": "Paddy"
+    },
+    {
+      "type": "ASSIST",
       "player": "Nick Schmaltz",
       "team": "UTA",
       "time": "9:30 PM ET",
@@ -409,13 +416,6 @@
     {
       "type": "GOAL",
       "player": "Brock Faber",
-      "team": "MIN",
-      "time": "9:30 PM ET",
-      "pool": "Will"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Quinn Hughes",
       "team": "MIN",
       "time": "9:30 PM ET",
       "pool": "Will"
