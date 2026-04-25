@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T02:28:12.181Z",
+  "lastUpdated": "2026-04-25T02:30:12.379Z",
   "players": {
     "Quinton Byfield": {
       "gp": 3,
@@ -317,9 +317,9 @@
       "a": 0
     },
     "Nazem Kadri": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
-      "a": 0
+      "a": 1
     },
     "Gabriel Landeskog": {
       "gp": 3,
@@ -327,9 +327,9 @@
       "a": 0
     },
     "Nathan MacKinnon": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
-      "a": 0
+      "a": 1
     },
     "Ryan McLeod": {
       "gp": 3,
@@ -447,8 +447,8 @@
       "a": 0
     },
     "Darren Raddysh": {
-      "gp": 0,
-      "g": 0,
+      "gp": 2,
+      "g": 1,
       "a": 0
     }
   }
