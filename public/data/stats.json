@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T07:20:12.985Z",
+  "lastUpdated": "2026-04-25T07:22:11.957Z",
   "players": {
     "Quinton Byfield": {
       "gp": 3,
@@ -167,7 +167,7 @@
       "a": 1
     },
     "Pavel Dorofeyev": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -192,9 +192,9 @@
       "a": 1
     },
     "Ryan Nugent-Hopkins": {
-      "gp": 3,
+      "gp": 1,
       "g": 1,
-      "a": 1
+      "a": 0
     },
     "David Pastrnak": {
       "gp": 3,
@@ -332,7 +332,7 @@
       "a": 1
     },
     "Ryan McLeod": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -417,7 +417,7 @@
       "a": 1
     },
     "Connor McDavid": {
-      "gp": 1,
+      "gp": 3,
       "g": 1,
       "a": 1
     },
