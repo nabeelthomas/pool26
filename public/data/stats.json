@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T06:54:09.696Z",
+  "lastUpdated": "2026-04-25T06:56:08.823Z",
   "players": {
     "Quinton Byfield": {
       "gp": 3,
@@ -147,7 +147,7 @@
       "a": 0
     },
     "Shea Theodore": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
@@ -212,9 +212,9 @@
       "a": 3
     },
     "Mattias Ekholm": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Erik Karlsson": {
       "gp": 3,
@@ -222,9 +222,9 @@
       "a": 1
     },
     "Charlie McAvoy": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Ivan Barbashev": {
       "gp": 3,
@@ -257,9 +257,9 @@
       "a": 2
     },
     "Travis Konecny": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Nikita Kucherov": {
       "gp": 3,
@@ -422,7 +422,7 @@
       "a": 1
     },
     "Josh Norris": {
-      "gp": 0,
+      "gp": 2,
       "g": 0,
       "a": 0
     },
