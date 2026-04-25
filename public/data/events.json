@@ -2,6 +2,20 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Evan Bouchard",
+      "team": "EDM",
+      "time": "10:00 PM ET",
+      "pool": "Cam"
+    },
+    {
+      "type": "GOAL",
+      "player": "Ryan Nugent-Hopkins",
+      "team": "EDM",
+      "time": "10:00 PM ET",
+      "pool": "Reiner"
+    },
+    {
+      "type": "ASSIST",
       "player": "Leon Draisaitl",
       "team": "EDM",
       "time": "10:00 PM ET",
@@ -405,20 +419,6 @@
       "team": "VGK",
       "time": "9:30 PM ET",
       "pool": "Reiner"
-    },
-    {
-      "type": "GOAL",
-      "player": "Leo Carlsson",
-      "team": "ANA",
-      "time": "10:00 PM ET",
-      "pool": "Paddy"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Leo Carlsson",
-      "team": "ANA",
-      "time": "10:00 PM ET",
-      "pool": "Paddy"
     }
   ]
 }
