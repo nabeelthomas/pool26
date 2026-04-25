@@ -2,6 +2,13 @@
   "events": [
     {
       "type": "GOAL",
+      "player": "Lane Hutson",
+      "team": "MTL",
+      "time": "7:00 PM ET",
+      "pool": "Will"
+    },
+    {
+      "type": "GOAL",
       "player": "Brandon Hagel",
       "team": "TBL",
       "time": "7:00 PM ET",
@@ -356,13 +363,6 @@
       "team": "MTL",
       "time": "7:00 PM ET",
       "pool": "Reiner"
-    },
-    {
-      "type": "GOAL",
-      "player": "Lane Hutson",
-      "team": "MTL",
-      "time": "7:00 PM ET",
-      "pool": "Will"
     },
     {
       "type": "GOAL",
