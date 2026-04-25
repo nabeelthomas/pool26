@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T04:04:12.190Z",
+  "lastUpdated": "2026-04-25T04:06:11.672Z",
   "players": {
     "Quinton Byfield": {
       "gp": 3,
@@ -47,7 +47,7 @@
       "a": 0
     },
     "Tim Stutzle": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -252,7 +252,7 @@
       "a": 2
     },
     "Clayton Keller": {
-      "gp": 1,
+      "gp": 2,
       "g": 0,
       "a": 2
     },
@@ -327,9 +327,9 @@
       "a": 0
     },
     "Nathan MacKinnon": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
-      "a": 0
+      "a": 1
     },
     "Ryan McLeod": {
       "gp": 3,
@@ -417,7 +417,7 @@
       "a": 1
     },
     "Connor McDavid": {
-      "gp": 2,
+      "gp": 1,
       "g": 0,
       "a": 1
     },
