@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T07:12:09.781Z",
+  "lastUpdated": "2026-04-25T07:14:10.877Z",
   "players": {
     "Quinton Byfield": {
       "gp": 3,
@@ -52,7 +52,7 @@
       "a": 0
     },
     "Brady Tkachuk": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -107,7 +107,7 @@
       "a": 0
     },
     "Seth Jarvis": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -192,9 +192,9 @@
       "a": 1
     },
     "Ryan Nugent-Hopkins": {
-      "gp": 3,
+      "gp": 1,
       "g": 1,
-      "a": 1
+      "a": 0
     },
     "David Pastrnak": {
       "gp": 3,
@@ -292,7 +292,7 @@
       "a": 1
     },
     "Vladimir Tarasenko": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -302,7 +302,7 @@
       "a": 0
     },
     "Josh Doan": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -422,7 +422,7 @@
       "a": 1
     },
     "Josh Norris": {
-      "gp": 2,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
