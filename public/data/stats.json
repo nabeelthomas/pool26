@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T04:08:09.068Z",
+  "lastUpdated": "2026-04-25T04:10:13.196Z",
   "players": {
     "Quinton Byfield": {
       "gp": 3,
@@ -157,8 +157,8 @@
       "a": 0
     },
     "Dylan Cozens": {
-      "gp": 3,
-      "g": 1,
+      "gp": 0,
+      "g": 0,
       "a": 0
     },
     "Sidney Crosby": {
@@ -167,7 +167,7 @@
       "a": 1
     },
     "Pavel Dorofeyev": {
-      "gp": 0,
+      "gp": 2,
       "g": 0,
       "a": 0
     },
@@ -177,9 +177,9 @@
       "a": 2
     },
     "Tomas Hertl": {
-      "gp": 0,
+      "gp": 2,
       "g": 0,
-      "a": 0
+      "a": 1
     },
     "Mitch Marner": {
       "gp": 2,
@@ -192,9 +192,9 @@
       "a": 1
     },
     "Ryan Nugent-Hopkins": {
-      "gp": 2,
+      "gp": 1,
       "g": 1,
-      "a": 1
+      "a": 0
     },
     "David Pastrnak": {
       "gp": 3,
@@ -292,12 +292,12 @@
       "a": 1
     },
     "Vladimir Tarasenko": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
     "Shayne Gostisbehere": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -317,9 +317,9 @@
       "a": 0
     },
     "Nazem Kadri": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
-      "a": 1
+      "a": 0
     },
     "Gabriel Landeskog": {
       "gp": 3,
@@ -357,7 +357,7 @@
       "a": 2
     },
     "Jason Zucker": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
@@ -422,7 +422,7 @@
       "a": 1
     },
     "Josh Norris": {
-      "gp": 0,
+      "gp": 2,
       "g": 0,
       "a": 0
     },
@@ -442,7 +442,7 @@
       "a": 0
     },
     "Evan Bouchard": {
-      "gp": 2,
+      "gp": 1,
       "g": 0,
       "a": 1
     },
