@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T10:48:10.932Z",
+  "lastUpdated": "2026-04-25T10:50:13.348Z",
   "players": {
     "Quinton Byfield": {
       "gp": 3,
@@ -47,12 +47,12 @@
       "a": 0
     },
     "Tim Stutzle": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
     "Brady Tkachuk": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
@@ -147,7 +147,7 @@
       "a": 0
     },
     "Shea Theodore": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
@@ -192,9 +192,9 @@
       "a": 1
     },
     "Ryan Nugent-Hopkins": {
-      "gp": 1,
+      "gp": 3,
       "g": 1,
-      "a": 0
+      "a": 1
     },
     "David Pastrnak": {
       "gp": 3,
@@ -297,12 +297,12 @@
       "a": 0
     },
     "Shayne Gostisbehere": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
     "Josh Doan": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
@@ -337,7 +337,7 @@
       "a": 0
     },
     "Valeri Nichushkin": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
@@ -427,7 +427,7 @@
       "a": 0
     },
     "Corey Perry": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
