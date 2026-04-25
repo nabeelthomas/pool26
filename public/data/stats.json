@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T23:30:12.972Z",
+  "lastUpdated": "2026-04-25T23:32:10.213Z",
   "players": {
     "Quinton Byfield": {
       "gp": 3,
@@ -222,9 +222,9 @@
       "a": 1
     },
     "Charlie McAvoy": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Ivan Barbashev": {
       "gp": 3,
@@ -292,7 +292,7 @@
       "a": 1
     },
     "Vladimir Tarasenko": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
@@ -337,7 +337,7 @@
       "a": 0
     },
     "Valeri Nichushkin": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -382,9 +382,9 @@
       "a": 2
     },
     "Anthony Cirelli": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Leon Draisaitl": {
       "gp": 3,
@@ -402,7 +402,7 @@
       "a": 1
     },
     "James Hagens": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -422,7 +422,7 @@
       "a": 1
     },
     "Josh Norris": {
-      "gp": 0,
+      "gp": 2,
       "g": 0,
       "a": 0
     },
