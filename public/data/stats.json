@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-04-26T23:30:15.993Z",
+  "lastUpdated": "2026-04-26T23:32:09.478Z",
   "players": {
     "Quinton Byfield": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Cole Caufield": {
       "gp": 3,
@@ -157,8 +157,8 @@
       "a": 1
     },
     "Dylan Cozens": {
-      "gp": 4,
-      "g": 2,
+      "gp": 0,
+      "g": 0,
       "a": 0
     },
     "Sidney Crosby": {
@@ -212,9 +212,9 @@
       "a": 3
     },
     "Mattias Ekholm": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Erik Karlsson": {
       "gp": 4,
@@ -297,7 +297,7 @@
       "a": 0
     },
     "Shayne Gostisbehere": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
       "a": 0
     },
@@ -322,8 +322,8 @@
       "a": 2
     },
     "Gabriel Landeskog": {
-      "gp": 3,
-      "g": 2,
+      "gp": 1,
+      "g": 0,
       "a": 2
     },
     "Nathan MacKinnon": {
@@ -372,9 +372,9 @@
       "a": 1
     },
     "Devon Toews": {
-      "gp": 3,
+      "gp": 1,
       "g": 1,
-      "a": 2
+      "a": 0
     },
     "Matt Boldy": {
       "gp": 4,
@@ -427,7 +427,7 @@
       "a": 0
     },
     "Corey Perry": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
