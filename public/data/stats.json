@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-26T01:58:12.483Z",
+  "lastUpdated": "2026-04-26T02:00:20.529Z",
   "players": {
     "Quinton Byfield": {
       "gp": 3,
@@ -167,7 +167,7 @@
       "a": 1
     },
     "Pavel Dorofeyev": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
@@ -182,9 +182,9 @@
       "a": 1
     },
     "Mitch Marner": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Martin Necas": {
       "gp": 3,
@@ -282,9 +282,9 @@
       "a": 2
     },
     "Bryan Rust": {
-      "gp": 0,
-      "g": 0,
-      "a": 0
+      "gp": 3,
+      "g": 1,
+      "a": 1
     },
     "Nick Schmaltz": {
       "gp": 3,
@@ -337,7 +337,7 @@
       "a": 0
     },
     "Valeri Nichushkin": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
