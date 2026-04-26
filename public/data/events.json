@@ -15,6 +15,13 @@
       "pool": "Reiner"
     },
     {
+      "type": "GOAL",
+      "player": "Matt Boldy",
+      "team": "MIN",
+      "time": "5:30 PM ET",
+      "pool": "Cam"
+    },
+    {
       "type": "ASSIST",
       "player": "Matt Duchene",
       "team": "DAL",
@@ -412,13 +419,6 @@
       "team": "DAL",
       "time": "9:30 PM ET",
       "pool": "Paddy"
-    },
-    {
-      "type": "GOAL",
-      "player": "Erik Karlsson",
-      "team": "PIT",
-      "time": "7:00 PM ET",
-      "pool": "Reiner"
     }
   ]
 }
