@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-04-26T18:04:48.284Z",
+  "generatedAt": "2026-04-26T23:00:18.166Z",
   "games": [
     {
       "id": 2025030114,
       "away": "BUF",
       "home": "BOS",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 6,
+      "homeScore": 1,
       "period": null,
       "startUTC": "2026-04-26T18:00:00Z",
-      "status": "scheduled"
+      "status": "final"
     },
     {
       "id": 2025030154,
       "away": "COL",
       "home": "LAK",
-      "awayScore": null,
-      "homeScore": null,
-      "period": null,
+      "awayScore": 4,
+      "homeScore": 1,
+      "period": "3rd",
       "startUTC": "2026-04-26T20:30:00Z",
-      "status": "scheduled"
+      "status": "live"
     },
     {
       "id": 2025030124,

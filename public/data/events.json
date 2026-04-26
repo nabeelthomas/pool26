@@ -1,6 +1,104 @@
 {
   "events": [
     {
+      "type": "ASSIST",
+      "player": "Nathan MacKinnon",
+      "team": "COL",
+      "time": "4:30 PM ET",
+      "pool": "Andy"
+    },
+    {
+      "type": "GOAL",
+      "player": "Devon Toews",
+      "team": "COL",
+      "time": "4:30 PM ET",
+      "pool": "Andy"
+    },
+    {
+      "type": "ASSIST",
+      "player": "Artturi Lehkonen",
+      "team": "COL",
+      "time": "4:30 PM ET",
+      "pool": "Nabeel"
+    },
+    {
+      "type": "ASSIST",
+      "player": "Adrian Kempe",
+      "team": "LAK",
+      "time": "4:30 PM ET",
+      "pool": "Will"
+    },
+    {
+      "type": "GOAL",
+      "player": "Cale Makar",
+      "team": "COL",
+      "time": "4:30 PM ET",
+      "pool": "Nabeel"
+    },
+    {
+      "type": "ASSIST",
+      "player": "Nazem Kadri",
+      "team": "COL",
+      "time": "4:30 PM ET",
+      "pool": "Andy"
+    },
+    {
+      "type": "GOAL",
+      "player": "Nathan MacKinnon",
+      "team": "COL",
+      "time": "4:30 PM ET",
+      "pool": "Andy"
+    },
+    {
+      "type": "ASSIST",
+      "player": "Tage Thompson",
+      "team": "BUF",
+      "time": "2:00 PM ET",
+      "pool": "Andy"
+    },
+    {
+      "type": "GOAL",
+      "player": "Alex Tuch",
+      "team": "BUF",
+      "time": "2:00 PM ET",
+      "pool": "Andy"
+    },
+    {
+      "type": "GOAL",
+      "player": "Bowen Byram",
+      "team": "BUF",
+      "time": "2:00 PM ET",
+      "pool": "Andy"
+    },
+    {
+      "type": "ASSIST",
+      "player": "Josh Doan",
+      "team": "BUF",
+      "time": "2:00 PM ET",
+      "pool": "Andy"
+    },
+    {
+      "type": "ASSIST",
+      "player": "Ryan McLeod",
+      "team": "BUF",
+      "time": "2:00 PM ET",
+      "pool": "Andy"
+    },
+    {
+      "type": "GOAL",
+      "player": "Josh Doan",
+      "team": "BUF",
+      "time": "2:00 PM ET",
+      "pool": "Andy"
+    },
+    {
+      "type": "ASSIST",
+      "player": "Alex Tuch",
+      "team": "BUF",
+      "time": "2:00 PM ET",
+      "pool": "Andy"
+    },
+    {
       "type": "GOAL",
       "player": "Travis Konecny",
       "team": "PHI",
@@ -321,104 +419,6 @@
       "team": "BUF",
       "time": "7:00 PM ET",
       "pool": "Andy"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Charlie McAvoy",
-      "team": "BOS",
-      "time": "7:00 PM ET",
-      "pool": "Reiner"
-    },
-    {
-      "type": "GOAL",
-      "player": "Cutter Gauthier",
-      "team": "ANA",
-      "time": "10:00 PM ET",
-      "pool": "Andy"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Mattias Ekholm",
-      "team": "EDM",
-      "time": "10:00 PM ET",
-      "pool": "Reiner"
-    },
-    {
-      "type": "GOAL",
-      "player": "Zach Hyman",
-      "team": "EDM",
-      "time": "10:00 PM ET",
-      "pool": "Cam"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Cutter Gauthier",
-      "team": "ANA",
-      "time": "10:00 PM ET",
-      "pool": "Andy"
-    },
-    {
-      "type": "GOAL",
-      "player": "Leon Draisaitl",
-      "team": "EDM",
-      "time": "10:00 PM ET",
-      "pool": "Cam"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Miro Heiskanen",
-      "team": "DAL",
-      "time": "9:30 PM ET",
-      "pool": "Nabeel"
-    },
-    {
-      "type": "GOAL",
-      "player": "Wyatt Johnston",
-      "team": "DAL",
-      "time": "9:30 PM ET",
-      "pool": "Paddy"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Mikko Rantanen",
-      "team": "DAL",
-      "time": "9:30 PM ET",
-      "pool": "Paddy"
-    },
-    {
-      "type": "GOAL",
-      "player": "Matt Duchene",
-      "team": "DAL",
-      "time": "9:30 PM ET",
-      "pool": "Nabeel"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Matt Boldy",
-      "team": "MIN",
-      "time": "9:30 PM ET",
-      "pool": "Cam"
-    },
-    {
-      "type": "GOAL",
-      "player": "Joel Eriksson Ek",
-      "team": "MIN",
-      "time": "9:30 PM ET",
-      "pool": "Reiner"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Matt Duchene",
-      "team": "DAL",
-      "time": "9:30 PM ET",
-      "pool": "Nabeel"
-    },
-    {
-      "type": "GOAL",
-      "player": "Jason Robertson",
-      "team": "DAL",
-      "time": "9:30 PM ET",
-      "pool": "Paddy"
     }
   ]
 }

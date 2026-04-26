@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-26T18:04:48.288Z",
+  "lastUpdated": "2026-04-26T23:00:18.333Z",
   "players": {
     "Quinton Byfield": {
       "gp": 3,
@@ -34,7 +34,7 @@
     "Adrian Kempe": {
       "gp": 3,
       "g": 1,
-      "a": 0
+      "a": 1
     },
     "Artemi Panarin": {
       "gp": 3,
@@ -107,14 +107,14 @@
       "a": 0
     },
     "Seth Jarvis": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Artturi Lehkonen": {
       "gp": 3,
       "g": 2,
-      "a": 1
+      "a": 2
     },
     "Brock Nelson": {
       "gp": 3,
@@ -143,7 +143,7 @@
     },
     "Cale Makar": {
       "gp": 3,
-      "g": 1,
+      "g": 2,
       "a": 0
     },
     "Shea Theodore": {
@@ -192,12 +192,12 @@
       "a": 1
     },
     "Ryan Nugent-Hopkins": {
-      "gp": 0,
-      "g": 0,
-      "a": 0
+      "gp": 3,
+      "g": 1,
+      "a": 1
     },
     "David Pastrnak": {
-      "gp": 3,
+      "gp": 4,
       "g": 1,
       "a": 4
     },
@@ -222,9 +222,9 @@
       "a": 2
     },
     "Charlie McAvoy": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Ivan Barbashev": {
       "gp": 3,
@@ -237,7 +237,7 @@
       "a": 2
     },
     "Morgan Geekie": {
-      "gp": 3,
+      "gp": 4,
       "g": 2,
       "a": 2
     },
@@ -302,9 +302,9 @@
       "a": 0
     },
     "Josh Doan": {
-      "gp": 3,
-      "g": 0,
-      "a": 0
+      "gp": 1,
+      "g": 1,
+      "a": 1
     },
     "Cutter Gauthier": {
       "gp": 3,
@@ -319,22 +319,22 @@
     "Nazem Kadri": {
       "gp": 3,
       "g": 0,
-      "a": 1
+      "a": 2
     },
     "Gabriel Landeskog": {
       "gp": 3,
       "g": 2,
-      "a": 0
+      "a": 2
     },
     "Nathan MacKinnon": {
       "gp": 3,
-      "g": 0,
-      "a": 1
+      "g": 1,
+      "a": 2
     },
     "Ryan McLeod": {
-      "gp": 3,
+      "gp": 4,
       "g": 0,
-      "a": 0
+      "a": 1
     },
     "Valeri Nichushkin": {
       "gp": 3,
@@ -342,39 +342,39 @@
       "a": 0
     },
     "Jack Quinn": {
-      "gp": 3,
+      "gp": 4,
       "g": 0,
-      "a": 2
+      "a": 3
     },
     "Tage Thompson": {
-      "gp": 3,
-      "g": 2,
-      "a": 1
-    },
-    "Alex Tuch": {
-      "gp": 3,
+      "gp": 4,
       "g": 2,
       "a": 2
     },
+    "Alex Tuch": {
+      "gp": 4,
+      "g": 3,
+      "a": 3
+    },
     "Jason Zucker": {
-      "gp": 3,
+      "gp": 4,
       "g": 0,
       "a": 0
     },
     "Bowen Byram": {
-      "gp": 3,
-      "g": 2,
-      "a": 1
+      "gp": 4,
+      "g": 3,
+      "a": 2
     },
     "Rasmus Dahlin": {
-      "gp": 3,
+      "gp": 4,
       "g": 0,
       "a": 1
     },
     "Devon Toews": {
-      "gp": 3,
-      "g": 0,
-      "a": 2
+      "gp": 1,
+      "g": 1,
+      "a": 0
     },
     "Matt Boldy": {
       "gp": 4,
@@ -427,7 +427,7 @@
       "a": 0
     },
     "Corey Perry": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
