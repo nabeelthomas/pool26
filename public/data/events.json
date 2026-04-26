@@ -2,6 +2,13 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "time": "8:00 PM ET",
+      "pool": "Reiner"
+    },
+    {
+      "type": "ASSIST",
       "player": "Erik Karlsson",
       "team": "PIT",
       "time": "8:00 PM ET",
@@ -409,13 +416,6 @@
     {
       "type": "ASSIST",
       "player": "Jason Robertson",
-      "team": "DAL",
-      "time": "9:30 PM ET",
-      "pool": "Paddy"
-    },
-    {
-      "type": "GOAL",
-      "player": "Mikko Rantanen",
       "team": "DAL",
       "time": "9:30 PM ET",
       "pool": "Paddy"
