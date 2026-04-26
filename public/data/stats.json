@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-26T02:18:10.481Z",
+  "lastUpdated": "2026-04-26T02:20:14.221Z",
   "players": {
     "Quinton Byfield": {
       "gp": 3,
@@ -292,7 +292,7 @@
       "a": 1
     },
     "Vladimir Tarasenko": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
       "a": 0
     },
@@ -382,9 +382,9 @@
       "a": 2
     },
     "Anthony Cirelli": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Leon Draisaitl": {
       "gp": 3,
@@ -417,12 +417,12 @@
       "a": 1
     },
     "Connor McDavid": {
-      "gp": 0,
-      "g": 0,
-      "a": 0
+      "gp": 3,
+      "g": 1,
+      "a": 1
     },
     "Josh Norris": {
-      "gp": 0,
+      "gp": 2,
       "g": 0,
       "a": 0
     },
