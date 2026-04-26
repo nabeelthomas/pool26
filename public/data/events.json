@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "ASSIST",
+      "player": "Erik Karlsson",
+      "team": "PIT",
+      "time": "8:00 PM ET",
+      "pool": "Reiner"
+    },
+    {
       "type": "GOAL",
       "player": "Sidney Crosby",
       "team": "PIT",
@@ -412,13 +419,6 @@
       "team": "PIT",
       "time": "7:00 PM ET",
       "pool": "Reiner"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Bryan Rust",
-      "team": "PIT",
-      "time": "7:00 PM ET",
-      "pool": "Paddy"
     }
   ]
 }
