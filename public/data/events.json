@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "GOAL",
+      "player": "Travis Konecny",
+      "team": "PHI",
+      "time": "8:00 PM ET",
+      "pool": "Paddy"
+    },
+    {
       "type": "ASSIST",
       "player": "Sidney Crosby",
       "team": "PIT",
@@ -408,13 +415,6 @@
     },
     {
       "type": "GOAL",
-      "player": "Jason Robertson",
-      "team": "DAL",
-      "time": "9:30 PM ET",
-      "pool": "Paddy"
-    },
-    {
-      "type": "ASSIST",
       "player": "Jason Robertson",
       "team": "DAL",
       "time": "9:30 PM ET",

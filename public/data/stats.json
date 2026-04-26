@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-26T02:30:16.400Z",
+  "lastUpdated": "2026-04-26T02:32:10.135Z",
   "players": {
     "Quinton Byfield": {
       "gp": 3,
@@ -132,7 +132,7 @@
       "a": 1
     },
     "Thomas Harley": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -147,7 +147,7 @@
       "a": 0
     },
     "Shea Theodore": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -258,7 +258,7 @@
     },
     "Travis Konecny": {
       "gp": 3,
-      "g": 0,
+      "g": 1,
       "a": 2
     },
     "Nikita Kucherov": {
@@ -292,7 +292,7 @@
       "a": 1
     },
     "Vladimir Tarasenko": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
       "a": 0
     },
@@ -357,7 +357,7 @@
       "a": 2
     },
     "Jason Zucker": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
