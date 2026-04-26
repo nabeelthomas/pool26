@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "GOAL",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "time": "8:00 PM ET",
+      "pool": "Reiner"
+    },
+    {
       "type": "ASSIST",
       "player": "Matt Duchene",
       "team": "DAL",
@@ -409,13 +416,6 @@
     {
       "type": "ASSIST",
       "player": "Bryan Rust",
-      "team": "PIT",
-      "time": "7:00 PM ET",
-      "pool": "Paddy"
-    },
-    {
-      "type": "GOAL",
-      "player": "Evgeni Malkin",
       "team": "PIT",
       "time": "7:00 PM ET",
       "pool": "Paddy"

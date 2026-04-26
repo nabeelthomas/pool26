@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-26T00:48:11.461Z",
+  "lastUpdated": "2026-04-26T00:50:11.990Z",
   "players": {
     "Quinton Byfield": {
       "gp": 3,
@@ -163,7 +163,7 @@
     },
     "Sidney Crosby": {
       "gp": 3,
-      "g": 0,
+      "g": 1,
       "a": 1
     },
     "Pavel Dorofeyev": {
@@ -422,7 +422,7 @@
       "a": 1
     },
     "Josh Norris": {
-      "gp": 2,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
