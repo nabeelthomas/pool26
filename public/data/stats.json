@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-26T02:34:10.242Z",
+  "lastUpdated": "2026-04-26T02:36:09.730Z",
   "players": {
     "Quinton Byfield": {
       "gp": 3,
@@ -257,9 +257,9 @@
       "a": 2
     },
     "Travis Konecny": {
-      "gp": 3,
+      "gp": 1,
       "g": 1,
-      "a": 2
+      "a": 0
     },
     "Nikita Kucherov": {
       "gp": 3,
@@ -302,7 +302,7 @@
       "a": 0
     },
     "Josh Doan": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -422,7 +422,7 @@
       "a": 1
     },
     "Josh Norris": {
-      "gp": 2,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -442,9 +442,9 @@
       "a": 0
     },
     "Evan Bouchard": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Darren Raddysh": {
       "gp": 3,
