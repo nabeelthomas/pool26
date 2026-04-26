@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-26T00:24:09.848Z",
+  "lastUpdated": "2026-04-26T00:26:09.826Z",
   "players": {
     "Quinton Byfield": {
       "gp": 3,
@@ -132,7 +132,7 @@
       "a": 1
     },
     "Thomas Harley": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -297,7 +297,7 @@
       "a": 0
     },
     "Shayne Gostisbehere": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -372,9 +372,9 @@
       "a": 1
     },
     "Devon Toews": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Matt Boldy": {
       "gp": 3,
