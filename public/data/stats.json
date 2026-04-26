@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-26T04:44:11.415Z",
+  "lastUpdated": "2026-04-26T04:46:15.497Z",
   "players": {
     "Quinton Byfield": {
       "gp": 3,
@@ -182,9 +182,9 @@
       "a": 1
     },
     "Mitch Marner": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Martin Necas": {
       "gp": 3,
@@ -282,9 +282,9 @@
       "a": 2
     },
     "Bryan Rust": {
-      "gp": 0,
-      "g": 0,
-      "a": 0
+      "gp": 4,
+      "g": 1,
+      "a": 1
     },
     "Nick Schmaltz": {
       "gp": 3,
@@ -322,8 +322,8 @@
       "a": 1
     },
     "Gabriel Landeskog": {
-      "gp": 3,
-      "g": 2,
+      "gp": 0,
+      "g": 0,
       "a": 0
     },
     "Nathan MacKinnon": {
@@ -342,9 +342,9 @@
       "a": 0
     },
     "Jack Quinn": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Tage Thompson": {
       "gp": 3,
@@ -402,7 +402,7 @@
       "a": 1
     },
     "James Hagens": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -422,7 +422,7 @@
       "a": 1
     },
     "Josh Norris": {
-      "gp": 0,
+      "gp": 2,
       "g": 0,
       "a": 0
     },
