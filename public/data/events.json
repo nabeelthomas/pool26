@@ -2,6 +2,20 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Martin Necas",
+      "team": "COL",
+      "time": "4:30 PM ET",
+      "pool": "Reiner"
+    },
+    {
+      "type": "GOAL",
+      "player": "Nathan MacKinnon",
+      "team": "COL",
+      "time": "4:30 PM ET",
+      "pool": "Andy"
+    },
+    {
+      "type": "ASSIST",
       "player": "Nathan MacKinnon",
       "team": "COL",
       "time": "4:30 PM ET",
@@ -38,13 +52,6 @@
     {
       "type": "ASSIST",
       "player": "Nazem Kadri",
-      "team": "COL",
-      "time": "4:30 PM ET",
-      "pool": "Andy"
-    },
-    {
-      "type": "GOAL",
-      "player": "Nathan MacKinnon",
       "team": "COL",
       "time": "4:30 PM ET",
       "pool": "Andy"
@@ -409,13 +416,6 @@
     {
       "type": "GOAL",
       "player": "Alex Tuch",
-      "team": "BUF",
-      "time": "7:00 PM ET",
-      "pool": "Andy"
-    },
-    {
-      "type": "GOAL",
-      "player": "Bowen Byram",
       "team": "BUF",
       "time": "7:00 PM ET",
       "pool": "Andy"
