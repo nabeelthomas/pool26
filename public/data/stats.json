@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-26T03:24:12.560Z",
+  "lastUpdated": "2026-04-26T03:26:09.452Z",
   "players": {
     "Quinton Byfield": {
       "gp": 3,
@@ -252,9 +252,9 @@
       "a": 2
     },
     "Clayton Keller": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Travis Konecny": {
       "gp": 3,
@@ -292,7 +292,7 @@
       "a": 1
     },
     "Vladimir Tarasenko": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
       "a": 0
     },
