@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-04-26T06:04:09.349Z",
+  "lastUpdated": "2026-04-26T06:06:10.154Z",
   "players": {
     "Quinton Byfield": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Cole Caufield": {
       "gp": 3,
@@ -107,7 +107,7 @@
       "a": 0
     },
     "Seth Jarvis": {
-      "gp": 1,
+      "gp": 4,
       "g": 0,
       "a": 2
     },
@@ -322,8 +322,8 @@
       "a": 1
     },
     "Gabriel Landeskog": {
-      "gp": 3,
-      "g": 2,
+      "gp": 0,
+      "g": 0,
       "a": 0
     },
     "Nathan MacKinnon": {
@@ -342,9 +342,9 @@
       "a": 0
     },
     "Jack Quinn": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Tage Thompson": {
       "gp": 3,
