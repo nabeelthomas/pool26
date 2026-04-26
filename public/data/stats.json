@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-26T05:42:08.715Z",
+  "lastUpdated": "2026-04-26T05:44:09.344Z",
   "players": {
     "Quinton Byfield": {
       "gp": 3,
@@ -182,9 +182,9 @@
       "a": 1
     },
     "Mitch Marner": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Martin Necas": {
       "gp": 3,
@@ -297,12 +297,12 @@
       "a": 0
     },
     "Shayne Gostisbehere": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
       "a": 0
     },
     "Josh Doan": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -322,8 +322,8 @@
       "a": 1
     },
     "Gabriel Landeskog": {
-      "gp": 3,
-      "g": 2,
+      "gp": 0,
+      "g": 0,
       "a": 0
     },
     "Nathan MacKinnon": {
@@ -417,12 +417,12 @@
       "a": 1
     },
     "Connor McDavid": {
-      "gp": 0,
-      "g": 0,
-      "a": 0
+      "gp": 3,
+      "g": 1,
+      "a": 1
     },
     "Josh Norris": {
-      "gp": 0,
+      "gp": 2,
       "g": 0,
       "a": 0
     },
