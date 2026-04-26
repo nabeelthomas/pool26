@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-26T07:02:09.173Z",
+  "lastUpdated": "2026-04-26T07:04:09.304Z",
   "players": {
     "Quinton Byfield": {
       "gp": 3,
@@ -107,7 +107,7 @@
       "a": 0
     },
     "Seth Jarvis": {
-      "gp": 4,
+      "gp": 1,
       "g": 0,
       "a": 2
     },
@@ -132,7 +132,7 @@
       "a": 1
     },
     "Thomas Harley": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -147,7 +147,7 @@
       "a": 0
     },
     "Shea Theodore": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -252,9 +252,9 @@
       "a": 2
     },
     "Clayton Keller": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Travis Konecny": {
       "gp": 4,
@@ -292,12 +292,12 @@
       "a": 1
     },
     "Vladimir Tarasenko": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
       "a": 0
     },
     "Shayne Gostisbehere": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -337,14 +337,14 @@
       "a": 0
     },
     "Valeri Nichushkin": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
     "Jack Quinn": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Tage Thompson": {
       "gp": 3,
@@ -442,9 +442,9 @@
       "a": 0
     },
     "Evan Bouchard": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Darren Raddysh": {
       "gp": 3,
