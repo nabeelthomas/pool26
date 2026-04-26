@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-26T04:10:11.649Z",
+  "lastUpdated": "2026-04-26T04:12:09.791Z",
   "players": {
     "Quinton Byfield": {
       "gp": 3,
@@ -132,7 +132,7 @@
       "a": 1
     },
     "Thomas Harley": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
       "a": 0
     },
@@ -147,7 +147,7 @@
       "a": 0
     },
     "Shea Theodore": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
@@ -157,7 +157,7 @@
       "a": 1
     },
     "Dylan Cozens": {
-      "gp": 4,
+      "gp": 1,
       "g": 2,
       "a": 0
     },
@@ -417,9 +417,9 @@
       "a": 1
     },
     "Connor McDavid": {
-      "gp": 0,
-      "g": 0,
-      "a": 0
+      "gp": 3,
+      "g": 1,
+      "a": 1
     },
     "Josh Norris": {
       "gp": 2,
