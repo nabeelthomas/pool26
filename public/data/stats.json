@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-26T04:18:10.546Z",
+  "lastUpdated": "2026-04-26T04:20:11.233Z",
   "players": {
     "Quinton Byfield": {
       "gp": 3,
@@ -322,8 +322,8 @@
       "a": 1
     },
     "Gabriel Landeskog": {
-      "gp": 0,
-      "g": 0,
+      "gp": 3,
+      "g": 2,
       "a": 0
     },
     "Nathan MacKinnon": {
@@ -342,9 +342,9 @@
       "a": 0
     },
     "Jack Quinn": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Tage Thompson": {
       "gp": 3,
@@ -427,7 +427,7 @@
       "a": 0
     },
     "Corey Perry": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
