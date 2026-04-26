@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-26T23:06:09.354Z",
+  "lastUpdated": "2026-04-26T23:08:09.141Z",
   "players": {
     "Quinton Byfield": {
       "gp": 3,
@@ -107,9 +107,9 @@
       "a": 0
     },
     "Seth Jarvis": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Artturi Lehkonen": {
       "gp": 3,
@@ -212,9 +212,9 @@
       "a": 3
     },
     "Mattias Ekholm": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Erik Karlsson": {
       "gp": 4,
@@ -222,9 +222,9 @@
       "a": 2
     },
     "Charlie McAvoy": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Ivan Barbashev": {
       "gp": 3,
@@ -322,8 +322,8 @@
       "a": 2
     },
     "Gabriel Landeskog": {
-      "gp": 1,
-      "g": 0,
+      "gp": 3,
+      "g": 2,
       "a": 2
     },
     "Nathan MacKinnon": {
@@ -337,7 +337,7 @@
       "a": 1
     },
     "Valeri Nichushkin": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -372,9 +372,9 @@
       "a": 1
     },
     "Devon Toews": {
-      "gp": 1,
+      "gp": 3,
       "g": 1,
-      "a": 0
+      "a": 2
     },
     "Matt Boldy": {
       "gp": 4,
@@ -402,7 +402,7 @@
       "a": 1
     },
     "James Hagens": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -442,9 +442,9 @@
       "a": 0
     },
     "Evan Bouchard": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Darren Raddysh": {
       "gp": 3,
