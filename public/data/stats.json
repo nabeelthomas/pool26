@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-04-26T04:02:09.529Z",
+  "lastUpdated": "2026-04-26T04:04:11.221Z",
   "players": {
     "Quinton Byfield": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Cole Caufield": {
       "gp": 3,
@@ -107,7 +107,7 @@
       "a": 0
     },
     "Seth Jarvis": {
-      "gp": 4,
+      "gp": 1,
       "g": 0,
       "a": 2
     },
@@ -282,9 +282,9 @@
       "a": 2
     },
     "Bryan Rust": {
-      "gp": 0,
-      "g": 0,
-      "a": 0
+      "gp": 4,
+      "g": 1,
+      "a": 1
     },
     "Nick Schmaltz": {
       "gp": 3,
@@ -337,7 +337,7 @@
       "a": 0
     },
     "Valeri Nichushkin": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -372,9 +372,9 @@
       "a": 1
     },
     "Devon Toews": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Matt Boldy": {
       "gp": 4,
@@ -427,7 +427,7 @@
       "a": 0
     },
     "Corey Perry": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -442,9 +442,9 @@
       "a": 0
     },
     "Evan Bouchard": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Darren Raddysh": {
       "gp": 3,
