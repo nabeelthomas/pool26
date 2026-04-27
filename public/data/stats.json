@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-04-27T10:12:12.142Z",
+  "lastUpdated": "2026-04-27T10:14:10.160Z",
   "players": {
     "Quinton Byfield": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Cole Caufield": {
       "gp": 4,
@@ -32,8 +32,8 @@
       "a": 5
     },
     "Adrian Kempe": {
-      "gp": 4,
-      "g": 1,
+      "gp": 1,
+      "g": 0,
       "a": 1
     },
     "Artemi Panarin": {
@@ -187,7 +187,7 @@
       "a": 2
     },
     "Martin Necas": {
-      "gp": 1,
+      "gp": 4,
       "g": 0,
       "a": 2
     },
@@ -252,9 +252,9 @@
       "a": 2
     },
     "Clayton Keller": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Travis Konecny": {
       "gp": 4,
@@ -297,7 +297,7 @@
       "a": 0
     },
     "Shayne Gostisbehere": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
       "a": 0
     },
