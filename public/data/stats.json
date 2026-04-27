@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-04-27T05:04:09.852Z",
+  "lastUpdated": "2026-04-27T05:06:09.821Z",
   "players": {
     "Quinton Byfield": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Cole Caufield": {
       "gp": 4,
@@ -107,9 +107,9 @@
       "a": 0
     },
     "Seth Jarvis": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Artturi Lehkonen": {
       "gp": 4,
@@ -142,7 +142,7 @@
       "a": 3
     },
     "Cale Makar": {
-      "gp": 4,
+      "gp": 1,
       "g": 2,
       "a": 0
     },
@@ -167,7 +167,7 @@
       "a": 2
     },
     "Pavel Dorofeyev": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -297,7 +297,7 @@
       "a": 0
     },
     "Shayne Gostisbehere": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -317,7 +317,7 @@
       "a": 0
     },
     "Nazem Kadri": {
-      "gp": 1,
+      "gp": 4,
       "g": 0,
       "a": 2
     },
