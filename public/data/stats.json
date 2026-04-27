@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-04-27T09:34:10.195Z",
+  "lastUpdated": "2026-04-27T09:36:17.360Z",
   "players": {
     "Quinton Byfield": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Cole Caufield": {
       "gp": 4,
@@ -107,9 +107,9 @@
       "a": 0
     },
     "Seth Jarvis": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Artturi Lehkonen": {
       "gp": 4,
@@ -167,7 +167,7 @@
       "a": 2
     },
     "Pavel Dorofeyev": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -182,12 +182,12 @@
       "a": 1
     },
     "Mitch Marner": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Martin Necas": {
-      "gp": 4,
+      "gp": 1,
       "g": 0,
       "a": 2
     },
@@ -212,9 +212,9 @@
       "a": 3
     },
     "Mattias Ekholm": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Erik Karlsson": {
       "gp": 4,
@@ -302,7 +302,7 @@
       "a": 0
     },
     "Josh Doan": {
-      "gp": 4,
+      "gp": 1,
       "g": 1,
       "a": 1
     },
@@ -382,9 +382,9 @@
       "a": 2
     },
     "Anthony Cirelli": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Leon Draisaitl": {
       "gp": 4,
@@ -422,7 +422,7 @@
       "a": 3
     },
     "Josh Norris": {
-      "gp": 0,
+      "gp": 2,
       "g": 0,
       "a": 0
     },
