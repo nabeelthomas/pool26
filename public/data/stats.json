@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T09:08:10.674Z",
+  "lastUpdated": "2026-04-27T09:10:15.239Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -32,8 +32,8 @@
       "a": 5
     },
     "Adrian Kempe": {
-      "gp": 4,
-      "g": 1,
+      "gp": 1,
+      "g": 0,
       "a": 1
     },
     "Artemi Panarin": {
@@ -187,7 +187,7 @@
       "a": 2
     },
     "Martin Necas": {
-      "gp": 4,
+      "gp": 1,
       "g": 0,
       "a": 2
     },
@@ -302,7 +302,7 @@
       "a": 0
     },
     "Josh Doan": {
-      "gp": 4,
+      "gp": 1,
       "g": 1,
       "a": 1
     },
@@ -317,7 +317,7 @@
       "a": 0
     },
     "Nazem Kadri": {
-      "gp": 4,
+      "gp": 1,
       "g": 0,
       "a": 2
     },
