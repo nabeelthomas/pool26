@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-04-27T00:22:13.408Z",
+  "lastUpdated": "2026-04-27T00:24:13.905Z",
   "players": {
     "Quinton Byfield": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Cole Caufield": {
       "gp": 3,
@@ -22,7 +22,7 @@
       "a": 1
     },
     "Oliver Kapanen": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -52,7 +52,7 @@
       "a": 1
     },
     "Brady Tkachuk": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
       "a": 0
     },
@@ -422,7 +422,7 @@
       "a": 1
     },
     "Josh Norris": {
-      "gp": 2,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
