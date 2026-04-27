@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T08:38:13.572Z",
+  "lastUpdated": "2026-04-27T08:40:14.976Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -32,8 +32,8 @@
       "a": 5
     },
     "Adrian Kempe": {
-      "gp": 4,
-      "g": 1,
+      "gp": 1,
+      "g": 0,
       "a": 1
     },
     "Artemi Panarin": {
@@ -187,7 +187,7 @@
       "a": 2
     },
     "Martin Necas": {
-      "gp": 1,
+      "gp": 4,
       "g": 0,
       "a": 2
     },
@@ -212,9 +212,9 @@
       "a": 3
     },
     "Mattias Ekholm": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Erik Karlsson": {
       "gp": 4,
@@ -222,9 +222,9 @@
       "a": 2
     },
     "Charlie McAvoy": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Ivan Barbashev": {
       "gp": 3,
@@ -297,7 +297,7 @@
       "a": 0
     },
     "Shayne Gostisbehere": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -317,7 +317,7 @@
       "a": 0
     },
     "Nazem Kadri": {
-      "gp": 1,
+      "gp": 4,
       "g": 0,
       "a": 2
     },
@@ -422,7 +422,7 @@
       "a": 3
     },
     "Josh Norris": {
-      "gp": 2,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -447,8 +447,8 @@
       "a": 3
     },
     "Darren Raddysh": {
-      "gp": 1,
-      "g": 0,
+      "gp": 4,
+      "g": 1,
       "a": 1
     }
   }
