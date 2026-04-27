@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T01:40:12.298Z",
+  "lastUpdated": "2026-04-27T01:42:10.350Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -264,7 +264,7 @@
     "Nikita Kucherov": {
       "gp": 3,
       "g": 1,
-      "a": 4
+      "a": 5
     },
     "Evgeni Malkin": {
       "gp": 4,
@@ -382,9 +382,9 @@
       "a": 2
     },
     "Anthony Cirelli": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Leon Draisaitl": {
       "gp": 3,
@@ -398,7 +398,7 @@
     },
     "Brandon Hagel": {
       "gp": 3,
-      "g": 5,
+      "g": 6,
       "a": 1
     },
     "James Hagens": {
@@ -417,9 +417,9 @@
       "a": 1
     },
     "Connor McDavid": {
-      "gp": 0,
-      "g": 0,
-      "a": 0
+      "gp": 3,
+      "g": 1,
+      "a": 1
     },
     "Josh Norris": {
       "gp": 2,
@@ -427,7 +427,7 @@
       "a": 0
     },
     "Corey Perry": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
