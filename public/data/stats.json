@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T06:50:15.004Z",
+  "lastUpdated": "2026-04-27T06:52:10.796Z",
   "players": {
     "Quinton Byfield": {
       "gp": 0,
@@ -222,9 +222,9 @@
       "a": 2
     },
     "Charlie McAvoy": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Ivan Barbashev": {
       "gp": 3,
@@ -447,8 +447,8 @@
       "a": 3
     },
     "Darren Raddysh": {
-      "gp": 1,
-      "g": 0,
+      "gp": 4,
+      "g": 1,
       "a": 1
     }
   }
