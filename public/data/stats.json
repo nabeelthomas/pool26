@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T23:18:10.404Z",
+  "lastUpdated": "2026-04-27T23:20:17.588Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -32,9 +32,9 @@
       "a": 5
     },
     "Adrian Kempe": {
-      "gp": 0,
-      "g": 0,
-      "a": 0
+      "gp": 4,
+      "g": 1,
+      "a": 1
     },
     "Artemi Panarin": {
       "gp": 4,
@@ -52,7 +52,7 @@
       "a": 1
     },
     "Brady Tkachuk": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
       "a": 0
     },
@@ -282,9 +282,9 @@
       "a": 2
     },
     "Bryan Rust": {
-      "gp": 0,
-      "g": 0,
-      "a": 0
+      "gp": 4,
+      "g": 1,
+      "a": 1
     },
     "Nick Schmaltz": {
       "gp": 3,
@@ -447,9 +447,9 @@
       "a": 3
     },
     "Darren Raddysh": {
-      "gp": 0,
-      "g": 0,
-      "a": 0
+      "gp": 4,
+      "g": 1,
+      "a": 1
     }
   }
 }
