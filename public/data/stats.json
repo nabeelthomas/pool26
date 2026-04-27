@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-04-27T00:28:11.315Z",
+  "lastUpdated": "2026-04-27T00:30:17.171Z",
   "players": {
     "Quinton Byfield": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Cole Caufield": {
       "gp": 3,
@@ -22,7 +22,7 @@
       "a": 1
     },
     "Oliver Kapanen": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
@@ -52,7 +52,7 @@
       "a": 1
     },
     "Brady Tkachuk": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -187,14 +187,14 @@
       "a": 2
     },
     "Martin Necas": {
-      "gp": 1,
+      "gp": 4,
       "g": 0,
       "a": 2
     },
     "Ryan Nugent-Hopkins": {
-      "gp": 0,
-      "g": 0,
-      "a": 0
+      "gp": 3,
+      "g": 1,
+      "a": 1
     },
     "David Pastrnak": {
       "gp": 4,
@@ -437,14 +437,14 @@
       "a": 1
     },
     "Andrei Svechnikov": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
       "a": 0
     },
     "Evan Bouchard": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Darren Raddysh": {
       "gp": 3,
