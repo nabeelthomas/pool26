@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "ASSIST",
+      "player": "Leo Carlsson",
+      "team": "ANA",
+      "time": "9:30 PM ET",
+      "pool": "Paddy"
+    },
+    {
       "type": "GOAL",
       "player": "Cutter Gauthier",
       "team": "ANA",
@@ -412,13 +419,6 @@
       "team": "COL",
       "time": "10:00 PM ET",
       "pool": "Nabeel"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Devon Toews",
-      "team": "COL",
-      "time": "10:00 PM ET",
-      "pool": "Andy"
     }
   ]
 }
