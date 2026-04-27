@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T09:58:11.205Z",
+  "lastUpdated": "2026-04-27T10:00:16.846Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -107,9 +107,9 @@
       "a": 0
     },
     "Seth Jarvis": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Artturi Lehkonen": {
       "gp": 4,
@@ -167,7 +167,7 @@
       "a": 2
     },
     "Pavel Dorofeyev": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
@@ -187,7 +187,7 @@
       "a": 2
     },
     "Martin Necas": {
-      "gp": 1,
+      "gp": 4,
       "g": 0,
       "a": 2
     },
@@ -222,9 +222,9 @@
       "a": 2
     },
     "Charlie McAvoy": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Ivan Barbashev": {
       "gp": 3,
@@ -302,7 +302,7 @@
       "a": 0
     },
     "Josh Doan": {
-      "gp": 1,
+      "gp": 4,
       "g": 1,
       "a": 1
     },
