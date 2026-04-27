@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "type": "ASSIST",
+      "player": "Evan Bouchard",
+      "team": "EDM",
+      "time": "9:30 PM ET",
+      "pool": "Cam"
+    },
+    {
+      "type": "GOAL",
+      "player": "Ryan Nugent-Hopkins",
+      "team": "EDM",
+      "time": "9:30 PM ET",
+      "pool": "Reiner"
+    },
+    {
       "type": "GOAL",
       "player": "Kasperi Kapanen",
       "team": "EDM",
@@ -405,20 +419,6 @@
       "team": "COL",
       "time": "10:00 PM ET",
       "pool": "Nabeel"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Quinton Byfield",
-      "team": "LAK",
-      "time": "10:00 PM ET",
-      "pool": "Will"
-    },
-    {
-      "type": "GOAL",
-      "player": "Gabriel Landeskog",
-      "team": "COL",
-      "time": "10:00 PM ET",
-      "pool": "Andy"
     }
   ]
 }
