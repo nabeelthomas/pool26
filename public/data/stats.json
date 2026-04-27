@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T06:24:13.587Z",
+  "lastUpdated": "2026-04-27T06:26:13.412Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -167,7 +167,7 @@
       "a": 2
     },
     "Pavel Dorofeyev": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -182,9 +182,9 @@
       "a": 1
     },
     "Mitch Marner": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Martin Necas": {
       "gp": 4,
