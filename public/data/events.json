@@ -2,6 +2,20 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Nick Suzuki",
+      "team": "MTL",
+      "time": "7:00 PM ET",
+      "pool": "Reiner"
+    },
+    {
+      "type": "GOAL",
+      "player": "Cole Caufield",
+      "team": "MTL",
+      "time": "7:00 PM ET",
+      "pool": "Will"
+    },
+    {
+      "type": "ASSIST",
       "player": "Martin Necas",
       "team": "COL",
       "time": "4:30 PM ET",
@@ -405,20 +419,6 @@
       "team": "CAR",
       "time": "7:30 PM ET",
       "pool": "Nabeel"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Jack Quinn",
-      "team": "BUF",
-      "time": "7:00 PM ET",
-      "pool": "Andy"
-    },
-    {
-      "type": "GOAL",
-      "player": "Alex Tuch",
-      "team": "BUF",
-      "time": "7:00 PM ET",
-      "pool": "Andy"
     }
   ]
 }

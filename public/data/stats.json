@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T00:36:10.358Z",
+  "lastUpdated": "2026-04-27T00:38:11.051Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -8,7 +8,7 @@
     },
     "Cole Caufield": {
       "gp": 3,
-      "g": 0,
+      "g": 1,
       "a": 3
     },
     "Ivan Demidov": {
@@ -32,8 +32,8 @@
       "a": 5
     },
     "Adrian Kempe": {
-      "gp": 1,
-      "g": 0,
+      "gp": 4,
+      "g": 1,
       "a": 1
     },
     "Artemi Panarin": {
@@ -74,7 +74,7 @@
     "Lane Hutson": {
       "gp": 3,
       "g": 2,
-      "a": 1
+      "a": 2
     },
     "Sebastian Aho": {
       "gp": 4,
@@ -157,8 +157,8 @@
       "a": 1
     },
     "Dylan Cozens": {
-      "gp": 0,
-      "g": 0,
+      "gp": 4,
+      "g": 2,
       "a": 0
     },
     "Sidney Crosby": {
@@ -204,7 +204,7 @@
     "Nick Suzuki": {
       "gp": 3,
       "g": 0,
-      "a": 3
+      "a": 4
     },
     "Mats Zuccarello": {
       "gp": 1,
@@ -212,9 +212,9 @@
       "a": 3
     },
     "Mattias Ekholm": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Erik Karlsson": {
       "gp": 4,
@@ -302,7 +302,7 @@
       "a": 0
     },
     "Josh Doan": {
-      "gp": 1,
+      "gp": 4,
       "g": 1,
       "a": 1
     },
@@ -317,7 +317,7 @@
       "a": 0
     },
     "Nazem Kadri": {
-      "gp": 1,
+      "gp": 4,
       "g": 0,
       "a": 2
     },
