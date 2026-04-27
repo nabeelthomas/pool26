@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T04:48:10.360Z",
+  "lastUpdated": "2026-04-27T04:50:13.055Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -142,7 +142,7 @@
       "a": 3
     },
     "Cale Makar": {
-      "gp": 4,
+      "gp": 1,
       "g": 2,
       "a": 0
     },
@@ -212,9 +212,9 @@
       "a": 3
     },
     "Mattias Ekholm": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Erik Karlsson": {
       "gp": 4,
@@ -222,9 +222,9 @@
       "a": 2
     },
     "Charlie McAvoy": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Ivan Barbashev": {
       "gp": 3,
@@ -292,12 +292,12 @@
       "a": 1
     },
     "Vladimir Tarasenko": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
       "a": 0
     },
     "Shayne Gostisbehere": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -357,7 +357,7 @@
       "a": 3
     },
     "Jason Zucker": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
       "a": 0
     },
@@ -427,7 +427,7 @@
       "a": 0
     },
     "Corey Perry": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
