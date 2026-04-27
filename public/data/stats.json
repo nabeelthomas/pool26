@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T09:14:15.819Z",
+  "lastUpdated": "2026-04-27T09:16:10.569Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -107,9 +107,9 @@
       "a": 0
     },
     "Seth Jarvis": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Artturi Lehkonen": {
       "gp": 4,
@@ -182,9 +182,9 @@
       "a": 1
     },
     "Mitch Marner": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Martin Necas": {
       "gp": 4,
@@ -297,7 +297,7 @@
       "a": 0
     },
     "Shayne Gostisbehere": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -357,7 +357,7 @@
       "a": 3
     },
     "Jason Zucker": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
       "a": 0
     },
@@ -447,8 +447,8 @@
       "a": 3
     },
     "Darren Raddysh": {
-      "gp": 4,
-      "g": 1,
+      "gp": 1,
+      "g": 0,
       "a": 1
     }
   }
