@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T09:12:12.619Z",
+  "lastUpdated": "2026-04-27T09:14:15.819Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -32,8 +32,8 @@
       "a": 5
     },
     "Adrian Kempe": {
-      "gp": 1,
-      "g": 0,
+      "gp": 4,
+      "g": 1,
       "a": 1
     },
     "Artemi Panarin": {
@@ -182,9 +182,9 @@
       "a": 1
     },
     "Mitch Marner": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Martin Necas": {
       "gp": 4,
@@ -317,7 +317,7 @@
       "a": 0
     },
     "Nazem Kadri": {
-      "gp": 4,
+      "gp": 1,
       "g": 0,
       "a": 2
     },
@@ -357,7 +357,7 @@
       "a": 3
     },
     "Jason Zucker": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -382,9 +382,9 @@
       "a": 2
     },
     "Anthony Cirelli": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Leon Draisaitl": {
       "gp": 4,
