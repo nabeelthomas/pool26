@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T00:02:10.711Z",
+  "lastUpdated": "2026-04-27T00:04:09.200Z",
   "players": {
     "Quinton Byfield": {
       "gp": 3,
@@ -107,9 +107,9 @@
       "a": 0
     },
     "Seth Jarvis": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Artturi Lehkonen": {
       "gp": 3,
@@ -167,7 +167,7 @@
       "a": 2
     },
     "Pavel Dorofeyev": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
@@ -252,9 +252,9 @@
       "a": 2
     },
     "Clayton Keller": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Travis Konecny": {
       "gp": 4,
