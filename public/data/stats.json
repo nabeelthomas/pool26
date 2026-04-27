@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T02:40:15.044Z",
+  "lastUpdated": "2026-04-27T02:42:12.432Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -182,9 +182,9 @@
       "a": 1
     },
     "Mitch Marner": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Martin Necas": {
       "gp": 4,
@@ -192,9 +192,9 @@
       "a": 2
     },
     "Ryan Nugent-Hopkins": {
-      "gp": 3,
+      "gp": 1,
       "g": 2,
-      "a": 1
+      "a": 0
     },
     "David Pastrnak": {
       "gp": 4,
@@ -212,9 +212,9 @@
       "a": 3
     },
     "Mattias Ekholm": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Erik Karlsson": {
       "gp": 4,
@@ -282,9 +282,9 @@
       "a": 2
     },
     "Bryan Rust": {
-      "gp": 0,
-      "g": 0,
-      "a": 0
+      "gp": 4,
+      "g": 1,
+      "a": 1
     },
     "Nick Schmaltz": {
       "gp": 3,
@@ -297,12 +297,12 @@
       "a": 0
     },
     "Shayne Gostisbehere": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
       "a": 0
     },
     "Josh Doan": {
-      "gp": 4,
+      "gp": 1,
       "g": 1,
       "a": 1
     },
