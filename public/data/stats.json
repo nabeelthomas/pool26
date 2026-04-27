@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-04-27T00:10:12.477Z",
+  "lastUpdated": "2026-04-27T00:12:09.903Z",
   "players": {
     "Quinton Byfield": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Cole Caufield": {
       "gp": 3,
@@ -32,12 +32,12 @@
       "a": 5
     },
     "Adrian Kempe": {
-      "gp": 3,
+      "gp": 4,
       "g": 1,
       "a": 1
     },
     "Artemi Panarin": {
-      "gp": 3,
+      "gp": 4,
       "g": 2,
       "a": 1
     },
@@ -112,12 +112,12 @@
       "a": 2
     },
     "Artturi Lehkonen": {
-      "gp": 3,
+      "gp": 4,
       "g": 2,
       "a": 2
     },
     "Brock Nelson": {
-      "gp": 3,
+      "gp": 4,
       "g": 1,
       "a": 0
     },
@@ -142,7 +142,7 @@
       "a": 3
     },
     "Cale Makar": {
-      "gp": 3,
+      "gp": 4,
       "g": 2,
       "a": 0
     },
@@ -167,7 +167,7 @@
       "a": 2
     },
     "Pavel Dorofeyev": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -187,7 +187,7 @@
       "a": 2
     },
     "Martin Necas": {
-      "gp": 3,
+      "gp": 4,
       "g": 0,
       "a": 2
     },
@@ -297,12 +297,12 @@
       "a": 0
     },
     "Shayne Gostisbehere": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
     "Josh Doan": {
-      "gp": 4,
+      "gp": 1,
       "g": 1,
       "a": 1
     },
@@ -317,17 +317,17 @@
       "a": 0
     },
     "Nazem Kadri": {
-      "gp": 3,
+      "gp": 4,
       "g": 0,
       "a": 2
     },
     "Gabriel Landeskog": {
-      "gp": 1,
-      "g": 0,
+      "gp": 4,
+      "g": 2,
       "a": 2
     },
     "Nathan MacKinnon": {
-      "gp": 3,
+      "gp": 4,
       "g": 2,
       "a": 2
     },
@@ -337,7 +337,7 @@
       "a": 1
     },
     "Valeri Nichushkin": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
       "a": 0
     },
@@ -372,7 +372,7 @@
       "a": 1
     },
     "Devon Toews": {
-      "gp": 3,
+      "gp": 4,
       "g": 1,
       "a": 2
     },
@@ -402,7 +402,7 @@
       "a": 1
     },
     "James Hagens": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
