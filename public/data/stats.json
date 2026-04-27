@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T10:56:10.039Z",
+  "lastUpdated": "2026-04-27T10:58:13.467Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -107,9 +107,9 @@
       "a": 0
     },
     "Seth Jarvis": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Artturi Lehkonen": {
       "gp": 4,
@@ -142,7 +142,7 @@
       "a": 3
     },
     "Cale Makar": {
-      "gp": 1,
+      "gp": 4,
       "g": 2,
       "a": 0
     },
@@ -157,8 +157,8 @@
       "a": 1
     },
     "Dylan Cozens": {
-      "gp": 0,
-      "g": 0,
+      "gp": 4,
+      "g": 2,
       "a": 0
     },
     "Sidney Crosby": {
@@ -182,12 +182,12 @@
       "a": 1
     },
     "Mitch Marner": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Martin Necas": {
-      "gp": 4,
+      "gp": 1,
       "g": 0,
       "a": 2
     },
@@ -252,9 +252,9 @@
       "a": 2
     },
     "Clayton Keller": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Travis Konecny": {
       "gp": 4,
@@ -297,12 +297,12 @@
       "a": 0
     },
     "Shayne Gostisbehere": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
     "Josh Doan": {
-      "gp": 1,
+      "gp": 4,
       "g": 1,
       "a": 1
     },
@@ -447,8 +447,8 @@
       "a": 3
     },
     "Darren Raddysh": {
-      "gp": 1,
-      "g": 0,
+      "gp": 4,
+      "g": 1,
       "a": 1
     }
   }
