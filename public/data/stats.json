@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T02:36:12.776Z",
+  "lastUpdated": "2026-04-27T02:38:09.006Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -142,7 +142,7 @@
       "a": 3
     },
     "Cale Makar": {
-      "gp": 4,
+      "gp": 1,
       "g": 2,
       "a": 0
     },
@@ -282,9 +282,9 @@
       "a": 2
     },
     "Bryan Rust": {
-      "gp": 0,
-      "g": 0,
-      "a": 0
+      "gp": 4,
+      "g": 1,
+      "a": 1
     },
     "Nick Schmaltz": {
       "gp": 3,
@@ -382,9 +382,9 @@
       "a": 2
     },
     "Anthony Cirelli": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Leon Draisaitl": {
       "gp": 3,
@@ -417,8 +417,8 @@
       "a": 1
     },
     "Connor McDavid": {
-      "gp": 3,
-      "g": 1,
+      "gp": 1,
+      "g": 0,
       "a": 2
     },
     "Josh Norris": {
@@ -447,8 +447,8 @@
       "a": 3
     },
     "Darren Raddysh": {
-      "gp": 1,
-      "g": 0,
+      "gp": 4,
+      "g": 1,
       "a": 1
     }
   }
