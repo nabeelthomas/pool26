@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T05:20:11.487Z",
+  "lastUpdated": "2026-04-27T05:22:11.335Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -107,9 +107,9 @@
       "a": 0
     },
     "Seth Jarvis": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Artturi Lehkonen": {
       "gp": 4,
@@ -187,7 +187,7 @@
       "a": 2
     },
     "Martin Necas": {
-      "gp": 4,
+      "gp": 1,
       "g": 0,
       "a": 2
     },
@@ -292,7 +292,7 @@
       "a": 1
     },
     "Vladimir Tarasenko": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
       "a": 0
     },
@@ -422,7 +422,7 @@
       "a": 3
     },
     "Josh Norris": {
-      "gp": 0,
+      "gp": 2,
       "g": 0,
       "a": 0
     },
@@ -442,7 +442,7 @@
       "a": 0
     },
     "Evan Bouchard": {
-      "gp": 3,
+      "gp": 1,
       "g": 1,
       "a": 3
     },
