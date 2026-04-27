@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T03:18:09.134Z",
+  "lastUpdated": "2026-04-27T03:20:11.732Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -157,8 +157,8 @@
       "a": 1
     },
     "Dylan Cozens": {
-      "gp": 4,
-      "g": 2,
+      "gp": 0,
+      "g": 0,
       "a": 0
     },
     "Sidney Crosby": {
@@ -212,9 +212,9 @@
       "a": 3
     },
     "Mattias Ekholm": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Erik Karlsson": {
       "gp": 4,
@@ -292,7 +292,7 @@
       "a": 1
     },
     "Vladimir Tarasenko": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
       "a": 0
     },
@@ -302,7 +302,7 @@
       "a": 0
     },
     "Josh Doan": {
-      "gp": 4,
+      "gp": 1,
       "g": 1,
       "a": 1
     },
@@ -317,7 +317,7 @@
       "a": 0
     },
     "Nazem Kadri": {
-      "gp": 4,
+      "gp": 1,
       "g": 0,
       "a": 2
     },
@@ -357,7 +357,7 @@
       "a": 3
     },
     "Jason Zucker": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
       "a": 0
     },
@@ -427,7 +427,7 @@
       "a": 0
     },
     "Corey Perry": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
