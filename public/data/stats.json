@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T04:26:09.749Z",
+  "lastUpdated": "2026-04-27T04:28:12.007Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -142,7 +142,7 @@
       "a": 3
     },
     "Cale Makar": {
-      "gp": 1,
+      "gp": 4,
       "g": 2,
       "a": 0
     },
@@ -192,9 +192,9 @@
       "a": 2
     },
     "Ryan Nugent-Hopkins": {
-      "gp": 1,
+      "gp": 3,
       "g": 2,
-      "a": 0
+      "a": 1
     },
     "David Pastrnak": {
       "gp": 4,
@@ -212,9 +212,9 @@
       "a": 3
     },
     "Mattias Ekholm": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Erik Karlsson": {
       "gp": 4,
@@ -302,7 +302,7 @@
       "a": 0
     },
     "Josh Doan": {
-      "gp": 1,
+      "gp": 4,
       "g": 1,
       "a": 1
     },
@@ -317,7 +317,7 @@
       "a": 0
     },
     "Nazem Kadri": {
-      "gp": 1,
+      "gp": 4,
       "g": 0,
       "a": 2
     },
@@ -337,7 +337,7 @@
       "a": 1
     },
     "Valeri Nichushkin": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -402,7 +402,7 @@
       "a": 1
     },
     "James Hagens": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -417,8 +417,8 @@
       "a": 1
     },
     "Connor McDavid": {
-      "gp": 1,
-      "g": 0,
+      "gp": 3,
+      "g": 1,
       "a": 3
     },
     "Josh Norris": {
