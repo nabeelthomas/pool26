@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-04-27T10:40:13.833Z",
+  "lastUpdated": "2026-04-27T10:42:09.719Z",
   "players": {
     "Quinton Byfield": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Cole Caufield": {
       "gp": 4,
@@ -132,7 +132,7 @@
       "a": 1
     },
     "Thomas Harley": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -167,7 +167,7 @@
       "a": 2
     },
     "Pavel Dorofeyev": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
@@ -222,9 +222,9 @@
       "a": 2
     },
     "Charlie McAvoy": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Ivan Barbashev": {
       "gp": 3,
@@ -252,9 +252,9 @@
       "a": 2
     },
     "Clayton Keller": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Travis Konecny": {
       "gp": 4,
@@ -297,7 +297,7 @@
       "a": 0
     },
     "Shayne Gostisbehere": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
       "a": 0
     },
@@ -422,12 +422,12 @@
       "a": 3
     },
     "Josh Norris": {
-      "gp": 0,
+      "gp": 2,
       "g": 0,
       "a": 0
     },
     "Corey Perry": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
       "a": 0
     },
