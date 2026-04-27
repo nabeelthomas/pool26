@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T07:02:10.724Z",
+  "lastUpdated": "2026-04-27T07:04:13.984Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -22,7 +22,7 @@
       "a": 1
     },
     "Oliver Kapanen": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -252,9 +252,9 @@
       "a": 2
     },
     "Clayton Keller": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Travis Konecny": {
       "gp": 4,
@@ -282,9 +282,9 @@
       "a": 2
     },
     "Bryan Rust": {
-      "gp": 4,
-      "g": 1,
-      "a": 1
+      "gp": 0,
+      "g": 0,
+      "a": 0
     },
     "Nick Schmaltz": {
       "gp": 3,
@@ -297,7 +297,7 @@
       "a": 0
     },
     "Shayne Gostisbehere": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
       "a": 0
     },
@@ -427,7 +427,7 @@
       "a": 0
     },
     "Corey Perry": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -437,7 +437,7 @@
       "a": 1
     },
     "Andrei Svechnikov": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
