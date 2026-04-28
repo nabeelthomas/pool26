@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T00:04:11.300Z",
+  "generatedAt": "2026-04-28T00:06:10.100Z",
   "games": [
     {
       "id": 2025030145,
@@ -7,7 +7,7 @@
       "home": "PIT",
       "awayScore": 0,
       "homeScore": 1,
-      "period": "1st",
+      "period": "2nd",
       "startUTC": "2026-04-27T23:00:00Z",
       "status": "live"
     },
