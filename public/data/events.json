@@ -2,6 +2,20 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Jack Eichel",
+      "team": "VGK",
+      "time": "9:30 PM ET",
+      "pool": "Nabeel"
+    },
+    {
+      "type": "GOAL",
+      "player": "Shea Theodore",
+      "team": "VGK",
+      "time": "9:30 PM ET",
+      "pool": "Nabeel"
+    },
+    {
+      "type": "ASSIST",
       "player": "Nick Schmaltz",
       "team": "UTA",
       "time": "9:30 PM ET",
@@ -55,13 +69,6 @@
       "team": "PIT",
       "time": "7:00 PM ET",
       "pool": "Reiner"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Jack Eichel",
-      "team": "VGK",
-      "time": "9:30 PM ET",
-      "pool": "Nabeel"
     },
     {
       "type": "ASSIST",
@@ -412,13 +419,6 @@
       "team": "EDM",
       "time": "10:00 PM ET",
       "pool": "Will"
-    },
-    {
-      "type": "GOAL",
-      "player": "Jack Eichel",
-      "team": "VGK",
-      "time": "9:30 PM ET",
-      "pool": "Nabeel"
     }
   ]
 }
