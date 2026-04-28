@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-28T01:48:12.383Z",
+  "lastUpdated": "2026-04-28T01:50:12.201Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -32,9 +32,9 @@
       "a": 5
     },
     "Adrian Kempe": {
-      "gp": 0,
-      "g": 0,
-      "a": 0
+      "gp": 4,
+      "g": 1,
+      "a": 1
     },
     "Artemi Panarin": {
       "gp": 4,
@@ -222,9 +222,9 @@
       "a": 2
     },
     "Charlie McAvoy": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Ivan Barbashev": {
       "gp": 3,
@@ -282,9 +282,9 @@
       "a": 2
     },
     "Bryan Rust": {
-      "gp": 0,
-      "g": 0,
-      "a": 0
+      "gp": 4,
+      "g": 1,
+      "a": 1
     },
     "Nick Schmaltz": {
       "gp": 3,
@@ -297,14 +297,14 @@
       "a": 0
     },
     "Shayne Gostisbehere": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
       "a": 0
     },
     "Josh Doan": {
-      "gp": 0,
-      "g": 0,
-      "a": 0
+      "gp": 4,
+      "g": 1,
+      "a": 1
     },
     "Cutter Gauthier": {
       "gp": 4,
@@ -447,9 +447,9 @@
       "a": 3
     },
     "Darren Raddysh": {
-      "gp": 0,
-      "g": 0,
-      "a": 0
+      "gp": 4,
+      "g": 1,
+      "a": 1
     }
   }
 }
