@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-28T05:32:10.786Z",
+  "lastUpdated": "2026-04-28T05:34:10.190Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -32,9 +32,9 @@
       "a": 5
     },
     "Adrian Kempe": {
-      "gp": 4,
-      "g": 1,
-      "a": 1
+      "gp": 0,
+      "g": 0,
+      "a": 0
     },
     "Artemi Panarin": {
       "gp": 4,
@@ -167,7 +167,7 @@
       "a": 4
     },
     "Pavel Dorofeyev": {
-      "gp": 1,
+      "gp": 3,
       "g": 1,
       "a": 0
     },
@@ -187,9 +187,9 @@
       "a": 3
     },
     "Martin Necas": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Ryan Nugent-Hopkins": {
       "gp": 4,
@@ -427,7 +427,7 @@
       "a": 0
     },
     "Corey Perry": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
