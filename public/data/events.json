@@ -2,20 +2,6 @@
   "events": [
     {
       "type": "ASSIST",
-      "player": "Jack Eichel",
-      "team": "VGK",
-      "time": "9:30 PM ET",
-      "pool": "Nabeel"
-    },
-    {
-      "type": "GOAL",
-      "player": "Pavel Dorofeyev",
-      "team": "VGK",
-      "time": "9:30 PM ET",
-      "pool": "Reiner"
-    },
-    {
-      "type": "ASSIST",
       "player": "Nick Schmaltz",
       "team": "UTA",
       "time": "9:30 PM ET",
@@ -57,11 +43,25 @@
       "pool": "Paddy"
     },
     {
+      "type": "GOAL",
+      "player": "Pavel Dorofeyev",
+      "team": "VGK",
+      "time": "9:30 PM ET",
+      "pool": "Reiner"
+    },
+    {
       "type": "ASSIST",
       "player": "Sidney Crosby",
       "team": "PIT",
       "time": "7:00 PM ET",
       "pool": "Reiner"
+    },
+    {
+      "type": "ASSIST",
+      "player": "Jack Eichel",
+      "team": "VGK",
+      "time": "9:30 PM ET",
+      "pool": "Nabeel"
     },
     {
       "type": "ASSIST",
