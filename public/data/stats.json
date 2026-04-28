@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-28T05:16:10.795Z",
+  "lastUpdated": "2026-04-28T05:18:10.382Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -142,8 +142,8 @@
       "a": 3
     },
     "Cale Makar": {
-      "gp": 0,
-      "g": 0,
+      "gp": 4,
+      "g": 2,
       "a": 0
     },
     "Shea Theodore": {
@@ -252,9 +252,9 @@
       "a": 2
     },
     "Clayton Keller": {
-      "gp": 1,
+      "gp": 3,
       "g": 1,
-      "a": 0
+      "a": 2
     },
     "Travis Konecny": {
       "gp": 5,
