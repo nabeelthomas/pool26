@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-28T00:30:16.233Z",
+  "lastUpdated": "2026-04-28T00:40:12.824Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -142,8 +142,8 @@
       "a": 3
     },
     "Cale Makar": {
-      "gp": 4,
-      "g": 2,
+      "gp": 0,
+      "g": 0,
       "a": 0
     },
     "Shea Theodore": {
@@ -157,8 +157,8 @@
       "a": 1
     },
     "Dylan Cozens": {
-      "gp": 4,
-      "g": 2,
+      "gp": 0,
+      "g": 0,
       "a": 0
     },
     "Sidney Crosby": {
@@ -182,9 +182,9 @@
       "a": 1
     },
     "Mitch Marner": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Martin Necas": {
       "gp": 4,
@@ -212,9 +212,9 @@
       "a": 3
     },
     "Mattias Ekholm": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Erik Karlsson": {
       "gp": 4,
@@ -259,7 +259,7 @@
     "Travis Konecny": {
       "gp": 4,
       "g": 1,
-      "a": 2
+      "a": 3
     },
     "Nikita Kucherov": {
       "gp": 4,
@@ -317,9 +317,9 @@
       "a": 0
     },
     "Nazem Kadri": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Gabriel Landeskog": {
       "gp": 4,
