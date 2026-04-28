@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-28T04:24:12.741Z",
+  "lastUpdated": "2026-04-28T04:26:13.914Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -187,9 +187,9 @@
       "a": 3
     },
     "Martin Necas": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Ryan Nugent-Hopkins": {
       "gp": 4,
@@ -222,9 +222,9 @@
       "a": 2
     },
     "Charlie McAvoy": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Ivan Barbashev": {
       "gp": 3,
@@ -302,9 +302,9 @@
       "a": 0
     },
     "Josh Doan": {
-      "gp": 0,
-      "g": 0,
-      "a": 0
+      "gp": 4,
+      "g": 1,
+      "a": 1
     },
     "Cutter Gauthier": {
       "gp": 4,
@@ -382,9 +382,9 @@
       "a": 2
     },
     "Anthony Cirelli": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Leon Draisaitl": {
       "gp": 4,
