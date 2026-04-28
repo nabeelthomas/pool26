@@ -2,6 +2,13 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "time": "7:00 PM ET",
+      "pool": "Reiner"
+    },
+    {
+      "type": "ASSIST",
       "player": "Connor McDavid",
       "team": "EDM",
       "time": "9:30 PM ET",
@@ -412,13 +419,6 @@
       "team": "COL",
       "time": "10:00 PM ET",
       "pool": "Nabeel"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Artemi Panarin",
-      "team": "LAK",
-      "time": "10:00 PM ET",
-      "pool": "Will"
     }
   ]
 }
