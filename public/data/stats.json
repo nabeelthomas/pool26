@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-28T23:44:10.625Z",
+  "lastUpdated": "2026-04-28T23:46:10.676Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -107,9 +107,9 @@
       "a": 0
     },
     "Seth Jarvis": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Artturi Lehkonen": {
       "gp": 4,
@@ -122,8 +122,8 @@
       "a": 0
     },
     "Brayden Point": {
-      "gp": 4,
-      "g": 1,
+      "gp": 0,
+      "g": 0,
       "a": 0
     },
     "Logan Stankoven": {
@@ -132,7 +132,7 @@
       "a": 1
     },
     "Thomas Harley": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -147,8 +147,8 @@
       "a": 0
     },
     "Shea Theodore": {
-      "gp": 4,
-      "g": 1,
+      "gp": 0,
+      "g": 0,
       "a": 0
     },
     "Drake Batherson": {
@@ -297,7 +297,7 @@
       "a": 0
     },
     "Shayne Gostisbehere": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
       "a": 0
     },
@@ -337,7 +337,7 @@
       "a": 1
     },
     "Valeri Nichushkin": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
       "a": 0
     },
@@ -402,7 +402,7 @@
       "a": 1
     },
     "James Hagens": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
@@ -447,9 +447,9 @@
       "a": 3
     },
     "Darren Raddysh": {
-      "gp": 0,
-      "g": 0,
-      "a": 0
+      "gp": 4,
+      "g": 1,
+      "a": 1
     }
   }
 }
