@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "ASSIST",
+      "player": "Dylan Guenther",
+      "team": "UTA",
+      "time": "9:30 PM ET",
+      "pool": "Paddy"
+    },
+    {
       "type": "GOAL",
       "player": "Nick Schmaltz",
       "team": "UTA",
@@ -412,13 +419,6 @@
       "team": "UTA",
       "time": "9:30 PM ET",
       "pool": "Paddy"
-    },
-    {
-      "type": "GOAL",
-      "player": "Lane Hutson",
-      "team": "MTL",
-      "time": "7:00 PM ET",
-      "pool": "Will"
     }
   ]
 }
