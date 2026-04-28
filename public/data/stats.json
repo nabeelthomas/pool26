@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-28T05:40:14.578Z",
+  "lastUpdated": "2026-04-28T05:42:10.169Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -12,9 +12,9 @@
       "a": 3
     },
     "Ivan Demidov": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
-      "a": 1
+      "a": 0
     },
     "Kasperi Kapanen": {
       "gp": 4,
@@ -182,7 +182,7 @@
       "a": 1
     },
     "Mitch Marner": {
-      "gp": 3,
+      "gp": 1,
       "g": 0,
       "a": 3
     },
@@ -297,7 +297,7 @@
       "a": 0
     },
     "Shayne Gostisbehere": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
