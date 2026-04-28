@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-28T04:50:15.405Z",
+  "lastUpdated": "2026-04-28T04:58:09.721Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -22,7 +22,7 @@
       "a": 1
     },
     "Oliver Kapanen": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -117,8 +117,8 @@
       "a": 2
     },
     "Brock Nelson": {
-      "gp": 4,
-      "g": 1,
+      "gp": 0,
+      "g": 0,
       "a": 0
     },
     "Brayden Point": {
@@ -167,7 +167,7 @@
       "a": 4
     },
     "Pavel Dorofeyev": {
-      "gp": 3,
+      "gp": 1,
       "g": 1,
       "a": 0
     },
@@ -297,7 +297,7 @@
       "a": 0
     },
     "Shayne Gostisbehere": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
