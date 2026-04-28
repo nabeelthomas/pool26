@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "GOAL",
+      "player": "Nick Schmaltz",
+      "team": "UTA",
+      "time": "9:30 PM ET",
+      "pool": "Paddy"
+    },
+    {
       "type": "ASSIST",
       "player": "Mitch Marner",
       "team": "VGK",
@@ -412,13 +419,6 @@
       "team": "MTL",
       "time": "7:00 PM ET",
       "pool": "Will"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Jake Guentzel",
-      "team": "TBL",
-      "time": "7:00 PM ET",
-      "pool": "Nabeel"
     }
   ]
 }
