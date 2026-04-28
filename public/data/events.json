@@ -2,6 +2,20 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Ivan Barbashev",
+      "team": "VGK",
+      "time": "9:30 PM ET",
+      "pool": "Paddy"
+    },
+    {
+      "type": "GOAL",
+      "player": "Pavel Dorofeyev",
+      "team": "VGK",
+      "time": "9:30 PM ET",
+      "pool": "Reiner"
+    },
+    {
+      "type": "ASSIST",
       "player": "Sidney Crosby",
       "team": "PIT",
       "time": "7:00 PM ET",
@@ -358,13 +372,6 @@
       "pool": "Will"
     },
     {
-      "type": "ASSIST",
-      "player": "Ivan Barbashev",
-      "team": "VGK",
-      "time": "9:30 PM ET",
-      "pool": "Paddy"
-    },
-    {
       "type": "GOAL",
       "player": "Jack Eichel",
       "team": "VGK",
@@ -411,13 +418,6 @@
       "player": "Brayden Point",
       "team": "TBL",
       "time": "7:00 PM ET",
-      "pool": "Nabeel"
-    },
-    {
-      "type": "GOAL",
-      "player": "Brock Nelson",
-      "team": "COL",
-      "time": "10:00 PM ET",
       "pool": "Nabeel"
     }
   ]
