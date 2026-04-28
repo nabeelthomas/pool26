@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-28T05:06:09.849Z",
+  "lastUpdated": "2026-04-28T05:08:13.682Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -47,9 +47,9 @@
       "a": 0
     },
     "Tim Stutzle": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
-      "a": 0
+      "a": 1
     },
     "Brady Tkachuk": {
       "gp": 4,
@@ -94,7 +94,7 @@
     "Jack Eichel": {
       "gp": 3,
       "g": 1,
-      "a": 4
+      "a": 5
     },
     "Jake Guentzel": {
       "gp": 4,
@@ -122,8 +122,8 @@
       "a": 0
     },
     "Brayden Point": {
-      "gp": 4,
-      "g": 1,
+      "gp": 0,
+      "g": 0,
       "a": 0
     },
     "Logan Stankoven": {
@@ -168,7 +168,7 @@
     },
     "Pavel Dorofeyev": {
       "gp": 3,
-      "g": 1,
+      "g": 2,
       "a": 0
     },
     "Joel Eriksson Ek": {
