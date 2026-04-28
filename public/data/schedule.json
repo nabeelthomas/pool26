@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T02:48:09.674Z",
+  "generatedAt": "2026-04-28T02:50:16.152Z",
   "games": [
     {
       "id": 2025030145,
@@ -17,7 +17,7 @@
       "home": "UTA",
       "awayScore": 2,
       "homeScore": 0,
-      "period": "1st",
+      "period": "2nd",
       "startUTC": "2026-04-28T01:30:00Z",
       "status": "live"
     }
