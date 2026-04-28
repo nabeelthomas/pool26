@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-28T23:08:12.223Z",
+  "lastUpdated": "2026-04-28T23:10:15.269Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -117,8 +117,8 @@
       "a": 2
     },
     "Brock Nelson": {
-      "gp": 4,
-      "g": 1,
+      "gp": 0,
+      "g": 0,
       "a": 0
     },
     "Brayden Point": {
@@ -187,9 +187,9 @@
       "a": 3
     },
     "Martin Necas": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Ryan Nugent-Hopkins": {
       "gp": 4,
