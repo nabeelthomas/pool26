@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-04-29T03:46:10.286Z",
+  "lastUpdated": "2026-04-29T03:48:11.578Z",
   "players": {
     "Quinton Byfield": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Cole Caufield": {
       "gp": 4,
@@ -142,8 +142,8 @@
       "a": 4
     },
     "Cale Makar": {
-      "gp": 0,
-      "g": 0,
+      "gp": 4,
+      "g": 2,
       "a": 0
     },
     "Shea Theodore": {
@@ -157,8 +157,8 @@
       "a": 1
     },
     "Dylan Cozens": {
-      "gp": 0,
-      "g": 0,
+      "gp": 4,
+      "g": 2,
       "a": 0
     },
     "Sidney Crosby": {
@@ -212,9 +212,9 @@
       "a": 3
     },
     "Mattias Ekholm": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Erik Karlsson": {
       "gp": 5,
@@ -282,9 +282,9 @@
       "a": 3
     },
     "Bryan Rust": {
-      "gp": 0,
-      "g": 0,
-      "a": 0
+      "gp": 5,
+      "g": 1,
+      "a": 1
     },
     "Nick Schmaltz": {
       "gp": 4,
@@ -297,7 +297,7 @@
       "a": 1
     },
     "Shayne Gostisbehere": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -367,9 +367,9 @@
       "a": 2
     },
     "Rasmus Dahlin": {
-      "gp": 1,
+      "gp": 5,
       "g": 1,
-      "a": 0
+      "a": 1
     },
     "Devon Toews": {
       "gp": 4,
@@ -407,7 +407,7 @@
       "a": 0
     },
     "Zach Hyman": {
-      "gp": 1,
+      "gp": 4,
       "g": 2,
       "a": 0
     },
@@ -422,12 +422,12 @@
       "a": 5
     },
     "Josh Norris": {
-      "gp": 0,
+      "gp": 2,
       "g": 0,
       "a": 0
     },
     "Corey Perry": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
