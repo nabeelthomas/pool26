@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-04-29T09:28:11.642Z",
+  "lastUpdated": "2026-04-29T09:30:21.128Z",
   "players": {
     "Quinton Byfield": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Cole Caufield": {
       "gp": 4,
@@ -32,9 +32,9 @@
       "a": 7
     },
     "Adrian Kempe": {
-      "gp": 0,
-      "g": 0,
-      "a": 0
+      "gp": 4,
+      "g": 1,
+      "a": 1
     },
     "Artemi Panarin": {
       "gp": 4,
@@ -52,7 +52,7 @@
       "a": 1
     },
     "Brady Tkachuk": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
       "a": 0
     },
@@ -107,9 +107,9 @@
       "a": 0
     },
     "Seth Jarvis": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Artturi Lehkonen": {
       "gp": 4,
@@ -212,9 +212,9 @@
       "a": 3
     },
     "Mattias Ekholm": {
-      "gp": 5,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Erik Karlsson": {
       "gp": 5,
@@ -222,9 +222,9 @@
       "a": 2
     },
     "Charlie McAvoy": {
-      "gp": 0,
+      "gp": 5,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Ivan Barbashev": {
       "gp": 4,
@@ -302,9 +302,9 @@
       "a": 0
     },
     "Josh Doan": {
-      "gp": 5,
-      "g": 1,
-      "a": 1
+      "gp": 0,
+      "g": 0,
+      "a": 0
     },
     "Cutter Gauthier": {
       "gp": 5,
@@ -317,9 +317,9 @@
       "a": 0
     },
     "Nazem Kadri": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Gabriel Landeskog": {
       "gp": 4,
@@ -337,7 +337,7 @@
       "a": 1
     },
     "Valeri Nichushkin": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
       "a": 0
     },
@@ -402,7 +402,7 @@
       "a": 1
     },
     "James Hagens": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
@@ -447,9 +447,9 @@
       "a": 6
     },
     "Darren Raddysh": {
-      "gp": 4,
-      "g": 1,
-      "a": 1
+      "gp": 0,
+      "g": 0,
+      "a": 0
     }
   }
 }
