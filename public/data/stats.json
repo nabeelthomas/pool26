@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-29T03:50:13.158Z",
+  "lastUpdated": "2026-04-29T03:52:10.155Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -122,8 +122,8 @@
       "a": 0
     },
     "Brayden Point": {
-      "gp": 4,
-      "g": 1,
+      "gp": 0,
+      "g": 0,
       "a": 0
     },
     "Logan Stankoven": {
@@ -147,8 +147,8 @@
       "a": 0
     },
     "Shea Theodore": {
-      "gp": 4,
-      "g": 1,
+      "gp": 0,
+      "g": 0,
       "a": 0
     },
     "Drake Batherson": {
@@ -167,8 +167,8 @@
       "a": 4
     },
     "Pavel Dorofeyev": {
-      "gp": 0,
-      "g": 0,
+      "gp": 4,
+      "g": 1,
       "a": 0
     },
     "Joel Eriksson Ek": {
@@ -187,9 +187,9 @@
       "a": 3
     },
     "Martin Necas": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Ryan Nugent-Hopkins": {
       "gp": 4,
@@ -297,7 +297,7 @@
       "a": 1
     },
     "Shayne Gostisbehere": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -447,9 +447,9 @@
       "a": 6
     },
     "Darren Raddysh": {
-      "gp": 4,
-      "g": 1,
-      "a": 1
+      "gp": 0,
+      "g": 0,
+      "a": 0
     }
   }
 }
