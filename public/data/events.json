@@ -2,6 +2,20 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Kirill Kaprizov",
+      "team": "MIN",
+      "time": "8:00 PM ET",
+      "pool": "Will"
+    },
+    {
+      "type": "GOAL",
+      "player": "Mats Zuccarello",
+      "team": "MIN",
+      "time": "8:00 PM ET",
+      "pool": "Reiner"
+    },
+    {
+      "type": "ASSIST",
       "player": "Jason Zucker",
       "team": "BUF",
       "time": "7:30 PM ET",
@@ -402,20 +416,6 @@
     {
       "type": "GOAL",
       "player": "Connor McDavid",
-      "team": "EDM",
-      "time": "10:00 PM ET",
-      "pool": "Cam"
-    },
-    {
-      "type": "GOAL",
-      "player": "Leo Carlsson",
-      "team": "ANA",
-      "time": "10:00 PM ET",
-      "pool": "Paddy"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Evan Bouchard",
       "team": "EDM",
       "time": "10:00 PM ET",
       "pool": "Cam"
