@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-29T01:12:15.383Z",
+  "lastUpdated": "2026-04-29T01:14:09.844Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -52,7 +52,7 @@
       "a": 1
     },
     "Brady Tkachuk": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -222,9 +222,9 @@
       "a": 2
     },
     "Charlie McAvoy": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Ivan Barbashev": {
       "gp": 4,
@@ -302,9 +302,9 @@
       "a": 0
     },
     "Josh Doan": {
-      "gp": 0,
-      "g": 0,
-      "a": 0
+      "gp": 4,
+      "g": 1,
+      "a": 1
     },
     "Cutter Gauthier": {
       "gp": 4,
