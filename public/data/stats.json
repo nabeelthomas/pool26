@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-29T21:26:19.686Z",
+  "lastUpdated": "2026-04-29T21:30:20.134Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -107,9 +107,9 @@
       "a": 0
     },
     "Seth Jarvis": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Artturi Lehkonen": {
       "gp": 4,
@@ -212,9 +212,9 @@
       "a": 3
     },
     "Mattias Ekholm": {
-      "gp": 5,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Erik Karlsson": {
       "gp": 5,
@@ -222,9 +222,9 @@
       "a": 2
     },
     "Charlie McAvoy": {
-      "gp": 5,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Ivan Barbashev": {
       "gp": 4,
@@ -282,9 +282,9 @@
       "a": 3
     },
     "Bryan Rust": {
-      "gp": 5,
-      "g": 1,
-      "a": 1
+      "gp": 0,
+      "g": 0,
+      "a": 0
     },
     "Nick Schmaltz": {
       "gp": 4,
@@ -447,9 +447,9 @@
       "a": 6
     },
     "Darren Raddysh": {
-      "gp": 4,
-      "g": 1,
-      "a": 1
+      "gp": 0,
+      "g": 0,
+      "a": 0
     }
   }
 }
