@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-29T00:44:09.797Z",
+  "lastUpdated": "2026-04-29T00:46:14.921Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -32,9 +32,9 @@
       "a": 6
     },
     "Adrian Kempe": {
-      "gp": 4,
-      "g": 1,
-      "a": 1
+      "gp": 0,
+      "g": 0,
+      "a": 0
     },
     "Artemi Panarin": {
       "gp": 4,
@@ -157,8 +157,8 @@
       "a": 1
     },
     "Dylan Cozens": {
-      "gp": 4,
-      "g": 2,
+      "gp": 0,
+      "g": 0,
       "a": 0
     },
     "Sidney Crosby": {
@@ -187,9 +187,9 @@
       "a": 3
     },
     "Martin Necas": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Ryan Nugent-Hopkins": {
       "gp": 4,
@@ -282,9 +282,9 @@
       "a": 3
     },
     "Bryan Rust": {
-      "gp": 5,
-      "g": 1,
-      "a": 1
+      "gp": 0,
+      "g": 0,
+      "a": 0
     },
     "Nick Schmaltz": {
       "gp": 4,
@@ -317,9 +317,9 @@
       "a": 0
     },
     "Nazem Kadri": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Gabriel Landeskog": {
       "gp": 4,
@@ -337,7 +337,7 @@
       "a": 1
     },
     "Valeri Nichushkin": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
       "a": 0
     },
@@ -378,7 +378,7 @@
     },
     "Matt Boldy": {
       "gp": 4,
-      "g": 3,
+      "g": 4,
       "a": 2
     },
     "Anthony Cirelli": {
@@ -402,7 +402,7 @@
       "a": 1
     },
     "James Hagens": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
@@ -427,7 +427,7 @@
       "a": 0
     },
     "Corey Perry": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
       "a": 0
     },

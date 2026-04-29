@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "GOAL",
+      "player": "Matt Boldy",
+      "team": "MIN",
+      "time": "8:00 PM ET",
+      "pool": "Cam"
+    },
+    {
       "type": "ASSIST",
       "player": "Jason Robertson",
       "team": "DAL",
@@ -412,13 +419,6 @@
       "team": "OTT",
       "time": "3:00 PM ET",
       "pool": "Will"
-    },
-    {
-      "type": "GOAL",
-      "player": "Drake Batherson",
-      "team": "OTT",
-      "time": "3:00 PM ET",
-      "pool": "Reiner"
     }
   ]
 }
