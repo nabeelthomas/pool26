@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-29T09:44:14.009Z",
+  "lastUpdated": "2026-04-29T09:46:12.470Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -47,9 +47,9 @@
       "a": 0
     },
     "Tim Stutzle": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
-      "a": 1
+      "a": 0
     },
     "Brady Tkachuk": {
       "gp": 4,
@@ -157,8 +157,8 @@
       "a": 1
     },
     "Dylan Cozens": {
-      "gp": 0,
-      "g": 0,
+      "gp": 4,
+      "g": 2,
       "a": 0
     },
     "Sidney Crosby": {
@@ -282,9 +282,9 @@
       "a": 3
     },
     "Bryan Rust": {
-      "gp": 0,
-      "g": 0,
-      "a": 0
+      "gp": 5,
+      "g": 1,
+      "a": 1
     },
     "Nick Schmaltz": {
       "gp": 4,
@@ -367,9 +367,9 @@
       "a": 2
     },
     "Rasmus Dahlin": {
-      "gp": 5,
+      "gp": 1,
       "g": 1,
-      "a": 1
+      "a": 0
     },
     "Devon Toews": {
       "gp": 4,
@@ -392,9 +392,9 @@
       "a": 6
     },
     "Nikolaj Ehlers": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
-      "a": 1
+      "a": 0
     },
     "Brandon Hagel": {
       "gp": 4,
@@ -407,7 +407,7 @@
       "a": 0
     },
     "Zach Hyman": {
-      "gp": 5,
+      "gp": 1,
       "g": 2,
       "a": 0
     },
