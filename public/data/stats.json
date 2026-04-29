@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-29T05:44:11.381Z",
+  "lastUpdated": "2026-04-29T05:46:12.766Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -47,9 +47,9 @@
       "a": 0
     },
     "Tim Stutzle": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
-      "a": 1
+      "a": 0
     },
     "Brady Tkachuk": {
       "gp": 4,
@@ -132,7 +132,7 @@
       "a": 1
     },
     "Thomas Harley": {
-      "gp": 5,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -147,8 +147,8 @@
       "a": 0
     },
     "Shea Theodore": {
-      "gp": 4,
-      "g": 1,
+      "gp": 0,
+      "g": 0,
       "a": 0
     },
     "Drake Batherson": {
@@ -167,8 +167,8 @@
       "a": 4
     },
     "Pavel Dorofeyev": {
-      "gp": 0,
-      "g": 0,
+      "gp": 4,
+      "g": 1,
       "a": 0
     },
     "Joel Eriksson Ek": {
@@ -222,9 +222,9 @@
       "a": 2
     },
     "Charlie McAvoy": {
-      "gp": 0,
+      "gp": 5,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Ivan Barbashev": {
       "gp": 4,
@@ -302,9 +302,9 @@
       "a": 0
     },
     "Josh Doan": {
-      "gp": 0,
-      "g": 0,
-      "a": 0
+      "gp": 5,
+      "g": 1,
+      "a": 1
     },
     "Cutter Gauthier": {
       "gp": 5,
@@ -317,9 +317,9 @@
       "a": 0
     },
     "Nazem Kadri": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Gabriel Landeskog": {
       "gp": 4,
@@ -367,9 +367,9 @@
       "a": 2
     },
     "Rasmus Dahlin": {
-      "gp": 5,
+      "gp": 1,
       "g": 1,
-      "a": 1
+      "a": 0
     },
     "Devon Toews": {
       "gp": 4,
@@ -407,7 +407,7 @@
       "a": 0
     },
     "Zach Hyman": {
-      "gp": 5,
+      "gp": 1,
       "g": 2,
       "a": 0
     },
