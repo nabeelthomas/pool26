@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-29T21:44:19.020Z",
+  "lastUpdated": "2026-04-29T21:48:10.292Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -212,9 +212,9 @@
       "a": 3
     },
     "Mattias Ekholm": {
-      "gp": 5,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Erik Karlsson": {
       "gp": 5,
@@ -297,7 +297,7 @@
       "a": 1
     },
     "Shayne Gostisbehere": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -367,9 +367,9 @@
       "a": 2
     },
     "Rasmus Dahlin": {
-      "gp": 5,
-      "g": 1,
-      "a": 1
+      "gp": 0,
+      "g": 0,
+      "a": 0
     },
     "Devon Toews": {
       "gp": 4,
@@ -382,9 +382,9 @@
       "a": 3
     },
     "Anthony Cirelli": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Leon Draisaitl": {
       "gp": 5,
