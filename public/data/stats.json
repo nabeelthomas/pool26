@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-29T00:50:12.544Z",
+  "lastUpdated": "2026-04-29T00:52:11.829Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -12,9 +12,9 @@
       "a": 3
     },
     "Ivan Demidov": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
-      "a": 1
+      "a": 0
     },
     "Kasperi Kapanen": {
       "gp": 4,
@@ -107,9 +107,9 @@
       "a": 0
     },
     "Seth Jarvis": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Artturi Lehkonen": {
       "gp": 4,
@@ -337,7 +337,7 @@
       "a": 1
     },
     "Valeri Nichushkin": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
