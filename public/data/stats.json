@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-29T09:34:11.260Z",
+  "lastUpdated": "2026-04-29T09:36:17.632Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -122,8 +122,8 @@
       "a": 0
     },
     "Brayden Point": {
-      "gp": 4,
-      "g": 1,
+      "gp": 0,
+      "g": 0,
       "a": 0
     },
     "Logan Stankoven": {
@@ -142,13 +142,13 @@
       "a": 4
     },
     "Cale Makar": {
-      "gp": 0,
-      "g": 0,
+      "gp": 4,
+      "g": 2,
       "a": 0
     },
     "Shea Theodore": {
-      "gp": 4,
-      "g": 1,
+      "gp": 0,
+      "g": 0,
       "a": 0
     },
     "Drake Batherson": {
