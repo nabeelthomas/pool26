@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-04-29T04:08:24.340Z",
+  "lastUpdated": "2026-04-29T04:10:15.300Z",
   "players": {
     "Quinton Byfield": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Cole Caufield": {
       "gp": 4,
@@ -157,8 +157,8 @@
       "a": 1
     },
     "Dylan Cozens": {
-      "gp": 0,
-      "g": 0,
+      "gp": 4,
+      "g": 2,
       "a": 0
     },
     "Sidney Crosby": {
@@ -367,9 +367,9 @@
       "a": 2
     },
     "Rasmus Dahlin": {
-      "gp": 1,
+      "gp": 5,
       "g": 1,
-      "a": 0
+      "a": 1
     },
     "Devon Toews": {
       "gp": 4,
