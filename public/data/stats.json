@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-04-29T06:50:12.973Z",
+  "lastUpdated": "2026-04-29T06:52:10.013Z",
   "players": {
     "Quinton Byfield": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Cole Caufield": {
       "gp": 4,
@@ -12,9 +12,9 @@
       "a": 3
     },
     "Ivan Demidov": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
-      "a": 1
+      "a": 0
     },
     "Kasperi Kapanen": {
       "gp": 5,
@@ -167,8 +167,8 @@
       "a": 4
     },
     "Pavel Dorofeyev": {
-      "gp": 4,
-      "g": 1,
+      "gp": 0,
+      "g": 0,
       "a": 0
     },
     "Joel Eriksson Ek": {
@@ -337,7 +337,7 @@
       "a": 1
     },
     "Valeri Nichushkin": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -402,7 +402,7 @@
       "a": 1
     },
     "James Hagens": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -437,7 +437,7 @@
       "a": 1
     },
     "Andrei Svechnikov": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
