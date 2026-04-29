@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-29T05:48:13.647Z",
+  "lastUpdated": "2026-04-29T05:50:14.601Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -32,9 +32,9 @@
       "a": 7
     },
     "Adrian Kempe": {
-      "gp": 0,
-      "g": 0,
-      "a": 0
+      "gp": 4,
+      "g": 1,
+      "a": 1
     },
     "Artemi Panarin": {
       "gp": 4,
@@ -122,8 +122,8 @@
       "a": 0
     },
     "Brayden Point": {
-      "gp": 0,
-      "g": 0,
+      "gp": 4,
+      "g": 1,
       "a": 0
     },
     "Logan Stankoven": {
@@ -142,8 +142,8 @@
       "a": 4
     },
     "Cale Makar": {
-      "gp": 4,
-      "g": 2,
+      "gp": 0,
+      "g": 0,
       "a": 0
     },
     "Shea Theodore": {
@@ -157,8 +157,8 @@
       "a": 1
     },
     "Dylan Cozens": {
-      "gp": 4,
-      "g": 2,
+      "gp": 0,
+      "g": 0,
       "a": 0
     },
     "Sidney Crosby": {
@@ -177,9 +177,9 @@
       "a": 2
     },
     "Tomas Hertl": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
-      "a": 1
+      "a": 0
     },
     "Mitch Marner": {
       "gp": 4,
@@ -222,9 +222,9 @@
       "a": 2
     },
     "Charlie McAvoy": {
-      "gp": 0,
+      "gp": 5,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Ivan Barbashev": {
       "gp": 4,
@@ -427,7 +427,7 @@
       "a": 0
     },
     "Corey Perry": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -447,9 +447,9 @@
       "a": 6
     },
     "Darren Raddysh": {
-      "gp": 0,
-      "g": 0,
-      "a": 0
+      "gp": 4,
+      "g": 1,
+      "a": 1
     }
   }
 }
