@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-29T05:52:10.492Z",
+  "lastUpdated": "2026-04-29T05:54:11.632Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -117,13 +117,13 @@
       "a": 2
     },
     "Brock Nelson": {
-      "gp": 0,
-      "g": 0,
+      "gp": 4,
+      "g": 1,
       "a": 0
     },
     "Brayden Point": {
-      "gp": 4,
-      "g": 1,
+      "gp": 0,
+      "g": 0,
       "a": 0
     },
     "Logan Stankoven": {
@@ -147,8 +147,8 @@
       "a": 0
     },
     "Shea Theodore": {
-      "gp": 4,
-      "g": 1,
+      "gp": 0,
+      "g": 0,
       "a": 0
     },
     "Drake Batherson": {
@@ -212,9 +212,9 @@
       "a": 3
     },
     "Mattias Ekholm": {
-      "gp": 5,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Erik Karlsson": {
       "gp": 5,
@@ -222,9 +222,9 @@
       "a": 2
     },
     "Charlie McAvoy": {
-      "gp": 5,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Ivan Barbashev": {
       "gp": 4,
@@ -317,9 +317,9 @@
       "a": 0
     },
     "Nazem Kadri": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Gabriel Landeskog": {
       "gp": 4,
@@ -392,9 +392,9 @@
       "a": 6
     },
     "Nikolaj Ehlers": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
-      "a": 0
+      "a": 1
     },
     "Brandon Hagel": {
       "gp": 4,
@@ -427,7 +427,7 @@
       "a": 0
     },
     "Corey Perry": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
       "a": 0
     },
