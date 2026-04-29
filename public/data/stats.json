@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-29T00:10:17.352Z",
+  "lastUpdated": "2026-04-29T00:12:13.045Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -52,7 +52,7 @@
       "a": 1
     },
     "Brady Tkachuk": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
       "a": 0
     },
@@ -167,8 +167,8 @@
       "a": 4
     },
     "Pavel Dorofeyev": {
-      "gp": 0,
-      "g": 0,
+      "gp": 4,
+      "g": 1,
       "a": 0
     },
     "Joel Eriksson Ek": {
@@ -212,9 +212,9 @@
       "a": 3
     },
     "Mattias Ekholm": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Erik Karlsson": {
       "gp": 5,
@@ -222,9 +222,9 @@
       "a": 2
     },
     "Charlie McAvoy": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Ivan Barbashev": {
       "gp": 4,
@@ -337,7 +337,7 @@
       "a": 1
     },
     "Valeri Nichushkin": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
       "a": 0
     },
@@ -367,9 +367,9 @@
       "a": 2
     },
     "Rasmus Dahlin": {
-      "gp": 1,
+      "gp": 4,
       "g": 1,
-      "a": 0
+      "a": 1
     },
     "Devon Toews": {
       "gp": 4,
@@ -382,9 +382,9 @@
       "a": 2
     },
     "Anthony Cirelli": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
-      "a": 2
+      "a": 0
     },
     "Leon Draisaitl": {
       "gp": 4,
@@ -402,13 +402,13 @@
       "a": 1
     },
     "James Hagens": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
     "Zach Hyman": {
-      "gp": 4,
-      "g": 1,
+      "gp": 0,
+      "g": 0,
       "a": 0
     },
     "Porter Martone": {
