@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-29T10:40:22.056Z",
+  "lastUpdated": "2026-04-29T10:42:19.113Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -122,8 +122,8 @@
       "a": 0
     },
     "Brayden Point": {
-      "gp": 4,
-      "g": 1,
+      "gp": 0,
+      "g": 0,
       "a": 0
     },
     "Logan Stankoven": {
@@ -147,8 +147,8 @@
       "a": 0
     },
     "Shea Theodore": {
-      "gp": 4,
-      "g": 1,
+      "gp": 0,
+      "g": 0,
       "a": 0
     },
     "Drake Batherson": {
@@ -167,8 +167,8 @@
       "a": 4
     },
     "Pavel Dorofeyev": {
-      "gp": 0,
-      "g": 0,
+      "gp": 4,
+      "g": 1,
       "a": 0
     },
     "Joel Eriksson Ek": {
@@ -297,7 +297,7 @@
       "a": 1
     },
     "Shayne Gostisbehere": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
       "a": 0
     },
@@ -367,9 +367,9 @@
       "a": 2
     },
     "Rasmus Dahlin": {
-      "gp": 1,
+      "gp": 5,
       "g": 1,
-      "a": 0
+      "a": 1
     },
     "Devon Toews": {
       "gp": 4,
@@ -402,12 +402,12 @@
       "a": 1
     },
     "James Hagens": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
     "Zach Hyman": {
-      "gp": 1,
+      "gp": 5,
       "g": 2,
       "a": 0
     },
@@ -427,7 +427,7 @@
       "a": 0
     },
     "Corey Perry": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
       "a": 0
     },
