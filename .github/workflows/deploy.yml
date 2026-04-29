@@ -8,10 +8,13 @@ on:
   push:
     branches: [main]
     paths-ignore:
-      # Data files are served from raw.githubusercontent.com, not Pages.
+      # Stats/events data is served from raw.githubusercontent.com, not Pages.
       # Excluding them means cron commits (every 2 min) don't trigger a
       # full Vite rebuild — deploys only happen when source code changes.
-      - 'public/data/**'
+      # jokes.json is intentionally NOT excluded so joke updates auto-deploy.
+      - 'public/data/stats.json'
+      - 'public/data/events.json'
+      - 'public/data/schedule.json'
   workflow_dispatch: {}
 
 permissions:
