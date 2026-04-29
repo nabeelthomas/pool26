@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-29T00:48:10.081Z",
+  "lastUpdated": "2026-04-29T00:50:12.544Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -29,12 +29,12 @@
     "Kirill Kaprizov": {
       "gp": 4,
       "g": 1,
-      "a": 7
+      "a": 6
     },
     "Adrian Kempe": {
-      "gp": 0,
-      "g": 0,
-      "a": 0
+      "gp": 4,
+      "g": 1,
+      "a": 1
     },
     "Artemi Panarin": {
       "gp": 4,
@@ -69,7 +69,7 @@
     "Quinn Hughes": {
       "gp": 4,
       "g": 0,
-      "a": 5
+      "a": 4
     },
     "Lane Hutson": {
       "gp": 4,
@@ -142,8 +142,8 @@
       "a": 3
     },
     "Cale Makar": {
-      "gp": 0,
-      "g": 0,
+      "gp": 4,
+      "g": 2,
       "a": 0
     },
     "Shea Theodore": {
@@ -157,8 +157,8 @@
       "a": 1
     },
     "Dylan Cozens": {
-      "gp": 0,
-      "g": 0,
+      "gp": 4,
+      "g": 2,
       "a": 0
     },
     "Sidney Crosby": {
@@ -212,9 +212,9 @@
       "a": 3
     },
     "Mattias Ekholm": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Erik Karlsson": {
       "gp": 5,
@@ -378,7 +378,7 @@
     },
     "Matt Boldy": {
       "gp": 4,
-      "g": 4,
+      "g": 3,
       "a": 2
     },
     "Anthony Cirelli": {
@@ -402,7 +402,7 @@
       "a": 1
     },
     "James Hagens": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
       "a": 0
     },
