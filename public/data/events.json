@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "ASSIST",
+      "player": "Jason Robertson",
+      "team": "DAL",
+      "time": "8:00 PM ET",
+      "pool": "Paddy"
+    },
+    {
       "type": "GOAL",
       "player": "Miro Heiskanen",
       "team": "DAL",
@@ -412,13 +419,6 @@
       "team": "OTT",
       "time": "3:00 PM ET",
       "pool": "Reiner"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Leon Draisaitl",
-      "team": "EDM",
-      "time": "10:00 PM ET",
-      "pool": "Cam"
     }
   ]
 }
