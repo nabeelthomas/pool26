@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-29T03:34:12.279Z",
+  "lastUpdated": "2026-04-29T03:36:09.992Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -157,8 +157,8 @@
       "a": 1
     },
     "Dylan Cozens": {
-      "gp": 0,
-      "g": 0,
+      "gp": 4,
+      "g": 2,
       "a": 0
     },
     "Sidney Crosby": {
@@ -222,9 +222,9 @@
       "a": 2
     },
     "Charlie McAvoy": {
-      "gp": 0,
+      "gp": 5,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Ivan Barbashev": {
       "gp": 4,
@@ -282,9 +282,9 @@
       "a": 3
     },
     "Bryan Rust": {
-      "gp": 0,
-      "g": 0,
-      "a": 0
+      "gp": 5,
+      "g": 1,
+      "a": 1
     },
     "Nick Schmaltz": {
       "gp": 4,
@@ -302,9 +302,9 @@
       "a": 0
     },
     "Josh Doan": {
-      "gp": 5,
-      "g": 1,
-      "a": 1
+      "gp": 0,
+      "g": 0,
+      "a": 0
     },
     "Cutter Gauthier": {
       "gp": 4,
@@ -357,7 +357,7 @@
       "a": 3
     },
     "Jason Zucker": {
-      "gp": 5,
+      "gp": 1,
       "g": 0,
       "a": 1
     },
@@ -388,13 +388,13 @@
     },
     "Leon Draisaitl": {
       "gp": 4,
-      "g": 2,
+      "g": 3,
       "a": 6
     },
     "Nikolaj Ehlers": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
-      "a": 0
+      "a": 1
     },
     "Brandon Hagel": {
       "gp": 4,
@@ -419,7 +419,7 @@
     "Connor McDavid": {
       "gp": 4,
       "g": 1,
-      "a": 4
+      "a": 5
     },
     "Josh Norris": {
       "gp": 2,
@@ -444,12 +444,12 @@
     "Evan Bouchard": {
       "gp": 4,
       "g": 1,
-      "a": 5
+      "a": 6
     },
     "Darren Raddysh": {
-      "gp": 4,
-      "g": 1,
-      "a": 1
+      "gp": 0,
+      "g": 0,
+      "a": 0
     }
   }
 }

@@ -2,7 +2,7 @@
   "events": [
     {
       "type": "ASSIST",
-      "player": "Evan Bouchard",
+      "player": "Connor McDavid",
       "team": "EDM",
       "time": "10:00 PM ET",
       "pool": "Cam"
@@ -10,6 +10,13 @@
     {
       "type": "GOAL",
       "player": "Leon Draisaitl",
+      "team": "EDM",
+      "time": "10:00 PM ET",
+      "pool": "Cam"
+    },
+    {
+      "type": "ASSIST",
+      "player": "Evan Bouchard",
       "team": "EDM",
       "time": "10:00 PM ET",
       "pool": "Cam"
@@ -412,13 +419,6 @@
       "team": "MIN",
       "time": "5:30 PM ET",
       "pool": "Cam"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Matt Duchene",
-      "team": "DAL",
-      "time": "5:30 PM ET",
-      "pool": "Nabeel"
     }
   ]
 }
