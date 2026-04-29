@@ -29,6 +29,27 @@
       "pool": "Cam"
     },
     {
+      "type": "ASSIST",
+      "player": "Matt Boldy",
+      "team": "MIN",
+      "time": "8:00 PM ET",
+      "pool": "Cam"
+    },
+    {
+      "type": "GOAL",
+      "player": "Kirill Kaprizov",
+      "team": "MIN",
+      "time": "8:00 PM ET",
+      "pool": "Will"
+    },
+    {
+      "type": "ASSIST",
+      "player": "Miro Heiskanen",
+      "team": "DAL",
+      "time": "8:00 PM ET",
+      "pool": "Nabeel"
+    },
+    {
       "type": "GOAL",
       "player": "Jason Robertson",
       "team": "DAL",
@@ -398,27 +419,6 @@
       "team": "DAL",
       "time": "5:30 PM ET",
       "pool": "Nabeel"
-    },
-    {
-      "type": "GOAL",
-      "player": "Miro Heiskanen",
-      "team": "DAL",
-      "time": "5:30 PM ET",
-      "pool": "Nabeel"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Kirill Kaprizov",
-      "team": "MIN",
-      "time": "5:30 PM ET",
-      "pool": "Will"
-    },
-    {
-      "type": "GOAL",
-      "player": "Brock Faber",
-      "team": "MIN",
-      "time": "5:30 PM ET",
-      "pool": "Will"
     }
   ]
 }
