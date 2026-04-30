@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-30T01:26:09.525Z",
+  "lastUpdated": "2026-04-30T01:28:11.184Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -12,9 +12,9 @@
       "a": 3
     },
     "Ivan Demidov": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
-      "a": 0
+      "a": 1
     },
     "Kasperi Kapanen": {
       "gp": 5,
@@ -157,8 +157,8 @@
       "a": 1
     },
     "Dylan Cozens": {
-      "gp": 0,
-      "g": 0,
+      "gp": 4,
+      "g": 2,
       "a": 0
     },
     "Sidney Crosby": {
@@ -177,9 +177,9 @@
       "a": 2
     },
     "Tomas Hertl": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
-      "a": 0
+      "a": 1
     },
     "Mitch Marner": {
       "gp": 4,
@@ -187,9 +187,9 @@
       "a": 3
     },
     "Martin Necas": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Ryan Nugent-Hopkins": {
       "gp": 5,
@@ -302,9 +302,9 @@
       "a": 0
     },
     "Josh Doan": {
-      "gp": 0,
-      "g": 0,
-      "a": 0
+      "gp": 5,
+      "g": 1,
+      "a": 1
     },
     "Cutter Gauthier": {
       "gp": 5,
