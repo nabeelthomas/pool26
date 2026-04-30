@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-30T00:26:12.123Z",
+  "lastUpdated": "2026-04-30T00:30:20.334Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -167,8 +167,8 @@
       "a": 4
     },
     "Pavel Dorofeyev": {
-      "gp": 4,
-      "g": 1,
+      "gp": 0,
+      "g": 0,
       "a": 0
     },
     "Joel Eriksson Ek": {
@@ -427,7 +427,7 @@
       "a": 0
     },
     "Corey Perry": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
