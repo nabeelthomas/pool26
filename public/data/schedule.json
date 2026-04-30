@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T02:48:10.025Z",
+  "generatedAt": "2026-04-30T02:50:20.205Z",
   "games": [
     {
       "id": 2025030125,
@@ -17,9 +17,9 @@
       "home": "PHI",
       "awayScore": 0,
       "homeScore": 1,
-      "period": null,
+      "period": "OT",
       "startUTC": "2026-04-29T23:30:00Z",
-      "status": "scheduled"
+      "status": "final"
     },
     {
       "id": 2025030175,
