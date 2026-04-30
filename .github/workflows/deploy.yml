@@ -2,19 +2,31 @@ name: deploy
 
 # Build the Vite site and publish it to GitHub Pages.
 # Triggers:
-#   - any push to main (including the cron's stats commit → site auto-refresh)
+#   - push to main that touches a path in the allowlist below
 #   - manual run from the Actions tab
+# Cron-rewritten data files (stats/events/schedule) are NOT in the allowlist
+# — clients fetch them straight from raw.githubusercontent.com instead.
 on:
   push:
     branches: [main]
-    paths-ignore:
-      # Stats/events data is served from raw.githubusercontent.com, not Pages.
-      # Excluding them means cron commits (every 2 min) don't trigger a
-      # full Vite rebuild — deploys only happen when source code changes.
-      # jokes.json is intentionally NOT excluded so joke updates auto-deploy.
-      - 'public/data/stats.json'
-      - 'public/data/events.json'
-      - 'public/data/schedule.json'
+    # Allowlist, not denylist: cron-rewritten files (stats/events/schedule)
+    # are served from raw.githubusercontent.com so they don't need a Pages
+    # rebuild. Anything we *do* want to redeploy on must be listed below —
+    # this way a future high-frequency data file added under public/data/
+    # doesn't silently start triggering 2-min Vite rebuilds.
+    paths:
+      - 'src/**'
+      - 'public/assets/**'
+      - 'public/favicon.svg'
+      - 'public/manifest.webmanifest'
+      - 'public/data/rosters.json'
+      - 'public/data/jokes.json'
+      - 'index.html'
+      - 'package.json'
+      - 'package-lock.json'
+      - 'tsconfig*.json'
+      - 'vite.config.ts'
+      - '.github/workflows/deploy.yml'
   workflow_dispatch: {}
 
 permissions:

@@ -8,6 +8,7 @@
 // don't want to ship a "no data" pill to the live site.
 
 import { useEffect, useState } from 'react';
+import { RAW_BASE } from '../lib/dataFetch';
 import type { ManagerStanding } from '../types';
 
 interface ScheduleGame {
@@ -30,10 +31,7 @@ interface TonightSlateProps {
   standings: ManagerStanding[];
 }
 
-// Fetched from raw.githubusercontent.com to bypass the Pages build pipeline —
-// same reasoning as dataFetch.ts. Updates within seconds of a cron push.
-const SCHEDULE_PATH =
-  'https://raw.githubusercontent.com/nabeelthomas/pool26/main/public/data/schedule.json';
+const SCHEDULE_PATH = `${RAW_BASE}/schedule.json`;
 
 export function TonightSlate({ standings }: TonightSlateProps) {
   const [schedule, setSchedule] = useState<ScheduleFile | null>(null);

@@ -1,6 +1,20 @@
-// Small, dependency-free fetch layer for the three static JSON files.
-// Each lives in /public/data/ so it's served directly by the CDN — no build
-// step is required when the stats cron commits updated files.
+// Small, dependency-free fetch layer for the static JSON files in public/data.
+//
+// Two-origin split — read this before adding a new data file:
+//
+//   • Pages CDN (PAGES_BASE) — used for files that change only on a real
+//     source-code or content commit: rosters.json, jokes.json. Fast, cached.
+//   • raw.githubusercontent.com (RAW_BASE) — used for files the cron rewrites
+//     every 2 min: stats.json, events.json, schedule.json. Bypasses the Pages
+//     build pipeline, which would otherwise rebuild on every cron commit and
+//     thrash with cancel-in-progress.
+//
+// raw.githubusercontent.com sets Cache-Control: max-age=300, so even with the
+// per-minute cache-buster query string the practical freshness floor is
+// minute-granularity (a fresh URL each minute → bypasses the 5-min CDN cache).
+//
+// Hidden coupling: RAW_BASE only works while the GitHub repo is public. If
+// the repo is ever flipped private, every live-data fetch silently 404s.
 
 import type { EventsFile, RostersFile, StatsFile } from '../types';
 
@@ -28,13 +42,9 @@ async function fetchJSON<T>(path: string): Promise<T> {
   return (await res.json()) as T;
 }
 
-// Static files that rarely change are served from the Pages CDN (fast, cached).
-const PAGES_BASE = `${import.meta.env.BASE_URL}data`.replace(/\/+/g, '/');
-
-// Frequently-updated data files are fetched directly from raw.githubusercontent.com
-// so they bypass the Pages build pipeline. Pages only redeploys when source code
-// changes; data commits land here within seconds of the cron pushing to main.
-const RAW_BASE =
+// See file header for why these are split.
+export const PAGES_BASE = `${import.meta.env.BASE_URL}data`.replace(/\/+/g, '/');
+export const RAW_BASE =
   'https://raw.githubusercontent.com/nabeelthomas/pool26/main/public/data';
 
 /** Load all data files in parallel. Individual failures reject the whole call. */

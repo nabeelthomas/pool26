@@ -13,7 +13,7 @@ public NHL API on a cron.
 - Static JSON data files in `public/data/`
 - Public NHL stats endpoint (`api.nhle.com/stats/rest/en/skater/summary`)
 - GitHub Actions cron → commits updated `stats.json`
-- Cloudflare Pages hosting (build: `npm run build`, output: `dist`)
+- GitHub Pages hosting (build: `npm run build`, output: `dist`)
 
 ## Getting started
 
@@ -75,14 +75,24 @@ Actions tab via `workflow_dispatch`.
 
 ## Deploying
 
-Cloudflare Pages project connected to the GitHub repo:
+GitHub Pages, driven by `.github/workflows/deploy.yml`:
 
 - **Build command:** `npm run build`
 - **Build output:** `dist`
-- **Root directory:** (repo root)
 - **Node version:** 20
 
 No environment variables needed.
+
+### Live data is served from `raw.githubusercontent.com`
+
+`stats.json`, `events.json`, and `schedule.json` are fetched by the client
+directly from `raw.githubusercontent.com/nabeelthomas/pool26/main/public/data/…`
+rather than from the Pages CDN. This bypasses the Vite build pipeline so a
+2-min cron commit doesn't trigger a 2-min Pages rebuild.
+
+> ⚠ **The repo must remain public.** If it's flipped private, every live-data
+> fetch will silently 404 and the site will go dead. `rosters.json` and
+> `jokes.json` are still served from Pages, so static pieces would survive.
 
 ## Project layout
 
