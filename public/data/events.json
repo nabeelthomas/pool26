@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "ASSIST",
+      "player": "Mitch Marner",
+      "team": "VGK",
+      "time": "10:00 PM ET",
+      "pool": "Reiner"
+    },
+    {
       "type": "GOAL",
       "player": "Pavel Dorofeyev",
       "team": "VGK",
@@ -409,13 +416,6 @@
     {
       "type": "GOAL",
       "player": "Bowen Byram",
-      "team": "BUF",
-      "time": "2:00 PM ET",
-      "pool": "Andy"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Josh Doan",
       "team": "BUF",
       "time": "2:00 PM ET",
       "pool": "Andy"
