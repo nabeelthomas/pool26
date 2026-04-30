@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-30T03:20:12.168Z",
+  "lastUpdated": "2026-04-30T03:22:09.444Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -107,9 +107,9 @@
       "a": 0
     },
     "Seth Jarvis": {
-      "gp": 0,
+      "gp": 4,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Artturi Lehkonen": {
       "gp": 4,
@@ -122,8 +122,8 @@
       "a": 0
     },
     "Brayden Point": {
-      "gp": 0,
-      "g": 0,
+      "gp": 5,
+      "g": 1,
       "a": 0
     },
     "Logan Stankoven": {
@@ -147,8 +147,8 @@
       "a": 0
     },
     "Shea Theodore": {
-      "gp": 0,
-      "g": 0,
+      "gp": 4,
+      "g": 1,
       "a": 0
     },
     "Drake Batherson": {
@@ -162,7 +162,7 @@
       "a": 0
     },
     "Sidney Crosby": {
-      "gp": 5,
+      "gp": 6,
       "g": 1,
       "a": 4
     },
@@ -212,12 +212,12 @@
       "a": 3
     },
     "Mattias Ekholm": {
-      "gp": 0,
+      "gp": 5,
       "g": 0,
-      "a": 0
+      "a": 2
     },
     "Erik Karlsson": {
-      "gp": 5,
+      "gp": 6,
       "g": 1,
       "a": 2
     },
@@ -257,7 +257,7 @@
       "a": 3
     },
     "Travis Konecny": {
-      "gp": 5,
+      "gp": 6,
       "g": 1,
       "a": 3
     },
@@ -267,7 +267,7 @@
       "a": 5
     },
     "Evgeni Malkin": {
-      "gp": 5,
+      "gp": 6,
       "g": 2,
       "a": 1
     },
@@ -282,7 +282,7 @@
       "a": 3
     },
     "Bryan Rust": {
-      "gp": 5,
+      "gp": 6,
       "g": 1,
       "a": 1
     },
@@ -367,9 +367,9 @@
       "a": 2
     },
     "Rasmus Dahlin": {
-      "gp": 0,
-      "g": 0,
-      "a": 0
+      "gp": 5,
+      "g": 1,
+      "a": 1
     },
     "Devon Toews": {
       "gp": 4,
@@ -392,9 +392,9 @@
       "a": 6
     },
     "Nikolaj Ehlers": {
-      "gp": 0,
+      "gp": 3,
       "g": 0,
-      "a": 0
+      "a": 1
     },
     "Brandon Hagel": {
       "gp": 5,
@@ -412,7 +412,7 @@
       "a": 0
     },
     "Porter Martone": {
-      "gp": 5,
+      "gp": 6,
       "g": 2,
       "a": 1
     },
@@ -447,9 +447,9 @@
       "a": 6
     },
     "Darren Raddysh": {
-      "gp": 0,
-      "g": 0,
-      "a": 0
+      "gp": 5,
+      "g": 1,
+      "a": 1
     }
   }
 }
