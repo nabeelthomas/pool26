@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-30T03:50:19.069Z",
+  "lastUpdated": "2026-04-30T03:54:11.859Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -122,8 +122,8 @@
       "a": 0
     },
     "Brayden Point": {
-      "gp": 0,
-      "g": 0,
+      "gp": 5,
+      "g": 1,
       "a": 0
     },
     "Logan Stankoven": {
@@ -147,9 +147,9 @@
       "a": 0
     },
     "Shea Theodore": {
-      "gp": 0,
-      "g": 0,
-      "a": 0
+      "gp": 4,
+      "g": 2,
+      "a": 1
     },
     "Drake Batherson": {
       "gp": 4,
@@ -168,7 +168,7 @@
     },
     "Pavel Dorofeyev": {
       "gp": 4,
-      "g": 2,
+      "g": 3,
       "a": 0
     },
     "Joel Eriksson Ek": {
@@ -177,7 +177,7 @@
       "a": 2
     },
     "Tomas Hertl": {
-      "gp": 1,
+      "gp": 4,
       "g": 0,
       "a": 2
     },
@@ -229,7 +229,7 @@
     "Ivan Barbashev": {
       "gp": 4,
       "g": 2,
-      "a": 2
+      "a": 3
     },
     "Leo Carlsson": {
       "gp": 5,
@@ -282,9 +282,9 @@
       "a": 3
     },
     "Bryan Rust": {
-      "gp": 0,
-      "g": 0,
-      "a": 0
+      "gp": 6,
+      "g": 1,
+      "a": 1
     },
     "Nick Schmaltz": {
       "gp": 4,
@@ -407,8 +407,8 @@
       "a": 0
     },
     "Zach Hyman": {
-      "gp": 0,
-      "g": 0,
+      "gp": 5,
+      "g": 2,
       "a": 0
     },
     "Porter Martone": {
@@ -434,7 +434,7 @@
     "Mark Stone": {
       "gp": 4,
       "g": 2,
-      "a": 1
+      "a": 2
     },
     "Andrei Svechnikov": {
       "gp": 4,

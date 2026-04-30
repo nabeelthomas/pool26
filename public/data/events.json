@@ -2,6 +2,34 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Mark Stone",
+      "team": "VGK",
+      "time": "10:00 PM ET",
+      "pool": "Cam"
+    },
+    {
+      "type": "GOAL",
+      "player": "Shea Theodore",
+      "team": "VGK",
+      "time": "10:00 PM ET",
+      "pool": "Nabeel"
+    },
+    {
+      "type": "ASSIST",
+      "player": "Shea Theodore",
+      "team": "VGK",
+      "time": "10:00 PM ET",
+      "pool": "Nabeel"
+    },
+    {
+      "type": "GOAL",
+      "player": "Pavel Dorofeyev",
+      "team": "VGK",
+      "time": "10:00 PM ET",
+      "pool": "Reiner"
+    },
+    {
+      "type": "ASSIST",
       "player": "Clayton Keller",
       "team": "UTA",
       "time": "10:00 PM ET",
@@ -10,13 +38,6 @@
     {
       "type": "ASSIST",
       "player": "Tomas Hertl",
-      "team": "VGK",
-      "time": "10:00 PM ET",
-      "pool": "Reiner"
-    },
-    {
-      "type": "GOAL",
-      "player": "Pavel Dorofeyev",
       "team": "VGK",
       "time": "10:00 PM ET",
       "pool": "Reiner"
@@ -398,27 +419,6 @@
       "team": "BUF",
       "time": "2:00 PM ET",
       "pool": "Andy"
-    },
-    {
-      "type": "GOAL",
-      "player": "Josh Doan",
-      "team": "BUF",
-      "time": "2:00 PM ET",
-      "pool": "Andy"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Alex Tuch",
-      "team": "BUF",
-      "time": "2:00 PM ET",
-      "pool": "Andy"
-    },
-    {
-      "type": "GOAL",
-      "player": "Travis Konecny",
-      "team": "PHI",
-      "time": "8:00 PM ET",
-      "pool": "Paddy"
     }
   ]
 }
