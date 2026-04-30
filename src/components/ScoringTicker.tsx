@@ -32,6 +32,22 @@ const colorForType = (type: TickerItem['type']): string => {
   }
 };
 
+/**
+ * Fisher–Yates shuffle. Returns a new array — does not mutate input.
+ *
+ * We avoid `arr.sort(() => Math.random() - 0.5)`: it's a biased shuffle
+ * because Array.sort assumes a consistent comparator and the resulting
+ * permutation distribution is skewed in engine-dependent ways.
+ */
+function shuffle<T>(input: readonly T[]): T[] {
+  const out = [...input];
+  for (let i = out.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [out[i], out[j]] = [out[j], out[i]];
+  }
+  return out;
+}
+
 /** Interleave: [e, e, joke, e, e, joke, ...]. Safe when events.length is 0. */
 function interleave(events: TickerEvent[], jokes: string[]): TickerItem[] {
   if (events.length === 0 && jokes.length === 0) return [];
@@ -53,8 +69,7 @@ function interleave(events: TickerEvent[], jokes: string[]): TickerItem[] {
 
 export function ScoringTicker({ events, jokes }: ScoringTickerProps) {
   const items = useMemo(() => {
-    const shuffled = [...jokes].sort(() => Math.random() - 0.5);
-    return interleave(events, shuffled);
+    return interleave(events, shuffle(jokes));
   }, [events, jokes]);
   // Duplicate so translateX(-50%) hands off cleanly.
   const doubled = useMemo(() => [...items, ...items], [items]);
