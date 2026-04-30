@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "GOAL",
+      "player": "Jake Guentzel",
+      "team": "TBL",
+      "time": "7:00 PM ET",
+      "pool": "Nabeel"
+    },
+    {
       "type": "ASSIST",
       "player": "Connor McDavid",
       "team": "EDM",
@@ -258,13 +265,6 @@
       "team": "TBL",
       "time": "7:00 PM ET",
       "pool": "Cam"
-    },
-    {
-      "type": "GOAL",
-      "player": "Jake Guentzel",
-      "team": "TBL",
-      "time": "7:00 PM ET",
-      "pool": "Nabeel"
     },
     {
       "type": "ASSIST",
