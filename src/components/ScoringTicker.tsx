@@ -68,10 +68,24 @@ function interleave(events: TickerEvent[], jokes: string[]): TickerItem[] {
 }
 
 export function ScoringTicker({ events, jokes }: ScoringTickerProps) {
-  const items = useMemo(() => {
-    return interleave(events, shuffle(jokes));
-  }, [events, jokes]);
-  // Duplicate so translateX(-50%) hands off cleanly.
+  // Memoize on content, not array reference. Every 2-min poll hands us new
+  // arrays even when their contents haven't changed; recomputing items mid-
+  // scroll re-shuffles jokes and changes the track's width, which the CSS
+  // animation (target: translate3d(-50%, 0, 0)) interprets as a moved goal-
+  // post — visible as a jitter/jump. Stable keys = stable track.
+  const eventsKey = useMemo(
+    () => events.map((e) => `${e.type}|${e.player}|${e.time}|${e.pool}`).join('§'),
+    [events],
+  );
+  const jokesKey = useMemo(() => jokes.join('§'), [jokes]);
+
+  // Deps intentionally use the content keys, not events/jokes themselves.
+  const items = useMemo(
+    () => interleave(events, shuffle(jokes)),
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+    [eventsKey, jokesKey],
+  );
+  // Duplicate so translate3d(-50%, 0, 0) hands off cleanly.
   const doubled = useMemo(() => [...items, ...items], [items]);
 
   const isEmpty = items.length === 0;
