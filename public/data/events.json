@@ -2,6 +2,20 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Tomas Hertl",
+      "team": "VGK",
+      "time": "10:00 PM ET",
+      "pool": "Reiner"
+    },
+    {
+      "type": "GOAL",
+      "player": "Pavel Dorofeyev",
+      "team": "VGK",
+      "time": "10:00 PM ET",
+      "pool": "Reiner"
+    },
+    {
+      "type": "ASSIST",
       "player": "Clayton Keller",
       "team": "UTA",
       "time": "10:00 PM ET",
@@ -405,20 +419,6 @@
       "team": "PHI",
       "time": "8:00 PM ET",
       "pool": "Paddy"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Sidney Crosby",
-      "team": "PIT",
-      "time": "8:00 PM ET",
-      "pool": "Reiner"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Erik Karlsson",
-      "team": "PIT",
-      "time": "8:00 PM ET",
-      "pool": "Reiner"
     }
   ]
 }
