@@ -172,9 +172,10 @@ function indexSkaters(rows) {
  *   - Goal disallowed on review: both inputs drop next cron → no stale max.
  * No double-counting is possible by construction.
  */
-function buildStatsMap(rosters, byNormalized, runningTotals) {
+function buildStatsMap(rosters, byNormalized, runningTotals, priorPlayers) {
   const out = {};
   const misses = [];
+  const recovered = [];
   for (const manager of rosters.managers) {
     for (const player of manager.roster) {
       const candidates = [player.name, ...(player.aliases ?? [])];
@@ -225,14 +226,27 @@ function buildStatsMap(rosters, byNormalized, runningTotals) {
           a: Math.max(sumA, gcA),
         };
       } else {
-        // Still write zeros so the UI doesn't silently drop players from
-        // the roster when the API hasn't ingested their data yet.
-        out[player.name] = { gp: 0, g: 0, a: 0 };
-        misses.push(`${manager.displayName}: ${player.name}`);
+        // Unmatched in this run. The /skater/summary endpoint occasionally
+        // returns a partial page (transient hiccup), and players with zero
+        // points tonight have no gamecenter entry, so they fall through to
+        // here despite having known prior totals. Writing zeros there causes
+        // the leaderboard to flicker backwards every time the API hiccups.
+        //
+        // Preserve the prior non-zero value instead. Genuine zeros (player
+        // never matched at all) still write through — the prior is also zero
+        // or absent, so the fallback below kicks in.
+        const prior = priorPlayers?.[player.name];
+        if (prior && (prior.gp > 0 || prior.g > 0 || prior.a > 0)) {
+          out[player.name] = { gp: prior.gp, g: prior.g, a: prior.a };
+          recovered.push(`${manager.displayName}: ${player.name}`);
+        } else {
+          out[player.name] = { gp: 0, g: 0, a: 0 };
+          misses.push(`${manager.displayName}: ${player.name}`);
+        }
       }
     }
   }
-  return { stats: out, misses };
+  return { stats: out, misses, recovered };
 }
 
 // ─── Today's schedule + per-game scoring events ────────────────────────
@@ -496,7 +510,12 @@ async function main() {
   }
 
   const indexed = indexSkaters(rows);
-  const { stats, misses } = buildStatsMap(rosters, indexed, runningTotals);
+  const { stats, misses, recovered } = buildStatsMap(
+    rosters,
+    indexed,
+    runningTotals,
+    prior?.players,
+  );
 
   const payload = {
     lastUpdated: new Date().toISOString(),
@@ -512,9 +531,16 @@ async function main() {
     );
   }
 
+  if (recovered.length > 0) {
+    console.warn(
+      `[update-stats] ${recovered.length} players unmatched this run — preserved prior non-zero stats (likely API hiccup):`,
+    );
+    for (const r of recovered) console.warn(`    · ${r}`);
+  }
+
   if (misses.length > 0) {
     console.warn(
-      `[update-stats] ${misses.length} pool players had no API match — they will show as 0-0-0:`,
+      `[update-stats] ${misses.length} pool players had no API match (and no prior stats) — they will show as 0-0-0:`,
     );
     for (const m of misses) console.warn(`    · ${m}`);
   }
