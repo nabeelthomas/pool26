@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-30T00:44:15.566Z",
+  "lastUpdated": "2026-04-30T00:46:09.527Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -167,8 +167,8 @@
       "a": 4
     },
     "Pavel Dorofeyev": {
-      "gp": 4,
-      "g": 1,
+      "gp": 0,
+      "g": 0,
       "a": 0
     },
     "Joel Eriksson Ek": {
@@ -337,7 +337,7 @@
       "a": 1
     },
     "Valeri Nichushkin": {
-      "gp": 4,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
@@ -402,7 +402,7 @@
       "a": 1
     },
     "James Hagens": {
-      "gp": 3,
+      "gp": 0,
       "g": 0,
       "a": 0
     },
