@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-01T04:50:15.925Z",
+  "lastUpdated": "2026-05-01T04:52:12.408Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -19,7 +19,7 @@
     "Kasperi Kapanen": {
       "gp": 5,
       "g": 4,
-      "a": 1
+      "a": 2
     },
     "Oliver Kapanen": {
       "gp": 4,
@@ -233,8 +233,8 @@
     },
     "Leo Carlsson": {
       "gp": 5,
-      "g": 2,
-      "a": 3
+      "g": 3,
+      "a": 5
     },
     "Morgan Geekie": {
       "gp": 5,
@@ -308,8 +308,8 @@
     },
     "Cutter Gauthier": {
       "gp": 5,
-      "g": 3,
-      "a": 2
+      "g": 4,
+      "a": 3
     },
     "Pontus Holmberg": {
       "gp": 0,
@@ -389,7 +389,7 @@
     "Leon Draisaitl": {
       "gp": 5,
       "g": 3,
-      "a": 6
+      "a": 7
     },
     "Nikolaj Ehlers": {
       "gp": 3,
