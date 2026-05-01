@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "type": "ASSIST",
+      "player": "Rasmus Dahlin",
+      "team": "BUF",
+      "time": "7:30 PM ET",
+      "pool": "Andy"
+    },
+    {
+      "type": "GOAL",
+      "player": "Alex Tuch",
+      "team": "BUF",
+      "time": "7:30 PM ET",
+      "pool": "Andy"
+    },
+    {
       "type": "GOAL",
       "player": "Leo Carlsson",
       "team": "ANA",
@@ -405,20 +419,6 @@
       "team": "TBL",
       "time": "7:00 PM ET",
       "pool": "Cam"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Nick Suzuki",
-      "team": "MTL",
-      "time": "7:00 PM ET",
-      "pool": "Reiner"
-    },
-    {
-      "type": "GOAL",
-      "player": "Cole Caufield",
-      "team": "MTL",
-      "time": "7:00 PM ET",
-      "pool": "Will"
     }
   ]
 }
