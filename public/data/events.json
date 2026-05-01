@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "GOAL",
+      "player": "Vladimir Tarasenko",
+      "team": "MIN",
+      "time": "7:30 PM ET",
+      "pool": "Paddy"
+    },
+    {
       "type": "ASSIST",
       "player": "Mikko Rantanen",
       "team": "DAL",
@@ -412,13 +419,6 @@
       "team": "COL",
       "time": "4:30 PM ET",
       "pool": "Nabeel"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Nazem Kadri",
-      "team": "COL",
-      "time": "4:30 PM ET",
-      "pool": "Andy"
     }
   ]
 }
