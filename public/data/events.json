@@ -15,6 +15,13 @@
       "pool": "Will"
     },
     {
+      "type": "ASSIST",
+      "player": "Quinn Hughes",
+      "team": "MIN",
+      "time": "7:30 PM ET",
+      "pool": "Will"
+    },
+    {
       "type": "GOAL",
       "player": "Vladimir Tarasenko",
       "team": "MIN",
@@ -412,13 +419,6 @@
       "team": "COL",
       "time": "4:30 PM ET",
       "pool": "Nabeel"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Adrian Kempe",
-      "team": "LAK",
-      "time": "4:30 PM ET",
-      "pool": "Will"
     }
   ]
 }
