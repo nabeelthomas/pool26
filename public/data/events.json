@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "GOAL",
+      "player": "Matt Boldy",
+      "team": "MIN",
+      "time": "7:30 PM ET",
+      "pool": "Cam"
+    },
+    {
       "type": "ASSIST",
       "player": "Brock Faber",
       "team": "MIN",
@@ -412,13 +419,6 @@
       "team": "COL",
       "time": "4:30 PM ET",
       "pool": "Andy"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Artturi Lehkonen",
-      "team": "COL",
-      "time": "4:30 PM ET",
-      "pool": "Nabeel"
     }
   ]
 }
