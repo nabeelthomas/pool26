@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "GOAL",
+      "player": "Leo Carlsson",
+      "team": "ANA",
+      "time": "10:00 PM ET",
+      "pool": "Paddy"
+    },
+    {
       "type": "ASSIST",
       "player": "Kasperi Kapanen",
       "team": "EDM",
@@ -412,13 +419,6 @@
       "team": "MTL",
       "time": "7:00 PM ET",
       "pool": "Will"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Martin Necas",
-      "team": "COL",
-      "time": "4:30 PM ET",
-      "pool": "Reiner"
     }
   ]
 }
