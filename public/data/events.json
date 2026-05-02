@@ -1,13 +1,6 @@
 {
   "events": [
     {
-      "type": "ASSIST",
-      "player": "Rasmus Dahlin",
-      "team": "BUF",
-      "time": "7:30 PM ET",
-      "pool": "Andy"
-    },
-    {
       "type": "GOAL",
       "player": "Josh Norris",
       "team": "BUF",
@@ -27,6 +20,13 @@
       "team": "BOS",
       "time": "7:30 PM ET",
       "pool": "Reiner"
+    },
+    {
+      "type": "ASSIST",
+      "player": "Rasmus Dahlin",
+      "team": "BUF",
+      "time": "7:30 PM ET",
+      "pool": "Andy"
     },
     {
       "type": "GOAL",
