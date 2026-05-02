@@ -2,10 +2,10 @@
   "events": [
     {
       "type": "ASSIST",
-      "player": "Ivan Barbashev",
+      "player": "Shea Theodore",
       "team": "VGK",
       "time": "10:00 PM ET",
-      "pool": "Paddy"
+      "pool": "Nabeel"
     },
     {
       "type": "GOAL",
@@ -13,6 +13,13 @@
       "team": "VGK",
       "time": "10:00 PM ET",
       "pool": "Reiner"
+    },
+    {
+      "type": "ASSIST",
+      "player": "Ivan Barbashev",
+      "team": "VGK",
+      "time": "10:00 PM ET",
+      "pool": "Paddy"
     },
     {
       "type": "ASSIST",
@@ -156,13 +163,6 @@
     },
     {
       "type": "GOAL",
-      "player": "Shea Theodore",
-      "team": "VGK",
-      "time": "10:00 PM ET",
-      "pool": "Nabeel"
-    },
-    {
-      "type": "ASSIST",
       "player": "Shea Theodore",
       "team": "VGK",
       "time": "10:00 PM ET",
