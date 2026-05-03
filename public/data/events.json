@@ -2,6 +2,13 @@
   "events": [
     {
       "type": "GOAL",
+      "player": "Jackson Blake",
+      "team": "CAR",
+      "time": "8:00 PM ET",
+      "pool": "Nabeel"
+    },
+    {
+      "type": "GOAL",
       "player": "Logan Stankoven",
       "team": "CAR",
       "time": "8:00 PM ET",
@@ -412,13 +419,6 @@
       "team": "ANA",
       "time": "9:30 PM ET",
       "pool": "Paddy"
-    },
-    {
-      "type": "GOAL",
-      "player": "Cutter Gauthier",
-      "team": "ANA",
-      "time": "9:30 PM ET",
-      "pool": "Andy"
     }
   ]
 }
