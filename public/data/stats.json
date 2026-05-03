@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-03T00:32:11.112Z",
+  "lastUpdated": "2026-05-03T01:48:10.559Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -109,7 +109,7 @@
     "Seth Jarvis": {
       "gp": 4,
       "g": 0,
-      "a": 2
+      "a": 3
     },
     "Artturi Lehkonen": {
       "gp": 4,
@@ -128,7 +128,7 @@
     },
     "Logan Stankoven": {
       "gp": 4,
-      "g": 5,
+      "g": 6,
       "a": 1
     },
     "Thomas Harley": {
@@ -439,7 +439,7 @@
     "Andrei Svechnikov": {
       "gp": 4,
       "g": 0,
-      "a": 0
+      "a": 1
     },
     "Evan Bouchard": {
       "gp": 6,

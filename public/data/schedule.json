@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-03T01:46:16.250Z",
+  "generatedAt": "2026-05-03T01:48:10.498Z",
   "games": [
     {
       "id": 2025030221,
       "away": "PHI",
       "home": "CAR",
       "awayScore": 0,
-      "homeScore": 2,
+      "homeScore": 3,
       "period": "2nd",
       "startUTC": "2026-05-03T00:00:00Z",
       "status": "live"
