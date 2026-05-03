@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "GOAL",
+      "player": "Nick Suzuki",
+      "team": "MTL",
+      "time": "6:00 PM ET",
+      "pool": "Reiner"
+    },
+    {
       "type": "ASSIST",
       "player": "Seth Jarvis",
       "team": "CAR",
@@ -409,13 +416,6 @@
     {
       "type": "ASSIST",
       "player": "Connor McDavid",
-      "team": "EDM",
-      "time": "9:30 PM ET",
-      "pool": "Cam"
-    },
-    {
-      "type": "GOAL",
-      "player": "Evan Bouchard",
       "team": "EDM",
       "time": "9:30 PM ET",
       "pool": "Cam"
