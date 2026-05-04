@@ -2,6 +2,20 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Nathan MacKinnon",
+      "team": "COL",
+      "time": "9:00 PM ET",
+      "pool": "Andy"
+    },
+    {
+      "type": "GOAL",
+      "player": "Artturi Lehkonen",
+      "team": "COL",
+      "time": "9:00 PM ET",
+      "pool": "Nabeel"
+    },
+    {
+      "type": "ASSIST",
       "player": "Martin Necas",
       "team": "COL",
       "time": "9:00 PM ET",
@@ -402,20 +416,6 @@
     {
       "type": "ASSIST",
       "player": "Mitch Marner",
-      "team": "VGK",
-      "time": "9:30 PM ET",
-      "pool": "Reiner"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Ivan Barbashev",
-      "team": "VGK",
-      "time": "9:30 PM ET",
-      "pool": "Paddy"
-    },
-    {
-      "type": "GOAL",
-      "player": "Pavel Dorofeyev",
       "team": "VGK",
       "time": "9:30 PM ET",
       "pool": "Reiner"
