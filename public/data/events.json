@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "GOAL",
+      "player": "Cale Makar",
+      "team": "COL",
+      "time": "9:00 PM ET",
+      "pool": "Nabeel"
+    },
+    {
       "type": "ASSIST",
       "player": "Valeri Nichushkin",
       "team": "COL",
@@ -409,13 +416,6 @@
     {
       "type": "ASSIST",
       "player": "Jack Eichel",
-      "team": "VGK",
-      "time": "9:30 PM ET",
-      "pool": "Nabeel"
-    },
-    {
-      "type": "GOAL",
-      "player": "Shea Theodore",
       "team": "VGK",
       "time": "9:30 PM ET",
       "pool": "Nabeel"
