@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-04T04:12:15.856Z",
+  "lastUpdated": "2026-05-04T04:24:11.845Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -27,7 +27,7 @@
       "a": 0
     },
     "Kirill Kaprizov": {
-      "gp": 6,
+      "gp": 7,
       "g": 2,
       "a": 8
     },
@@ -62,12 +62,12 @@
       "a": 0
     },
     "Brock Faber": {
-      "gp": 6,
+      "gp": 7,
       "g": 3,
       "a": 3
     },
     "Quinn Hughes": {
-      "gp": 6,
+      "gp": 7,
       "g": 3,
       "a": 8
     },
@@ -112,7 +112,7 @@
       "a": 3
     },
     "Artturi Lehkonen": {
-      "gp": 4,
+      "gp": 5,
       "g": 3,
       "a": 3
     },
@@ -142,7 +142,7 @@
       "a": 4
     },
     "Cale Makar": {
-      "gp": 4,
+      "gp": 5,
       "g": 4,
       "a": 1
     },
@@ -187,7 +187,7 @@
       "a": 5
     },
     "Martin Necas": {
-      "gp": 4,
+      "gp": 5,
       "g": 0,
       "a": 5
     },
@@ -207,7 +207,7 @@
       "a": 5
     },
     "Mats Zuccarello": {
-      "gp": 3,
+      "gp": 4,
       "g": 2,
       "a": 4
     },
@@ -292,7 +292,7 @@
       "a": 3
     },
     "Vladimir Tarasenko": {
-      "gp": 6,
+      "gp": 7,
       "g": 2,
       "a": 1
     },
@@ -317,17 +317,17 @@
       "a": 0
     },
     "Nazem Kadri": {
-      "gp": 4,
+      "gp": 5,
       "g": 1,
       "a": 2
     },
     "Gabriel Landeskog": {
-      "gp": 4,
+      "gp": 5,
       "g": 2,
       "a": 3
     },
     "Nathan MacKinnon": {
-      "gp": 4,
+      "gp": 5,
       "g": 3,
       "a": 4
     },
@@ -337,7 +337,7 @@
       "a": 1
     },
     "Valeri Nichushkin": {
-      "gp": 4,
+      "gp": 5,
       "g": 0,
       "a": 2
     },
@@ -372,12 +372,12 @@
       "a": 3
     },
     "Devon Toews": {
-      "gp": 4,
+      "gp": 5,
       "g": 2,
       "a": 5
     },
     "Matt Boldy": {
-      "gp": 6,
+      "gp": 7,
       "g": 6,
       "a": 4
     },
