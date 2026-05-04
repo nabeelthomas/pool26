@@ -2,6 +2,20 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Jackson Blake",
+      "team": "CAR",
+      "time": "7:00 PM ET",
+      "pool": "Nabeel"
+    },
+    {
+      "type": "GOAL",
+      "player": "Nikolaj Ehlers",
+      "team": "CAR",
+      "time": "7:00 PM ET",
+      "pool": "Cam"
+    },
+    {
+      "type": "ASSIST",
       "player": "Artturi Lehkonen",
       "team": "COL",
       "time": "9:00 PM ET",
@@ -405,20 +419,6 @@
       "team": "MIN",
       "time": "8:00 PM ET",
       "pool": "Will"
-    },
-    {
-      "type": "GOAL",
-      "player": "Matt Boldy",
-      "team": "MIN",
-      "time": "8:00 PM ET",
-      "pool": "Cam"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Jason Robertson",
-      "team": "DAL",
-      "time": "8:00 PM ET",
-      "pool": "Paddy"
     }
   ]
 }
