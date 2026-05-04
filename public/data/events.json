@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "type": "ASSIST",
+      "player": "Valeri Nichushkin",
+      "team": "COL",
+      "time": "9:00 PM ET",
+      "pool": "Andy"
+    },
+    {
+      "type": "GOAL",
+      "player": "Devon Toews",
+      "team": "COL",
+      "time": "9:00 PM ET",
+      "pool": "Andy"
+    },
+    {
       "type": "GOAL",
       "player": "Quinn Hughes",
       "team": "MIN",
@@ -13,13 +27,6 @@
       "team": "MIN",
       "time": "9:00 PM ET",
       "pool": "Paddy"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Valeri Nichushkin",
-      "team": "COL",
-      "time": "9:00 PM ET",
-      "pool": "Andy"
     },
     {
       "type": "ASSIST",
@@ -412,13 +419,6 @@
       "team": "VGK",
       "time": "9:30 PM ET",
       "pool": "Nabeel"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Nick Schmaltz",
-      "team": "UTA",
-      "time": "9:30 PM ET",
-      "pool": "Paddy"
     }
   ]
 }
