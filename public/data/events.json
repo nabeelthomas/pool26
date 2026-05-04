@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "ASSIST",
+      "player": "Nathan MacKinnon",
+      "team": "COL",
+      "time": "9:00 PM ET",
+      "pool": "Andy"
+    },
+    {
       "type": "GOAL",
       "player": "Cale Makar",
       "team": "COL",
@@ -41,13 +48,6 @@
       "team": "MIN",
       "time": "9:00 PM ET",
       "pool": "Will"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Nathan MacKinnon",
-      "team": "COL",
-      "time": "9:00 PM ET",
-      "pool": "Andy"
     },
     {
       "type": "GOAL",
