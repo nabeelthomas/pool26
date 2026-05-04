@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "ASSIST",
+      "player": "Lane Hutson",
+      "team": "MTL",
+      "time": "6:00 PM ET",
+      "pool": "Will"
+    },
+    {
       "type": "GOAL",
       "player": "Nick Suzuki",
       "team": "MTL",
@@ -412,13 +419,6 @@
       "team": "PIT",
       "time": "7:00 PM ET",
       "pool": "Reiner"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Connor McDavid",
-      "team": "EDM",
-      "time": "9:30 PM ET",
-      "pool": "Cam"
     }
   ]
 }
