@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-04T01:46:19.080Z",
+  "lastUpdated": "2026-05-04T02:18:11.053Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -144,7 +144,7 @@
     "Cale Makar": {
       "gp": 4,
       "g": 2,
-      "a": 0
+      "a": 1
     },
     "Shea Theodore": {
       "gp": 6,
@@ -339,7 +339,7 @@
     "Valeri Nichushkin": {
       "gp": 4,
       "g": 0,
-      "a": 0
+      "a": 1
     },
     "Jack Quinn": {
       "gp": 6,
