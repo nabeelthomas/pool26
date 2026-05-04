@@ -2,6 +2,13 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Martin Necas",
+      "team": "COL",
+      "time": "9:00 PM ET",
+      "pool": "Reiner"
+    },
+    {
+      "type": "ASSIST",
       "player": "Lane Hutson",
       "team": "MTL",
       "time": "6:00 PM ET",
@@ -411,13 +418,6 @@
       "player": "Pavel Dorofeyev",
       "team": "VGK",
       "time": "9:30 PM ET",
-      "pool": "Reiner"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Sidney Crosby",
-      "team": "PIT",
-      "time": "7:00 PM ET",
       "pool": "Reiner"
     }
   ]
