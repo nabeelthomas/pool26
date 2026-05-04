@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "GOAL",
+      "player": "Nazem Kadri",
+      "team": "COL",
+      "time": "9:00 PM ET",
+      "pool": "Andy"
+    },
+    {
       "type": "ASSIST",
       "player": "Nathan MacKinnon",
       "team": "COL",
@@ -412,13 +419,6 @@
       "team": "BUF",
       "time": "7:30 PM ET",
       "pool": "Andy"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Jack Eichel",
-      "team": "VGK",
-      "time": "9:30 PM ET",
-      "pool": "Nabeel"
     }
   ]
 }
