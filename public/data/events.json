@@ -2,6 +2,13 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Mitch Marner",
+      "team": "VGK",
+      "time": "9:30 PM ET",
+      "pool": "Reiner"
+    },
+    {
+      "type": "ASSIST",
       "player": "Jackson Blake",
       "team": "CAR",
       "time": "7:00 PM ET",
@@ -412,13 +419,6 @@
       "team": "MIN",
       "time": "8:00 PM ET",
       "pool": "Will"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Miro Heiskanen",
-      "team": "DAL",
-      "time": "8:00 PM ET",
-      "pool": "Nabeel"
     }
   ]
 }
