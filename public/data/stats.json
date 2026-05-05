@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-05T04:16:18.785Z",
+  "lastUpdated": "2026-05-05T04:18:16.157Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -169,7 +169,7 @@
     "Pavel Dorofeyev": {
       "gp": 6,
       "g": 4,
-      "a": 0
+      "a": 1
     },
     "Joel Eriksson Ek": {
       "gp": 6,
@@ -228,7 +228,7 @@
     },
     "Ivan Barbashev": {
       "gp": 6,
-      "g": 2,
+      "g": 3,
       "a": 4
     },
     "Leo Carlsson": {
@@ -392,7 +392,7 @@
       "a": 7
     },
     "Nikolaj Ehlers": {
-      "gp": 1,
+      "gp": 5,
       "g": 1,
       "a": 2
     },
