@@ -2,6 +2,13 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Jackson Blake",
+      "team": "CAR",
+      "time": "7:00 PM ET",
+      "pool": "Nabeel"
+    },
+    {
+      "type": "ASSIST",
       "player": "Nikolaj Ehlers",
       "team": "CAR",
       "time": "7:00 PM ET",
@@ -10,13 +17,6 @@
     {
       "type": "GOAL",
       "player": "Seth Jarvis",
-      "team": "CAR",
-      "time": "7:00 PM ET",
-      "pool": "Nabeel"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Jackson Blake",
       "team": "CAR",
       "time": "7:00 PM ET",
       "pool": "Nabeel"
