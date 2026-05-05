@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "GOAL",
+      "player": "Mitch Marner",
+      "team": "VGK",
+      "time": "9:30 PM ET",
+      "pool": "Reiner"
+    },
+    {
       "type": "ASSIST",
       "player": "Pavel Dorofeyev",
       "team": "VGK",
@@ -412,13 +419,6 @@
       "team": "EDM",
       "time": "10:00 PM ET",
       "pool": "Reiner"
-    },
-    {
-      "type": "GOAL",
-      "player": "Zach Hyman",
-      "team": "EDM",
-      "time": "10:00 PM ET",
-      "pool": "Cam"
     }
   ]
 }
