@@ -2,6 +2,13 @@
   "events": [
     {
       "type": "GOAL",
+      "player": "Ryan McLeod",
+      "team": "BUF",
+      "time": "7:00 PM ET",
+      "pool": "Andy"
+    },
+    {
+      "type": "GOAL",
       "player": "Josh Doan",
       "team": "BUF",
       "time": "7:00 PM ET",
@@ -412,13 +419,6 @@
       "team": "VGK",
       "time": "10:00 PM ET",
       "pool": "Cam"
-    },
-    {
-      "type": "GOAL",
-      "player": "Shea Theodore",
-      "team": "VGK",
-      "time": "10:00 PM ET",
-      "pool": "Nabeel"
     }
   ]
 }
