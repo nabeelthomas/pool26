@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "GOAL",
+      "player": "Valeri Nichushkin",
+      "team": "COL",
+      "time": "8:00 PM ET",
+      "pool": "Andy"
+    },
+    {
       "type": "ASSIST",
       "player": "Nazem Kadri",
       "team": "COL",
@@ -412,13 +419,6 @@
       "team": "UTA",
       "time": "10:00 PM ET",
       "pool": "Paddy"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Tomas Hertl",
-      "team": "VGK",
-      "time": "10:00 PM ET",
-      "pool": "Reiner"
     }
   ]
 }

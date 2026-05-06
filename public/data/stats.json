@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-06T02:40:12.573Z",
+  "lastUpdated": "2026-05-06T02:46:16.288Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -117,8 +117,8 @@
       "a": 3
     },
     "Brock Nelson": {
-      "gp": 5,
-      "g": 1,
+      "gp": 1,
+      "g": 0,
       "a": 1
     },
     "Brayden Point": {
@@ -338,7 +338,7 @@
     },
     "Valeri Nichushkin": {
       "gp": 5,
-      "g": 0,
+      "g": 1,
       "a": 2
     },
     "Jack Quinn": {
