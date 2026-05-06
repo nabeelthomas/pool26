@@ -2,6 +2,13 @@
   "events": [
     {
       "type": "GOAL",
+      "player": "Josh Doan",
+      "team": "BUF",
+      "time": "7:00 PM ET",
+      "pool": "Andy"
+    },
+    {
+      "type": "GOAL",
       "player": "Valeri Nichushkin",
       "team": "COL",
       "time": "8:00 PM ET",
@@ -412,13 +419,6 @@
       "team": "VGK",
       "time": "10:00 PM ET",
       "pool": "Nabeel"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Clayton Keller",
-      "team": "UTA",
-      "time": "10:00 PM ET",
-      "pool": "Paddy"
     }
   ]
 }
