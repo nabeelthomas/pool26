@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-06T00:14:13.703Z",
+  "generatedAt": "2026-05-06T00:16:12.857Z",
   "games": [
     {
       "id": 2025030232,
       "away": "MIN",
       "home": "COL",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 1,
+      "homeScore": 1,
       "period": "1st",
       "startUTC": "2026-05-06T00:00:00Z",
       "status": "live"
