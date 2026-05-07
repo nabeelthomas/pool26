@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "GOAL",
+      "player": "Leo Carlsson",
+      "team": "ANA",
+      "time": "9:30 PM ET",
+      "pool": "Paddy"
+    },
+    {
       "type": "ASSIST",
       "player": "Ryan McLeod",
       "team": "BUF",
@@ -412,13 +419,6 @@
       "team": "MIN",
       "time": "7:30 PM ET",
       "pool": "Will"
-    },
-    {
-      "type": "GOAL",
-      "player": "Vladimir Tarasenko",
-      "team": "MIN",
-      "time": "7:30 PM ET",
-      "pool": "Paddy"
     }
   ]
 }
