@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "type": "ASSIST",
+      "player": "Jack Eichel",
+      "team": "VGK",
+      "time": "9:30 PM ET",
+      "pool": "Nabeel"
+    },
+    {
+      "type": "GOAL",
+      "player": "Mark Stone",
+      "team": "VGK",
+      "time": "9:30 PM ET",
+      "pool": "Cam"
+    },
+    {
       "type": "GOAL",
       "player": "Leo Carlsson",
       "team": "ANA",
@@ -402,20 +416,6 @@
     {
       "type": "ASSIST",
       "player": "Brock Faber",
-      "team": "MIN",
-      "time": "7:30 PM ET",
-      "pool": "Will"
-    },
-    {
-      "type": "GOAL",
-      "player": "Quinn Hughes",
-      "team": "MIN",
-      "time": "7:30 PM ET",
-      "pool": "Will"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Quinn Hughes",
       "team": "MIN",
       "time": "7:30 PM ET",
       "pool": "Will"
