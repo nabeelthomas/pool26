@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-07T10:50:15.703Z",
+  "lastUpdated": "2026-05-08T00:44:13.523Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -299,7 +299,7 @@
     "Shayne Gostisbehere": {
       "gp": 6,
       "g": 0,
-      "a": 0
+      "a": 1
     },
     "Josh Doan": {
       "gp": 7,
@@ -439,7 +439,7 @@
     "Andrei Svechnikov": {
       "gp": 6,
       "g": 0,
-      "a": 1
+      "a": 2
     },
     "Evan Bouchard": {
       "gp": 6,
