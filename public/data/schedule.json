@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T02:44:20.883Z",
+  "generatedAt": "2026-05-09T02:46:11.425Z",
   "games": [
     {
       "id": 2025030212,
@@ -17,7 +17,7 @@
       "home": "ANA",
       "awayScore": 3,
       "homeScore": 0,
-      "period": "1st",
+      "period": "2nd",
       "startUTC": "2026-05-09T01:30:00Z",
       "status": "live"
     }
