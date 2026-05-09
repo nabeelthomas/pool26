@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "type": "ASSIST",
+      "player": "Jack Eichel",
+      "team": "VGK",
+      "time": "9:30 PM ET",
+      "pool": "Nabeel"
+    },
+    {
+      "type": "GOAL",
+      "player": "Shea Theodore",
+      "team": "VGK",
+      "time": "9:30 PM ET",
+      "pool": "Nabeel"
+    },
+    {
       "type": "GOAL",
       "player": "Nick Suzuki",
       "team": "MTL",
@@ -34,13 +48,6 @@
       "team": "CAR",
       "time": "8:00 PM ET",
       "pool": "Cam"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Jack Eichel",
-      "team": "VGK",
-      "time": "9:30 PM ET",
-      "pool": "Nabeel"
     },
     {
       "type": "GOAL",
@@ -412,13 +419,6 @@
       "team": "ANA",
       "time": "10:00 PM ET",
       "pool": "Paddy"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Kasperi Kapanen",
-      "team": "EDM",
-      "time": "10:00 PM ET",
-      "pool": "Will"
     }
   ]
 }
