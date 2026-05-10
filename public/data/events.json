@@ -2,6 +2,20 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Mats Zuccarello",
+      "team": "MIN",
+      "time": "9:00 PM ET",
+      "pool": "Reiner"
+    },
+    {
+      "type": "GOAL",
+      "player": "Quinn Hughes",
+      "team": "MIN",
+      "time": "9:00 PM ET",
+      "pool": "Will"
+    },
+    {
+      "type": "ASSIST",
       "player": "Brock Faber",
       "team": "MIN",
       "time": "9:00 PM ET",
@@ -324,13 +338,6 @@
     },
     {
       "type": "GOAL",
-      "player": "Quinn Hughes",
-      "team": "MIN",
-      "time": "9:00 PM ET",
-      "pool": "Will"
-    },
-    {
-      "type": "GOAL",
       "player": "Vladimir Tarasenko",
       "team": "MIN",
       "time": "9:00 PM ET",
@@ -412,13 +419,6 @@
       "team": "VGK",
       "time": "10:00 PM ET",
       "pool": "Paddy"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Mitch Marner",
-      "team": "VGK",
-      "time": "10:00 PM ET",
-      "pool": "Reiner"
     }
   ]
 }
