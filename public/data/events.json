@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "GOAL",
+      "player": "Jackson Blake",
+      "team": "CAR",
+      "time": "6:00 PM ET",
+      "pool": "Nabeel"
+    },
+    {
       "type": "ASSIST",
       "player": "Travis Konecny",
       "team": "PHI",
@@ -10,13 +17,6 @@
     {
       "type": "GOAL",
       "player": "Logan Stankoven",
-      "team": "CAR",
-      "time": "6:00 PM ET",
-      "pool": "Nabeel"
-    },
-    {
-      "type": "GOAL",
-      "player": "Jackson Blake",
       "team": "CAR",
       "time": "6:00 PM ET",
       "pool": "Nabeel"
