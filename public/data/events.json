@@ -2,6 +2,20 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Gabriel Landeskog",
+      "team": "COL",
+      "time": "9:00 PM ET",
+      "pool": "Andy"
+    },
+    {
+      "type": "GOAL",
+      "player": "Nathan MacKinnon",
+      "team": "COL",
+      "time": "9:00 PM ET",
+      "pool": "Andy"
+    },
+    {
+      "type": "ASSIST",
       "player": "Mats Zuccarello",
       "team": "MIN",
       "time": "9:00 PM ET",
@@ -274,13 +288,6 @@
       "pool": "Nabeel"
     },
     {
-      "type": "GOAL",
-      "player": "Nathan MacKinnon",
-      "team": "COL",
-      "time": "9:00 PM ET",
-      "pool": "Andy"
-    },
-    {
       "type": "ASSIST",
       "player": "Devon Toews",
       "team": "COL",
@@ -412,13 +419,6 @@
       "team": "VGK",
       "time": "10:00 PM ET",
       "pool": "Reiner"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Ivan Barbashev",
-      "team": "VGK",
-      "time": "10:00 PM ET",
-      "pool": "Paddy"
     }
   ]
 }
