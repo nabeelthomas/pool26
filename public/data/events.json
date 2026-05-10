@@ -2,6 +2,20 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Brock Faber",
+      "team": "MIN",
+      "time": "9:00 PM ET",
+      "pool": "Will"
+    },
+    {
+      "type": "GOAL",
+      "player": "Matt Boldy",
+      "team": "MIN",
+      "time": "9:00 PM ET",
+      "pool": "Cam"
+    },
+    {
+      "type": "ASSIST",
       "player": "Vladimir Tarasenko",
       "team": "MIN",
       "time": "9:00 PM ET",
@@ -38,13 +52,6 @@
     {
       "type": "GOAL",
       "player": "Quinn Hughes",
-      "team": "MIN",
-      "time": "9:00 PM ET",
-      "pool": "Will"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Brock Faber",
       "team": "MIN",
       "time": "9:00 PM ET",
       "pool": "Will"
@@ -409,13 +416,6 @@
     {
       "type": "GOAL",
       "player": "Logan Stankoven",
-      "team": "CAR",
-      "time": "8:00 PM ET",
-      "pool": "Nabeel"
-    },
-    {
-      "type": "GOAL",
-      "player": "Jackson Blake",
       "team": "CAR",
       "time": "8:00 PM ET",
       "pool": "Nabeel"
