@@ -2,6 +2,20 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Tage Thompson",
+      "team": "BUF",
+      "time": "7:00 PM ET",
+      "pool": "Andy"
+    },
+    {
+      "type": "GOAL",
+      "player": "Rasmus Dahlin",
+      "team": "BUF",
+      "time": "7:00 PM ET",
+      "pool": "Andy"
+    },
+    {
+      "type": "ASSIST",
       "player": "Lane Hutson",
       "team": "MTL",
       "time": "7:00 PM ET",
@@ -405,20 +419,6 @@
       "team": "MIN",
       "time": "9:00 PM ET",
       "pool": "Will"
-    },
-    {
-      "type": "GOAL",
-      "player": "Artturi Lehkonen",
-      "team": "COL",
-      "time": "9:00 PM ET",
-      "pool": "Nabeel"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Martin Necas",
-      "team": "COL",
-      "time": "9:00 PM ET",
-      "pool": "Reiner"
     }
   ]
 }
