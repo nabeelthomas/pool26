@@ -1,15 +1,15 @@
 {
   "events": [
     {
-      "type": "GOAL",
-      "player": "Juraj Slafkovský",
+      "type": "ASSIST",
+      "player": "Lane Hutson",
       "team": "MTL",
       "time": "7:00 PM ET",
       "pool": "Will"
     },
     {
-      "type": "ASSIST",
-      "player": "Lane Hutson",
+      "type": "GOAL",
+      "player": "Juraj Slafkovský",
       "team": "MTL",
       "time": "7:00 PM ET",
       "pool": "Will"
