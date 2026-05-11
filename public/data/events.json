@@ -16,6 +16,13 @@
     },
     {
       "type": "ASSIST",
+      "player": "Nick Suzuki",
+      "team": "MTL",
+      "time": "7:00 PM ET",
+      "pool": "Reiner"
+    },
+    {
+      "type": "ASSIST",
       "player": "Tage Thompson",
       "team": "BUF",
       "time": "7:00 PM ET",
@@ -62,13 +69,6 @@
       "team": "BUF",
       "time": "7:00 PM ET",
       "pool": "Andy"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Nick Suzuki",
-      "team": "MTL",
-      "time": "7:00 PM ET",
-      "pool": "Reiner"
     },
     {
       "type": "ASSIST",
