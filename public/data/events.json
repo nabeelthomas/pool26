@@ -2,6 +2,20 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Mitch Marner",
+      "team": "VGK",
+      "time": "9:30 PM ET",
+      "pool": "Reiner"
+    },
+    {
+      "type": "GOAL",
+      "player": "Pavel Dorofeyev",
+      "team": "VGK",
+      "time": "9:30 PM ET",
+      "pool": "Reiner"
+    },
+    {
+      "type": "ASSIST",
       "player": "Tage Thompson",
       "team": "BUF",
       "time": "7:00 PM ET",
@@ -157,13 +171,6 @@
     {
       "type": "ASSIST",
       "player": "Pavel Dorofeyev",
-      "team": "VGK",
-      "time": "9:30 PM ET",
-      "pool": "Reiner"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Mitch Marner",
       "team": "VGK",
       "time": "9:30 PM ET",
       "pool": "Reiner"
@@ -412,13 +419,6 @@
       "team": "COL",
       "time": "9:00 PM ET",
       "pool": "Andy"
-    },
-    {
-      "type": "GOAL",
-      "player": "Vladimir Tarasenko",
-      "team": "MIN",
-      "time": "9:00 PM ET",
-      "pool": "Paddy"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-11T02:10:15.219Z",
+  "lastUpdated": "2026-05-11T02:16:17.110Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -94,7 +94,7 @@
     "Jack Eichel": {
       "gp": 9,
       "g": 1,
-      "a": 10
+      "a": 11
     },
     "Jake Guentzel": {
       "gp": 7,
@@ -168,7 +168,7 @@
     },
     "Pavel Dorofeyev": {
       "gp": 9,
-      "g": 4,
+      "g": 5,
       "a": 2
     },
     "Joel Eriksson Ek": {
@@ -184,7 +184,7 @@
     "Mitch Marner": {
       "gp": 9,
       "g": 6,
-      "a": 7
+      "a": 8
     },
     "Martin Necas": {
       "gp": 7,
