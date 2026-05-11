@@ -2,6 +2,20 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Lane Hutson",
+      "team": "MTL",
+      "time": "7:00 PM ET",
+      "pool": "Will"
+    },
+    {
+      "type": "GOAL",
+      "player": "Cole Caufield",
+      "team": "MTL",
+      "time": "7:00 PM ET",
+      "pool": "Will"
+    },
+    {
+      "type": "ASSIST",
       "player": "Rasmus Dahlin",
       "team": "BUF",
       "time": "7:00 PM ET",
@@ -404,20 +418,6 @@
       "player": "Martin Necas",
       "team": "COL",
       "time": "9:00 PM ET",
-      "pool": "Reiner"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Lane Hutson",
-      "team": "MTL",
-      "time": "6:00 PM ET",
-      "pool": "Will"
-    },
-    {
-      "type": "GOAL",
-      "player": "Nick Suzuki",
-      "team": "MTL",
-      "time": "6:00 PM ET",
       "pool": "Reiner"
     }
   ]
