@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T02:02:10.015Z",
+  "generatedAt": "2026-05-11T02:04:10.405Z",
   "games": [
     {
       "id": 2025030213,
@@ -7,9 +7,9 @@
       "home": "MTL",
       "awayScore": 2,
       "homeScore": 6,
-      "period": "3rd",
+      "period": null,
       "startUTC": "2026-05-10T23:00:00Z",
-      "status": "live"
+      "status": "final"
     },
     {
       "id": 2025030244,
