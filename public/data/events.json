@@ -1,18 +1,18 @@
 {
   "events": [
     {
-      "type": "GOAL",
-      "player": "Jack Quinn",
-      "team": "BUF",
-      "time": "7:00 PM ET",
-      "pool": "Andy"
-    },
-    {
       "type": "ASSIST",
       "player": "Josh Norris",
       "team": "BUF",
       "time": "7:00 PM ET",
       "pool": "Cam"
+    },
+    {
+      "type": "GOAL",
+      "player": "Jack Quinn",
+      "team": "BUF",
+      "time": "7:00 PM ET",
+      "pool": "Andy"
     },
     {
       "type": "GOAL",
