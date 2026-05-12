@@ -2,17 +2,24 @@
   "events": [
     {
       "type": "ASSIST",
-      "player": "Quinn Hughes",
-      "team": "MIN",
-      "time": "8:00 PM ET",
-      "pool": "Will"
-    },
-    {
-      "type": "ASSIST",
       "player": "Martin Necas",
       "team": "COL",
       "time": "8:00 PM ET",
       "pool": "Reiner"
+    },
+    {
+      "type": "GOAL",
+      "player": "Nathan MacKinnon",
+      "team": "COL",
+      "time": "8:00 PM ET",
+      "pool": "Andy"
+    },
+    {
+      "type": "ASSIST",
+      "player": "Quinn Hughes",
+      "team": "MIN",
+      "time": "8:00 PM ET",
+      "pool": "Will"
     },
     {
       "type": "GOAL",
@@ -325,13 +332,6 @@
     {
       "type": "ASSIST",
       "player": "Nazem Kadri",
-      "team": "COL",
-      "time": "8:00 PM ET",
-      "pool": "Andy"
-    },
-    {
-      "type": "GOAL",
-      "player": "Nathan MacKinnon",
       "team": "COL",
       "time": "8:00 PM ET",
       "pool": "Andy"
