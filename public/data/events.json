@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "GOAL",
+      "player": "Jack Quinn",
+      "team": "BUF",
+      "time": "7:00 PM ET",
+      "pool": "Andy"
+    },
+    {
       "type": "ASSIST",
       "player": "Josh Norris",
       "team": "BUF",
@@ -412,13 +419,6 @@
       "team": "CAR",
       "time": "7:00 PM ET",
       "pool": "Cam"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Artturi Lehkonen",
-      "team": "COL",
-      "time": "9:00 PM ET",
-      "pool": "Nabeel"
     }
   ]
 }
