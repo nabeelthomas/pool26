@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "GOAL",
+      "player": "Brock Nelson",
+      "team": "COL",
+      "time": "8:00 PM ET",
+      "pool": "Nabeel"
+    },
+    {
       "type": "ASSIST",
       "player": "Martin Necas",
       "team": "COL",
@@ -412,13 +419,6 @@
       "team": "COL",
       "time": "9:00 PM ET",
       "pool": "Andy"
-    },
-    {
-      "type": "GOAL",
-      "player": "Cale Makar",
-      "team": "COL",
-      "time": "9:00 PM ET",
-      "pool": "Nabeel"
     }
   ]
 }
