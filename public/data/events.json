@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "ASSIST",
+      "player": "Josh Norris",
+      "team": "BUF",
+      "time": "7:00 PM ET",
+      "pool": "Cam"
+    },
+    {
       "type": "GOAL",
       "player": "Brock Nelson",
       "team": "COL",
@@ -412,13 +419,6 @@
       "team": "COL",
       "time": "9:00 PM ET",
       "pool": "Nabeel"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Devon Toews",
-      "team": "COL",
-      "time": "9:00 PM ET",
-      "pool": "Andy"
     }
   ]
 }
