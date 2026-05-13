@@ -2,6 +2,20 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Tomas Hertl",
+      "team": "VGK",
+      "time": "9:30 PM ET",
+      "pool": "Reiner"
+    },
+    {
+      "type": "GOAL",
+      "player": "Pavel Dorofeyev",
+      "team": "VGK",
+      "time": "9:30 PM ET",
+      "pool": "Reiner"
+    },
+    {
+      "type": "ASSIST",
       "player": "Cutter Gauthier",
       "team": "ANA",
       "time": "9:30 PM ET",
@@ -108,13 +122,6 @@
     {
       "type": "GOAL",
       "player": "Tomas Hertl",
-      "team": "VGK",
-      "time": "9:30 PM ET",
-      "pool": "Reiner"
-    },
-    {
-      "type": "GOAL",
-      "player": "Pavel Dorofeyev",
       "team": "VGK",
       "time": "9:30 PM ET",
       "pool": "Reiner"
@@ -412,13 +419,6 @@
       "team": "CAR",
       "time": "7:00 PM ET",
       "pool": "Cam"
-    },
-    {
-      "type": "GOAL",
-      "player": "Seth Jarvis",
-      "team": "CAR",
-      "time": "7:00 PM ET",
-      "pool": "Nabeel"
     }
   ]
 }
