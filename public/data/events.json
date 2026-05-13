@@ -2,6 +2,20 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Juraj Slafkovský",
+      "team": "MTL",
+      "time": "7:00 PM ET",
+      "pool": "Will"
+    },
+    {
+      "type": "GOAL",
+      "player": "Cole Caufield",
+      "team": "MTL",
+      "time": "7:00 PM ET",
+      "pool": "Will"
+    },
+    {
+      "type": "ASSIST",
       "player": "Josh Norris",
       "team": "BUF",
       "time": "7:00 PM ET",
@@ -115,13 +129,6 @@
     {
       "type": "GOAL",
       "player": "Juraj Slafkovský",
-      "team": "MTL",
-      "time": "7:00 PM ET",
-      "pool": "Will"
-    },
-    {
-      "type": "GOAL",
-      "player": "Cole Caufield",
       "team": "MTL",
       "time": "7:00 PM ET",
       "pool": "Will"
@@ -321,13 +328,6 @@
       "team": "BUF",
       "time": "7:00 PM ET",
       "pool": "Andy"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Juraj Slafkovský",
-      "team": "MTL",
-      "time": "7:00 PM ET",
-      "pool": "Will"
     },
     {
       "type": "GOAL",
