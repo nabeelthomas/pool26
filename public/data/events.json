@@ -2,6 +2,20 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Rasmus Dahlin",
+      "team": "BUF",
+      "time": "7:00 PM ET",
+      "pool": "Andy"
+    },
+    {
+      "type": "GOAL",
+      "player": "Tage Thompson",
+      "team": "BUF",
+      "time": "7:00 PM ET",
+      "pool": "Andy"
+    },
+    {
+      "type": "ASSIST",
       "player": "Juraj Slafkovský",
       "team": "MTL",
       "time": "7:00 PM ET",
@@ -132,20 +146,6 @@
       "team": "MTL",
       "time": "7:00 PM ET",
       "pool": "Will"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Rasmus Dahlin",
-      "team": "BUF",
-      "time": "7:00 PM ET",
-      "pool": "Andy"
-    },
-    {
-      "type": "GOAL",
-      "player": "Tage Thompson",
-      "team": "BUF",
-      "time": "7:00 PM ET",
-      "pool": "Andy"
     },
     {
       "type": "ASSIST",
