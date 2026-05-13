@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "ASSIST",
+      "player": "Cutter Gauthier",
+      "team": "ANA",
+      "time": "9:30 PM ET",
+      "pool": "Andy"
+    },
+    {
       "type": "GOAL",
       "player": "Tomas Hertl",
       "team": "VGK",
@@ -20,13 +27,6 @@
       "team": "VGK",
       "time": "9:30 PM ET",
       "pool": "Reiner"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Cutter Gauthier",
-      "team": "ANA",
-      "time": "9:30 PM ET",
-      "pool": "Andy"
     },
     {
       "type": "ASSIST",
