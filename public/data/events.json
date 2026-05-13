@@ -2,6 +2,13 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Cutter Gauthier",
+      "team": "ANA",
+      "time": "9:30 PM ET",
+      "pool": "Andy"
+    },
+    {
+      "type": "ASSIST",
       "player": "Josh Doan",
       "team": "BUF",
       "time": "7:00 PM ET",
@@ -104,13 +111,6 @@
       "team": "VGK",
       "time": "9:30 PM ET",
       "pool": "Reiner"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Cutter Gauthier",
-      "team": "ANA",
-      "time": "9:30 PM ET",
-      "pool": "Andy"
     },
     {
       "type": "GOAL",
