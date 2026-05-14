@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-14T23:18:11.575Z",
+  "lastUpdated": "2026-05-14T23:20:12.665Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -8,7 +8,7 @@
     },
     "Cole Caufield": {
       "gp": 11,
-      "g": 3,
+      "g": 4,
       "a": 4
     },
     "Ivan Demidov": {
@@ -357,9 +357,9 @@
       "a": 3
     },
     "Jason Zucker": {
-      "gp": 1,
+      "gp": 10,
       "g": 1,
-      "a": 0
+      "a": 1
     },
     "Bowen Byram": {
       "gp": 10,
