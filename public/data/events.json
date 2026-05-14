@@ -2,17 +2,17 @@
   "events": [
     {
       "type": "ASSIST",
-      "player": "Kirill Kaprizov",
-      "team": "MIN",
-      "time": "8:00 PM ET",
-      "pool": "Will"
-    },
-    {
-      "type": "ASSIST",
       "player": "Matt Boldy",
       "team": "MIN",
       "time": "8:00 PM ET",
       "pool": "Cam"
+    },
+    {
+      "type": "ASSIST",
+      "player": "Kirill Kaprizov",
+      "team": "MIN",
+      "time": "8:00 PM ET",
+      "pool": "Will"
     },
     {
       "type": "ASSIST",
