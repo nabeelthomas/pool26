@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "GOAL",
+      "player": "Josh Doan",
+      "team": "BUF",
+      "time": "7:00 PM ET",
+      "pool": "Andy"
+    },
+    {
       "type": "ASSIST",
       "player": "Nick Suzuki",
       "team": "MTL",
@@ -381,13 +388,6 @@
     {
       "type": "GOAL",
       "player": "Ryan McLeod",
-      "team": "BUF",
-      "time": "7:00 PM ET",
-      "pool": "Andy"
-    },
-    {
-      "type": "GOAL",
-      "player": "Josh Doan",
       "team": "BUF",
       "time": "7:00 PM ET",
       "pool": "Andy"
