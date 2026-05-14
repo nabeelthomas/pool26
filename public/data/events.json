@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "ASSIST",
+      "player": "Nick Suzuki",
+      "team": "MTL",
+      "time": "7:00 PM ET",
+      "pool": "Reiner"
+    },
+    {
       "type": "GOAL",
       "player": "Cole Caufield",
       "team": "MTL",
@@ -166,13 +173,6 @@
       "player": "Mitch Marner",
       "team": "VGK",
       "time": "9:30 PM ET",
-      "pool": "Reiner"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Nick Suzuki",
-      "team": "MTL",
-      "time": "7:00 PM ET",
       "pool": "Reiner"
     },
     {
