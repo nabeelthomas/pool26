@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "ASSIST",
+      "player": "Lane Hutson",
+      "team": "MTL",
+      "time": "7:00 PM ET",
+      "pool": "Will"
+    },
+    {
       "type": "GOAL",
       "player": "Josh Doan",
       "team": "BUF",
@@ -195,13 +202,6 @@
       "team": "BUF",
       "time": "7:00 PM ET",
       "pool": "Andy"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Lane Hutson",
-      "team": "MTL",
-      "time": "7:00 PM ET",
-      "pool": "Will"
     },
     {
       "type": "GOAL",
