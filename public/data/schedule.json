@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T01:46:11.111Z",
+  "generatedAt": "2026-05-15T01:48:18.367Z",
   "games": [
     {
       "id": 2025030215,
@@ -7,19 +7,19 @@
       "home": "BUF",
       "awayScore": 6,
       "homeScore": 3,
-      "period": "3rd",
+      "period": null,
       "startUTC": "2026-05-14T23:00:00Z",
-      "status": "live"
+      "status": "final"
     },
     {
       "id": 2025030246,
       "away": "VGK",
       "home": "ANA",
-      "awayScore": null,
-      "homeScore": null,
-      "period": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "period": "1st",
       "startUTC": "2026-05-15T01:30:00Z",
-      "status": "scheduled"
+      "status": "live"
     }
   ]
 }
