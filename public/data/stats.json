@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-15T00:44:09.561Z",
+  "lastUpdated": "2026-05-15T00:46:12.760Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -44,7 +44,7 @@
     "Juraj Slafkovsky": {
       "gp": 11,
       "g": 4,
-      "a": 3
+      "a": 4
     },
     "Tim Stutzle": {
       "gp": 4,
@@ -74,7 +74,7 @@
     "Lane Hutson": {
       "gp": 11,
       "g": 2,
-      "a": 9
+      "a": 10
     },
     "Sebastian Aho": {
       "gp": 8,
@@ -203,7 +203,7 @@
     },
     "Nick Suzuki": {
       "gp": 11,
-      "g": 3,
+      "g": 4,
       "a": 7
     },
     "Mats Zuccarello": {
@@ -357,9 +357,9 @@
       "a": 3
     },
     "Jason Zucker": {
-      "gp": 10,
+      "gp": 1,
       "g": 1,
-      "a": 1
+      "a": 0
     },
     "Bowen Byram": {
       "gp": 10,

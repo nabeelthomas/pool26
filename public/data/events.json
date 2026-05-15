@@ -2,6 +2,20 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Juraj Slafkovský",
+      "team": "MTL",
+      "time": "7:00 PM ET",
+      "pool": "Will"
+    },
+    {
+      "type": "GOAL",
+      "player": "Nick Suzuki",
+      "team": "MTL",
+      "time": "7:00 PM ET",
+      "pool": "Reiner"
+    },
+    {
+      "type": "ASSIST",
       "player": "Ivan Demidov",
       "team": "MTL",
       "time": "7:00 PM ET",
@@ -146,13 +160,6 @@
       "team": "BUF",
       "time": "7:00 PM ET",
       "pool": "Andy"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Juraj Slafkovský",
-      "team": "MTL",
-      "time": "7:00 PM ET",
-      "pool": "Will"
     },
     {
       "type": "ASSIST",
@@ -335,13 +342,6 @@
       "team": "VGK",
       "time": "9:30 PM ET",
       "pool": "Nabeel"
-    },
-    {
-      "type": "GOAL",
-      "player": "Nick Suzuki",
-      "team": "MTL",
-      "time": "7:00 PM ET",
-      "pool": "Reiner"
     },
     {
       "type": "GOAL",
