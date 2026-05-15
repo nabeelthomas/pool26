@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-15T01:06:10.782Z",
+  "lastUpdated": "2026-05-15T01:14:12.144Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -13,7 +13,7 @@
     },
     "Ivan Demidov": {
       "gp": 11,
-      "g": 0,
+      "g": 1,
       "a": 5
     },
     "Kasperi Kapanen": {
@@ -44,7 +44,7 @@
     "Juraj Slafkovsky": {
       "gp": 11,
       "g": 4,
-      "a": 4
+      "a": 5
     },
     "Tim Stutzle": {
       "gp": 4,
@@ -204,7 +204,7 @@
     "Nick Suzuki": {
       "gp": 11,
       "g": 4,
-      "a": 7
+      "a": 8
     },
     "Mats Zuccarello": {
       "gp": 8,
