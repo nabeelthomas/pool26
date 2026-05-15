@@ -1,18 +1,18 @@
 {
   "events": [
     {
-      "type": "ASSIST",
-      "player": "Ivan Barbashev",
-      "team": "VGK",
-      "time": "9:30 PM ET",
-      "pool": "Paddy"
-    },
-    {
       "type": "GOAL",
       "player": "Pavel Dorofeyev",
       "team": "VGK",
       "time": "9:30 PM ET",
       "pool": "Reiner"
+    },
+    {
+      "type": "ASSIST",
+      "player": "Ivan Barbashev",
+      "team": "VGK",
+      "time": "9:30 PM ET",
+      "pool": "Paddy"
     },
     {
       "type": "ASSIST",
