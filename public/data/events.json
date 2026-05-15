@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "GOAL",
+      "player": "Mitch Marner",
+      "team": "VGK",
+      "time": "9:30 PM ET",
+      "pool": "Reiner"
+    },
+    {
       "type": "ASSIST",
       "player": "Juraj Slafkovský",
       "team": "MTL",
@@ -314,13 +321,6 @@
       "team": "CAR",
       "time": "6:00 PM ET",
       "pool": "Nabeel"
-    },
-    {
-      "type": "GOAL",
-      "player": "Mitch Marner",
-      "team": "VGK",
-      "time": "9:30 PM ET",
-      "pool": "Reiner"
     },
     {
       "type": "ASSIST",
