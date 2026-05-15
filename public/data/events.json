@@ -1,7 +1,7 @@
 {
   "events": [
     {
-      "type": "GOAL",
+      "type": "ASSIST",
       "player": "Ivan Demidov",
       "team": "MTL",
       "time": "7:00 PM ET",
@@ -48,6 +48,13 @@
       "team": "BUF",
       "time": "7:00 PM ET",
       "pool": "Andy"
+    },
+    {
+      "type": "GOAL",
+      "player": "Ivan Demidov",
+      "team": "MTL",
+      "time": "7:00 PM ET",
+      "pool": "Will"
     },
     {
       "type": "ASSIST",
@@ -409,13 +416,6 @@
     {
       "type": "ASSIST",
       "player": "Nazem Kadri",
-      "team": "COL",
-      "time": "8:00 PM ET",
-      "pool": "Andy"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Nathan MacKinnon",
       "team": "COL",
       "time": "8:00 PM ET",
       "pool": "Andy"
