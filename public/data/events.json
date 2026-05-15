@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "GOAL",
+      "player": "Ivan Demidov",
+      "team": "MTL",
+      "time": "7:00 PM ET",
+      "pool": "Will"
+    },
+    {
       "type": "ASSIST",
       "player": "Lane Hutson",
       "team": "MTL",
@@ -409,13 +416,6 @@
     {
       "type": "ASSIST",
       "player": "Nathan MacKinnon",
-      "team": "COL",
-      "time": "8:00 PM ET",
-      "pool": "Andy"
-    },
-    {
-      "type": "GOAL",
-      "player": "Gabriel Landeskog",
       "team": "COL",
       "time": "8:00 PM ET",
       "pool": "Andy"
