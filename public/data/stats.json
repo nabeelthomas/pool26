@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-17T02:48:13.789Z",
+  "lastUpdated": "2026-05-17T02:54:11.579Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -334,7 +334,7 @@
     "Ryan McLeod": {
       "gp": 11,
       "g": 1,
-      "a": 2
+      "a": 3
     },
     "Valeri Nichushkin": {
       "gp": 9,
@@ -342,7 +342,7 @@
       "a": 2
     },
     "Jack Quinn": {
-      "gp": 11,
+      "gp": 1,
       "g": 2,
       "a": 5
     },
@@ -369,7 +369,7 @@
     "Rasmus Dahlin": {
       "gp": 11,
       "g": 3,
-      "a": 9
+      "a": 10
     },
     "Devon Toews": {
       "gp": 9,

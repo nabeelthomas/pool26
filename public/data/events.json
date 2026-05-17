@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "ASSIST",
+      "player": "Ryan McLeod",
+      "team": "BUF",
+      "time": "8:00 PM ET",
+      "pool": "Andy"
+    },
+    {
       "type": "GOAL",
       "player": "Tage Thompson",
       "team": "BUF",
@@ -412,13 +419,6 @@
       "team": "VGK",
       "time": "9:30 PM ET",
       "pool": "Nabeel"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Pavel Dorofeyev",
-      "team": "VGK",
-      "time": "9:30 PM ET",
-      "pool": "Reiner"
     }
   ]
 }
