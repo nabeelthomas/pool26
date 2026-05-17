@@ -2,14 +2,7 @@
   "events": [
     {
       "type": "ASSIST",
-      "player": "Jason Zucker",
-      "team": "BUF",
-      "time": "8:00 PM ET",
-      "pool": "Andy"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Rasmus Dahlin",
+      "player": "Tage Thompson",
       "team": "BUF",
       "time": "8:00 PM ET",
       "pool": "Andy"
@@ -23,7 +16,14 @@
     },
     {
       "type": "ASSIST",
-      "player": "Tage Thompson",
+      "player": "Jason Zucker",
+      "team": "BUF",
+      "time": "8:00 PM ET",
+      "pool": "Andy"
+    },
+    {
+      "type": "ASSIST",
+      "player": "Rasmus Dahlin",
       "team": "BUF",
       "time": "8:00 PM ET",
       "pool": "Andy"
