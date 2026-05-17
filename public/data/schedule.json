@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-17T00:40:12.657Z",
+  "generatedAt": "2026-05-17T00:42:11.908Z",
   "games": [
     {
       "id": 2025030216,
       "away": "BUF",
       "home": "MTL",
       "awayScore": 1,
-      "homeScore": 2,
+      "homeScore": 3,
       "period": "1st",
       "startUTC": "2026-05-17T00:00:00Z",
       "status": "live"
