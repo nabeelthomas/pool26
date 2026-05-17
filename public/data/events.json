@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "type": "ASSIST",
+      "player": "Lane Hutson",
+      "team": "MTL",
+      "time": "8:00 PM ET",
+      "pool": "Will"
+    },
+    {
+      "type": "GOAL",
+      "player": "Ivan Demidov",
+      "team": "MTL",
+      "time": "8:00 PM ET",
+      "pool": "Will"
+    },
+    {
       "type": "GOAL",
       "player": "Rasmus Dahlin",
       "team": "BUF",
@@ -401,20 +415,6 @@
     },
     {
       "type": "ASSIST",
-      "player": "Ryan McLeod",
-      "team": "BUF",
-      "time": "7:00 PM ET",
-      "pool": "Andy"
-    },
-    {
-      "type": "GOAL",
-      "player": "Bowen Byram",
-      "team": "BUF",
-      "time": "7:00 PM ET",
-      "pool": "Andy"
-    },
-    {
-      "type": "GOAL",
       "player": "Ryan McLeod",
       "team": "BUF",
       "time": "7:00 PM ET",

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-17T00:22:15.053Z",
+  "lastUpdated": "2026-05-17T00:36:09.985Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -9,11 +9,11 @@
     "Cole Caufield": {
       "gp": 12,
       "g": 4,
-      "a": 4
+      "a": 5
     },
     "Ivan Demidov": {
       "gp": 12,
-      "g": 1,
+      "g": 2,
       "a": 5
     },
     "Kasperi Kapanen": {
@@ -74,7 +74,7 @@
     "Lane Hutson": {
       "gp": 12,
       "g": 2,
-      "a": 10
+      "a": 11
     },
     "Sebastian Aho": {
       "gp": 8,
