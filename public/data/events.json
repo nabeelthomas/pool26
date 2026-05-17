@@ -2,6 +2,13 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Tage Thompson",
+      "team": "BUF",
+      "time": "8:00 PM ET",
+      "pool": "Andy"
+    },
+    {
+      "type": "ASSIST",
       "player": "Josh Norris",
       "team": "BUF",
       "time": "8:00 PM ET",
@@ -411,13 +418,6 @@
       "player": "Andrei Svechnikov",
       "team": "CAR",
       "time": "8:00 PM ET",
-      "pool": "Cam"
-    },
-    {
-      "type": "GOAL",
-      "player": "Mark Stone",
-      "team": "VGK",
-      "time": "9:30 PM ET",
       "pool": "Cam"
     }
   ]
