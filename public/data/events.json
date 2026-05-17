@@ -2,6 +2,20 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Josh Norris",
+      "team": "BUF",
+      "time": "8:00 PM ET",
+      "pool": "Cam"
+    },
+    {
+      "type": "GOAL",
+      "player": "Jason Zucker",
+      "team": "BUF",
+      "time": "8:00 PM ET",
+      "pool": "Andy"
+    },
+    {
+      "type": "ASSIST",
       "player": "Lane Hutson",
       "team": "MTL",
       "time": "8:00 PM ET",
@@ -405,20 +419,6 @@
       "team": "VGK",
       "time": "9:30 PM ET",
       "pool": "Cam"
-    },
-    {
-      "type": "GOAL",
-      "player": "Leo Carlsson",
-      "team": "ANA",
-      "time": "9:30 PM ET",
-      "pool": "Paddy"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Ryan McLeod",
-      "team": "BUF",
-      "time": "7:00 PM ET",
-      "pool": "Andy"
     }
   ]
 }
