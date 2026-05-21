@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "GOAL",
+      "player": "Valeri Nichushkin",
+      "team": "COL",
+      "time": "8:00 PM ET",
+      "pool": "Andy"
+    },
+    {
       "type": "ASSIST",
       "player": "Mitch Marner",
       "team": "VGK",
@@ -409,13 +416,6 @@
     {
       "type": "GOAL",
       "player": "Quinn Hughes",
-      "team": "MIN",
-      "time": "9:00 PM ET",
-      "pool": "Will"
-    },
-    {
-      "type": "GOAL",
-      "player": "Kirill Kaprizov",
       "team": "MIN",
       "time": "9:00 PM ET",
       "pool": "Will"
