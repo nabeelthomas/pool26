@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "type": "ASSIST",
+      "player": "Mitch Marner",
+      "team": "VGK",
+      "time": "8:00 PM ET",
+      "pool": "Reiner"
+    },
+    {
+      "type": "GOAL",
+      "player": "Pavel Dorofeyev",
+      "team": "VGK",
+      "time": "8:00 PM ET",
+      "pool": "Reiner"
+    },
+    {
       "type": "GOAL",
       "player": "Rasmus Dahlin",
       "team": "BUF",
@@ -405,20 +419,6 @@
       "team": "MIN",
       "time": "9:00 PM ET",
       "pool": "Will"
-    },
-    {
-      "type": "GOAL",
-      "player": "Jackson Blake",
-      "team": "CAR",
-      "time": "6:00 PM ET",
-      "pool": "Nabeel"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Travis Konecny",
-      "team": "PHI",
-      "time": "6:00 PM ET",
-      "pool": "Paddy"
     }
   ]
 }
