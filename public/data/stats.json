@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-21T02:54:11.392Z",
+  "lastUpdated": "2026-05-21T03:34:14.815Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -92,7 +92,7 @@
       "a": 7
     },
     "Jack Eichel": {
-      "gp": 12,
+      "gp": 13,
       "g": 1,
       "a": 15
     },
@@ -112,12 +112,12 @@
       "a": 3
     },
     "Artturi Lehkonen": {
-      "gp": 7,
+      "gp": 8,
       "g": 3,
       "a": 3
     },
     "Brock Nelson": {
-      "gp": 9,
+      "gp": 10,
       "g": 2,
       "a": 1
     },
@@ -147,7 +147,7 @@
       "a": 1
     },
     "Shea Theodore": {
-      "gp": 12,
+      "gp": 13,
       "g": 4,
       "a": 5
     },
@@ -167,7 +167,7 @@
       "a": 4
     },
     "Pavel Dorofeyev": {
-      "gp": 12,
+      "gp": 13,
       "g": 10,
       "a": 2
     },
@@ -177,17 +177,17 @@
       "a": 2
     },
     "Tomas Hertl": {
-      "gp": 12,
+      "gp": 13,
       "g": 2,
       "a": 5
     },
     "Mitch Marner": {
-      "gp": 12,
+      "gp": 13,
       "g": 7,
       "a": 12
     },
     "Martin Necas": {
-      "gp": 9,
+      "gp": 10,
       "g": 1,
       "a": 10
     },
@@ -227,7 +227,7 @@
       "a": 2
     },
     "Ivan Barbashev": {
-      "gp": 12,
+      "gp": 13,
       "g": 3,
       "a": 6
     },
@@ -317,17 +317,17 @@
       "a": 0
     },
     "Nazem Kadri": {
-      "gp": 9,
+      "gp": 10,
       "g": 2,
       "a": 4
     },
     "Gabriel Landeskog": {
-      "gp": 9,
+      "gp": 10,
       "g": 4,
       "a": 5
     },
     "Nathan MacKinnon": {
-      "gp": 9,
+      "gp": 10,
       "g": 7,
       "a": 7
     },
@@ -337,9 +337,9 @@
       "a": 4
     },
     "Valeri Nichushkin": {
-      "gp": 9,
+      "gp": 1,
       "g": 2,
-      "a": 2
+      "a": 0
     },
     "Jack Quinn": {
       "gp": 13,
@@ -372,7 +372,7 @@
       "a": 10
     },
     "Devon Toews": {
-      "gp": 9,
+      "gp": 10,
       "g": 2,
       "a": 7
     },
