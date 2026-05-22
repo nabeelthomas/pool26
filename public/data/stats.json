@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-22T02:36:09.866Z",
+  "lastUpdated": "2026-05-22T02:38:12.447Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -9,7 +9,7 @@
     "Cole Caufield": {
       "gp": 14,
       "g": 5,
-      "a": 6
+      "a": 5
     },
     "Ivan Demidov": {
       "gp": 14,
@@ -107,9 +107,9 @@
       "a": 0
     },
     "Seth Jarvis": {
-      "gp": 1,
+      "gp": 8,
       "g": 2,
-      "a": 0
+      "a": 3
     },
     "Artturi Lehkonen": {
       "gp": 8,
@@ -204,7 +204,7 @@
     "Nick Suzuki": {
       "gp": 14,
       "g": 4,
-      "a": 10
+      "a": 11
     },
     "Mats Zuccarello": {
       "gp": 8,

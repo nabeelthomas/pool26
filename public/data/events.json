@@ -2,10 +2,10 @@
   "events": [
     {
       "type": "ASSIST",
-      "player": "Cole Caufield",
+      "player": "Nick Suzuki",
       "team": "MTL",
       "time": "8:00 PM ET",
-      "pool": "Will"
+      "pool": "Reiner"
     },
     {
       "type": "GOAL",
@@ -51,10 +51,10 @@
     },
     {
       "type": "ASSIST",
-      "player": "Nick Suzuki",
+      "player": "Cole Caufield",
       "team": "MTL",
       "time": "8:00 PM ET",
-      "pool": "Reiner"
+      "pool": "Will"
     },
     {
       "type": "ASSIST",
