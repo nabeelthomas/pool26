@@ -2,10 +2,10 @@
   "events": [
     {
       "type": "ASSIST",
-      "player": "Nick Suzuki",
+      "player": "Cole Caufield",
       "team": "MTL",
       "time": "8:00 PM ET",
-      "pool": "Reiner"
+      "pool": "Will"
     },
     {
       "type": "GOAL",
@@ -48,6 +48,13 @@
       "team": "CAR",
       "time": "8:00 PM ET",
       "pool": "Nabeel"
+    },
+    {
+      "type": "ASSIST",
+      "player": "Nick Suzuki",
+      "team": "MTL",
+      "time": "8:00 PM ET",
+      "pool": "Reiner"
     },
     {
       "type": "ASSIST",
@@ -409,13 +416,6 @@
     {
       "type": "ASSIST",
       "player": "Tage Thompson",
-      "team": "BUF",
-      "time": "7:00 PM ET",
-      "pool": "Andy"
-    },
-    {
-      "type": "GOAL",
-      "player": "Rasmus Dahlin",
       "team": "BUF",
       "time": "7:00 PM ET",
       "pool": "Andy"
