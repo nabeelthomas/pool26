@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "GOAL",
+      "player": "Ivan Demidov",
+      "team": "MTL",
+      "time": "8:00 PM ET",
+      "pool": "Will"
+    },
+    {
       "type": "ASSIST",
       "player": "Juraj Slafkovský",
       "team": "MTL",
@@ -143,13 +150,6 @@
     {
       "type": "ASSIST",
       "player": "Lane Hutson",
-      "team": "MTL",
-      "time": "8:00 PM ET",
-      "pool": "Will"
-    },
-    {
-      "type": "GOAL",
-      "player": "Ivan Demidov",
       "team": "MTL",
       "time": "8:00 PM ET",
       "pool": "Will"
