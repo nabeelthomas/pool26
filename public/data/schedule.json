@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-05-23T02:32:13.815Z",
+  "generatedAt": "2026-05-23T02:34:12.263Z",
   "games": [
     {
       "id": 2025030322,
       "away": "VGK",
       "home": "COL",
-      "awayScore": 1,
+      "awayScore": 2,
       "homeScore": 1,
       "period": "3rd",
       "startUTC": "2026-05-23T00:00:00Z",
