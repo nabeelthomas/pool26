@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-05-24T14:23:21.783Z",
+  "generatedAt": "2026-05-24T17:00:14.861Z",
   "games": [
     {
-      "id": 2025030312,
-      "away": "MTL",
-      "home": "CAR",
-      "awayScore": 2,
-      "homeScore": 3,
-      "period": "OT",
-      "startUTC": "2026-05-23T23:00:00Z",
-      "status": "final"
+      "id": 2025030323,
+      "away": "COL",
+      "home": "VGK",
+      "awayScore": null,
+      "homeScore": null,
+      "period": null,
+      "startUTC": "2026-05-25T00:00:00Z",
+      "status": "scheduled"
     }
   ]
 }
