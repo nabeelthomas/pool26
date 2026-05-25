@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "type": "ASSIST",
+      "player": "Devon Toews",
+      "team": "COL",
+      "time": "8:00 PM ET",
+      "pool": "Andy"
+    },
+    {
+      "type": "GOAL",
+      "player": "Gabriel Landeskog",
+      "team": "COL",
+      "time": "8:00 PM ET",
+      "pool": "Andy"
+    },
+    {
       "type": "GOAL",
       "player": "Nikolaj Ehlers",
       "team": "CAR",
@@ -94,13 +108,6 @@
     {
       "type": "ASSIST",
       "player": "Nathan MacKinnon",
-      "team": "COL",
-      "time": "8:00 PM ET",
-      "pool": "Andy"
-    },
-    {
-      "type": "GOAL",
-      "player": "Gabriel Landeskog",
       "team": "COL",
       "time": "8:00 PM ET",
       "pool": "Andy"
@@ -332,13 +339,6 @@
     {
       "type": "GOAL",
       "player": "Nathan MacKinnon",
-      "team": "COL",
-      "time": "8:00 PM ET",
-      "pool": "Andy"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Devon Toews",
       "team": "COL",
       "time": "8:00 PM ET",
       "pool": "Andy"
