@@ -2,6 +2,20 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Andrei Svechnikov",
+      "team": "CAR",
+      "time": "8:00 PM ET",
+      "pool": "Cam"
+    },
+    {
+      "type": "GOAL",
+      "player": "Sebastian Aho",
+      "team": "CAR",
+      "time": "8:00 PM ET",
+      "pool": "Nabeel"
+    },
+    {
+      "type": "ASSIST",
       "player": "Cole Caufield",
       "team": "MTL",
       "time": "8:00 PM ET",
@@ -160,13 +174,6 @@
       "team": "MTL",
       "time": "8:00 PM ET",
       "pool": "Will"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Andrei Svechnikov",
-      "team": "CAR",
-      "time": "8:00 PM ET",
-      "pool": "Cam"
     },
     {
       "type": "GOAL",
@@ -412,13 +419,6 @@
       "team": "MIN",
       "time": "8:00 PM ET",
       "pool": "Will"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Jack Eichel",
-      "team": "VGK",
-      "time": "9:30 PM ET",
-      "pool": "Nabeel"
     }
   ]
 }
