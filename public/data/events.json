@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "GOAL",
+      "player": "Lane Hutson",
+      "team": "MTL",
+      "time": "8:00 PM ET",
+      "pool": "Will"
+    },
+    {
       "type": "ASSIST",
       "player": "Ivan Demidov",
       "team": "MTL",
@@ -412,13 +419,6 @@
       "team": "ANA",
       "time": "9:30 PM ET",
       "pool": "Andy"
-    },
-    {
-      "type": "GOAL",
-      "player": "Tomas Hertl",
-      "team": "VGK",
-      "time": "9:30 PM ET",
-      "pool": "Reiner"
     }
   ]
 }
