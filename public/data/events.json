@@ -2,17 +2,17 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Seth Jarvis",
+      "team": "CAR",
+      "time": "8:00 PM ET",
+      "pool": "Nabeel"
+    },
+    {
+      "type": "GOAL",
       "player": "Andrei Svechnikov",
       "team": "CAR",
       "time": "8:00 PM ET",
       "pool": "Cam"
-    },
-    {
-      "type": "GOAL",
-      "player": "Sebastian Aho",
-      "team": "CAR",
-      "time": "8:00 PM ET",
-      "pool": "Nabeel"
     },
     {
       "type": "ASSIST",
@@ -41,6 +41,20 @@
       "team": "CAR",
       "time": "8:00 PM ET",
       "pool": "Paddy"
+    },
+    {
+      "type": "ASSIST",
+      "player": "Andrei Svechnikov",
+      "team": "CAR",
+      "time": "8:00 PM ET",
+      "pool": "Cam"
+    },
+    {
+      "type": "GOAL",
+      "player": "Sebastian Aho",
+      "team": "CAR",
+      "time": "8:00 PM ET",
+      "pool": "Nabeel"
     },
     {
       "type": "GOAL",
@@ -405,20 +419,6 @@
       "team": "COL",
       "time": "8:00 PM ET",
       "pool": "Andy"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Matt Boldy",
-      "team": "MIN",
-      "time": "8:00 PM ET",
-      "pool": "Cam"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Kirill Kaprizov",
-      "team": "MIN",
-      "time": "8:00 PM ET",
-      "pool": "Will"
     }
   ]
 }
