@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-05-28T00:12:16.230Z",
+  "generatedAt": "2026-05-28T00:14:15.848Z",
   "games": [
     {
       "id": 2025030314,
       "away": "CAR",
       "home": "MTL",
-      "awayScore": null,
-      "homeScore": null,
-      "period": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "period": "1st",
       "startUTC": "2026-05-28T00:00:00Z",
-      "status": "scheduled"
+      "status": "live"
     }
   ]
 }
