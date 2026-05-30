@@ -2,6 +2,20 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Lane Hutson",
+      "team": "MTL",
+      "time": "8:00 PM ET",
+      "pool": "Will"
+    },
+    {
+      "type": "GOAL",
+      "player": "Cole Caufield",
+      "team": "MTL",
+      "time": "8:00 PM ET",
+      "pool": "Will"
+    },
+    {
+      "type": "ASSIST",
       "player": "Seth Jarvis",
       "team": "CAR",
       "time": "8:00 PM ET",
@@ -240,13 +254,6 @@
     },
     {
       "type": "GOAL",
-      "player": "Cole Caufield",
-      "team": "MTL",
-      "time": "8:00 PM ET",
-      "pool": "Will"
-    },
-    {
-      "type": "GOAL",
       "player": "Seth Jarvis",
       "team": "CAR",
       "time": "8:00 PM ET",
@@ -342,13 +349,6 @@
       "team": "BUF",
       "time": "8:00 PM ET",
       "pool": "Andy"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Lane Hutson",
-      "team": "MTL",
-      "time": "8:00 PM ET",
-      "pool": "Will"
     },
     {
       "type": "GOAL",
