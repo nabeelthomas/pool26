@@ -2,6 +2,20 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Sebastian Aho",
+      "team": "CAR",
+      "time": "8:00 PM ET",
+      "pool": "Nabeel"
+    },
+    {
+      "type": "GOAL",
+      "player": "Seth Jarvis",
+      "team": "CAR",
+      "time": "8:00 PM ET",
+      "pool": "Nabeel"
+    },
+    {
+      "type": "ASSIST",
       "player": "Lane Hutson",
       "team": "MTL",
       "time": "8:00 PM ET",
@@ -253,13 +267,6 @@
       "pool": "Will"
     },
     {
-      "type": "GOAL",
-      "player": "Seth Jarvis",
-      "team": "CAR",
-      "time": "8:00 PM ET",
-      "pool": "Nabeel"
-    },
-    {
       "type": "ASSIST",
       "player": "Nathan MacKinnon",
       "team": "COL",
@@ -412,13 +419,6 @@
       "team": "MTL",
       "time": "7:00 PM ET",
       "pool": "Will"
-    },
-    {
-      "type": "GOAL",
-      "player": "Nick Suzuki",
-      "team": "MTL",
-      "time": "7:00 PM ET",
-      "pool": "Reiner"
     }
   ]
 }
