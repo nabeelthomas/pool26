@@ -2,6 +2,13 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Shea Theodore",
+      "team": "VGK",
+      "time": "8:00 PM ET",
+      "pool": "Nabeel"
+    },
+    {
+      "type": "ASSIST",
       "player": "Mitch Marner",
       "team": "VGK",
       "time": "8:00 PM ET",
@@ -408,13 +415,6 @@
     },
     {
       "type": "ASSIST",
-      "player": "Mitch Marner",
-      "team": "VGK",
-      "time": "9:30 PM ET",
-      "pool": "Reiner"
-    },
-    {
-      "type": "GOAL",
       "player": "Mitch Marner",
       "team": "VGK",
       "time": "9:30 PM ET",
