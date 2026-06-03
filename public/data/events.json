@@ -2,6 +2,20 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Logan Stankoven",
+      "team": "CAR",
+      "time": "8:00 PM ET",
+      "pool": "Nabeel"
+    },
+    {
+      "type": "GOAL",
+      "player": "Shayne Gostisbehere",
+      "team": "CAR",
+      "time": "8:00 PM ET",
+      "pool": "Paddy"
+    },
+    {
+      "type": "ASSIST",
       "player": "Shea Theodore",
       "team": "VGK",
       "time": "8:00 PM ET",
@@ -79,13 +93,6 @@
     },
     {
       "type": "GOAL",
-      "player": "Shayne Gostisbehere",
-      "team": "CAR",
-      "time": "8:00 PM ET",
-      "pool": "Paddy"
-    },
-    {
-      "type": "GOAL",
       "player": "Jackson Blake",
       "team": "CAR",
       "time": "8:00 PM ET",
@@ -93,13 +100,6 @@
     },
     {
       "type": "GOAL",
-      "player": "Logan Stankoven",
-      "team": "CAR",
-      "time": "8:00 PM ET",
-      "pool": "Nabeel"
-    },
-    {
-      "type": "ASSIST",
       "player": "Logan Stankoven",
       "team": "CAR",
       "time": "8:00 PM ET",
