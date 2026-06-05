@@ -2,6 +2,13 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Ivan Barbashev",
+      "team": "VGK",
+      "time": "8:00 PM ET",
+      "pool": "Paddy"
+    },
+    {
+      "type": "ASSIST",
       "player": "Mitch Marner",
       "team": "VGK",
       "time": "8:00 PM ET",
@@ -412,13 +419,6 @@
       "team": "VGK",
       "time": "9:30 PM ET",
       "pool": "Nabeel"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Mitch Marner",
-      "team": "VGK",
-      "time": "9:30 PM ET",
-      "pool": "Reiner"
     }
   ]
 }
