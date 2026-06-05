@@ -2,6 +2,20 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Shayne Gostisbehere",
+      "team": "CAR",
+      "time": "8:00 PM ET",
+      "pool": "Paddy"
+    },
+    {
+      "type": "GOAL",
+      "player": "Seth Jarvis",
+      "team": "CAR",
+      "time": "8:00 PM ET",
+      "pool": "Nabeel"
+    },
+    {
+      "type": "ASSIST",
       "player": "Mitch Marner",
       "team": "VGK",
       "time": "8:00 PM ET",
@@ -13,13 +27,6 @@
       "team": "VGK",
       "time": "8:00 PM ET",
       "pool": "Cam"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Shayne Gostisbehere",
-      "team": "CAR",
-      "time": "8:00 PM ET",
-      "pool": "Paddy"
     },
     {
       "type": "GOAL",
@@ -94,13 +101,6 @@
     {
       "type": "ASSIST",
       "player": "Sebastian Aho",
-      "team": "CAR",
-      "time": "8:00 PM ET",
-      "pool": "Nabeel"
-    },
-    {
-      "type": "GOAL",
-      "player": "Seth Jarvis",
       "team": "CAR",
       "time": "8:00 PM ET",
       "pool": "Nabeel"
