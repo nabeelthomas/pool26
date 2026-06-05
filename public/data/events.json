@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "ASSIST",
+      "player": "Mitch Marner",
+      "team": "VGK",
+      "time": "8:00 PM ET",
+      "pool": "Reiner"
+    },
+    {
       "type": "GOAL",
       "player": "Tomas Hertl",
       "team": "VGK",
@@ -20,13 +27,6 @@
       "team": "VGK",
       "time": "8:00 PM ET",
       "pool": "Nabeel"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Mitch Marner",
-      "team": "VGK",
-      "time": "8:00 PM ET",
-      "pool": "Reiner"
     },
     {
       "type": "ASSIST",
