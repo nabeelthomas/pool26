@@ -2,6 +2,20 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Mitch Marner",
+      "team": "VGK",
+      "time": "8:00 PM ET",
+      "pool": "Reiner"
+    },
+    {
+      "type": "GOAL",
+      "player": "Mark Stone",
+      "team": "VGK",
+      "time": "8:00 PM ET",
+      "pool": "Cam"
+    },
+    {
+      "type": "ASSIST",
       "player": "Shayne Gostisbehere",
       "team": "CAR",
       "time": "8:00 PM ET",
@@ -20,13 +34,6 @@
       "team": "VGK",
       "time": "8:00 PM ET",
       "pool": "Paddy"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Mitch Marner",
-      "team": "VGK",
-      "time": "8:00 PM ET",
-      "pool": "Reiner"
     },
     {
       "type": "GOAL",
@@ -212,13 +219,6 @@
     },
     {
       "type": "ASSIST",
-      "player": "Mark Stone",
-      "team": "VGK",
-      "time": "8:00 PM ET",
-      "pool": "Cam"
-    },
-    {
-      "type": "GOAL",
       "player": "Mark Stone",
       "team": "VGK",
       "time": "8:00 PM ET",
