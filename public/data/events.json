@@ -2,6 +2,13 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Seth Jarvis",
+      "team": "CAR",
+      "time": "8:00 PM ET",
+      "pool": "Nabeel"
+    },
+    {
+      "type": "ASSIST",
       "player": "Tomas Hertl",
       "team": "VGK",
       "time": "8:00 PM ET",
@@ -132,13 +139,6 @@
       "team": "MTL",
       "time": "8:00 PM ET",
       "pool": "Will"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Seth Jarvis",
-      "team": "CAR",
-      "time": "8:00 PM ET",
-      "pool": "Nabeel"
     },
     {
       "type": "GOAL",
