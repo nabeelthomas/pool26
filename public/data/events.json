@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "ASSIST",
+      "player": "Tomas Hertl",
+      "team": "VGK",
+      "time": "8:00 PM ET",
+      "pool": "Reiner"
+    },
+    {
       "type": "GOAL",
       "player": "Mitch Marner",
       "team": "VGK",
@@ -412,13 +419,6 @@
       "team": "VGK",
       "time": "9:30 PM ET",
       "pool": "Reiner"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Ivan Barbashev",
-      "team": "VGK",
-      "time": "9:30 PM ET",
-      "pool": "Paddy"
     }
   ]
 }
