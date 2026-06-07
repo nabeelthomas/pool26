@@ -2,6 +2,27 @@
   "events": [
     {
       "type": "GOAL",
+      "player": "Mitch Marner",
+      "team": "VGK",
+      "time": "8:00 PM ET",
+      "pool": "Reiner"
+    },
+    {
+      "type": "ASSIST",
+      "player": "Jack Eichel",
+      "team": "VGK",
+      "time": "8:00 PM ET",
+      "pool": "Nabeel"
+    },
+    {
+      "type": "GOAL",
+      "player": "Tomas Hertl",
+      "team": "VGK",
+      "time": "8:00 PM ET",
+      "pool": "Reiner"
+    },
+    {
+      "type": "GOAL",
       "player": "Mark Stone",
       "team": "VGK",
       "time": "8:00 PM ET",
@@ -44,13 +65,6 @@
     },
     {
       "type": "GOAL",
-      "player": "Tomas Hertl",
-      "team": "VGK",
-      "time": "8:00 PM ET",
-      "pool": "Reiner"
-    },
-    {
-      "type": "GOAL",
       "player": "Shayne Gostisbehere",
       "team": "CAR",
       "time": "8:00 PM ET",
@@ -59,13 +73,6 @@
     {
       "type": "ASSIST",
       "player": "Shea Theodore",
-      "team": "VGK",
-      "time": "8:00 PM ET",
-      "pool": "Nabeel"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Jack Eichel",
       "team": "VGK",
       "time": "8:00 PM ET",
       "pool": "Nabeel"
@@ -412,13 +419,6 @@
       "team": "VGK",
       "time": "9:30 PM ET",
       "pool": "Paddy"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Tomas Hertl",
-      "team": "VGK",
-      "time": "9:30 PM ET",
-      "pool": "Reiner"
     }
   ]
 }
