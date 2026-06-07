@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T01:16:15.824Z",
+  "generatedAt": "2026-06-07T01:18:15.342Z",
   "games": [
     {
       "id": 2025030413,
@@ -7,7 +7,7 @@
       "home": "VGK",
       "awayScore": 0,
       "homeScore": 0,
-      "period": "1st",
+      "period": "2nd",
       "startUTC": "2026-06-07T00:00:00Z",
       "status": "live"
     }
