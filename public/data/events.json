@@ -2,6 +2,13 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Sebastian Aho",
+      "team": "CAR",
+      "time": "8:00 PM ET",
+      "pool": "Nabeel"
+    },
+    {
+      "type": "ASSIST",
       "player": "Seth Jarvis",
       "team": "CAR",
       "time": "8:00 PM ET",
@@ -115,13 +122,6 @@
     {
       "type": "ASSIST",
       "player": "Logan Stankoven",
-      "team": "CAR",
-      "time": "8:00 PM ET",
-      "pool": "Nabeel"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Sebastian Aho",
       "team": "CAR",
       "time": "8:00 PM ET",
       "pool": "Nabeel"
