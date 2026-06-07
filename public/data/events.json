@@ -2,6 +2,13 @@
   "events": [
     {
       "type": "GOAL",
+      "player": "Shea Theodore",
+      "team": "VGK",
+      "time": "8:00 PM ET",
+      "pool": "Nabeel"
+    },
+    {
+      "type": "GOAL",
       "player": "Andrei Svechnikov",
       "team": "CAR",
       "time": "8:00 PM ET",
@@ -111,13 +118,6 @@
       "team": "VGK",
       "time": "8:00 PM ET",
       "pool": "Paddy"
-    },
-    {
-      "type": "GOAL",
-      "player": "Shea Theodore",
-      "team": "VGK",
-      "time": "8:00 PM ET",
-      "pool": "Nabeel"
     },
     {
       "type": "GOAL",
