@@ -2,6 +2,13 @@
   "events": [
     {
       "type": "ASSIST",
+      "player": "Shayne Gostisbehere",
+      "team": "CAR",
+      "time": "8:00 PM ET",
+      "pool": "Paddy"
+    },
+    {
+      "type": "ASSIST",
       "player": "Shea Theodore",
       "team": "VGK",
       "time": "8:00 PM ET",
@@ -83,13 +90,6 @@
       "team": "VGK",
       "time": "8:00 PM ET",
       "pool": "Reiner"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Shayne Gostisbehere",
-      "team": "CAR",
-      "time": "8:00 PM ET",
-      "pool": "Paddy"
     },
     {
       "type": "GOAL",
