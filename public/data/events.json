@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "type": "ASSIST",
+      "player": "Shea Theodore",
+      "team": "VGK",
+      "time": "8:00 PM ET",
+      "pool": "Nabeel"
+    },
+    {
       "type": "GOAL",
       "player": "Mark Stone",
       "team": "VGK",
@@ -111,13 +118,6 @@
       "team": "CAR",
       "time": "8:00 PM ET",
       "pool": "Paddy"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Shea Theodore",
-      "team": "VGK",
-      "time": "8:00 PM ET",
-      "pool": "Nabeel"
     },
     {
       "type": "GOAL",
