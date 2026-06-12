@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-12T00:42:17.627Z",
+  "generatedAt": "2026-06-12T00:44:13.518Z",
   "games": [
     {
       "id": 2025030415,
       "away": "VGK",
       "home": "CAR",
       "awayScore": 1,
-      "homeScore": 0,
+      "homeScore": 1,
       "period": "1st",
       "startUTC": "2026-06-12T00:00:00Z",
       "status": "live"
