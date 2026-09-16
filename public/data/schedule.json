@@ -1,54 +1,74 @@
 {
-  "generatedAt": "2026-09-15T17:28:56.834Z",
+  "generatedAt": "2026-09-16T17:28:38.858Z",
   "games": [
     {
-      "id": 2026020001,
-      "away": "FLA",
-      "home": "CAR",
+      "id": 2026010001,
+      "away": "DAL",
+      "home": "STL",
       "awayScore": null,
       "homeScore": null,
       "period": null,
-      "startUTC": "2026-09-29T21:00:00Z",
+      "startUTC": "2026-09-19T23:00:00Z",
       "status": "scheduled"
     },
     {
-      "id": 2026020002,
+      "id": 2026010006,
       "away": "MTL",
       "home": "TOR",
       "awayScore": null,
       "homeScore": null,
       "period": null,
-      "startUTC": "2026-09-29T23:00:00Z",
+      "startUTC": "2026-09-19T23:00:00Z",
       "status": "scheduled"
     },
     {
-      "id": 2026020003,
-      "away": "NYR",
-      "home": "BOS",
+      "id": 2026010007,
+      "away": "TOR",
+      "home": "MTL",
       "awayScore": null,
       "homeScore": null,
       "period": null,
-      "startUTC": "2026-09-30T00:00:00Z",
+      "startUTC": "2026-09-19T23:00:00Z",
       "status": "scheduled"
     },
     {
-      "id": 2026020004,
-      "away": "VAN",
+      "id": 2026010003,
+      "away": "WPG",
       "home": "EDM",
       "awayScore": null,
       "homeScore": null,
       "period": null,
-      "startUTC": "2026-09-30T02:00:00Z",
+      "startUTC": "2026-09-20T00:00:00Z",
       "status": "scheduled"
     },
     {
-      "id": 2026020005,
+      "id": 2026010004,
       "away": "CHI",
-      "home": "VGK",
+      "home": "MIN",
       "awayScore": null,
       "homeScore": null,
       "period": null,
-      "startUTC": "2026-09-30T02:30:00Z",
+      "startUTC": "2026-09-20T00:00:00Z",
+      "status": "scheduled"
+    },
+    {
+      "id": 2026010002,
+      "away": "VGK",
+      "home": "LAK",
+      "awayScore": null,
+      "homeScore": null,
+      "period": null,
+      "startUTC": "2026-09-20T01:00:00Z",
+      "status": "scheduled"
+    },
+    {
+      "id": 2026010005,
+      "away": "VAN",
+      "home": "SEA",
+      "awayScore": null,
+      "homeScore": null,
+      "period": null,
+      "startUTC": "2026-09-20T01:00:00Z",
       "status": "scheduled"
     }
   ]
