@@ -1,6 +1,48 @@
 {
   "events": [
     {
+      "type": "GOAL",
+      "player": "Tage Thompson",
+      "team": "BUF",
+      "time": "1:00 PM ET",
+      "pool": "Andy"
+    },
+    {
+      "type": "ASSIST",
+      "player": "Brady Tkachuk",
+      "team": "FLA",
+      "time": "1:00 PM ET",
+      "pool": "Will"
+    },
+    {
+      "type": "GOAL",
+      "player": "Ryan McLeod",
+      "team": "BUF",
+      "time": "1:00 PM ET",
+      "pool": "Andy"
+    },
+    {
+      "type": "ASSIST",
+      "player": "Jack Quinn",
+      "team": "BUF",
+      "time": "1:00 PM ET",
+      "pool": "Andy"
+    },
+    {
+      "type": "GOAL",
+      "player": "Rasmus Dahlin",
+      "team": "BUF",
+      "time": "1:00 PM ET",
+      "pool": "Andy"
+    },
+    {
+      "type": "GOAL",
+      "player": "Josh Doan",
+      "team": "BUF",
+      "time": "1:00 PM ET",
+      "pool": "Andy"
+    },
+    {
       "type": "ASSIST",
       "player": "David Pastrnak",
       "team": "BOS",
@@ -374,48 +416,6 @@
     {
       "type": "ASSIST",
       "player": "Tage Thompson",
-      "team": "BUF",
-      "time": "8:00 PM ET",
-      "pool": "Andy"
-    },
-    {
-      "type": "GOAL",
-      "player": "Jack Quinn",
-      "team": "BUF",
-      "time": "8:00 PM ET",
-      "pool": "Andy"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Jason Zucker",
-      "team": "BUF",
-      "time": "8:00 PM ET",
-      "pool": "Andy"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Rasmus Dahlin",
-      "team": "BUF",
-      "time": "8:00 PM ET",
-      "pool": "Andy"
-    },
-    {
-      "type": "ASSIST",
-      "player": "Josh Norris",
-      "team": "BUF",
-      "time": "8:00 PM ET",
-      "pool": "Cam"
-    },
-    {
-      "type": "GOAL",
-      "player": "Jason Zucker",
-      "team": "BUF",
-      "time": "8:00 PM ET",
-      "pool": "Andy"
-    },
-    {
-      "type": "GOAL",
-      "player": "Rasmus Dahlin",
       "team": "BUF",
       "time": "8:00 PM ET",
       "pool": "Andy"
