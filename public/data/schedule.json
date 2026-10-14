@@ -1,164 +1,24 @@
 {
-  "generatedAt": "2026-10-13T19:44:48.582Z",
+  "generatedAt": "2026-10-14T17:47:06.841Z",
   "games": [
     {
-      "id": 2026020090,
-      "away": "NJD",
-      "home": "DET",
+      "id": 2026020106,
+      "away": "MTL",
+      "home": "WSH",
       "awayScore": null,
       "homeScore": null,
       "period": null,
-      "startUTC": "2026-10-13T22:00:00Z",
+      "startUTC": "2026-10-14T23:30:00Z",
       "status": "scheduled"
     },
     {
-      "id": 2026020091,
-      "away": "FLA",
-      "home": "CBJ",
+      "id": 2026020107,
+      "away": "DAL",
+      "home": "COL",
       "awayScore": null,
       "homeScore": null,
       "period": null,
-      "startUTC": "2026-10-13T22:15:00Z",
-      "status": "scheduled"
-    },
-    {
-      "id": 2026020092,
-      "away": "BUF",
-      "home": "MTL",
-      "awayScore": null,
-      "homeScore": null,
-      "period": null,
-      "startUTC": "2026-10-13T22:30:00Z",
-      "status": "scheduled"
-    },
-    {
-      "id": 2026020093,
-      "away": "WSH",
-      "home": "CAR",
-      "awayScore": null,
-      "homeScore": null,
-      "period": null,
-      "startUTC": "2026-10-13T22:45:00Z",
-      "status": "scheduled"
-    },
-    {
-      "id": 2026020094,
-      "away": "SEA",
-      "home": "PHI",
-      "awayScore": null,
-      "homeScore": null,
-      "period": null,
-      "startUTC": "2026-10-13T23:00:00Z",
-      "status": "scheduled"
-    },
-    {
-      "id": 2026020095,
-      "away": "TBL",
-      "home": "NYR",
-      "awayScore": null,
-      "homeScore": null,
-      "period": null,
-      "startUTC": "2026-10-13T23:15:00Z",
-      "status": "scheduled"
-    },
-    {
-      "id": 2026020096,
-      "away": "STL",
-      "home": "OTT",
-      "awayScore": null,
-      "homeScore": null,
-      "period": null,
-      "startUTC": "2026-10-13T23:30:00Z",
-      "status": "scheduled"
-    },
-    {
-      "id": 2026020097,
-      "away": "VAN",
-      "home": "NYI",
-      "awayScore": null,
-      "homeScore": null,
-      "period": null,
-      "startUTC": "2026-10-13T23:45:00Z",
-      "status": "scheduled"
-    },
-    {
-      "id": 2026020098,
-      "away": "PIT",
-      "home": "CHI",
-      "awayScore": null,
-      "homeScore": null,
-      "period": null,
-      "startUTC": "2026-10-14T00:00:00Z",
-      "status": "scheduled"
-    },
-    {
-      "id": 2026020099,
-      "away": "MIN",
-      "home": "WPG",
-      "awayScore": null,
-      "homeScore": null,
-      "period": null,
-      "startUTC": "2026-10-14T00:15:00Z",
-      "status": "scheduled"
-    },
-    {
-      "id": 2026020100,
-      "away": "COL",
-      "home": "DAL",
-      "awayScore": null,
-      "homeScore": null,
-      "period": null,
-      "startUTC": "2026-10-14T00:30:00Z",
-      "status": "scheduled"
-    },
-    {
-      "id": 2026020101,
-      "away": "VGK",
-      "home": "NSH",
-      "awayScore": null,
-      "homeScore": null,
-      "period": null,
-      "startUTC": "2026-10-14T00:45:00Z",
-      "status": "scheduled"
-    },
-    {
-      "id": 2026020102,
-      "away": "TOR",
-      "home": "UTA",
-      "awayScore": null,
-      "homeScore": null,
-      "period": null,
-      "startUTC": "2026-10-14T01:00:00Z",
-      "status": "scheduled"
-    },
-    {
-      "id": 2026020103,
-      "away": "CGY",
-      "home": "ANA",
-      "awayScore": null,
-      "homeScore": null,
-      "period": null,
-      "startUTC": "2026-10-14T01:45:00Z",
-      "status": "scheduled"
-    },
-    {
-      "id": 2026020104,
-      "away": "EDM",
-      "home": "LAK",
-      "awayScore": null,
-      "homeScore": null,
-      "period": null,
-      "startUTC": "2026-10-14T02:30:00Z",
-      "status": "scheduled"
-    },
-    {
-      "id": 2026020105,
-      "away": "BOS",
-      "home": "SJS",
-      "awayScore": null,
-      "homeScore": null,
-      "period": null,
-      "startUTC": "2026-10-14T03:00:00Z",
+      "startUTC": "2026-10-15T00:30:00Z",
       "status": "scheduled"
     }
   ]
