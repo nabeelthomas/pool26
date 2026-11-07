@@ -2,6 +2,13 @@
   "events": [
     {
       "type": "GOAL",
+      "player": "Brady Tkachuk",
+      "team": "FLA",
+      "time": "12:30 PM ET",
+      "pool": "Will"
+    },
+    {
+      "type": "GOAL",
       "player": "Tage Thompson",
       "team": "BUF",
       "time": "1:00 PM ET",
@@ -408,13 +415,6 @@
     },
     {
       "type": "GOAL",
-      "player": "Tage Thompson",
-      "team": "BUF",
-      "time": "8:00 PM ET",
-      "pool": "Andy"
-    },
-    {
-      "type": "ASSIST",
       "player": "Tage Thompson",
       "team": "BUF",
       "time": "8:00 PM ET",
