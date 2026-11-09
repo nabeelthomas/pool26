@@ -1,64 +1,34 @@
 {
-  "generatedAt": "2026-11-08T18:13:09.870Z",
+  "generatedAt": "2026-11-09T22:52:24.097Z",
   "games": [
     {
-      "id": 2026020277,
-      "away": "FLA",
-      "home": "BOS",
-      "awayScore": 0,
-      "homeScore": 0,
-      "period": "1st",
-      "startUTC": "2026-11-08T18:00:00Z",
-      "status": "live"
-    },
-    {
-      "id": 2026020278,
-      "away": "VGK",
-      "home": "BUF",
+      "id": 2026020283,
+      "away": "NYR",
+      "home": "EDM",
       "awayScore": null,
       "homeScore": null,
       "period": null,
-      "startUTC": "2026-11-08T20:30:00Z",
+      "startUTC": "2026-11-10T01:00:00Z",
       "status": "scheduled"
     },
     {
-      "id": 2026020280,
-      "away": "TBL",
-      "home": "WPG",
-      "awayScore": null,
-      "homeScore": null,
-      "period": null,
-      "startUTC": "2026-11-08T23:00:00Z",
-      "status": "scheduled"
-    },
-    {
-      "id": 2026020279,
-      "away": "NJD",
-      "home": "TOR",
-      "awayScore": null,
-      "homeScore": null,
-      "period": null,
-      "startUTC": "2026-11-09T00:00:00Z",
-      "status": "scheduled"
-    },
-    {
-      "id": 2026020281,
+      "id": 2026020284,
       "away": "PHI",
-      "home": "CGY",
+      "home": "VAN",
       "awayScore": null,
       "homeScore": null,
       "period": null,
-      "startUTC": "2026-11-09T00:00:00Z",
+      "startUTC": "2026-11-10T02:30:00Z",
       "status": "scheduled"
     },
     {
-      "id": 2026020282,
-      "away": "PIT",
-      "home": "ANA",
+      "id": 2026020285,
+      "away": "NYI",
+      "home": "SJS",
       "awayScore": null,
       "homeScore": null,
       "period": null,
-      "startUTC": "2026-11-09T01:00:00Z",
+      "startUTC": "2026-11-10T03:00:00Z",
       "status": "scheduled"
     }
   ]
