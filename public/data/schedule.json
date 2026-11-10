@@ -1,34 +1,74 @@
 {
-  "generatedAt": "2026-11-09T22:52:24.097Z",
+  "generatedAt": "2026-11-10T20:14:00.105Z",
   "games": [
     {
-      "id": 2026020283,
-      "away": "NYR",
-      "home": "EDM",
+      "id": 2026020286,
+      "away": "COL",
+      "home": "TOR",
       "awayScore": null,
       "homeScore": null,
       "period": null,
-      "startUTC": "2026-11-10T01:00:00Z",
+      "startUTC": "2026-11-11T00:00:00Z",
       "status": "scheduled"
     },
     {
-      "id": 2026020284,
-      "away": "PHI",
-      "home": "VAN",
+      "id": 2026020287,
+      "away": "MIN",
+      "home": "MTL",
       "awayScore": null,
       "homeScore": null,
       "period": null,
-      "startUTC": "2026-11-10T02:30:00Z",
+      "startUTC": "2026-11-11T00:00:00Z",
       "status": "scheduled"
     },
     {
-      "id": 2026020285,
-      "away": "NYI",
-      "home": "SJS",
+      "id": 2026020288,
+      "away": "WSH",
+      "home": "OTT",
       "awayScore": null,
       "homeScore": null,
       "period": null,
-      "startUTC": "2026-11-10T03:00:00Z",
+      "startUTC": "2026-11-11T00:00:00Z",
+      "status": "scheduled"
+    },
+    {
+      "id": 2026020291,
+      "away": "NJD",
+      "home": "WPG",
+      "awayScore": null,
+      "homeScore": null,
+      "period": null,
+      "startUTC": "2026-11-11T00:00:00Z",
+      "status": "scheduled"
+    },
+    {
+      "id": 2026020289,
+      "away": "FLA",
+      "home": "CBJ",
+      "awayScore": null,
+      "homeScore": null,
+      "period": null,
+      "startUTC": "2026-11-11T00:30:00Z",
+      "status": "scheduled"
+    },
+    {
+      "id": 2026020290,
+      "away": "DET",
+      "home": "STL",
+      "awayScore": null,
+      "homeScore": null,
+      "period": null,
+      "startUTC": "2026-11-11T01:00:00Z",
+      "status": "scheduled"
+    },
+    {
+      "id": 2026020292,
+      "away": "NSH",
+      "home": "LAK",
+      "awayScore": null,
+      "homeScore": null,
+      "period": null,
+      "startUTC": "2026-11-11T03:00:00Z",
       "status": "scheduled"
     }
   ]
