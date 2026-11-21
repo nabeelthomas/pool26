@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-15T19:14:56.117Z",
+  "lastUpdated": "2026-11-21T19:56:03.222Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -79,12 +79,12 @@
     "Sebastian Aho": {
       "gp": 19,
       "g": 5,
-      "a": 7
+      "a": 18
     },
     "Jackson Blake": {
       "gp": 19,
       "g": 7,
-      "a": 13
+      "a": 16
     },
     "Matt Duchene": {
       "gp": 6,
@@ -129,7 +129,7 @@
     "Logan Stankoven": {
       "gp": 19,
       "g": 11,
-      "a": 5
+      "a": 12
     },
     "Thomas Harley": {
       "gp": 6,
@@ -299,7 +299,7 @@
     "Shayne Gostisbehere": {
       "gp": 19,
       "g": 3,
-      "a": 9
+      "a": 14
     },
     "Josh Doan": {
       "gp": 13,
@@ -388,8 +388,8 @@
     },
     "Leon Draisaitl": {
       "gp": 6,
-      "g": 3,
-      "a": 7
+      "g": 22,
+      "a": 24
     },
     "Nikolaj Ehlers": {
       "gp": 18,
@@ -419,7 +419,7 @@
     "Connor McDavid": {
       "gp": 6,
       "g": 1,
-      "a": 5
+      "a": 44
     },
     "Josh Norris": {
       "gp": 10,
@@ -438,13 +438,13 @@
     },
     "Andrei Svechnikov": {
       "gp": 19,
-      "g": 6,
+      "g": 12,
       "a": 5
     },
     "Evan Bouchard": {
       "gp": 6,
       "g": 1,
-      "a": 6
+      "a": 26
     },
     "Darren Raddysh": {
       "gp": 7,

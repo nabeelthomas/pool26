@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-20T20:55:32.575Z",
+  "generatedAt": "2026-11-21T19:56:03.155Z",
   "games": [
     {
       "id": 2026020359,
       "away": "EDM",
       "home": "CAR",
-      "awayScore": null,
-      "homeScore": null,
-      "period": null,
+      "awayScore": 4,
+      "homeScore": 4,
+      "period": "2nd",
       "startUTC": "2026-11-21T18:00:00Z",
-      "status": "scheduled"
+      "status": "live"
     },
     {
       "id": 2026020360,
