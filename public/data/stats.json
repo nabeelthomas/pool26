@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T00:35:17.799Z",
+  "lastUpdated": "2026-11-27T21:48:49.733Z",
   "players": {
     "Quinton Byfield": {
       "gp": 4,
@@ -48,13 +48,13 @@
     },
     "Tim Stutzle": {
       "gp": 4,
-      "g": 0,
+      "g": 15,
       "a": 1
     },
     "Brady Tkachuk": {
       "gp": 4,
       "g": 0,
-      "a": 0
+      "a": 14
     },
     "Noah Dobson": {
       "gp": 13,
@@ -102,9 +102,9 @@
       "a": 6
     },
     "Roope Hintz": {
-      "gp": 0,
-      "g": 0,
-      "a": 0
+      "gp": 1,
+      "g": 9,
+      "a": 14
     },
     "Seth Jarvis": {
       "gp": 19,
@@ -139,7 +139,7 @@
     "Miro Heiskanen": {
       "gp": 6,
       "g": 2,
-      "a": 4
+      "a": 9
     },
     "Cale Makar": {
       "gp": 11,
@@ -159,7 +159,7 @@
     "Dylan Cozens": {
       "gp": 4,
       "g": 2,
-      "a": 0
+      "a": 11
     },
     "Sidney Crosby": {
       "gp": 6,
@@ -173,7 +173,7 @@
     },
     "Joel Eriksson Ek": {
       "gp": 6,
-      "g": 3,
+      "g": 11,
       "a": 2
     },
     "Tomas Hertl": {
@@ -242,24 +242,24 @@
       "a": 2
     },
     "Dylan Guenther": {
-      "gp": 6,
-      "g": 3,
-      "a": 2
+      "gp": 1,
+      "g": 0,
+      "a": 8
     },
     "Wyatt Johnston": {
       "gp": 6,
       "g": 4,
-      "a": 2
+      "a": 15
     },
     "Clayton Keller": {
       "gp": 6,
-      "g": 1,
-      "a": 4
+      "g": 6,
+      "a": 25
     },
     "Travis Konecny": {
       "gp": 10,
       "g": 1,
-      "a": 4
+      "a": 10
     },
     "Nikita Kucherov": {
       "gp": 7,
@@ -274,12 +274,12 @@
     "Mikko Rantanen": {
       "gp": 6,
       "g": 1,
-      "a": 6
+      "a": 19
     },
     "Jason Robertson": {
       "gp": 6,
-      "g": 5,
-      "a": 3
+      "g": 12,
+      "a": 17
     },
     "Bryan Rust": {
       "gp": 6,
@@ -379,7 +379,7 @@
     "Matt Boldy": {
       "gp": 11,
       "g": 7,
-      "a": 6
+      "a": 19
     },
     "Anthony Cirelli": {
       "gp": 7,
@@ -413,7 +413,7 @@
     },
     "Porter Martone": {
       "gp": 10,
-      "g": 2,
+      "g": 4,
       "a": 3
     },
     "Connor McDavid": {
